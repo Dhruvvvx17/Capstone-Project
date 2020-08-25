@@ -2,7 +2,7 @@ https://earthdata.nasa.gov/
 
 Points of Importance:
 
-1. Introduction
+# 1. Introduction
 
 "...compute an overall measure of relative vegetation health compared to the mean on a per-pixel basis over select subregions in every African country, thus evaluating whether dense farmingareas can be used as representative samples of larger regions to increase computational efficiency. ...it does not depend on special tuning for the particular crop, region, or climate of interest."
 
@@ -14,7 +14,7 @@ The goal : "see how well crop yields may be predicted using extremely straightfo
 
 "The index developed here is similar to Vegetation Condition Index (VCI)"
 
-2. Method:
+# 2. Method:
 
 "Python code was written to obtain satellite images, mask out clouds, calculate vegetation and water indices (VI), compute monthly VI anomalies since 2000, and correlate the anomalies with crop yield anomalies for every county in Illinois, which served as a proof of concept due to large amounts of ground truth data in the US"
 
@@ -40,7 +40,7 @@ obtain monthly anomalies as well as averages of all three indices, resulting six
 
 Error formula on page 9
 
-3. Results
+# 3. Results
 
 "Correlations were computed in Illinois between the anomalies of NDVI, EVI, and NDWI, and three crops: corn, soybeans, and sorghum; all were found to have high correlations"
 
@@ -65,7 +65,7 @@ Error formula on page 9
 
 "This example displays a drawback of a linear model: In real life, the relationship flattens as yields approach zero, as production cannot actually be negative. However, negative predictions, although not accurate, would still signal alarm in an operational forecast system. In retrospect, flagging Botswana as high risk would have been justified this past year, as they did end up with very low crop production"
 
-4. Conclusions
+# 4. Conclusions
 
 "predict crop yields 2–4 months before the harvest, based on daily MODIS satellite imagery"
 
