@@ -45,3 +45,26 @@ Error formula on page 9
 "Correlations were computed in Illinois between the anomalies of NDVI, EVI, and NDWI, and three crops: corn, soybeans, and sorghum; all were found to have high correlations"
 
 "It was found that NDVI and EVI both have positive relationships to crop yields, while NDWI is inversely related. This is because the NDWI formulation includes a negative NIR, while NDVI and EVI have positive NIR values."
+
+
+"Correlations for each crop have been computed with three indices (NDVI, EVI, and NDWI) and five months, for a total of fifteen independent variables. To create a single predictive measure of crop yields, a multivariate regression was fit to every index and every month using a Python machine learning library"
+
+"Since the empirical model proposed here uses imagery over the subregion to predict production of the entire country, it implicitly assumes that the vegetation conditions inside the box correspond with those outside the box. This assumption appears to hold true, as correlations over Africa are reasonably high."
+
+"The greatest distinctions include the heterogeneity of the landscape, lack of agricultural technology, the spatial size of crop reports, and the accuracy of reported values"
+
+"The wet and dry seasons are evident in the monthly NDVI values for all three countries (Figure 13). During the wet season, the crops green and the NDVI values spike. During the harvest, the VIs drop."
+
+"It was found that Ethiopia and Morocco have the best correlation to the maximum NDVI value of the growing season, while Tunisia has the highest correlations to NDWI."
+
+"In each African country, correlations were computed between every crop and six indices (NDVI, EVI, NDWI, monthly averages and anomalies)."
+
+" the historical regressions were used to predict crop production for 2018 harvests"
+
+"To further examine why some predictions are better than others, the errors were plotted by five groupings: vegetative index, crop, country, latitude, and production anomaly (Figure 17). These categories highlight the factors that contribute to higher errors. For example, cotton, wheat, and sorghum are much harder to predict than millet, sugar, and rice, and extreme years had more error than normal years"
+
+"This example displays a drawback of a linear model: In real life, the relationship flattens as yields approach zero, as production cannot actually be negative. However, negative predictions, although not accurate, would still signal alarm in an operational forecast system. In retrospect, flagging Botswana as high risk would have been justified this past year, as they did end up with very low crop production"
+
+4. Results
+
+"predict crop yields 2–4 months before the harvest, based on daily MODIS satellite imagery"
