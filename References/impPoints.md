@@ -65,6 +65,10 @@ Error formula on page 9
 
 "This example displays a drawback of a linear model: In real life, the relationship flattens as yields approach zero, as production cannot actually be negative. However, negative predictions, although not accurate, would still signal alarm in an operational forecast system. In retrospect, flagging Botswana as high risk would have been justified this past year, as they did end up with very low crop production"
 
-4. Results
+4. Conclusions
 
 "predict crop yields 2–4 months before the harvest, based on daily MODIS satellite imagery"
+
+"This method relies solely on NDVI, EVI, and NDWI anomalies calculated over specific subsections of the countries, without the use of crop masks, subnational yield statistics, or special tuning for location or climate. Even with these many simplifications, the model was still able to produce predictions with reasonable error"
+
+"The prediction accuracy for different crops varies substantially. Some crops are harder to predict, as each crop correlates to the VIs with different strengths. Some crops may also be affected by extreme weather late in the season, which this model does not include since it predicts yields from the height during the growing season. Millet, sugar, and rice had the lowest errors, while cotton, wheat, and sorghum were much harder to predict"
