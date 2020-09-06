@@ -1,0 +1,42 @@
+Topic:	ISRO Links (Satellite Images)
+Links:	•	Isro in agriculture: https://www.nrsc.gov.in/EO_Agr_Objective
+•	Bhuvan data: https://bhuvan-app3.nrsc.gov.in/data/download/index.php?c=p&s=NI&g=OS
+•	High res images, not regularly updated: https://zoom.earth/
+•	
+
+
+Topic:	Rainfall data over the years
+Links:	•	Ministry of earth sciences (Data supply portal) http://dsp.imdpune.gov.in/
+•	Rainfall (district-wise) [2004 - 2010]:
+https://www.indiawaterportal.org/articles/district-wise-monthly-rainfall-data-list-raingauge-stations-india-meteorological-department
+•	Rainfall Stats 2020:
+https://mausam.imd.gov.in/imd_latest/contents/rainfall_statistics_1.php
+•	115 Years of rainfall data in India: https://www.kaggle.com/rajanand/rainfall-in-india?select=rainfall+in+india+1901-2015.csv
+•	
+
+
+
+Topic:	Agriculture related data
+Links:	•	Agricultural data http://www.indiaagristat.com/
+•	State-wise area under food crops: http://www.indiaagristat.com/agriculture-data/2/agricultural-area-land-use/152/area-under-food-crops/448934/stats.aspx
+•	
+
+
+
+
+
+
+Topic:	India – Land usage
+Links:	•	Land use statistics (District wise) from 1990s to 2015 (varying time frame) https://aps.dac.gov.in/LUS/Public/Reports.aspx
+•	
+
+
+Topic:	Wind data over the years
+Links:	•	Monthly mean wind speed data: https://www.indiastat.com/meteorological-data/22/weather-data/30130/month-wise-mean-wind-speed/30790/stats.aspx
+•	
+
+
+Topic:	Working with satellite data
+Links:	•	Working with satellite data to obtain vegetation indexes: https://www.satimagingcorp.com/applications/natural-resources/agriculture/
+•	
+
