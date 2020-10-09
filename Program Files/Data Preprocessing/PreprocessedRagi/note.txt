@@ -1,0 +1,6 @@
+This is the file after stage-1 preprocessing.
+
+Run dataPreprocessingStage_2.py and give this directory name in the "enter input directory: " prompt.
+
+Give any output directory name to save the results of stage-2 preprocessed files.
+
