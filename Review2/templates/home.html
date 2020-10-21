@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>NDVI Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+
+</head>
+
+<script>
+
+function myFunction() {
+var lat= $('#lat').val();
+var lon= $('#lon').val();
+  $.ajax({
+              url: "/join",
+              type: "POST",
+              data: {lat:lat,
+              lon:lon}
+
+          }).done(function(response) {
+
+            var html= "<br><br><br><p> <b> Suggested Crops at Latitude:"+lat+" and Longitude:"+lon+"  : <b><p>";
+
+            response =response.result;
+                 $.each(response,function(key,val){
+                 console.log(val);
+                    html += "<table border='1'>";
+                        for (i = 0; i < val.length; i++) {
+                            html += "<tr><td>" + val[i] + "</td></tr>";
+                    }
+                    //html += "<tr><td>" + val + "</td></tr>";
+                    html += "</table>"
+                    
+
+                });
+                html +="</p>";
+                $(".show-data").append(html);
+            });
+};
+
+  </script>
+<body>
+    <p>
+        NDVI Prediction
+            <img src={{url_for('static',filename="map.png")}} align="right" ><br><br>
+            Latitude: <input type="text" id="lat" name="lat"><br><br>
+            Longitude: <input type="text" id="lon" name="lon"><br><br>
+            <button id="clicked" onclick="myFunction()">Submit</button>
+            
+        </p>
+    <div class="show-data" >
+
+    </div>
+</body>
+</html>
