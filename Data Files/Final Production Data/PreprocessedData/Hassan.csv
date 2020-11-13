@@ -1,0 +1,1084 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Hassan,Arecanut, 1997-98,Whole Year ,1793.0,1752,0.977133296151701
+Hassan,Arecanut, 1998-99,Whole Year ,1805.0,9666,5.35512465373961
+Hassan,Arecanut, 2000-01,Whole Year ,1922.0,1878,0.977107180020812
+Hassan,Arecanut, 2001-02,Whole Year ,2128.0,2079,0.976973684210526
+Hassan,Arecanut, 2003-04,Whole Year ,3193.0,3120,0.977137488255559
+Hassan,Arecanut, 2004-05,Whole Year ,3483.0,3403,0.977031294860752
+Hassan,Arecanut, 2005-06,Whole Year ,3680.0,19706,5.35489130434783
+Hassan,Arecanut, 2006-07,Whole Year ,3819.0,3732,0.977219167321288
+Hassan,Arecanut, 2007-08,Whole Year ,3880.0,20777,5.3548969072165
+Hassan,Arecanut, 2008-09,Whole Year ,3928.0,21034,5.35488798370672
+Hassan,Arecanut, 2009-10,Whole Year ,4110.0,22009,5.35498783454988
+Hassan,Arecanut, 2010-11,Whole Year ,4192.0,45327,10.8127385496183
+Hassan,Arecanut, 2011-12,Whole Year ,4325.0,31193,7.21225433526012
+Hassan,Arecanut, 2012-13,Whole Year ,4598.0,33161,7.21204871683341
+Hassan,Arecanut, 2013-14,Whole Year ,4405.0,34430,7.8161180476731
+Hassan,Arecanut, 2014-15,Whole Year ,32.0,296,9.25
+Hassan,Arecanut, 2015-16,Whole Year ,3650.0,35777,9.80191780821918
+Hassan,Arecanut, 2016-17,Whole Year ,3436.0,34904,10.1583236321304
+Hassan,Arecanut, 2017-18,Whole Year ,3553.0,38534,10.8454826906839
+Hassan,Arecanut, 2018-19,Whole Year ,7624.0,68073,8.92877754459601
+Hassan,Arhar/Tur, 1997-98,Kharif     ,3432.0,828,0.241258741258741
+Hassan,Arhar/Tur, 1998-99,Kharif     ,3730.0,858,0.230026809651474
+Hassan,Arhar/Tur, 1999-00,Kharif     ,3134.0,780,0.24888321633695
+Hassan,Arhar/Tur, 2000-01,Kharif     ,3014.0,722,0.239548772395488
+Hassan,Arhar/Tur, 2001-02,Kharif     ,2478.0,497,0.200564971751412
+Hassan,Arhar/Tur, 2002-03,Kharif     ,2186.0,359,0.164226898444648
+Hassan,Arhar/Tur, 2003-04,Kharif     ,2155.0,336,0.155916473317865
+Hassan,Arhar/Tur, 2004-05,Kharif     ,2111.0,921,0.436286120322122
+Hassan,Arhar/Tur, 2005-06,Kharif     ,2706.0,1162,0.429416112342942
+Hassan,Arhar/Tur, 2006-07,Kharif     ,2478.0,838,0.33817594834544
+Hassan,Arhar/Tur, 2007-08,Kharif     ,2072.0,758,0.365830115830116
+Hassan,Arhar/Tur, 2008-09,Kharif     ,1757.0,614,0.349459305634604
+Hassan,Arhar/Tur, 2009-10,Kharif     ,2235.0,871,0.389709172259508
+Hassan,Arhar/Tur, 2010-11,Kharif     ,2518.0,1545,0.613582208101668
+Hassan,Arhar/Tur, 2011-12,Kharif     ,2568.0,1600,0.623052959501558
+Hassan,Arhar/Tur, 2012-13,Kharif     ,1831.0,612,0.334243582741671
+Hassan,Arhar/Tur, 2013-14,Kharif     ,2015.0,869,0.431265508684864
+Hassan,Arhar/Tur, 2014-15,Kharif     ,2359.0,3433,1.45527766002543
+Hassan,Arhar/Tur, 2015-16,Kharif     ,1915.0,990,0.516971279373368
+Hassan,Arhar/Tur, 2016-17,Kharif     ,1770.0,925,0.522598870056497
+Hassan,Arhar/Tur, 2017-18,Kharif     ,1622.0,1273,0.784833538840937
+Hassan,Arhar/Tur, 2018-19,Kharif     ,1138.0,231,0.20298769771529
+Hassan,Bajra, 2012-13,Kharif     ,43.0,45,1.04651162790698
+Hassan,Bajra, 2013-14,Kharif     ,43.0,51,1.18604651162791
+Hassan,Bajra, 2018-19,Kharif     ,96.0,87,0.90625
+Hassan,Banana, 1999-00,Whole Year ,1210.0,26694,22.0611570247934
+Hassan,Banana, 2000-01,Whole Year ,2012.0,35055,17.4229622266402
+Hassan,Banana, 2002-03,Whole Year ,2444.0,41169,16.8449263502455
+Hassan,Banana, 2003-04,Whole Year ,1469.0,8367,5.69571136827774
+Hassan,Banana, 2004-05,Whole Year ,2728.0,14649,5.36986803519062
+Hassan,Banana, 2005-06,Whole Year ,3211.0,55509,17.2871379632513
+Hassan,Banana, 2006-07,Whole Year ,3135.0,65954,21.0379585326954
+Hassan,Banana, 2007-08,Whole Year ,3313.0,52143,15.7389073347419
+Hassan,Banana, 2008-09,Whole Year ,3403.0,42211,12.4040552453717
+Hassan,Banana, 2009-10,Whole Year ,3630.0,49295,13.5798898071625
+Hassan,Banana, 2010-11,Whole Year ,3630.0,56555,15.5798898071625
+Hassan,Banana, 2011-12,Whole Year ,4160.0,72039,17.3170673076923
+Hassan,Black pepper, 1997-98,Kharif     ,198.0,21,0.106060606060606
+Hassan,Black pepper, 1998-99,Whole Year ,211.0,232,1.09952606635071
+Hassan,Black pepper, 1999-00,Whole Year ,361.0,397,1.09972299168975
+Hassan,Black pepper, 2000-01,Whole Year ,414.0,455,1.09903381642512
+Hassan,Black pepper, 2001-02,Whole Year ,802.0,881,1.09850374064838
+Hassan,Black pepper, 2002-03,Whole Year ,1293.0,1421,1.09899458623357
+Hassan,Black pepper, 2003-04,Whole Year ,1432.0,1574,1.09916201117318
+Hassan,Black pepper, 2004-05,Whole Year ,1648.0,1811,1.09890776699029
+Hassan,Black pepper, 2005-06,Whole Year ,2689.0,2955,1.09892153216809
+Hassan,Black pepper, 2006-07,Whole Year ,2752.0,3024,1.09883720930233
+Hassan,Black pepper, 2007-08,Whole Year ,2784.0,10280,3.69252873563218
+Hassan,Black pepper, 2008-09,Whole Year ,2794.0,10732,3.84108804581246
+Hassan,Black pepper, 2009-10,Whole Year ,3049.0,11712,3.84125942932109
+Hassan,Black pepper, 2010-11,Whole Year ,3460.0,1233.1,0.356387283236994
+Hassan,Black pepper, 2011-12,Whole Year ,3574.0,1040.2,0.291046446558478
+Hassan,Black pepper, 2012-13,Whole Year ,4165.0,12123,2.91068427370948
+Hassan,Black pepper, 2013-14,Whole Year ,4730.0,7445,1.57399577167019
+Hassan,Black pepper, 2014-15,Whole Year ,4790.0,2110.2,0.440542797494781
+Hassan,Black pepper, 2015-16,Whole Year ,5301.0,7069,1.33352197698547
+Hassan,Black pepper, 2016-17,Whole Year ,7800.0,6270.3,0.803884615384615
+Hassan,Black pepper, 2017-18,Whole Year ,9614.0,7585.7,0.789026419804452
+Hassan,Black pepper, 2018-19,Whole Year ,33788.0,35390.2,1.04741920208358
+Hassan,Cardamom, 1997-98,Whole Year ,7097.0,344,0.0484711850077498
+Hassan,Cardamom, 1998-99,Whole Year ,7105.0,345,0.0485573539760732
+Hassan,Cardamom, 1999-00,Whole Year ,7345.0,356,0.0484683458134786
+Hassan,Cardamom, 2000-01,Whole Year ,7403.0,359,0.0484938538430366
+Hassan,Cardamom, 2002-03,Whole Year ,7443.0,361,0.0485019481391912
+Hassan,Cardamom, 2003-04,Whole Year ,7489.0,363,0.0484710909333689
+Hassan,Cardamom, 2004-05,Whole Year ,7555.0,366,0.0484447385837194
+Hassan,Cardamom, 2005-06,Whole Year ,7555.0,366,0.0484447385837194
+Hassan,Cardamom, 2006-07,Whole Year ,7560.0,367,0.0485449735449735
+Hassan,Cardamom, 2007-08,Whole Year ,7554.0,411,0.0544082605242256
+Hassan,Cardamom, 2008-09,Whole Year ,7554.0,561,0.0742652899126291
+Hassan,Cardamom, 2009-10,Whole Year ,7670.0,547,0.0713168187744459
+Hassan,Cardamom, 2010-11,Whole Year ,7687.0,594,0.077273318589827
+Hassan,Cardamom, 2011-12,Whole Year ,7707.0,679,0.0881017257039055
+Hassan,Cardamom, 2012-13,Whole Year ,7608.0,670,0.0880651945320715
+Hassan,Cardamom, 2013-14,Whole Year ,7463.0,621,0.0832105051587833
+Hassan,Cardamom, 2014-15,Whole Year ,7405.0,601,0.0811613774476705
+Hassan,Cardamom, 2015-16,Whole Year ,7112.0,718,0.10095613048369
+Hassan,Cardamom, 2016-17,Whole Year ,6119.0,842,0.137604183690145
+Hassan,Cardamom, 2017-18,Whole Year ,4820.0,596,0.123651452282158
+Hassan,Cardamom, 2018-19,Whole Year ,605.0,68,0.112396694214876
+Hassan,Cashewnut, 2008-09,Whole Year ,6.0,3.68874,0.61479
+Hassan,Cashewnut, 2009-10,Whole Year ,6.0,5,0.833333333333333
+Hassan,Cashewnut, 2010-11,Whole Year ,6.0,4,0.666666666666667
+Hassan,Cashewnut, 2011-12,Whole Year ,4.0,3,0.75
+Hassan,Cashewnut, 2012-13,Whole Year ,24.0,19,0.791666666666667
+Hassan,Cashewnut, 2013-14,Whole Year ,19.0,17,0.894736842105263
+Hassan,Cashewnut, 2015-16,Whole Year ,10.0,6,0.6
+Hassan,Cashewnut, 2016-17,Whole Year ,8.0,5,0.625
+Hassan,Cashewnut, 2017-18,Whole Year ,37.0,27,0.72972972972973
+Hassan,Cashewnut, 2018-19,Whole Year ,21.0,25,1.19047619047619
+Hassan,Castor seed, 1998-99,Kharif     ,4275.0,1978,0.462690058479532
+Hassan,Castor seed, 1999-00,Kharif     ,4337.0,2517,0.580355084159557
+Hassan,Castor seed, 2000-01,Kharif     ,4008.0,1489,0.371506986027944
+Hassan,Castor seed, 2001-02,Kharif     ,3711.0,1685,0.454055510644031
+Hassan,Castor seed, 2002-03,Kharif     ,2040.0,802,0.393137254901961
+Hassan,Castor seed, 2003-04,Kharif     ,2548.0,663,0.260204081632653
+Hassan,Castor seed, 2004-05,Kharif     ,2435.0,1131,0.464476386036961
+Hassan,Castor seed, 2005-06,Kharif     ,2923.0,2072,0.708860759493671
+Hassan,Castor seed, 2006-07,Kharif     ,2584.0,1404,0.543343653250774
+Hassan,Castor seed, 2007-08,Kharif     ,2504.0,1246,0.497603833865815
+Hassan,Castor seed, 2008-09,Kharif     ,2766.0,1553,0.561460592913955
+Hassan,Castor seed, 2009-10,Kharif     ,2020.0,1075,0.532178217821782
+Hassan,Castor seed, 2010-11,Kharif     ,2075.0,1644,0.792289156626506
+Hassan,Castor seed, 2011-12,Kharif     ,1820.0,1483,0.814835164835165
+Hassan,Castor seed, 2012-13,Kharif     ,909.0,459,0.504950495049505
+Hassan,Castor seed, 2013-14,Kharif     ,1181.0,1266,1.07197290431837
+Hassan,Castor seed, 2014-15,Kharif     ,1314.0,1247,0.949010654490107
+Hassan,Castor seed, 2015-16,Kharif     ,1017.0,704,0.692232055063913
+Hassan,Castor seed, 2016-17,Kharif     ,797.0,402,0.504391468005019
+Hassan,Castor seed, 2017-18,Kharif     ,555.0,516,0.92972972972973
+Hassan,Castor seed, 2018-19,Kharif     ,150.0,86,0.573333333333333
+Hassan,Coconut , 1998-99,Whole Year ,48845.0,270410000,5536.08352953219
+Hassan,Coconut , 1999-00,Whole Year ,48984.0,271179000,5536.07300342969
+Hassan,Coconut , 2000-01,Whole Year ,49079.0,271705000,5536.07449214532
+Hassan,Coconut , 2001-02,Whole Year ,55056.0,228596000,4152.06335367626
+Hassan,Coconut , 2002-03,Whole Year ,57885.0,240342000,4152.06011920187
+Hassan,Coconut , 2003-04,Whole Year ,60075.0,249435000,4152.05992509363
+Hassan,Coconut , 2004-05,Whole Year ,61098.0,253683000,4152.06717077482
+Hassan,Coconut , 2005-06,Whole Year ,61775.0,256494000,4152.06798866856
+Hassan,Coconut , 2006-07,Whole Year ,61788.0,256547000,4152.05217841652
+Hassan,Coconut , 2007-08,Whole Year ,61805.0,296879000,4803.47868295445
+Hassan,Coconut , 2008-09,Whole Year ,61880.0,347167000,5610.32643826761
+Hassan,Coconut , 2009-10,Whole Year ,62256.0,442651000,7110.17411976356
+Hassan,Coconut , 2010-11,Whole Year ,62390.0,404012000,6475.5890367046
+Hassan,Coconut , 2011-12,Whole Year ,62575.0,622094000,9941.57411106672
+Hassan,Coconut , 2012-13,Whole Year ,63056.0,620821000,9845.54998731286
+Hassan,Coconut , 2013-14,Whole Year ,61138.0,319823000,5231.16555988092
+Hassan,Coconut , 2014-15,Whole Year ,61019.0,382629000,6270.6534030384
+Hassan,Coconut , 2015-16,Whole Year ,60472.0,310951000,5142.06574943776
+Hassan,Coconut , 2016-17,Whole Year ,52325.0,205860000,3934.25704730053
+Hassan,Coconut , 2017-18,Whole Year ,59339.0,269760000,4546.08267749709
+Hassan,Coconut , 2018-19,Whole Year ,106749.0,333319000,3122.45547967662
+Hassan,Coriander, 1997-98,Whole Year ,251.0,32,0.127490039840637
+Hassan,Coriander, 1998-99,Whole Year ,226.0,28,0.123893805309735
+Hassan,Coriander, 1999-00,Whole Year ,223.0,28,0.125560538116592
+Hassan,Coriander, 2000-01,Whole Year ,138.0,17,0.123188405797101
+Hassan,Coriander, 2001-02,Whole Year ,282.0,35,0.124113475177305
+Hassan,Coriander, 2002-03,Whole Year ,473.0,59,0.124735729386892
+Hassan,Coriander, 2003-04,Whole Year ,54.0,7,0.12962962962963
+Hassan,Coriander, 2004-05,Whole Year ,171.0,21,0.12280701754386
+Hassan,Coriander, 2005-06,Whole Year ,153.0,19,0.124183006535948
+Hassan,Coriander, 2006-07,Whole Year ,172.0,22,0.127906976744186
+Hassan,Coriander, 2007-08,Whole Year ,121.0,42,0.347107438016529
+Hassan,Coriander, 2008-09,Whole Year ,185.0,100,0.540540540540541
+Hassan,Coriander, 2009-10,Whole Year ,147.0,72,0.489795918367347
+Hassan,Coriander, 2010-11,Whole Year ,188.0,70,0.372340425531915
+Hassan,Coriander, 2011-12,Whole Year ,95.0,39,0.410526315789474
+Hassan,Coriander, 2012-13,Whole Year ,22.0,9,0.409090909090909
+Hassan,Coriander, 2013-14,Whole Year ,8.0,2,0.25
+Hassan,Coriander, 2014-15,Whole Year ,64.0,22,0.34375
+Hassan,Coriander, 2015-16,Whole Year ,88.0,38,0.431818181818182
+Hassan,Coriander, 2016-17,Whole Year ,98.0,42,0.428571428571429
+Hassan,Coriander, 2017-18,Whole Year ,116.0,43,0.370689655172414
+Hassan,Coriander, 2018-19,Whole Year ,104.0,50,0.480769230769231
+Hassan,Cotton(lint), 1998-99,Kharif     ,5225.0,5688,1.08861244019139
+Hassan,Cotton(lint), 1999-00,Kharif     ,5425.0,9278,1.71023041474654
+Hassan,Cotton(lint), 2000-01,Kharif     ,3462.0,5608,1.61987290583478
+Hassan,Cotton(lint), 2001-02,Kharif     ,2326.0,4147,1.78288907996561
+Hassan,Cotton(lint), 2002-03,Kharif     ,1802.0,957,0.531076581576027
+Hassan,Cotton(lint), 2003-04,Kharif     ,169.0,133,0.78698224852071
+Hassan,Cotton(lint), 2004-05,Kharif     ,1809.0,1795,0.992260917634052
+Hassan,Cotton(lint), 2005-06,Whole Year ,1249.0,1221,0.977582065652522
+Hassan,Cotton(lint), 2006-07,Whole Year ,3106.0,2551,0.821313586606568
+Hassan,Cotton(lint), 2007-08,Whole Year ,1108.0,966,0.871841155234657
+Hassan,Cotton(lint), 2008-09,Whole Year ,815.0,1303,1.59877300613497
+Hassan,Cotton(lint), 2009-10,Whole Year ,297.0,453,1.52525252525253
+Hassan,Cotton(lint), 2010-11,Kharif     ,106.0,234,2.20754716981132
+Hassan,Cotton(lint), 2011-12,Kharif     ,88.0,178,2.02272727272727
+Hassan,Cotton(lint), 2012-13,Kharif     ,64.0,147,2.296875
+Hassan,Cotton(lint), 2013-14,Kharif     ,281.0,832,2.96085409252669
+Hassan,Cotton(lint), 2014-15,Kharif     ,400.0,1091,2.7275
+Hassan,Cotton(lint), 2015-16,Kharif     ,354.0,651,1.83898305084746
+Hassan,Cotton(lint), 2016-17,Kharif     ,97.0,94,0.969072164948454
+Hassan,Cotton(lint), 2017-18,Kharif     ,125.0,416,3.328
+Hassan,Cotton(lint), 2018-19,Kharif     ,48.0,54,1.125
+Hassan,Cowpea(Lobia), 2010-11,Kharif     ,9186.0,3787,0.412257783583714
+Hassan,Cowpea(Lobia), 2010-11,Rabi       ,4507.0,1190,0.264033725316175
+Hassan,Cowpea(Lobia), 2011-12,Kharif     ,11998.0,5574,0.464577429571595
+Hassan,Cowpea(Lobia), 2011-12,Rabi       ,1214.0,458,0.377265238879736
+Hassan,Cowpea(Lobia), 2012-13,Kharif     ,13387.0,1908,0.142526331515649
+Hassan,Cowpea(Lobia), 2012-13,Rabi       ,821.0,250,0.304506699147381
+Hassan,Cowpea(Lobia), 2012-13,Summer     ,123.0,44,0.357723577235772
+Hassan,Cowpea(Lobia), 2013-14,Kharif     ,13954.0,1829,0.131073527303999
+Hassan,Cowpea(Lobia), 2013-14,Rabi       ,474.0,212,0.447257383966245
+Hassan,Cowpea(Lobia), 2013-14,Summer     ,18.0,7,0.388888888888889
+Hassan,Cowpea(Lobia), 2014-15,Kharif     ,11756.0,3887,0.330639673358285
+Hassan,Cowpea(Lobia), 2014-15,Rabi       ,2109.0,890,0.422000948316738
+Hassan,Cowpea(Lobia), 2014-15,Summer     ,33.0,12,0.363636363636364
+Hassan,Cowpea(Lobia), 2015-16,Kharif     ,11765.0,4616,0.392350191245219
+Hassan,Cowpea(Lobia), 2015-16,Rabi       ,1027.0,549,0.534566699123661
+Hassan,Cowpea(Lobia), 2015-16,Summer     ,24.0,7,0.291666666666667
+Hassan,Cowpea(Lobia), 2016-17,Kharif     ,7848.0,6009,0.765672782874618
+Hassan,Cowpea(Lobia), 2016-17,Rabi       ,579.0,14,0.0241796200345423
+Hassan,Cowpea(Lobia), 2016-17,Summer     ,13.0,2,0.153846153846154
+Hassan,Cowpea(Lobia), 2017-18,Kharif     ,13546.0,1467,0.108297652443526
+Hassan,Cowpea(Lobia), 2017-18,Rabi       ,1156.0,553,0.478373702422145
+Hassan,Cowpea(Lobia), 2017-18,Summer     ,9.0,3,0.333333333333333
+Hassan,Cowpea(Lobia), 2018-19,Kharif     ,9505.0,3025,0.318253550762756
+Hassan,Cowpea(Lobia), 2018-19,Rabi       ,984.0,277,0.28150406504065
+Hassan,Cowpea(Lobia), 2018-19,Summer     ,12.0,2,0.166666666666667
+Hassan,Dry chillies, 1997-98,Kharif     ,1846.0,4855,2.63001083423619
+Hassan,Dry chillies, 1997-98,Rabi       ,90.0,278,3.08888888888889
+Hassan,Dry chillies, 1998-99,Whole Year ,1712.0,4571,2.66997663551402
+Hassan,Dry chillies, 1999-00,Whole Year ,1357.0,2081,1.53352984524687
+Hassan,Dry chillies, 2000-01,Whole Year ,1686.0,2843,1.68623962040332
+Hassan,Dry chillies, 2001-02,Whole Year ,1923.0,5573,2.89807592303692
+Hassan,Dry chillies, 2002-03,Whole Year ,3439.0,10416,3.02878743820878
+Hassan,Dry chillies, 2003-04,Whole Year ,1436.0,2969,2.06754874651811
+Hassan,Dry chillies, 2004-05,Whole Year ,2261.0,4306,1.90446704997789
+Hassan,Dry chillies, 2005-06,Kharif     ,1198.0,871,0.727045075125209
+Hassan,Dry chillies, 2005-06,Rabi       ,87.0,218,2.50574712643678
+Hassan,Dry chillies, 2005-06,Summer     ,852.0,2676,3.14084507042253
+Hassan,Dry chillies, 2006-07,Whole Year ,2084.0,6681,3.20585412667946
+Hassan,Dry chillies, 2007-08,Kharif     ,1142.0,1028,0.900175131348511
+Hassan,Dry chillies, 2007-08,Rabi       ,240.0,419,1.74583333333333
+Hassan,Dry chillies, 2007-08,Summer     ,825.0,4401,5.33454545454546
+Hassan,Dry chillies, 2008-09,Kharif     ,1152.0,2520,2.1875
+Hassan,Dry chillies, 2008-09,Rabi       ,267.0,453,1.69662921348315
+Hassan,Dry chillies, 2008-09,Summer     ,956.0,5891,6.16213389121339
+Hassan,Dry chillies, 2009-10,Rabi       ,890.0,2653,2.98089887640449
+Hassan,Dry chillies, 2009-10,Summer     ,927.0,5976,6.44660194174757
+Hassan,Dry chillies, 2010-11,Kharif     ,1002.0,942,0.940119760479042
+Hassan,Dry chillies, 2010-11,Rabi       ,725.0,2654,3.66068965517241
+Hassan,Dry chillies, 2010-11,Summer     ,934.0,7875,8.43147751605996
+Hassan,Dry chillies, 2011-12,Kharif     ,1023.0,826,0.807429130009775
+Hassan,Dry chillies, 2011-12,Rabi       ,225.0,1115,4.95555555555556
+Hassan,Dry chillies, 2011-12,Summer     ,632.0,4044,6.39873417721519
+Hassan,Dry chillies, 2012-13,Kharif     ,831.0,762,0.916967509025271
+Hassan,Dry chillies, 2012-13,Rabi       ,532.0,2215,4.16353383458647
+Hassan,Dry chillies, 2012-13,Summer     ,561.0,2859,5.09625668449198
+Hassan,Dry chillies, 2013-14,Kharif     ,736.0,816,1.10869565217391
+Hassan,Dry chillies, 2013-14,Rabi       ,446.0,1511,3.38789237668161
+Hassan,Dry chillies, 2013-14,Summer     ,484.0,2864,5.91735537190083
+Hassan,Dry chillies, 2014-15,Kharif     ,855.0,967,1.13099415204678
+Hassan,Dry chillies, 2014-15,Rabi       ,454.0,762,1.6784140969163
+Hassan,Dry chillies, 2014-15,Summer     ,417.0,739,1.77218225419664
+Hassan,Dry chillies, 2015-16,Kharif     ,765.0,664,0.86797385620915
+Hassan,Dry chillies, 2015-16,Rabi       ,512.0,2901,5.666015625
+Hassan,Dry chillies, 2015-16,Summer     ,554.0,3172,5.72563176895307
+Hassan,Dry chillies, 2016-17,Kharif     ,657.0,1323,2.01369863013699
+Hassan,Dry chillies, 2016-17,Rabi       ,534.0,2054,3.84644194756554
+Hassan,Dry chillies, 2016-17,Summer     ,479.0,2242,4.68058455114823
+Hassan,Dry chillies, 2017-18,Kharif     ,774.0,1456,1.88113695090439
+Hassan,Dry chillies, 2017-18,Rabi       ,362.0,1350,3.7292817679558
+Hassan,Dry chillies, 2017-18,Summer     ,585.0,2375,4.05982905982906
+Hassan,Garlic, 1997-98,Whole Year ,12.0,32,2.66666666666667
+Hassan,Garlic, 1998-99,Whole Year ,16.0,43,2.6875
+Hassan,Garlic, 1999-00,Whole Year ,16.0,43,2.6875
+Hassan,Garlic, 2000-01,Whole Year ,4.0,11,2.75
+Hassan,Garlic, 2002-03,Whole Year ,35.0,94,2.68571428571429
+Hassan,Garlic, 2003-04,Whole Year ,40.0,107,2.675
+Hassan,Garlic, 2004-05,Whole Year ,17.0,45,2.64705882352941
+Hassan,Garlic, 2005-06,Whole Year ,10.0,27,2.7
+Hassan,Garlic, 2006-07,Whole Year ,8.0,21,2.625
+Hassan,Garlic, 2007-08,Whole Year ,5.0,5,1
+Hassan,Garlic, 2008-09,Whole Year ,6.0,13,2.16666666666667
+Hassan,Garlic, 2009-10,Whole Year ,6.0,8,1.33333333333333
+Hassan,Garlic, 2010-11,Whole Year ,4.0,5,1.25
+Hassan,Garlic, 2011-12,Whole Year ,3.0,4,1.33333333333333
+Hassan,Garlic, 2012-13,Whole Year ,17.0,22,1.29411764705882
+Hassan,Garlic, 2013-14,Whole Year ,9.0,9,1
+Hassan,Garlic, 2014-15,Whole Year ,10.0,11,1.1
+Hassan,Garlic, 2015-16,Whole Year ,8.0,11,1.375
+Hassan,Garlic, 2016-17,Whole Year ,10.0,8,0.8
+Hassan,Garlic, 2017-18,Whole Year ,9.0,8,0.888888888888889
+Hassan,Ginger, 1997-98,Kharif     ,25.0,32,1.28
+Hassan,Ginger, 1998-99,Kharif     ,29.0,378,13.0344827586207
+Hassan,Ginger, 1999-00,Kharif     ,100.0,1303,13.03
+Hassan,Ginger, 2000-01,Kharif     ,932.0,12142,13.0278969957082
+Hassan,Ginger, 2001-02,Kharif     ,1053.0,13719,13.02849002849
+Hassan,Ginger, 2002-03,Kharif     ,2123.0,27659,13.0282618935469
+Hassan,Ginger, 2003-04,Kharif     ,1326.0,17276,13.0286576168929
+Hassan,Ginger, 2004-05,Kharif     ,3466.0,45156,13.0282746682054
+Hassan,Ginger, 2005-06,Whole Year ,11763.0,153253,13.028394117147
+Hassan,Ginger, 2006-07,Whole Year ,6910.0,90026,13.0283646888567
+Hassan,Ginger, 2007-08,Whole Year ,6425.0,146552,22.8096498054475
+Hassan,Ginger, 2008-09,Whole Year ,13844.0,464481,33.5510690551864
+Hassan,Ginger, 2009-10,Whole Year ,34005.0,1070882,31.4918982502573
+Hassan,Ginger, 2010-11,Whole Year ,34073.0,119749.6,3.51450121797318
+Hassan,Ginger, 2011-12,Whole Year ,13873.0,44141.9,3.1818568442298
+Hassan,Ginger, 2012-13,Whole Year ,4899.0,156073,31.8581343131251
+Hassan,Ginger, 2013-14,Whole Year ,7065.0,239067,33.8382165605095
+Hassan,Ginger, 2014-15,Whole Year ,15736.0,510979,32.471975088968
+Hassan,Ginger, 2015-16,Whole Year ,15122.0,580118,38.3625181854252
+Hassan,Ginger, 2016-17,Whole Year ,8943.0,227537,25.4430280666443
+Hassan,Ginger, 2017-18,Whole Year ,7564.0,218810,28.927815970386
+Hassan,Ginger, 2018-19,Whole Year ,4087.0,68784.2,16.8299975532175
+Hassan,Gram, 1998-99,Rabi       ,3937.0,909,0.230886461772924
+Hassan,Gram, 1999-00,Rabi       ,2014.0,1182,0.586891757696127
+Hassan,Gram, 2000-01,Rabi       ,965.0,469,0.486010362694301
+Hassan,Gram, 2001-02,Rabi       ,1585.0,931,0.587381703470031
+Hassan,Gram, 2002-03,Rabi       ,1898.0,970,0.511064278187566
+Hassan,Gram, 2003-04,Rabi       ,2558.0,864,0.337763878029711
+Hassan,Gram, 2004-05,Rabi       ,2864.0,1096,0.38268156424581
+Hassan,Gram, 2005-06,Rabi       ,1702.0,758,0.445358401880141
+Hassan,Gram, 2006-07,Kharif     ,603.0,82,0.135986733001658
+Hassan,Gram, 2006-07,Rabi       ,3020.0,1610,0.533112582781457
+Hassan,Gram, 2007-08,Rabi       ,1726.0,972,0.563151796060255
+Hassan,Gram, 2008-09,Rabi       ,1918.0,1567,0.816996871741397
+Hassan,Gram, 2009-10,Kharif     ,1251.0,537,0.429256594724221
+Hassan,Gram, 2009-10,Rabi       ,9461.0,4557,0.481661557974844
+Hassan,Gram, 2010-11,Rabi       ,2330.0,1585,0.680257510729614
+Hassan,Gram, 2011-12,Rabi       ,2282.0,1507,0.660385626643295
+Hassan,Gram, 2012-13,Rabi       ,1288.0,653,0.506987577639752
+Hassan,Gram, 2013-14,Rabi       ,1883.0,1095,0.581518852894318
+Hassan,Gram, 2014-15,Rabi       ,1847.0,1897,1.02707092582566
+Hassan,Gram, 2015-16,Rabi       ,3594.0,2267,0.630773511407902
+Hassan,Gram, 2016-17,Rabi       ,1293.0,125,0.0966744006187162
+Hassan,Gram, 2017-18,Rabi       ,1177.0,893,0.758708581138488
+Hassan,Gram, 2018-19,Rabi       ,1127.0,685,0.607808340727595
+Hassan,Groundnut, 1997-98,Kharif     ,3506.0,4250,1.21220764403879
+Hassan,Groundnut, 1997-98,Rabi       ,2722.0,2488,0.914033798677443
+Hassan,Groundnut, 1998-99,Kharif     ,1884.0,1826,0.969214437367304
+Hassan,Groundnut, 1998-99,Rabi       ,2319.0,2747,1.1845623113411
+Hassan,Groundnut, 1999-00,Kharif     ,3208.0,2533,0.789588528678304
+Hassan,Groundnut, 1999-00,Rabi       ,1762.0,1935,1.09818388195233
+Hassan,Groundnut, 2000-01,Kharif     ,1167.0,1172,1.00428449014567
+Hassan,Groundnut, 2000-01,Rabi       ,3108.0,3413,1.09813384813385
+Hassan,Groundnut, 2001-02,Kharif     ,1897.0,1274,0.671586715867159
+Hassan,Groundnut, 2002-03,Kharif     ,590.0,314,0.532203389830509
+Hassan,Groundnut, 2002-03,Rabi       ,1776.0,1569,0.883445945945946
+Hassan,Groundnut, 2003-04,Kharif     ,256.0,103,0.40234375
+Hassan,Groundnut, 2003-04,Rabi       ,688.0,669,0.972383720930232
+Hassan,Groundnut, 2004-05,Kharif     ,1332.0,941,0.706456456456457
+Hassan,Groundnut, 2004-05,Rabi       ,1418.0,2104,1.48377997179126
+Hassan,Groundnut, 2005-06,Kharif     ,921.0,457,0.496199782844734
+Hassan,Groundnut, 2005-06,Rabi       ,1274.0,2113,1.6585557299843
+Hassan,Groundnut, 2006-07,Kharif     ,1246.0,463,0.371589085072231
+Hassan,Groundnut, 2006-07,Rabi       ,424.0,395,0.931603773584906
+Hassan,Groundnut, 2007-08,Kharif     ,630.0,516,0.819047619047619
+Hassan,Groundnut, 2007-08,Rabi       ,680.0,453,0.666176470588235
+Hassan,Groundnut, 2008-09,Kharif     ,509.0,293,0.575638506876228
+Hassan,Groundnut, 2008-09,Rabi       ,294.0,372,1.26530612244898
+Hassan,Groundnut, 2009-10,Kharif     ,866.0,398,0.459584295612009
+Hassan,Groundnut, 2009-10,Rabi       ,370.0,286,0.772972972972973
+Hassan,Groundnut, 2010-11,Kharif     ,505.0,323,0.63960396039604
+Hassan,Groundnut, 2010-11,Rabi       ,523.0,663,1.26768642447419
+Hassan,Groundnut, 2011-12,Kharif     ,583.0,368,0.631217838765009
+Hassan,Groundnut, 2011-12,Rabi       ,210.0,203,0.966666666666667
+Hassan,Groundnut, 2012-13,Kharif     ,552.0,310,0.561594202898551
+Hassan,Groundnut, 2012-13,Summer     ,104.0,128,1.23076923076923
+Hassan,Groundnut, 2013-14,Kharif     ,980.0,828,0.844897959183673
+Hassan,Groundnut, 2013-14,Summer     ,47.0,42,0.893617021276596
+Hassan,Groundnut, 2014-15,Kharif     ,739.0,538,0.728010825439783
+Hassan,Groundnut, 2014-15,Summer     ,75.0,64,0.853333333333333
+Hassan,Groundnut, 2015-16,Kharif     ,731.0,492,0.673050615595075
+Hassan,Groundnut, 2015-16,Summer     ,131.0,93,0.709923664122137
+Hassan,Groundnut, 2016-17,Kharif     ,617.0,467,0.756888168557536
+Hassan,Groundnut, 2016-17,Summer     ,30.0,30,1
+Hassan,Groundnut, 2017-18,Kharif     ,599.0,369,0.616026711185309
+Hassan,Groundnut, 2017-18,Summer     ,123.0,143,1.16260162601626
+Hassan,Groundnut, 2018-19,Kharif     ,310.0,255,0.82258064516129
+Hassan,Groundnut, 2018-19,Summer     ,20.0,17,0.85
+Hassan,Horse-gram, 1997-98,Kharif     ,9947.0,7068,0.710565999798934
+Hassan,Horse-gram, 1997-98,Rabi       ,25411.0,18636,0.733383180512377
+Hassan,Horse-gram, 1998-99,Kharif     ,5608.0,3213,0.57293152639087
+Hassan,Horse-gram, 1998-99,Rabi       ,25188.0,13639,0.54148801016357
+Hassan,Horse-gram, 1999-00,Kharif     ,2657.0,1661,0.625141136620248
+Hassan,Horse-gram, 1999-00,Rabi       ,26713.0,14541,0.544341706285329
+Hassan,Horse-gram, 2000-01,Kharif     ,5835.0,1591,0.272664952870608
+Hassan,Horse-gram, 2000-01,Rabi       ,22404.0,9407,0.419880378503839
+Hassan,Horse-gram, 2001-02,Kharif     ,3890.0,2380,0.611825192802057
+Hassan,Horse-gram, 2001-02,Rabi       ,28949.0,10781,0.372413554872362
+Hassan,Horse-gram, 2002-03,Kharif     ,6896.0,1336,0.193735498839907
+Hassan,Horse-gram, 2002-03,Rabi       ,25827.0,4809,0.18620048786154
+Hassan,Horse-gram, 2003-04,Kharif     ,5109.0,1335,0.261303581914269
+Hassan,Horse-gram, 2003-04,Rabi       ,12428.0,2810,0.226102349533312
+Hassan,Horse-gram, 2004-05,Kharif     ,11789.0,7101,0.602341165493256
+Hassan,Horse-gram, 2004-05,Rabi       ,9001.0,3053,0.339184535051661
+Hassan,Horse-gram, 2005-06,Kharif     ,1757.0,816,0.464428002276608
+Hassan,Horse-gram, 2005-06,Rabi       ,16049.0,5916,0.368621097887719
+Hassan,Horse-gram, 2006-07,Kharif     ,3173.0,1522,0.479672234478412
+Hassan,Horse-gram, 2006-07,Rabi       ,17310.0,6759,0.390467937608319
+Hassan,Horse-gram, 2007-08,Kharif     ,1245.0,615,0.493975903614458
+Hassan,Horse-gram, 2007-08,Rabi       ,14182.0,5780,0.407558877450289
+Hassan,Horse-gram, 2008-09,Kharif     ,805.0,379,0.470807453416149
+Hassan,Horse-gram, 2008-09,Rabi       ,9867.0,3862,0.391405695753522
+Hassan,Horse-gram, 2009-10,Kharif     ,1251.0,537,0.429256594724221
+Hassan,Horse-gram, 2009-10,Rabi       ,9461.0,4557,0.481661557974844
+Hassan,Horse-gram, 2010-11,Kharif     ,3351.0,2757,0.822739480752014
+Hassan,Horse-gram, 2010-11,Rabi       ,18160.0,11956,0.658370044052863
+Hassan,Horse-gram, 2011-12,Kharif     ,6865.0,4337,0.631755280407866
+Hassan,Horse-gram, 2011-12,Rabi       ,10086.0,4417,0.437933769581598
+Hassan,Horse-gram, 2012-13,Kharif     ,4079.0,1259,0.308654081882814
+Hassan,Horse-gram, 2012-13,Rabi       ,5762.0,1620,0.28115237764665
+Hassan,Horse-gram, 2013-14,Kharif     ,2134.0,892,0.417994376757263
+Hassan,Horse-gram, 2013-14,Rabi       ,3564.0,1524,0.427609427609428
+Hassan,Horse-gram, 2014-15,Kharif     ,1331.0,756,0.567993989481593
+Hassan,Horse-gram, 2014-15,Rabi       ,6239.0,3212,0.514826093925309
+Hassan,Horse-gram, 2015-16,Kharif     ,1439.0,563,0.391243919388464
+Hassan,Horse-gram, 2015-16,Rabi       ,3114.0,1538,0.493898522800257
+Hassan,Horse-gram, 2016-17,Kharif     ,101.0,24,0.237623762376238
+Hassan,Horse-gram, 2016-17,Rabi       ,1148.0,26,0.0226480836236934
+Hassan,Horse-gram, 2017-18,Kharif     ,5882.0,3207,0.545222713362802
+Hassan,Horse-gram, 2017-18,Rabi       ,1622.0,783,0.482737361282367
+Hassan,Horse-gram, 2018-19,Kharif     ,2995.0,970,0.323873121869783
+Hassan,Horse-gram, 2018-19,Rabi       ,1364.0,446,0.326979472140762
+Hassan,Jowar, 1997-98,Kharif     ,2811.0,3318,1.1803628601921
+Hassan,Jowar, 1997-98,Rabi       ,1433.0,630,0.43963712491277
+Hassan,Jowar, 1998-99,Kharif     ,2375.0,3315,1.39578947368421
+Hassan,Jowar, 1998-99,Rabi       ,1558.0,989,0.634788189987163
+Hassan,Jowar, 1999-00,Kharif     ,2247.0,2769,1.23230974632844
+Hassan,Jowar, 1999-00,Rabi       ,782.0,599,0.765984654731458
+Hassan,Jowar, 2000-01,Kharif     ,1481.0,2342,1.58136394328157
+Hassan,Jowar, 2000-01,Rabi       ,380.0,353,0.928947368421053
+Hassan,Jowar, 2001-02,Kharif     ,1085.0,1755,1.61751152073733
+Hassan,Jowar, 2001-02,Rabi       ,1070.0,663,0.619626168224299
+Hassan,Jowar, 2002-03,Kharif     ,2837.0,2014,0.709904829044766
+Hassan,Jowar, 2002-03,Rabi       ,5041.0,3295,0.653640150763737
+Hassan,Jowar, 2003-04,Kharif     ,1770.0,1064,0.601129943502825
+Hassan,Jowar, 2003-04,Rabi       ,4035.0,1574,0.390086741016109
+Hassan,Jowar, 2004-05,Kharif     ,3735.0,4238,1.13467202141901
+Hassan,Jowar, 2004-05,Rabi       ,1525.0,900,0.590163934426229
+Hassan,Jowar, 2005-06,Kharif     ,2300.0,3371,1.46565217391304
+Hassan,Jowar, 2005-06,Rabi       ,772.0,423,0.547927461139896
+Hassan,Jowar, 2006-07,Kharif     ,4167.0,3058,0.733861291096712
+Hassan,Jowar, 2006-07,Rabi       ,1751.0,824,0.470588235294118
+Hassan,Jowar, 2007-08,Kharif     ,3046.0,3385,1.1112934996717
+Hassan,Jowar, 2007-08,Rabi       ,432.0,269,0.622685185185185
+Hassan,Jowar, 2008-09,Kharif     ,2854.0,3199,1.1208829712684
+Hassan,Jowar, 2008-09,Rabi       ,521.0,501,0.961612284069098
+Hassan,Jowar, 2009-10,Kharif     ,2605.0,3234,1.24145873320537
+Hassan,Jowar, 2009-10,Rabi       ,701.0,601,0.85734664764622
+Hassan,Jowar, 2010-11,Kharif     ,3380.0,6730,1.99112426035503
+Hassan,Jowar, 2010-11,Rabi       ,430.0,510,1.18604651162791
+Hassan,Jowar, 2011-12,Kharif     ,1735.0,1375,0.792507204610951
+Hassan,Jowar, 2011-12,Rabi       ,439.0,300,0.683371298405467
+Hassan,Jowar, 2012-13,Kharif     ,2526.0,1212,0.479809976247031
+Hassan,Jowar, 2012-13,Rabi       ,185.0,89,0.481081081081081
+Hassan,Jowar, 2013-14,Kharif     ,2341.0,1579,0.674498077744554
+Hassan,Jowar, 2013-14,Rabi       ,313.0,209,0.667731629392971
+Hassan,Jowar, 2014-15,Kharif     ,1126.0,960,0.852575488454707
+Hassan,Jowar, 2015-16,Kharif     ,963.0,576,0.598130841121495
+Hassan,Jowar, 2015-16,Rabi       ,38.0,26,0.68421052631579
+Hassan,Jowar, 2016-17,Kharif     ,449.0,74,0.164810690423163
+Hassan,Jowar, 2016-17,Rabi       ,29.0,25,0.862068965517241
+Hassan,Jowar, 2017-18,Kharif     ,1029.0,1704,1.65597667638484
+Hassan,Jowar, 2017-18,Rabi       ,426.0,417,0.97887323943662
+Hassan,Jowar, 2018-19,Kharif     ,12001.0,4811,0.400883259728356
+Hassan,Jowar, 2018-19,Rabi       ,510.0,193,0.37843137254902
+Hassan,Maize, 1997-98,Kharif     ,4808.0,13259,2.75769550748752
+Hassan,Maize, 1997-98,Rabi       ,9.0,18,2
+Hassan,Maize, 1998-99,Kharif     ,5057.0,16901,3.34210005932371
+Hassan,Maize, 1998-99,Rabi       ,156.0,304,1.94871794871795
+Hassan,Maize, 1998-99,Summer     ,29.0,66,2.27586206896552
+Hassan,Maize, 1999-00,Kharif     ,9475.0,44007,4.6445382585752
+Hassan,Maize, 1999-00,Rabi       ,1639.0,3893,2.37522879804759
+Hassan,Maize, 1999-00,Summer     ,200.0,366,1.83
+Hassan,Maize, 2000-01,Kharif     ,13708.0,56049,4.08878027429238
+Hassan,Maize, 2000-01,Rabi       ,994.0,1974,1.98591549295775
+Hassan,Maize, 2000-01,Summer     ,51.0,143,2.80392156862745
+Hassan,Maize, 2001-02,Kharif     ,12840.0,53488,4.16573208722741
+Hassan,Maize, 2001-02,Rabi       ,2172.0,4215,1.94060773480663
+Hassan,Maize, 2001-02,Summer     ,95.0,250,2.63157894736842
+Hassan,Maize, 2002-03,Kharif     ,16137.0,51034,3.162545702423
+Hassan,Maize, 2002-03,Rabi       ,2972.0,7353,2.47409152086137
+Hassan,Maize, 2002-03,Summer     ,55.0,141,2.56363636363636
+Hassan,Maize, 2003-04,Kharif     ,20683.0,36743,1.7764831020645
+Hassan,Maize, 2003-04,Rabi       ,1141.0,1498,1.31288343558282
+Hassan,Maize, 2003-04,Summer     ,95.0,239,2.51578947368421
+Hassan,Maize, 2004-05,Kharif     ,26722.0,88000,3.29316667914078
+Hassan,Maize, 2004-05,Rabi       ,3287.0,9866,3.00152114390021
+Hassan,Maize, 2004-05,Summer     ,62.0,190,3.06451612903226
+Hassan,Maize, 2005-06,Kharif     ,25909.0,76276,2.94399629472384
+Hassan,Maize, 2005-06,Rabi       ,6087.0,17832,2.9295219319862
+Hassan,Maize, 2005-06,Summer     ,229.0,708,3.09170305676856
+Hassan,Maize, 2006-07,Kharif     ,34116.0,106492,3.12146793293469
+Hassan,Maize, 2006-07,Rabi       ,6848.0,22729,3.31907126168224
+Hassan,Maize, 2006-07,Summer     ,215.0,689,3.2046511627907
+Hassan,Maize, 2007-08,Kharif     ,39669.0,123676,3.11769895888477
+Hassan,Maize, 2007-08,Rabi       ,7299.0,23706,3.2478421701603
+Hassan,Maize, 2007-08,Summer     ,465.0,1501,3.22795698924731
+Hassan,Maize, 2008-09,Kharif     ,33769.0,113332,3.35609582753413
+Hassan,Maize, 2008-09,Rabi       ,7202.0,21848,3.03360177728409
+Hassan,Maize, 2008-09,Summer     ,783.0,3118,3.98212005108557
+Hassan,Maize, 2009-10,Kharif     ,57735.0,205628,3.56158309517624
+Hassan,Maize, 2009-10,Rabi       ,4725.0,14884,3.15005291005291
+Hassan,Maize, 2009-10,Summer     ,365.0,1738,4.76164383561644
+Hassan,Maize, 2010-11,Kharif     ,53920.0,253287,4.69745919881306
+Hassan,Maize, 2010-11,Rabi       ,9321.0,29706,3.18699710331509
+Hassan,Maize, 2010-11,Summer     ,332.0,1129,3.40060240963855
+Hassan,Maize, 2011-12,Kharif     ,56445.0,191839,3.3986889892816
+Hassan,Maize, 2011-12,Rabi       ,8075.0,22895,2.83529411764706
+Hassan,Maize, 2011-12,Summer     ,575.0,1959,3.40695652173913
+Hassan,Maize, 2012-13,Kharif     ,64465.0,169333,2.62674319398123
+Hassan,Maize, 2012-13,Rabi       ,5437.0,15526,2.85561890748575
+Hassan,Maize, 2012-13,Summer     ,232.0,668,2.87931034482759
+Hassan,Maize, 2013-14,Kharif     ,66119.0,218903,3.31074275170526
+Hassan,Maize, 2013-14,Rabi       ,3806.0,10992,2.88807146610615
+Hassan,Maize, 2013-14,Summer     ,95.0,308,3.24210526315789
+Hassan,Maize, 2014-15,Kharif     ,78492.0,307814,3.9215971054375
+Hassan,Maize, 2014-15,Rabi       ,4806.0,15012,3.12359550561798
+Hassan,Maize, 2014-15,Summer     ,138.0,450,3.26086956521739
+Hassan,Maize, 2015-16,Kharif     ,76828.0,243191,3.16539542874993
+Hassan,Maize, 2015-16,Rabi       ,2156.0,6718,3.11595547309833
+Hassan,Maize, 2015-16,Summer     ,74.0,208,2.81081081081081
+Hassan,Maize, 2016-17,Kharif     ,88342.0,205952,2.33130334382287
+Hassan,Maize, 2016-17,Rabi       ,1698.0,1144,0.673733804475854
+Hassan,Maize, 2016-17,Summer     ,105.0,326,3.1047619047619
+Hassan,Maize, 2017-18,Kharif     ,81657.0,522850,6.40300280441358
+Hassan,Maize, 2017-18,Rabi       ,931.0,4049,4.34908700322234
+Hassan,Maize, 2017-18,Summer     ,264.0,991,3.75378787878788
+Hassan,Maize, 2018-19,Kharif     ,86040.0,234261,2.72269874476987
+Hassan,Maize, 2018-19,Rabi       ,1387.0,3133,2.25883201153569
+Hassan,Maize, 2018-19,Summer     ,99.0,341,3.44444444444444
+Hassan,Moong(Green Gram), 1998-99,Kharif     ,2937.0,843,0.287027579162411
+Hassan,Moong(Green Gram), 1998-99,Rabi       ,216.0,97,0.449074074074074
+Hassan,Moong(Green Gram), 1999-00,Kharif     ,3327.0,1132,0.34024646828975
+Hassan,Moong(Green Gram), 1999-00,Rabi       ,233.0,58,0.248927038626609
+Hassan,Moong(Green Gram), 2000-01,Kharif     ,2651.0,1050,0.39607695209355
+Hassan,Moong(Green Gram), 2000-01,Rabi       ,165.0,44,0.266666666666667
+Hassan,Moong(Green Gram), 2001-02,Kharif     ,1830.0,954,0.521311475409836
+Hassan,Moong(Green Gram), 2001-02,Rabi       ,231.0,68,0.294372294372294
+Hassan,Moong(Green Gram), 2002-03,Kharif     ,3469.0,511,0.14730469876045
+Hassan,Moong(Green Gram), 2002-03,Rabi       ,46.0,8,0.173913043478261
+Hassan,Moong(Green Gram), 2003-04,Kharif     ,726.0,1,0.00137741046831956
+Hassan,Moong(Green Gram), 2003-04,Rabi       ,46.0,13,0.282608695652174
+Hassan,Moong(Green Gram), 2004-05,Kharif     ,3732.0,585,0.156752411575563
+Hassan,Moong(Green Gram), 2004-05,Rabi       ,134.0,33,0.246268656716418
+Hassan,Moong(Green Gram), 2005-06,Kharif     ,2494.0,517,0.207297514033681
+Hassan,Moong(Green Gram), 2005-06,Rabi       ,166.0,49,0.295180722891566
+Hassan,Moong(Green Gram), 2006-07,Kharif     ,2619.0,1169,0.44635357006491
+Hassan,Moong(Green Gram), 2006-07,Rabi       ,67.0,20,0.298507462686567
+Hassan,Moong(Green Gram), 2007-08,Kharif     ,2364.0,456,0.192893401015228
+Hassan,Moong(Green Gram), 2007-08,Rabi       ,46.0,15,0.326086956521739
+Hassan,Moong(Green Gram), 2008-09,Kharif     ,2231.0,407,0.182429403854774
+Hassan,Moong(Green Gram), 2008-09,Rabi       ,52.0,13,0.25
+Hassan,Moong(Green Gram), 2009-10,Kharif     ,3455.0,1014,0.293487698986975
+Hassan,Moong(Green Gram), 2009-10,Rabi       ,25.0,7,0.28
+Hassan,Moong(Green Gram), 2010-11,Kharif     ,10395.0,2933,0.282154882154882
+Hassan,Moong(Green Gram), 2010-11,Rabi       ,30.0,8,0.266666666666667
+Hassan,Moong(Green Gram), 2011-12,Kharif     ,11281.0,2229,0.197588866235263
+Hassan,Moong(Green Gram), 2011-12,Rabi       ,15.0,5,0.333333333333333
+Hassan,Moong(Green Gram), 2012-13,Kharif     ,12390.0,518,0.0418079096045198
+Hassan,Moong(Green Gram), 2013-14,Kharif     ,4496.0,320,0.0711743772241993
+Hassan,Moong(Green Gram), 2013-14,Rabi       ,11.0,3,0.272727272727273
+Hassan,Moong(Green Gram), 2014-15,Kharif     ,10403.0,1828,0.175718542728059
+Hassan,Moong(Green Gram), 2014-15,Rabi       ,36.0,12,0.333333333333333
+Hassan,Moong(Green Gram), 2015-16,Kharif     ,9046.0,1968,0.217554720318373
+Hassan,Moong(Green Gram), 2015-16,Rabi       ,20.0,6,0.3
+Hassan,Moong(Green Gram), 2016-17,Kharif     ,1405.0,255,0.181494661921708
+Hassan,Moong(Green Gram), 2016-17,Rabi       ,2.0,nan,0
+Hassan,Moong(Green Gram), 2017-18,Kharif     ,9201.0,612,0.0665145092924682
+Hassan,Moong(Green Gram), 2018-19,Kharif     ,6449.0,1936,0.300201581640564
+Hassan,Niger seed, 1998-99,Kharif     ,5007.0,872,0.174156181346115
+Hassan,Niger seed, 1999-00,Kharif     ,4731.0,824,0.174170365673219
+Hassan,Niger seed, 2000-01,Kharif     ,10066.0,1754,0.174249950327836
+Hassan,Niger seed, 2001-02,Kharif     ,6094.0,1062,0.174269773547752
+Hassan,Niger seed, 2002-03,Kharif     ,4001.0,697,0.174206448387903
+Hassan,Niger seed, 2003-04,Kharif     ,2715.0,473,0.174217311233886
+Hassan,Niger seed, 2004-05,Kharif     ,4991.0,870,0.174313764776598
+Hassan,Niger seed, 2005-06,Kharif     ,4700.0,819,0.174255319148936
+Hassan,Niger seed, 2006-07,Kharif     ,4152.0,723,0.174132947976879
+Hassan,Niger seed, 2007-08,Kharif     ,3777.0,1421,0.376224516812285
+Hassan,Niger seed, 2008-09,Kharif     ,3059.0,1429,0.467146126185028
+Hassan,Niger seed, 2009-10,Kharif     ,3090.0,1413,0.457281553398058
+Hassan,Niger seed, 2010-11,Kharif     ,3619.0,1010,0.279082619508151
+Hassan,Niger seed, 2011-12,Kharif     ,1687.0,302,0.179016004742146
+Hassan,Niger seed, 2012-13,Kharif     ,2556.0,458,0.179186228482003
+Hassan,Niger seed, 2013-14,Kharif     ,3367.0,473,0.14048114048114
+Hassan,Niger seed, 2014-15,Kharif     ,1871.0,578,0.308925708177445
+Hassan,Niger seed, 2015-16,Kharif     ,1501.0,413,0.275149900066622
+Hassan,Niger seed, 2016-17,Kharif     ,737.0,139,0.188602442333786
+Hassan,Niger seed, 2017-18,Kharif     ,882.0,258,0.292517006802721
+Hassan,Niger seed, 2018-19,Kharif     ,143.0,37,0.258741258741259
+Hassan,Onion, 1998-99,Kharif     ,34.0,154,4.52941176470588
+Hassan,Onion, 1998-99,Rabi       ,3.0,31,10.3333333333333
+Hassan,Onion, 1998-99,Summer     ,3.0,35,11.6666666666667
+Hassan,Onion, 1999-00,Whole Year ,67.0,415,6.19402985074627
+Hassan,Onion, 2000-01,Whole Year ,230.0,1255,5.45652173913043
+Hassan,Onion, 2001-02,Whole Year ,326.0,2212,6.78527607361963
+Hassan,Onion, 2002-03,Whole Year ,325.0,1785,5.49230769230769
+Hassan,Onion, 2003-04,Whole Year ,240.0,693,2.8875
+Hassan,Onion, 2004-05,Whole Year ,107.0,624,5.83177570093458
+Hassan,Onion, 2005-06,Kharif     ,157.0,875,5.57324840764331
+Hassan,Onion, 2006-07,Whole Year ,144.0,802,5.56944444444444
+Hassan,Onion, 2007-08,Kharif     ,159.0,948,5.9622641509434
+Hassan,Onion, 2008-09,Kharif     ,133.0,690,5.18796992481203
+Hassan,Onion, 2009-10,Kharif     ,90.0,318,3.53333333333333
+Hassan,Onion, 2010-11,Kharif     ,115.0,718,6.24347826086957
+Hassan,Onion, 2011-12,Kharif     ,128.0,632,4.9375
+Hassan,Onion, 2011-12,Rabi       ,7.0,56,8
+Hassan,Onion, 2012-13,Kharif     ,82.0,435,5.30487804878049
+Hassan,Onion, 2013-14,Kharif     ,25.0,165,6.6
+Hassan,Onion, 2013-14,Rabi       ,26.0,183,7.03846153846154
+Hassan,Onion, 2014-15,Kharif     ,23.0,118,5.1304347826087
+Hassan,Onion, 2014-15,Rabi       ,48.0,318,6.625
+Hassan,Onion, 2014-15,Summer     ,5.0,25,5
+Hassan,Onion, 2015-16,Kharif     ,37.0,162,4.37837837837838
+Hassan,Onion, 2015-16,Rabi       ,38.0,215,5.65789473684211
+Hassan,Onion, 2015-16,Summer     ,8.0,35,4.375
+Hassan,Onion, 2016-17,Kharif     ,39.0,280,7.17948717948718
+Hassan,Onion, 2016-17,Rabi       ,40.0,573,14.325
+Hassan,Onion, 2016-17,Summer     ,1.0,15,15
+Hassan,Onion, 2017-18,Kharif     ,40.0,441,11.025
+Hassan,Onion, 2017-18,Rabi       ,35.0,496,14.1714285714286
+Hassan,Onion, 2017-18,Summer     ,1.0,12,12
+Hassan,Onion, 2018-19,Kharif     ,25.0,189,7.56
+Hassan,Onion, 2018-19,Rabi       ,32.0,424,13.25
+Hassan,Other  Rabi pulses, 1999-00,Rabi       ,6004.0,697,0.116089273817455
+Hassan,Other  Rabi pulses, 2000-01,Rabi       ,3667.0,440,0.119989091900736
+Hassan,Other  Rabi pulses, 2001-02,Rabi       ,3439.0,416,0.120965396917709
+Hassan,Other  Rabi pulses, 2002-03,Rabi       ,8923.0,1106,0.1239493443909
+Hassan,Other  Rabi pulses, 2003-04,Rabi       ,2604.0,303,0.116359447004608
+Hassan,Other  Rabi pulses, 2004-05,Rabi       ,2865.0,343,0.119720767888307
+Hassan,Other  Rabi pulses, 2005-06,Rabi       ,2932.0,346,0.118008185538881
+Hassan,Other  Rabi pulses, 2006-07,Rabi       ,5396.0,1405,0.260378057820608
+Hassan,Other  Rabi pulses, 2007-08,Rabi       ,4269.0,1129,0.264464745842118
+Hassan,Other  Rabi pulses, 2008-09,Rabi       ,3397.0,802,0.236090668236679
+Hassan,Other  Rabi pulses, 2009-10,Rabi       ,3222.0,859,0.266604593420236
+Hassan,Other  Rabi pulses, 2010-11,Rabi       ,4110.0,1292,0.314355231143552
+Hassan,Other  Rabi pulses, 2011-12,Rabi       ,613.0,812,1.32463295269168
+Hassan,Other  Rabi pulses, 2012-13,Rabi       ,759.0,324,0.426877470355731
+Hassan,Other  Rabi pulses, 2013-14,Rabi       ,1079.0,998,0.924930491195551
+Hassan,Other  Rabi pulses, 2014-15,Rabi       ,1563.0,1213,0.776071657069738
+Hassan,Other  Rabi pulses, 2015-16,Rabi       ,482.0,316,0.655601659751037
+Hassan,Other  Rabi pulses, 2016-17,Rabi       ,70.0,3,0.0428571428571429
+Hassan,Other  Rabi pulses, 2017-18,Rabi       ,839.0,662,0.789034564958284
+Hassan,Other  Rabi pulses, 2018-19,Rabi       ,286.0,214,0.748251748251748
+Hassan,Other Kharif pulses, 1999-00,Kharif     ,10435.0,3092,0.296310493531385
+Hassan,Other Kharif pulses, 2000-01,Kharif     ,10962.0,3048,0.278051450465243
+Hassan,Other Kharif pulses, 2001-02,Kharif     ,12761.0,3470,0.271922263145521
+Hassan,Other Kharif pulses, 2002-03,Kharif     ,7569.0,2024,0.267406526621747
+Hassan,Other Kharif pulses, 2003-04,Kharif     ,10918.0,3078,0.281919765524821
+Hassan,Other Kharif pulses, 2004-05,Kharif     ,12831.0,3720.99,0.29
+Hassan,Other Kharif pulses, 2005-06,Kharif     ,9198.0,2534,0.275494672754947
+Hassan,Other Kharif pulses, 2006-07,Kharif     ,6459.0,3780,0.585229911751045
+Hassan,Other Kharif pulses, 2007-08,Kharif     ,8128.0,3507,0.431471456692913
+Hassan,Other Kharif pulses, 2008-09,Kharif     ,9145.0,3402,0.372006560962274
+Hassan,Other Kharif pulses, 2009-10,Kharif     ,11141.0,5589,0.501660533165784
+Hassan,Other Kharif pulses, 2010-11,Kharif     ,4080.0,2802,0.686764705882353
+Hassan,Other Kharif pulses, 2011-12,Kharif     ,3840.0,2459,0.640364583333333
+Hassan,Other Kharif pulses, 2012-13,Kharif     ,6520.0,3085,0.473159509202454
+Hassan,Other Kharif pulses, 2013-14,Kharif     ,4068.0,3896,0.95771878072763
+Hassan,Other Kharif pulses, 2014-15,Kharif     ,3157.0,2972,0.941400063351283
+Hassan,Other Kharif pulses, 2015-16,Kharif     ,2645.0,1643,0.62117202268431
+Hassan,Other Kharif pulses, 2016-17,Kharif     ,2901.0,504,0.173733195449845
+Hassan,Other Kharif pulses, 2017-18,Kharif     ,4637.0,4987,1.07547983610093
+Hassan,Other Kharif pulses, 2018-19,Kharif     ,2399.0,1486,0.619424760316799
+Hassan,Peas & beans (Pulses), 1998-99,Kharif     ,191.0,1392,7.28795811518325
+Hassan,Peas & beans (Pulses), 1998-99,Rabi       ,16.0,102,6.375
+Hassan,Peas & beans (Pulses), 1998-99,Summer     ,243.0,1970,8.10699588477366
+Hassan,Peas & beans (Pulses), 2001-02,Whole Year ,897.0,6607,7.36566332218506
+Hassan,Peas & beans (Pulses), 2005-06,Kharif     ,104.0,697,6.70192307692308
+Hassan,Peas & beans (Pulses), 2005-06,Rabi       ,12.0,84,7
+Hassan,Peas & beans (Pulses), 2005-06,Summer     ,23.0,116,5.04347826086957
+Hassan,Peas & beans (Pulses), 2010-11,Kharif     ,515.0,4586,8.90485436893204
+Hassan,Peas & beans (Pulses), 2010-11,Rabi       ,320.0,2421,7.565625
+Hassan,Peas & beans (Pulses), 2010-11,Summer     ,167.0,1471,8.80838323353293
+Hassan,Peas & beans (Pulses), 2011-12,Kharif     ,614.0,5776,9.4071661237785
+Hassan,Peas & beans (Pulses), 2011-12,Rabi       ,76.0,636,8.36842105263158
+Hassan,Peas & beans (Pulses), 2011-12,Summer     ,131.0,631,4.81679389312977
+Hassan,Potato, 1998-99,Kharif     ,14692.0,153737,10.4639940103458
+Hassan,Potato, 1998-99,Rabi       ,506.0,5795,11.4525691699605
+Hassan,Potato, 1998-99,Summer     ,205.0,2369,11.5560975609756
+Hassan,Potato, 1999-00,Whole Year ,11247.0,139906,12.4394060638392
+Hassan,Potato, 2000-01,Whole Year ,14230.0,142180,9.99156711173577
+Hassan,Potato, 2001-02,Whole Year ,15367.0,138495,9.01249430598035
+Hassan,Potato, 2002-03,Whole Year ,35647.0,50077,1.40480264818919
+Hassan,Potato, 2003-04,Whole Year ,35363.0,155712,4.40324633091084
+Hassan,Potato, 2004-05,Whole Year ,36151.0,183135,5.065834969987
+Hassan,Potato, 2005-06,Kharif     ,55716.0,185997,3.33830497523153
+Hassan,Potato, 2005-06,Rabi       ,50.0,904,18.08
+Hassan,Potato, 2005-06,Summer     ,25.0,360,14.4
+Hassan,Potato, 2006-07,Whole Year ,42834.0,263565,6.15317271326516
+Hassan,Potato, 2007-08,Kharif     ,43327.0,110804,2.55738915687677
+Hassan,Potato, 2007-08,Rabi       ,26.0,320,12.3076923076923
+Hassan,Potato, 2008-09,Kharif     ,57481.0,78143,1.35945790783041
+Hassan,Potato, 2008-09,Rabi       ,15.0,216,14.4
+Hassan,Potato, 2009-10,Kharif     ,18250.0,81434,4.46213698630137
+Hassan,Potato, 2009-10,Rabi       ,15.0,221,14.7333333333333
+Hassan,Potato, 2010-11,Kharif     ,20610.0,139465,6.76686074721009
+Hassan,Potato, 2010-11,Rabi       ,37.0,431,11.6486486486487
+Hassan,Potato, 2011-12,Kharif     ,20267.0,152412,7.52020525978191
+Hassan,Potato, 2011-12,Rabi       ,19.0,231,12.1578947368421
+Hassan,Potato, 2011-12,Summer     ,2.0,29,14.5
+Hassan,Potato, 2012-13,Kharif     ,16245.0,84062,5.17463835026162
+Hassan,Potato, 2013-14,Kharif     ,18561.0,90157,4.857335272884
+Hassan,Potato, 2014-15,Kharif     ,22207.0,124934,5.62588373035529
+Hassan,Potato, 2014-15,Rabi       ,10.0,154,15.4
+Hassan,Potato, 2014-15,Summer     ,4.0,55,13.75
+Hassan,Potato, 2015-16,Kharif     ,18639.0,61691,3.30978056762702
+Hassan,Potato, 2015-16,Rabi       ,30.0,452,15.0666666666667
+Hassan,Potato, 2015-16,Summer     ,2.0,27,13.5
+Hassan,Potato, 2016-17,Kharif     ,10089.0,101050,10.01585885618
+Hassan,Potato, 2016-17,Rabi       ,60.0,830,13.8333333333333
+Hassan,Potato, 2016-17,Summer     ,12.0,165,13.75
+Hassan,Potato, 2017-18,Kharif     ,12499.0,110144,8.81222497799824
+Hassan,Potato, 2017-18,Rabi       ,318.0,5950,18.7106918238994
+Hassan,Potato, 2017-18,Summer     ,1607.0,22033,13.7106409458619
+Hassan,Potato, 2018-19,Kharif     ,12170.0,67542,5.54987674609696
+Hassan,Potato, 2018-19,Rabi       ,200.0,3031,15.155
+Hassan,Potato, 2018-19,Summer     ,51.0,768,15.0588235294118
+Hassan,Ragi, 1997-98,Kharif     ,106980.0,143458,1.34097962235932
+Hassan,Ragi, 1997-98,Rabi       ,15851.0,18853,1.18938868210208
+Hassan,Ragi, 1997-98,Summer     ,788.0,1459,1.85152284263959
+Hassan,Ragi, 1998-99,Kharif     ,115642.0,215818,1.86625966344408
+Hassan,Ragi, 1998-99,Rabi       ,18889.0,24563,1.30038646831489
+Hassan,Ragi, 1998-99,Summer     ,488.0,1098,2.25
+Hassan,Ragi, 1999-00,Kharif     ,97148.0,138813,1.42888170626261
+Hassan,Ragi, 1999-00,Rabi       ,19251.0,16956,0.880785413744741
+Hassan,Ragi, 1999-00,Summer     ,649.0,1297,1.99845916795069
+Hassan,Ragi, 2000-01,Kharif     ,114138.0,200464,1.75633005659815
+Hassan,Ragi, 2000-01,Rabi       ,15276.0,8809,0.576656192720608
+Hassan,Ragi, 2000-01,Summer     ,818.0,1622,1.98288508557457
+Hassan,Ragi, 2001-02,Kharif     ,100335.0,170597,1.70027408182588
+Hassan,Ragi, 2001-02,Rabi       ,15015.0,13707,0.912887112887113
+Hassan,Ragi, 2001-02,Summer     ,232.0,356,1.53448275862069
+Hassan,Ragi, 2002-03,Kharif     ,82096.0,89454,1.08962677840577
+Hassan,Ragi, 2002-03,Rabi       ,33016.0,14114,0.427489701962685
+Hassan,Ragi, 2002-03,Summer     ,281.0,322,1.14590747330961
+Hassan,Ragi, 2003-04,Kharif     ,101116.0,91377,0.903684876775189
+Hassan,Ragi, 2003-04,Rabi       ,41181.0,2543,0.0617517787329108
+Hassan,Ragi, 2003-04,Summer     ,241.0,287,1.19087136929461
+Hassan,Ragi, 2004-05,Kharif     ,90029.0,160600,1.78386964200424
+Hassan,Ragi, 2004-05,Rabi       ,18776.0,8275,0.440722198551342
+Hassan,Ragi, 2004-05,Summer     ,49.0,78,1.59183673469388
+Hassan,Ragi, 2005-06,Kharif     ,85414.0,134077,1.56973095745428
+Hassan,Ragi, 2005-06,Rabi       ,21152.0,25350,1.19846822995461
+Hassan,Ragi, 2005-06,Summer     ,271.0,592,2.18450184501845
+Hassan,Ragi, 2006-07,Kharif     ,50273.0,66852,1.32977940445169
+Hassan,Ragi, 2006-07,Rabi       ,30450.0,24878,0.817011494252874
+Hassan,Ragi, 2006-07,Summer     ,194.0,412,2.12371134020619
+Hassan,Ragi, 2007-08,Kharif     ,59178.0,79869,1.34964006894454
+Hassan,Ragi, 2007-08,Rabi       ,16284.0,18143,1.1141611397691
+Hassan,Ragi, 2007-08,Summer     ,189.0,393,2.07936507936508
+Hassan,Ragi, 2008-09,Kharif     ,55121.0,80225,1.4554344079389
+Hassan,Ragi, 2008-09,Rabi       ,18666.0,19681,1.05437694203364
+Hassan,Ragi, 2008-09,Summer     ,145.0,288,1.98620689655172
+Hassan,Ragi, 2009-10,Kharif     ,60590.0,94000,1.55141112394785
+Hassan,Ragi, 2009-10,Rabi       ,9541.0,12692,1.3302588827167
+Hassan,Ragi, 2009-10,Summer     ,75.0,141,1.88
+Hassan,Ragi, 2010-11,Kharif     ,57557.0,114919,1.99661205413764
+Hassan,Ragi, 2010-11,Rabi       ,28378.0,41031,1.44587356402847
+Hassan,Ragi, 2010-11,Summer     ,127.0,249,1.96062992125984
+Hassan,Ragi, 2011-12,Kharif     ,58620.0,76377,1.30291709314227
+Hassan,Ragi, 2011-12,Rabi       ,13176.0,17510,1.3289313904068
+Hassan,Ragi, 2011-12,Summer     ,142.0,273,1.92253521126761
+Hassan,Ragi, 2012-13,Kharif     ,64850.0,66290,1.02220508866615
+Hassan,Ragi, 2012-13,Rabi       ,9514.0,6001,0.630754677317637
+Hassan,Ragi, 2012-13,Summer     ,111.0,166,1.4954954954955
+Hassan,Ragi, 2013-14,Kharif     ,68540.0,126384,1.8439451415232
+Hassan,Ragi, 2013-14,Rabi       ,7826.0,8126,1.03833375926399
+Hassan,Ragi, 2013-14,Summer     ,53.0,104,1.9622641509434
+Hassan,Ragi, 2014-15,Kharif     ,63354.0,141859,2.23914827793036
+Hassan,Ragi, 2014-15,Rabi       ,10978.0,14038,1.27873929677537
+Hassan,Ragi, 2014-15,Summer     ,46.0,82,1.78260869565217
+Hassan,Ragi, 2015-16,Kharif     ,63735.0,102327,1.60550717815957
+Hassan,Ragi, 2015-16,Rabi       ,5862.0,7145,1.21886728079154
+Hassan,Ragi, 2015-16,Summer     ,64.0,109,1.703125
+Hassan,Ragi, 2016-17,Kharif     ,61346.0,44875,0.731506536693509
+Hassan,Ragi, 2016-17,Rabi       ,2698.0,374,0.138621200889548
+Hassan,Ragi, 2016-17,Summer     ,101.0,183,1.81188118811881
+Hassan,Ragi, 2017-18,Kharif     ,91604.0,238532,2.6039474258766
+Hassan,Ragi, 2017-18,Rabi       ,2945.0,3601,1.22275042444822
+Hassan,Ragi, 2017-18,Summer     ,78.0,136,1.74358974358974
+Hassan,Ragi, 2018-19,Kharif     ,63784.0,53748,0.842656465571303
+Hassan,Ragi, 2018-19,Rabi       ,8646.0,6768,0.782789729354615
+Hassan,Ragi, 2018-19,Summer     ,40.0,72,1.8
+Hassan,Rapeseed &Mustard, 1998-99,Kharif     ,371.0,100,0.269541778975741
+Hassan,Rapeseed &Mustard, 1999-00,Rabi       ,334.0,90,0.269461077844311
+Hassan,Rapeseed &Mustard, 2000-01,Rabi       ,390.0,105,0.269230769230769
+Hassan,Rapeseed &Mustard, 2001-02,Rabi       ,395.0,107,0.270886075949367
+Hassan,Rapeseed &Mustard, 2002-03,Rabi       ,242.0,65,0.268595041322314
+Hassan,Rapeseed &Mustard, 2003-04,Rabi       ,485.0,131,0.270103092783505
+Hassan,Rapeseed &Mustard, 2004-05,Rabi       ,408.0,110,0.269607843137255
+Hassan,Rapeseed &Mustard, 2005-06,Rabi       ,204.0,55,0.269607843137255
+Hassan,Rapeseed &Mustard, 2006-07,Kharif     ,217.0,59,0.271889400921659
+Hassan,Rapeseed &Mustard, 2007-08,Kharif     ,156.0,57,0.365384615384615
+Hassan,Rapeseed &Mustard, 2008-09,Rabi       ,180.0,72,0.4
+Hassan,Rapeseed &Mustard, 2009-10,Rabi       ,296.0,86,0.29054054054054
+Hassan,Rapeseed &Mustard, 2010-11,Rabi       ,265.0,89,0.335849056603774
+Hassan,Rapeseed &Mustard, 2011-12,Rabi       ,191.0,55,0.287958115183246
+Hassan,Rapeseed &Mustard, 2012-13,Kharif     ,165.0,49,0.296969696969697
+Hassan,Rapeseed &Mustard, 2013-14,Kharif     ,173.0,21,0.121387283236994
+Hassan,Rapeseed &Mustard, 2014-15,Kharif     ,180.0,39,0.216666666666667
+Hassan,Rapeseed &Mustard, 2015-16,Kharif     ,150.0,33,0.22
+Hassan,Rapeseed &Mustard, 2016-17,Kharif     ,7.0,1,0.142857142857143
+Hassan,Rapeseed &Mustard, 2017-18,Kharif     ,75.0,13,0.173333333333333
+Hassan,Rapeseed &Mustard, 2018-19,Kharif     ,7.0,1,0.142857142857143
+Hassan,Rice, 1997-98,Kharif     ,53948.0,147084,2.72640320308445
+Hassan,Rice, 1997-98,Rabi       ,4744.0,12700,2.67706576728499
+Hassan,Rice, 1997-98,Summer     ,8904.0,27796,3.12174303683738
+Hassan,Rice, 1998-99,Kharif     ,55878.0,129213,2.31241275636207
+Hassan,Rice, 1998-99,Rabi       ,2937.0,7771,2.64589717398706
+Hassan,Rice, 1998-99,Summer     ,7869.0,19264,2.44808743169399
+Hassan,Rice, 1999-00,Kharif     ,54588.0,153597,2.81375027478567
+Hassan,Rice, 1999-00,Rabi       ,3189.0,6383,2.00156788962057
+Hassan,Rice, 1999-00,Summer     ,9635.0,23954,2.48614426569798
+Hassan,Rice, 2000-01,Kharif     ,54598.0,131867,2.41523499029268
+Hassan,Rice, 2000-01,Rabi       ,2006.0,4581,2.28364905284148
+Hassan,Rice, 2000-01,Summer     ,11638.0,33622,2.88898436157415
+Hassan,Rice, 2001-02,Kharif     ,52286.0,132604,2.53612821787859
+Hassan,Rice, 2001-02,Rabi       ,1952.0,4840,2.47950819672131
+Hassan,Rice, 2001-02,Summer     ,2928.0,6693,2.2858606557377
+Hassan,Rice, 2002-03,Kharif     ,45807.0,76209,1.66369768812627
+Hassan,Rice, 2002-03,Rabi       ,1830.0,3115,1.70218579234973
+Hassan,Rice, 2002-03,Summer     ,1147.0,2880,2.51089799476896
+Hassan,Rice, 2003-04,Kharif     ,37991.0,63113,1.66126187781317
+Hassan,Rice, 2003-04,Rabi       ,793.0,1318,1.66204287515763
+Hassan,Rice, 2003-04,Summer     ,749.0,3258,4.3497997329773
+Hassan,Rice, 2004-05,Kharif     ,51406.0,128437.891,2.4985
+Hassan,Rice, 2004-05,Rabi       ,695.0,2857,4.11079136690648
+Hassan,Rice, 2004-05,Summer     ,1083.0,4042,3.73222530009234
+Hassan,Rice, 2005-06,Kharif     ,46309.0,105878,2.28633742900948
+Hassan,Rice, 2005-06,Rabi       ,651.0,1123,1.72503840245776
+Hassan,Rice, 2005-06,Summer     ,5572.0,12455,2.23528356066044
+Hassan,Rice, 2006-07,Kharif     ,48517.0,117396,2.41968794443185
+Hassan,Rice, 2006-07,Rabi       ,373.0,944,2.53083109919571
+Hassan,Rice, 2006-07,Summer     ,2850.0,8160,2.86315789473684
+Hassan,Rice, 2007-08,Kharif     ,46186.0,113954,2.46728445849392
+Hassan,Rice, 2007-08,Rabi       ,220.0,446,2.02727272727273
+Hassan,Rice, 2007-08,Summer     ,6019.0,14249,2.3673367669048
+Hassan,Rice, 2008-09,Kharif     ,47315.0,115969.065,2.451
+Hassan,Rice, 2008-09,Rabi       ,300.0,604,2.01333333333333
+Hassan,Rice, 2008-09,Summer     ,5531.0,14739,2.66479840896764
+Hassan,Rice, 2009-10,Kharif     ,41520.0,112020.96,2.698
+Hassan,Rice, 2009-10,Rabi       ,1110.0,2255,2.03153153153153
+Hassan,Rice, 2009-10,Summer     ,5029.0,13755,2.7351362099821
+Hassan,Rice, 2010-11,Kharif     ,35785.0,105364,2.94436216291742
+Hassan,Rice, 2010-11,Rabi       ,10790.0,29009,2.6885078776645
+Hassan,Rice, 2010-11,Summer     ,5170.0,13364,2.58491295938104
+Hassan,Rice, 2011-12,Kharif     ,46451.0,119911,2.58145142192848
+Hassan,Rice, 2011-12,Rabi       ,523.0,1388,2.65391969407266
+Hassan,Rice, 2011-12,Summer     ,1895.0,4710,2.48548812664908
+Hassan,Rice, 2012-13,Kharif     ,48265.0,105184,2.17930177147001
+Hassan,Rice, 2012-13,Rabi       ,26.0,67,2.57692307692308
+Hassan,Rice, 2012-13,Summer     ,1003.0,2529,2.52143569292124
+Hassan,Rice, 2013-14,Kharif     ,50260.0,153841,3.06090330282531
+Hassan,Rice, 2013-14,Rabi       ,453.0,1007,2.22295805739514
+Hassan,Rice, 2013-14,Summer     ,1086.0,3746,3.44935543278085
+Hassan,Rice, 2014-15,Kharif     ,45653.0,140563,3.07894333340635
+Hassan,Rice, 2014-15,Rabi       ,1752.0,3911,2.23230593607306
+Hassan,Rice, 2014-15,Summer     ,667.0,1814,2.71964017991005
+Hassan,Rice, 2015-16,Kharif     ,41719.0,114341,2.74074162851459
+Hassan,Rice, 2015-16,Rabi       ,150.0,404,2.69333333333333
+Hassan,Rice, 2015-16,Summer     ,949.0,2338,2.463645943098
+Hassan,Rice, 2016-17,Kharif     ,25838.0,52504,2.03204582398018
+Hassan,Rice, 2016-17,Rabi       ,3.0,1,0.333333333333333
+Hassan,Rice, 2016-17,Summer     ,259.0,724,2.7953667953668
+Hassan,Rice, 2017-18,Kharif     ,21016.0,67562,3.21478873239437
+Hassan,Rice, 2017-18,Summer     ,609.0,2529,4.15270935960591
+Hassan,Rice, 2018-19,Kharif     ,46250.0,109053,2.3579027027027
+Hassan,Rice, 2018-19,Summer     ,551.0,1557,2.82577132486388
+Hassan,Safflower, 2018-19,Rabi       ,4.0,2,0.5
+Hassan,Sannhamp, 2006-07,Whole Year ,6.0,1,0.166666666666667
+Hassan,Sannhamp, 2018-19,Whole Year ,2.0,nan,0
+Hassan,Sesamum, 1998-99,Kharif     ,4010.0,2411,0.601246882793017
+Hassan,Sesamum, 1999-00,Kharif     ,6278.0,2326,0.370500159286397
+Hassan,Sesamum, 2000-01,Kharif     ,4987.0,2260,0.453178263485061
+Hassan,Sesamum, 2001-02,Kharif     ,2838.0,1318,0.464411557434813
+Hassan,Sesamum, 2002-03,Kharif     ,3914.0,1629,0.416198262646909
+Hassan,Sesamum, 2003-04,Kharif     ,1352.0,465,0.343934911242604
+Hassan,Sesamum, 2004-05,Kharif     ,4955.0,3088,0.623208879919273
+Hassan,Sesamum, 2005-06,Kharif     ,3631.0,4401,1.21206279261911
+Hassan,Sesamum, 2006-07,Kharif     ,3748.0,3215,0.857790821771611
+Hassan,Sesamum, 2007-08,Kharif     ,2840.0,1532,0.53943661971831
+Hassan,Sesamum, 2008-09,Kharif     ,2812.0,1205,0.428520625889047
+Hassan,Sesamum, 2009-10,Kharif     ,3711.0,2292,0.617623282134196
+Hassan,Sesamum, 2010-11,Kharif     ,5185.0,5285,1.01928640308582
+Hassan,Sesamum, 2011-12,Kharif     ,4830.0,2799,0.579503105590062
+Hassan,Sesamum, 2012-13,Kharif     ,3450.0,603,0.174782608695652
+Hassan,Sesamum, 2013-14,Kharif     ,1886.0,469,0.248674443266172
+Hassan,Sesamum, 2014-15,Kharif     ,3613.0,1768,0.489344035427622
+Hassan,Sesamum, 2015-16,Kharif     ,2410.0,1129,0.468464730290456
+Hassan,Sesamum, 2016-17,Kharif     ,818.0,205,0.250611246943765
+Hassan,Sesamum, 2017-18,Kharif     ,1183.0,166,0.140321217244294
+Hassan,Sesamum, 2018-19,Kharif     ,2518.0,1186,0.471008737092931
+Hassan,Small millets, 1999-00,Kharif     ,138.0,76,0.550724637681159
+Hassan,Small millets, 2000-01,Kharif     ,185.0,139,0.751351351351351
+Hassan,Small millets, 2001-02,Kharif     ,160.0,103,0.64375
+Hassan,Small millets, 2002-03,Kharif     ,145.0,111,0.76551724137931
+Hassan,Small millets, 2004-05,Kharif     ,319.0,230,0.721003134796238
+Hassan,Small millets, 2005-06,Kharif     ,147.0,33,0.224489795918367
+Hassan,Small millets, 2006-07,Kharif     ,790.0,131,0.165822784810127
+Hassan,Small millets, 2007-08,Kharif     ,120.0,82,0.683333333333333
+Hassan,Small millets, 2009-10,Kharif     ,60.0,41,0.683333333333333
+Hassan,Small millets, 2010-11,Kharif     ,60.0,47,0.783333333333333
+Hassan,Small millets, 2011-12,Kharif     ,55.0,32,0.581818181818182
+Hassan,Small millets, 2012-13,Kharif     ,560.0,220,0.392857142857143
+Hassan,Small millets, 2013-14,Kharif     ,300.0,155,0.516666666666667
+Hassan,Small millets, 2014-15,Kharif     ,366.0,169,0.461748633879781
+Hassan,Small millets, 2015-16,Kharif     ,210.0,93,0.442857142857143
+Hassan,Small millets, 2016-17,Kharif     ,202.0,25,0.123762376237624
+Hassan,Small millets, 2018-19,Kharif     ,310.0,38,0.12258064516129
+Hassan,Soyabean, 1998-99,Kharif     ,57.0,61,1.07017543859649
+Hassan,Soyabean, 1999-00,Kharif     ,61.0,56,0.918032786885246
+Hassan,Soyabean, 2000-01,Kharif     ,40.0,42,1.05
+Hassan,Soyabean, 2001-02,Kharif     ,18.0,15,0.833333333333333
+Hassan,Soyabean, 2002-03,Kharif     ,2.0,2,1
+Hassan,Soyabean, 2003-04,Kharif     ,5.0,2,0.4
+Hassan,Soyabean, 2004-05,Kharif     ,4.0,3,0.75
+Hassan,Soyabean, 2018-19,Kharif     ,24.0,24,1
+Hassan,Sugarcane, 1997-98,Whole Year ,4919.0,495343,100.699939011994
+Hassan,Sugarcane, 1999-00,Whole Year ,5054.0,576156,114
+Hassan,Sugarcane, 2000-01,Whole Year ,5560.0,623276,112.1
+Hassan,Sugarcane, 2001-02,Whole Year ,7159.0,720911,100.699958094706
+Hassan,Sugarcane, 2002-03,Whole Year ,8610.0,842488,97.8499419279907
+Hassan,Sugarcane, 2003-04,Whole Year ,3792.0,392662,103.550105485232
+Hassan,Sugarcane, 2005-06,Whole Year ,2542.0,258394,101.649881982691
+Hassan,Sugarcane, 2006-07,Whole Year ,5730.0,664107,115.9
+Hassan,Sugarcane, 2007-08,Whole Year ,5049.0,412503,81.6999405822935
+Hassan,Sugarcane, 2008-09,Whole Year ,2659.0,267761,100.69988717563
+Hassan,Sugarcane, 2009-10,Whole Year ,2015.0,235453,116.850124069479
+Hassan,Sugarcane, 2010-11,Whole Year ,3640.0,394212,108.3
+Hassan,Sugarcane, 2011-12,Whole Year ,2180.0,213313,97.85
+Hassan,Sugarcane, 2012-13,Whole Year ,2428.0,182221,75.0498352553542
+Hassan,Sugarcane, 2013-14,Whole Year ,1463.0,122307,83.6001367053999
+Hassan,Sugarcane, 2014-15,Whole Year ,1568.0,171304,109.25
+Hassan,Sugarcane, 2015-16,Whole Year ,689.0,98182,142.499274310595
+Hassan,Sugarcane, 2016-17,Whole Year ,835.0,58700,70.2994011976048
+Hassan,Sugarcane, 2017-18,Whole Year ,2175.0,276878,127.300229885057
+Hassan,Sugarcane, 2018-19,Whole Year ,2849.0,300427,105.449982449982
+Hassan,Sunflower, 1998-99,Kharif     ,8237.0,6342,0.769940512322448
+Hassan,Sunflower, 1998-99,Rabi       ,3064.0,1746,0.569843342036554
+Hassan,Sunflower, 1998-99,Summer     ,308.0,173,0.561688311688312
+Hassan,Sunflower, 1999-00,Kharif     ,6278.0,4068,0.64797706275884
+Hassan,Sunflower, 1999-00,Rabi       ,1685.0,647,0.383976261127596
+Hassan,Sunflower, 1999-00,Summer     ,239.0,135,0.564853556485356
+Hassan,Sunflower, 2000-01,Kharif     ,4187.0,3728,0.890374970145689
+Hassan,Sunflower, 2000-01,Rabi       ,414.0,248,0.599033816425121
+Hassan,Sunflower, 2000-01,Summer     ,63.0,45,0.714285714285714
+Hassan,Sunflower, 2001-02,Kharif     ,1794.0,1696,0.945373467112598
+Hassan,Sunflower, 2001-02,Rabi       ,346.0,214,0.61849710982659
+Hassan,Sunflower, 2001-02,Summer     ,6.0,5,0.833333333333333
+Hassan,Sunflower, 2002-03,Kharif     ,7042.0,2763,0.392360124964499
+Hassan,Sunflower, 2002-03,Rabi       ,187.0,83,0.443850267379679
+Hassan,Sunflower, 2002-03,Summer     ,21.0,13,0.619047619047619
+Hassan,Sunflower, 2003-04,Kharif     ,5600.0,1468,0.262142857142857
+Hassan,Sunflower, 2003-04,Rabi       ,173.0,63,0.364161849710983
+Hassan,Sunflower, 2004-05,Kharif     ,9778.0,8481,0.867355287379832
+Hassan,Sunflower, 2004-05,Rabi       ,615.0,216,0.351219512195122
+Hassan,Sunflower, 2004-05,Summer     ,5.0,3,0.6
+Hassan,Sunflower, 2005-06,Kharif     ,11482.0,9290,0.809092492597108
+Hassan,Sunflower, 2005-06,Rabi       ,1597.0,1217,0.76205385097057
+Hassan,Sunflower, 2005-06,Summer     ,15.0,12,0.8
+Hassan,Sunflower, 2006-07,Kharif     ,14642.0,5070,0.346264171561262
+Hassan,Sunflower, 2006-07,Rabi       ,992.0,764,0.770161290322581
+Hassan,Sunflower, 2006-07,Summer     ,4.0,3,0.75
+Hassan,Sunflower, 2007-08,Kharif     ,14374.0,8456,0.58828440239321
+Hassan,Sunflower, 2007-08,Rabi       ,734.0,551,0.750681198910082
+Hassan,Sunflower, 2007-08,Summer     ,43.0,44,1.02325581395349
+Hassan,Sunflower, 2008-09,Kharif     ,13994.0,7503,0.536158353580106
+Hassan,Sunflower, 2008-09,Rabi       ,736.0,721,0.979619565217391
+Hassan,Sunflower, 2008-09,Summer     ,18.0,14,0.777777777777778
+Hassan,Sunflower, 2009-10,Kharif     ,14440.0,7602,0.526454293628809
+Hassan,Sunflower, 2009-10,Rabi       ,840.0,521,0.620238095238095
+Hassan,Sunflower, 2009-10,Summer     ,15.0,13,0.866666666666667
+Hassan,Sunflower, 2010-11,Kharif     ,6636.0,5495,0.828059071729958
+Hassan,Sunflower, 2010-11,Rabi       ,149.0,111,0.74496644295302
+Hassan,Sunflower, 2010-11,Summer     ,24.0,24,1
+Hassan,Sunflower, 2011-12,Kharif     ,2564.0,2539,0.990249609984399
+Hassan,Sunflower, 2011-12,Rabi       ,11.0,3,0.272727272727273
+Hassan,Sunflower, 2012-13,Kharif     ,1125.0,360,0.32
+Hassan,Sunflower, 2012-13,Rabi       ,19.0,9,0.473684210526316
+Hassan,Sunflower, 2013-14,Kharif     ,652.0,274,0.420245398773006
+Hassan,Sunflower, 2014-15,Kharif     ,908.0,691,0.761013215859031
+Hassan,Sunflower, 2015-16,Kharif     ,880.0,505,0.573863636363636
+Hassan,Sunflower, 2016-17,Kharif     ,238.0,98,0.411764705882353
+Hassan,Sunflower, 2017-18,Kharif     ,457.0,318,0.695842450765864
+Hassan,Sunflower, 2018-19,Kharif     ,2.0,1,0.5
+Hassan,Sweet potato, 1999-00,Whole Year ,232.0,1413,6.09051724137931
+Hassan,Sweet potato, 2000-01,Whole Year ,240.0,1463,6.09583333333333
+Hassan,Sweet potato, 2002-03,Whole Year ,209.0,1273,6.09090909090909
+Hassan,Sweet potato, 2003-04,Whole Year ,199.0,1213,6.09547738693467
+Hassan,Sweet potato, 2004-05,Whole Year ,68.0,414,6.08823529411765
+Hassan,Sweet potato, 2005-06,Whole Year ,58.0,353,6.08620689655172
+Hassan,Sweet potato, 2006-07,Whole Year ,63.0,384,6.0952380952381
+Hassan,Sweet potato, 2007-08,Whole Year ,67.0,408,6.08955223880597
+Hassan,Sweet potato, 2008-09,Whole Year ,60.0,607,10.1166666666667
+Hassan,Sweet potato, 2009-10,Whole Year ,77.0,506,6.57142857142857
+Hassan,Sweet potato, 2010-11,Whole Year ,95.0,783,8.24210526315789
+Hassan,Sweet potato, 2011-12,Whole Year ,13.0,189,14.5384615384615
+Hassan,Sweet potato, 2012-13,Whole Year ,25.0,388,15.52
+Hassan,Sweet potato, 2013-14,Whole Year ,46.0,675,14.6739130434783
+Hassan,Sweet potato, 2014-15,Whole Year ,51.0,865,16.9607843137255
+Hassan,Sweet potato, 2015-16,Whole Year ,87.0,1383,15.8965517241379
+Hassan,Sweet potato, 2016-17,Whole Year ,91.0,1091,11.989010989011
+Hassan,Sweet potato, 2017-18,Whole Year ,101.0,1311,12.980198019802
+Hassan,Sweet potato, 2018-19,Whole Year ,153.0,2063,13.483660130719
+Hassan,Tapioca, 2012-13,Whole Year ,57.0,602,10.5614035087719
+Hassan,Tapioca, 2015-16,Whole Year ,36.0,270,7.5
+Hassan,Tapioca, 2016-17,Whole Year ,24.0,146,6.08333333333333
+Hassan,Tapioca, 2017-18,Whole Year ,25.0,209,8.36
+Hassan,Tapioca, 2018-19,Whole Year ,22.0,292,13.2727272727273
+Hassan,Tobacco, 1999-00,Whole Year ,3934.0,2433,0.618454499237417
+Hassan,Tobacco, 2000-01,Whole Year ,3897.0,2636,0.676417757249166
+Hassan,Tobacco, 2002-03,Whole Year ,7165.0,4894,0.683042568039079
+Hassan,Tobacco, 2003-04,Whole Year ,6287.0,4330,0.68872276125338
+Hassan,Tobacco, 2004-05,Whole Year ,7876.0,6487,0.823641442356526
+Hassan,Tobacco, 2005-06,Whole Year ,8964.0,4777,0.532909415439536
+Hassan,Tobacco, 2006-07,Whole Year ,8875.0,7074,0.797070422535211
+Hassan,Tobacco, 2007-08,Whole Year ,9315.0,6487,0.696403650026838
+Hassan,Tobacco, 2008-09,Whole Year ,9180.0,7483,0.815141612200436
+Hassan,Tobacco, 2009-10,Whole Year ,12050.0,10806,0.896763485477178
+Hassan,Tobacco, 2010-11,Whole Year ,15525.0,14881,0.958518518518519
+Hassan,Tobacco, 2011-12,Whole Year ,15902.0,15666,0.985159099484341
+Hassan,Tobacco, 2012-13,Whole Year ,14688.0,14149,0.963303376906318
+Hassan,Tobacco, 2013-14,Whole Year ,13850.0,11881,0.857833935018051
+Hassan,Tobacco, 2014-15,Whole Year ,12037.0,10543,0.875882695023677
+Hassan,Tobacco, 2016-17,Whole Year ,11215.0,9259,0.825590726705305
+Hassan,Tobacco, 2017-18,Whole Year ,12440.0,10908,0.876848874598071
+Hassan,Tobacco, 2018-19,Whole Year ,11116.0,7318,0.658330334652753
+Hassan,Turmeric, 1997-98,Whole Year ,16.0,89,5.5625
+Hassan,Turmeric, 1998-99,Whole Year ,11.0,56,5.09090909090909
+Hassan,Turmeric, 1999-00,Whole Year ,20.0,87,4.35
+Hassan,Turmeric, 2000-01,Whole Year ,22.0,98,4.45454545454545
+Hassan,Turmeric, 2001-02,Whole Year ,18.0,93,5.16666666666667
+Hassan,Turmeric, 2002-03,Whole Year ,31.0,134,4.32258064516129
+Hassan,Turmeric, 2003-04,Whole Year ,10.0,49,4.9
+Hassan,Turmeric, 2004-05,Whole Year ,81.0,385,4.75308641975309
+Hassan,Turmeric, 2005-06,Whole Year ,115.0,614,5.33913043478261
+Hassan,Turmeric, 2006-07,Whole Year ,50.0,44,0.88
+Hassan,Turmeric, 2007-08,Whole Year ,97.0,754,7.77319587628866
+Hassan,Turmeric, 2008-09,Whole Year ,118.0,110,0.932203389830508
+Hassan,Turmeric, 2009-10,Whole Year ,135.0,630,4.66666666666667
+Hassan,Turmeric, 2010-11,Whole Year ,1.0,5,5
+Hassan,Turmeric, 2011-12,Whole Year ,1633.0,8203,5.02327005511329
+Hassan,Turmeric, 2012-13,Whole Year ,278.0,1305,4.69424460431655
+Hassan,Turmeric, 2013-14,Whole Year ,240.0,1438,5.99166666666667
+Hassan,Turmeric, 2014-15,Whole Year ,67.0,323,4.82089552238806
+Hassan,Turmeric, 2015-16,Whole Year ,179.0,991,5.53631284916201
+Hassan,Turmeric, 2016-17,Whole Year ,120.0,711,5.925
+Hassan,Turmeric, 2017-18,Whole Year ,119.0,755,6.34453781512605
+Hassan,Turmeric, 2018-19,Whole Year ,9.0,52,5.77777777777778
+Hassan,Urad, 1999-00,Kharif     ,1570.0,510,0.32484076433121
+Hassan,Urad, 1999-00,Rabi       ,196.0,73,0.372448979591837
+Hassan,Urad, 2000-01,Kharif     ,968.0,498,0.514462809917355
+Hassan,Urad, 2000-01,Rabi       ,183.0,64,0.349726775956284
+Hassan,Urad, 2001-02,Kharif     ,828.0,54,0.0652173913043478
+Hassan,Urad, 2001-02,Rabi       ,338.0,127,0.375739644970414
+Hassan,Urad, 2002-03,Kharif     ,751.0,107,0.142476697736352
+Hassan,Urad, 2002-03,Rabi       ,221.0,26,0.117647058823529
+Hassan,Urad, 2003-04,Kharif     ,435.0,110,0.252873563218391
+Hassan,Urad, 2003-04,Rabi       ,72.0,10,0.138888888888889
+Hassan,Urad, 2004-05,Kharif     ,1152.0,132,0.114583333333333
+Hassan,Urad, 2004-05,Rabi       ,144.0,50,0.347222222222222
+Hassan,Urad, 2005-06,Kharif     ,580.0,114,0.196551724137931
+Hassan,Urad, 2005-06,Rabi       ,148.0,71,0.47972972972973
+Hassan,Urad, 2006-07,Kharif     ,603.0,82,0.135986733001658
+Hassan,Urad, 2006-07,Rabi       ,139.0,73,0.525179856115108
+Hassan,Urad, 2007-08,Kharif     ,648.0,279,0.430555555555556
+Hassan,Urad, 2007-08,Rabi       ,46.0,18,0.391304347826087
+Hassan,Urad, 2008-09,Kharif     ,541.0,144,0.266173752310536
+Hassan,Urad, 2008-09,Rabi       ,45.0,20,0.444444444444444
+Hassan,Urad, 2009-10,Kharif     ,1320.0,112,0.0848484848484848
+Hassan,Urad, 2009-10,Rabi       ,45.0,18,0.4
+Hassan,Urad, 2010-11,Kharif     ,2912.0,1057,0.362980769230769
+Hassan,Urad, 2010-11,Rabi       ,40.0,19,0.475
+Hassan,Urad, 2011-12,Kharif     ,2767.0,402,0.145283700758945
+Hassan,Urad, 2011-12,Rabi       ,5.0,3,0.6
+Hassan,Urad, 2012-13,Kharif     ,2909.0,144,0.0495015469233414
+Hassan,Urad, 2012-13,Rabi       ,3.0,2,0.666666666666667
+Hassan,Urad, 2013-14,Kharif     ,1454.0,111,0.0763411279229711
+Hassan,Urad, 2013-14,Rabi       ,5.0,3,0.6
+Hassan,Urad, 2014-15,Kharif     ,2208.0,422,0.191123188405797
+Hassan,Urad, 2014-15,Rabi       ,45.0,20,0.444444444444444
+Hassan,Urad, 2015-16,Kharif     ,1770.0,494,0.27909604519774
+Hassan,Urad, 2016-17,Kharif     ,1035.0,180,0.173913043478261
+Hassan,Urad, 2016-17,Rabi       ,27.0,13,0.481481481481481
+Hassan,Urad, 2017-18,Kharif     ,1095.0,61,0.0557077625570776
+Hassan,Urad, 2018-19,Kharif     ,1422.0,531,0.373417721518987
+Hassan,Wheat, 2018-19,Rabi       ,9.0,9,1

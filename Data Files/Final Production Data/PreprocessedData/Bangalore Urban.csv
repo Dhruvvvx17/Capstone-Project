@@ -1,0 +1,828 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Bangalore Urban,Arecanut, 1997-98,Whole Year ,762.0,1066,1.3989501312336
+Bangalore Urban,Arecanut, 1998-99,Whole Year ,81.0,546,6.74074074074074
+Bangalore Urban,Arecanut, 2000-01,Whole Year ,81.0,113,1.39506172839506
+Bangalore Urban,Arecanut, 2001-02,Whole Year ,81.0,113,1.39506172839506
+Bangalore Urban,Arecanut, 2003-04,Whole Year ,216.0,302,1.39814814814815
+Bangalore Urban,Arecanut, 2004-05,Whole Year ,233.0,326,1.39914163090129
+Bangalore Urban,Arecanut, 2005-06,Whole Year ,274.0,1845,6.73357664233577
+Bangalore Urban,Arecanut, 2006-07,Whole Year ,247.0,346,1.40080971659919
+Bangalore Urban,Arecanut, 2007-08,Whole Year ,326.0,2196,6.73619631901841
+Bangalore Urban,Arecanut, 2008-09,Whole Year ,315.0,2122,6.73650793650794
+Bangalore Urban,Arecanut, 2009-10,Whole Year ,384.0,2586,6.734375
+Bangalore Urban,Arecanut, 2010-11,Whole Year ,383.0,4141,10.8120104438642
+Bangalore Urban,Arecanut, 2011-12,Whole Year ,401.0,3247,8.09725685785536
+Bangalore Urban,Arecanut, 2012-13,Whole Year ,346.0,2777,8.02601156069364
+Bangalore Urban,Arecanut, 2013-14,Whole Year ,464.0,5168,11.1379310344828
+Bangalore Urban,Arecanut, 2014-15,Whole Year ,231.0,2137,9.25108225108225
+Bangalore Urban,Arecanut, 2015-16,Whole Year ,222.0,2176,9.8018018018018
+Bangalore Urban,Arecanut, 2016-17,Whole Year ,264.0,2682,10.1590909090909
+Bangalore Urban,Arecanut, 2017-18,Whole Year ,297.0,3221,10.8451178451178
+Bangalore Urban,Arecanut, 2018-19,Whole Year ,401.0,3580,8.92768079800499
+Bangalore Urban,Arhar/Tur, 1997-98,Kharif     ,6057.0,4131,0.682020802377415
+Bangalore Urban,Arhar/Tur, 1998-99,Kharif     ,936.0,436,0.465811965811966
+Bangalore Urban,Arhar/Tur, 1999-00,Kharif     ,1417.0,808,0.570218772053635
+Bangalore Urban,Arhar/Tur, 2000-01,Kharif     ,909.0,411,0.452145214521452
+Bangalore Urban,Arhar/Tur, 2001-02,Kharif     ,553.0,169,0.305605786618445
+Bangalore Urban,Arhar/Tur, 2002-03,Kharif     ,319.0,149,0.467084639498433
+Bangalore Urban,Arhar/Tur, 2003-04,Kharif     ,843.0,316,0.37485172004745
+Bangalore Urban,Arhar/Tur, 2004-05,Kharif     ,1008.0,522,0.517857142857143
+Bangalore Urban,Arhar/Tur, 2005-06,Kharif     ,849.0,577,0.67962308598351
+Bangalore Urban,Arhar/Tur, 2006-07,Kharif     ,586.0,258,0.440273037542662
+Bangalore Urban,Arhar/Tur, 2007-08,Kharif     ,630.0,417,0.661904761904762
+Bangalore Urban,Arhar/Tur, 2008-09,Kharif     ,714.0,376,0.526610644257703
+Bangalore Urban,Arhar/Tur, 2009-10,Kharif     ,617.0,285,0.461912479740681
+Bangalore Urban,Arhar/Tur, 2010-11,Kharif     ,737.0,432,0.586160108548168
+Bangalore Urban,Arhar/Tur, 2011-12,Kharif     ,1013.0,464,0.458045409674235
+Bangalore Urban,Arhar/Tur, 2012-13,Kharif     ,638.0,452,0.70846394984326
+Bangalore Urban,Arhar/Tur, 2013-14,Kharif     ,1011.0,929,0.9188921859545
+Bangalore Urban,Arhar/Tur, 2014-15,Kharif     ,2093.0,1362,0.650740563784042
+Bangalore Urban,Arhar/Tur, 2015-16,Kharif     ,463.0,170,0.367170626349892
+Bangalore Urban,Arhar/Tur, 2016-17,Kharif     ,821.0,820,0.99878197320341
+Bangalore Urban,Arhar/Tur, 2017-18,Kharif     ,600.0,569,0.948333333333333
+Bangalore Urban,Arhar/Tur, 2018-19,Kharif     ,461.0,279,0.605206073752712
+Bangalore Urban,Bajra, 2012-13,Kharif     ,2.0,2,1
+Bangalore Urban,Bajra, 2013-14,Kharif     ,7.0,8,1.14285714285714
+Bangalore Urban,Bajra, 2017-18,Kharif     ,3.0,5,1.66666666666667
+Bangalore Urban,Bajra, 2018-19,Kharif     ,9.0,8,0.888888888888889
+Bangalore Urban,Banana, 1999-00,Whole Year ,1191.0,27946,23.4643157010915
+Bangalore Urban,Banana, 2000-01,Whole Year ,1359.0,24982,18.3826342899191
+Bangalore Urban,Banana, 2002-03,Whole Year ,345.0,7631,22.1188405797101
+Bangalore Urban,Banana, 2003-04,Whole Year ,314.0,6121,19.4936305732484
+Bangalore Urban,Banana, 2004-05,Whole Year ,530.0,23206,43.7849056603774
+Bangalore Urban,Banana, 2005-06,Whole Year ,490.0,5733,11.7
+Bangalore Urban,Banana, 2006-07,Whole Year ,532.0,2808,5.2781954887218
+Bangalore Urban,Banana, 2007-08,Whole Year ,415.0,15375,37.0481927710843
+Bangalore Urban,Banana, 2008-09,Whole Year ,372.0,16495,44.3413978494624
+Bangalore Urban,Banana, 2009-10,Whole Year ,408.0,13127,32.1740196078431
+Bangalore Urban,Banana, 2010-11,Whole Year ,255.0,8548,33.521568627451
+Bangalore Urban,Banana, 2011-12,Whole Year ,281.0,7021,24.9857651245552
+Bangalore Urban,Black pepper, 1997-98,Kharif     ,1.0,2,2
+Bangalore Urban,Black pepper, 2009-10,Whole Year ,17.0,63,3.70588235294118
+Bangalore Urban,Black pepper, 2010-11,Whole Year ,16.0,9.7,0.60625
+Bangalore Urban,Black pepper, 2011-12,Whole Year ,15.0,4.2,0.28
+Bangalore Urban,Black pepper, 2012-13,Whole Year ,2.0,6,3
+Bangalore Urban,Black pepper, 2013-14,Whole Year ,2.0,5,2.5
+Bangalore Urban,Black pepper, 2014-15,Whole Year ,2.0,1.2,0.6
+Bangalore Urban,Black pepper, 2015-16,Whole Year ,11.0,8.4,0.763636363636364
+Bangalore Urban,Black pepper, 2016-17,Whole Year ,2.0,1.2,0.6
+Bangalore Urban,Black pepper, 2017-18,Whole Year ,1.0,0.7,0.7
+Bangalore Urban,Cashewnut, 2012-13,Whole Year ,3.0,2,0.666666666666667
+Bangalore Urban,Cashewnut, 2013-14,Whole Year ,3.0,3,1
+Bangalore Urban,Cashewnut, 2018-19,Whole Year ,4.0,5,1.25
+Bangalore Urban,Castor seed, 1998-99,Kharif     ,351.0,299,0.851851851851852
+Bangalore Urban,Castor seed, 1999-00,Kharif     ,508.0,392,0.771653543307087
+Bangalore Urban,Castor seed, 2000-01,Kharif     ,585.0,749,1.28034188034188
+Bangalore Urban,Castor seed, 2001-02,Kharif     ,465.0,344,0.739784946236559
+Bangalore Urban,Castor seed, 2002-03,Kharif     ,308.0,284,0.922077922077922
+Bangalore Urban,Castor seed, 2003-04,Kharif     ,399.0,358,0.897243107769424
+Bangalore Urban,Castor seed, 2004-05,Kharif     ,457.0,396,0.866520787746171
+Bangalore Urban,Castor seed, 2005-06,Kharif     ,512.0,533,1.041015625
+Bangalore Urban,Castor seed, 2006-07,Kharif     ,248.0,198,0.798387096774194
+Bangalore Urban,Castor seed, 2007-08,Kharif     ,277.0,186,0.671480144404332
+Bangalore Urban,Castor seed, 2008-09,Kharif     ,288.0,273,0.947916666666667
+Bangalore Urban,Castor seed, 2009-10,Kharif     ,235.0,152,0.646808510638298
+Bangalore Urban,Castor seed, 2010-11,Kharif     ,265.0,222,0.837735849056604
+Bangalore Urban,Castor seed, 2011-12,Kharif     ,288.0,242,0.840277777777778
+Bangalore Urban,Castor seed, 2012-13,Kharif     ,99.0,62,0.626262626262626
+Bangalore Urban,Castor seed, 2013-14,Kharif     ,57.0,51,0.894736842105263
+Bangalore Urban,Castor seed, 2014-15,Kharif     ,52.0,32,0.615384615384615
+Bangalore Urban,Castor seed, 2015-16,Kharif     ,113.0,59,0.52212389380531
+Bangalore Urban,Castor seed, 2016-17,Kharif     ,95.0,47,0.494736842105263
+Bangalore Urban,Castor seed, 2017-18,Kharif     ,65.0,42,0.646153846153846
+Bangalore Urban,Castor seed, 2018-19,Kharif     ,5.0,3,0.6
+Bangalore Urban,Coconut , 1998-99,Whole Year ,3347.0,15984000,4775.6199581715
+Bangalore Urban,Coconut , 1999-00,Whole Year ,4383.0,20932000,4775.72438968743
+Bangalore Urban,Coconut , 2000-01,Whole Year ,2959.0,13604000,4597.49915511997
+Bangalore Urban,Coconut , 2001-02,Whole Year ,1959.0,7017000,3581.92955589586
+Bangalore Urban,Coconut , 2002-03,Whole Year ,2008.0,7192000,3581.67330677291
+Bangalore Urban,Coconut , 2003-04,Whole Year ,2565.0,9187000,3581.67641325536
+Bangalore Urban,Coconut , 2004-05,Whole Year ,2498.0,8947000,3581.66533226581
+Bangalore Urban,Coconut , 2005-06,Whole Year ,2871.0,10283000,3581.67885754093
+Bangalore Urban,Coconut , 2006-07,Whole Year ,2385.0,8543000,3581.97064989518
+Bangalore Urban,Coconut , 2007-08,Whole Year ,2310.0,11762000,5091.77489177489
+Bangalore Urban,Coconut , 2008-09,Whole Year ,2313.0,15846000,6850.84306095979
+Bangalore Urban,Coconut , 2009-10,Whole Year ,2565.0,18238000,7110.33138401559
+Bangalore Urban,Coconut , 2010-11,Whole Year ,2311.0,22092000,9559.498052791
+Bangalore Urban,Coconut , 2011-12,Whole Year ,2264.0,22508000,9941.69611307421
+Bangalore Urban,Coconut , 2012-13,Whole Year ,2312.0,22763000,9845.58823529412
+Bangalore Urban,Coconut , 2013-14,Whole Year ,2116.0,16788000,7933.83742911153
+Bangalore Urban,Coconut , 2014-15,Whole Year ,1281.0,11431000,8923.49726775956
+Bangalore Urban,Coconut , 2015-16,Whole Year ,1495.0,12502000,8362.54180602007
+Bangalore Urban,Coconut , 2016-17,Whole Year ,1132.0,8850000,7818.02120141343
+Bangalore Urban,Coconut , 2017-18,Whole Year ,1162.0,9188000,7907.05679862306
+Bangalore Urban,Coconut , 2018-19,Whole Year ,1908.0,13513000,7082.28511530398
+Bangalore Urban,Coriander, 1997-98,Whole Year ,154.0,17,0.11038961038961
+Bangalore Urban,Coriander, 1998-99,Whole Year ,12.0,2,0.166666666666667
+Bangalore Urban,Coriander, 1999-00,Whole Year ,19.0,3,0.157894736842105
+Bangalore Urban,Coriander, 2000-01,Whole Year ,24.0,4,0.166666666666667
+Bangalore Urban,Coriander, 2001-02,Whole Year ,29.0,5,0.172413793103448
+Bangalore Urban,Coriander, 2002-03,Whole Year ,24.0,4,0.166666666666667
+Bangalore Urban,Coriander, 2003-04,Whole Year ,33.0,5,0.151515151515152
+Bangalore Urban,Coriander, 2004-05,Whole Year ,32.0,5,0.15625
+Bangalore Urban,Coriander, 2005-06,Whole Year ,30.0,5,0.166666666666667
+Bangalore Urban,Coriander, 2006-07,Whole Year ,24.0,4,0.166666666666667
+Bangalore Urban,Coriander, 2007-08,Whole Year ,21.0,7,0.333333333333333
+Bangalore Urban,Coriander, 2008-09,Whole Year ,17.0,9,0.529411764705882
+Bangalore Urban,Coriander, 2009-10,Whole Year ,16.0,8,0.5
+Bangalore Urban,Coriander, 2010-11,Whole Year ,16.0,6,0.375
+Bangalore Urban,Coriander, 2011-12,Whole Year ,18.0,7,0.388888888888889
+Bangalore Urban,Coriander, 2012-13,Whole Year ,41.0,16,0.390243902439024
+Bangalore Urban,Coriander, 2013-14,Whole Year ,9.0,3,0.333333333333333
+Bangalore Urban,Coriander, 2014-15,Whole Year ,22.0,7,0.318181818181818
+Bangalore Urban,Coriander, 2015-16,Whole Year ,105.0,45,0.428571428571429
+Bangalore Urban,Coriander, 2017-18,Whole Year ,4.0,1,0.25
+Bangalore Urban,Coriander, 2018-19,Whole Year ,153.0,137,0.895424836601307
+Bangalore Urban,Cotton(lint), 2018-19,Kharif     ,14.0,27,1.92857142857143
+Bangalore Urban,Cowpea(Lobia), 2010-11,Kharif     ,456.0,236,0.517543859649123
+Bangalore Urban,Cowpea(Lobia), 2010-11,Rabi       ,40.0,11,0.275
+Bangalore Urban,Cowpea(Lobia), 2011-12,Kharif     ,595.0,314,0.527731092436975
+Bangalore Urban,Cowpea(Lobia), 2011-12,Rabi       ,73.0,26,0.356164383561644
+Bangalore Urban,Cowpea(Lobia), 2012-13,Kharif     ,275.0,75,0.272727272727273
+Bangalore Urban,Cowpea(Lobia), 2012-13,Rabi       ,15.0,5,0.333333333333333
+Bangalore Urban,Cowpea(Lobia), 2012-13,Summer     ,32.0,12,0.375
+Bangalore Urban,Cowpea(Lobia), 2013-14,Kharif     ,269.0,100,0.371747211895911
+Bangalore Urban,Cowpea(Lobia), 2013-14,Rabi       ,27.0,11,0.407407407407407
+Bangalore Urban,Cowpea(Lobia), 2013-14,Summer     ,22.0,9,0.409090909090909
+Bangalore Urban,Cowpea(Lobia), 2014-15,Kharif     ,173.0,76,0.439306358381503
+Bangalore Urban,Cowpea(Lobia), 2014-15,Rabi       ,30.0,11,0.366666666666667
+Bangalore Urban,Cowpea(Lobia), 2014-15,Summer     ,1.0,nan,0
+Bangalore Urban,Cowpea(Lobia), 2015-16,Kharif     ,315.0,130,0.412698412698413
+Bangalore Urban,Cowpea(Lobia), 2015-16,Rabi       ,4.0,2,0.5
+Bangalore Urban,Cowpea(Lobia), 2015-16,Summer     ,6.0,2,0.333333333333333
+Bangalore Urban,Cowpea(Lobia), 2016-17,Kharif     ,236.0,181,0.766949152542373
+Bangalore Urban,Cowpea(Lobia), 2016-17,Rabi       ,6.0,nan,0
+Bangalore Urban,Cowpea(Lobia), 2016-17,Summer     ,3.0,1,0.333333333333333
+Bangalore Urban,Cowpea(Lobia), 2017-18,Kharif     ,217.0,49,0.225806451612903
+Bangalore Urban,Cowpea(Lobia), 2017-18,Rabi       ,11.0,4,0.363636363636364
+Bangalore Urban,Cowpea(Lobia), 2017-18,Summer     ,5.0,1,0.2
+Bangalore Urban,Cowpea(Lobia), 2018-19,Kharif     ,64.0,24,0.375
+Bangalore Urban,Cowpea(Lobia), 2018-19,Rabi       ,1.0,nan,0
+Bangalore Urban,Cowpea(Lobia), 2018-19,Summer     ,7.0,1,0.142857142857143
+Bangalore Urban,Dry chillies, 1997-98,Kharif     ,1284.0,1732,1.34890965732087
+Bangalore Urban,Dry chillies, 1997-98,Rabi       ,186.0,304,1.63440860215054
+Bangalore Urban,Dry chillies, 1998-99,Whole Year ,162.0,159,0.981481481481482
+Bangalore Urban,Dry chillies, 1999-00,Whole Year ,503.0,528,1.04970178926441
+Bangalore Urban,Dry chillies, 2000-01,Whole Year ,270.0,293,1.08518518518519
+Bangalore Urban,Dry chillies, 2001-02,Whole Year ,260.0,766,2.94615384615385
+Bangalore Urban,Dry chillies, 2002-03,Whole Year ,312.0,579,1.85576923076923
+Bangalore Urban,Dry chillies, 2003-04,Whole Year ,597.0,493,0.825795644891122
+Bangalore Urban,Dry chillies, 2004-05,Whole Year ,146.0,185,1.26712328767123
+Bangalore Urban,Dry chillies, 2005-06,Kharif     ,139.0,101,0.726618705035971
+Bangalore Urban,Dry chillies, 2005-06,Rabi       ,21.0,34,1.61904761904762
+Bangalore Urban,Dry chillies, 2005-06,Summer     ,48.0,127,2.64583333333333
+Bangalore Urban,Dry chillies, 2006-07,Whole Year ,179.0,325,1.81564245810056
+Bangalore Urban,Dry chillies, 2007-08,Kharif     ,120.0,108,0.9
+Bangalore Urban,Dry chillies, 2007-08,Rabi       ,19.0,33,1.73684210526316
+Bangalore Urban,Dry chillies, 2007-08,Summer     ,26.0,88,3.38461538461538
+Bangalore Urban,Dry chillies, 2008-09,Kharif     ,105.0,97,0.923809523809524
+Bangalore Urban,Dry chillies, 2008-09,Rabi       ,23.0,39,1.69565217391304
+Bangalore Urban,Dry chillies, 2008-09,Summer     ,23.0,75,3.26086956521739
+Bangalore Urban,Dry chillies, 2009-10,Rabi       ,18.0,54,3
+Bangalore Urban,Dry chillies, 2009-10,Summer     ,25.0,115,4.6
+Bangalore Urban,Dry chillies, 2010-11,Kharif     ,74.0,61,0.824324324324324
+Bangalore Urban,Dry chillies, 2010-11,Rabi       ,28.0,76,2.71428571428571
+Bangalore Urban,Dry chillies, 2010-11,Summer     ,30.0,91,3.03333333333333
+Bangalore Urban,Dry chillies, 2011-12,Kharif     ,118.0,95,0.805084745762712
+Bangalore Urban,Dry chillies, 2011-12,Rabi       ,25.0,59,2.36
+Bangalore Urban,Dry chillies, 2011-12,Summer     ,31.0,109,3.51612903225806
+Bangalore Urban,Dry chillies, 2012-13,Kharif     ,58.0,53,0.913793103448276
+Bangalore Urban,Dry chillies, 2012-13,Rabi       ,6.0,16,2.66666666666667
+Bangalore Urban,Dry chillies, 2012-13,Summer     ,5.0,14,2.8
+Bangalore Urban,Dry chillies, 2013-14,Kharif     ,84.0,93,1.10714285714286
+Bangalore Urban,Dry chillies, 2013-14,Rabi       ,10.0,19,1.9
+Bangalore Urban,Dry chillies, 2013-14,Summer     ,18.0,48,2.66666666666667
+Bangalore Urban,Dry chillies, 2014-15,Kharif     ,46.0,52,1.1304347826087
+Bangalore Urban,Dry chillies, 2014-15,Rabi       ,14.0,26,1.85714285714286
+Bangalore Urban,Dry chillies, 2014-15,Summer     ,21.0,40,1.9047619047619
+Bangalore Urban,Dry chillies, 2015-16,Kharif     ,61.0,53,0.868852459016393
+Bangalore Urban,Dry chillies, 2015-16,Rabi       ,14.0,28,2
+Bangalore Urban,Dry chillies, 2015-16,Summer     ,19.0,39,2.05263157894737
+Bangalore Urban,Dry chillies, 2016-17,Kharif     ,120.0,242,2.01666666666667
+Bangalore Urban,Dry chillies, 2016-17,Rabi       ,23.0,49,2.1304347826087
+Bangalore Urban,Dry chillies, 2016-17,Summer     ,9.0,21,2.33333333333333
+Bangalore Urban,Dry chillies, 2017-18,Kharif     ,61.0,115,1.88524590163934
+Bangalore Urban,Dry chillies, 2017-18,Rabi       ,20.0,40,2
+Bangalore Urban,Dry chillies, 2017-18,Summer     ,35.0,73,2.08571428571429
+Bangalore Urban,Garlic, 1997-98,Whole Year ,21.0,24,1.14285714285714
+Bangalore Urban,Garlic, 2002-03,Whole Year ,8.0,6,0.75
+Bangalore Urban,Garlic, 2003-04,Whole Year ,12.0,9,0.75
+Bangalore Urban,Garlic, 2004-05,Whole Year ,13.0,10,0.769230769230769
+Bangalore Urban,Garlic, 2005-06,Whole Year ,16.0,12,0.75
+Bangalore Urban,Garlic, 2006-07,Whole Year ,14.0,11,0.785714285714286
+Bangalore Urban,Garlic, 2007-08,Whole Year ,13.0,13,1
+Bangalore Urban,Garlic, 2008-09,Whole Year ,19.0,42,2.21052631578947
+Bangalore Urban,Garlic, 2009-10,Whole Year ,19.0,27,1.42105263157895
+Bangalore Urban,Garlic, 2010-11,Whole Year ,18.0,23,1.27777777777778
+Bangalore Urban,Garlic, 2011-12,Whole Year ,20.0,25,1.25
+Bangalore Urban,Garlic, 2012-13,Whole Year ,2.0,3,1.5
+Bangalore Urban,Garlic, 2013-14,Whole Year ,2.0,2,1
+Bangalore Urban,Garlic, 2018-19,Whole Year ,3.0,20,6.66666666666667
+Bangalore Urban,Ginger, 1997-98,Kharif     ,36.0,42,1.16666666666667
+Bangalore Urban,Ginger, 1998-99,Kharif     ,8.0,93,11.625
+Bangalore Urban,Ginger, 1999-00,Kharif     ,10.0,117,11.7
+Bangalore Urban,Ginger, 2000-01,Kharif     ,4.0,47,11.75
+Bangalore Urban,Ginger, 2012-13,Whole Year ,5.0,159,31.8
+Bangalore Urban,Ginger, 2013-14,Whole Year ,4.0,111,27.75
+Bangalore Urban,Ginger, 2014-15,Whole Year ,11.0,320,29.0909090909091
+Bangalore Urban,Ginger, 2015-16,Whole Year ,14.0,523,37.3571428571429
+Bangalore Urban,Ginger, 2016-17,Whole Year ,4.0,101,25.25
+Bangalore Urban,Ginger, 2017-18,Whole Year ,6.0,155,25.8333333333333
+Bangalore Urban,Ginger, 2018-19,Whole Year ,11.0,169.3,15.3909090909091
+Bangalore Urban,Gram, 1999-00,Rabi       ,116.0,60,0.517241379310345
+Bangalore Urban,Gram, 2002-03,Rabi       ,6.0,4,0.666666666666667
+Bangalore Urban,Gram, 2003-04,Rabi       ,13.0,6,0.461538461538462
+Bangalore Urban,Gram, 2004-05,Rabi       ,25.0,13,0.52
+Bangalore Urban,Gram, 2006-07,Kharif     ,23.0,3,0.130434782608696
+Bangalore Urban,Gram, 2009-10,Kharif     ,611.0,322,0.527004909983633
+Bangalore Urban,Gram, 2009-10,Rabi       ,302.0,146,0.483443708609272
+Bangalore Urban,Gram, 2010-11,Rabi       ,5.0,4,0.8
+Bangalore Urban,Gram, 2011-12,Rabi       ,2.0,1,0.5
+Bangalore Urban,Gram, 2013-14,Rabi       ,2.0,2,1
+Bangalore Urban,Gram, 2014-15,Rabi       ,33.0,24,0.727272727272727
+Bangalore Urban,Gram, 2015-16,Rabi       ,9.0,3,0.333333333333333
+Bangalore Urban,Gram, 2018-19,Rabi       ,12.0,6,0.5
+Bangalore Urban,Groundnut, 1997-98,Kharif     ,19469.0,19986,1.02655503621141
+Bangalore Urban,Groundnut, 1997-98,Rabi       ,683.0,624,0.913616398243045
+Bangalore Urban,Groundnut, 1998-99,Kharif     ,769.0,709,0.921976592977893
+Bangalore Urban,Groundnut, 1998-99,Rabi       ,116.0,137,1.18103448275862
+Bangalore Urban,Groundnut, 1999-00,Kharif     ,792.0,473,0.597222222222222
+Bangalore Urban,Groundnut, 1999-00,Rabi       ,51.0,56,1.09803921568627
+Bangalore Urban,Groundnut, 2000-01,Kharif     ,382.0,383,1.00261780104712
+Bangalore Urban,Groundnut, 2000-01,Rabi       ,50.0,55,1.1
+Bangalore Urban,Groundnut, 2001-02,Kharif     ,223.0,138,0.618834080717489
+Bangalore Urban,Groundnut, 2002-03,Kharif     ,81.0,46,0.567901234567901
+Bangalore Urban,Groundnut, 2003-04,Kharif     ,106.0,47,0.443396226415094
+Bangalore Urban,Groundnut, 2003-04,Rabi       ,5.0,5,1
+Bangalore Urban,Groundnut, 2004-05,Kharif     ,183.0,122,0.666666666666667
+Bangalore Urban,Groundnut, 2004-05,Rabi       ,20.0,18,0.9
+Bangalore Urban,Groundnut, 2005-06,Kharif     ,200.0,103,0.515
+Bangalore Urban,Groundnut, 2005-06,Rabi       ,29.0,25,0.862068965517241
+Bangalore Urban,Groundnut, 2006-07,Kharif     ,168.0,61,0.363095238095238
+Bangalore Urban,Groundnut, 2006-07,Rabi       ,7.0,5,0.714285714285714
+Bangalore Urban,Groundnut, 2007-08,Kharif     ,109.0,81,0.743119266055046
+Bangalore Urban,Groundnut, 2007-08,Rabi       ,21.0,18,0.857142857142857
+Bangalore Urban,Groundnut, 2008-09,Kharif     ,146.0,53,0.363013698630137
+Bangalore Urban,Groundnut, 2008-09,Rabi       ,18.0,14,0.777777777777778
+Bangalore Urban,Groundnut, 2009-10,Kharif     ,155.0,75,0.483870967741936
+Bangalore Urban,Groundnut, 2009-10,Rabi       ,12.0,9,0.75
+Bangalore Urban,Groundnut, 2010-11,Kharif     ,114.0,78,0.68421052631579
+Bangalore Urban,Groundnut, 2010-11,Rabi       ,25.0,22,0.88
+Bangalore Urban,Groundnut, 2011-12,Kharif     ,172.0,109,0.633720930232558
+Bangalore Urban,Groundnut, 2011-12,Rabi       ,18.0,17,0.944444444444444
+Bangalore Urban,Groundnut, 2012-13,Kharif     ,100.0,56,0.56
+Bangalore Urban,Groundnut, 2013-14,Kharif     ,48.0,41,0.854166666666667
+Bangalore Urban,Groundnut, 2013-14,Summer     ,7.0,6,0.857142857142857
+Bangalore Urban,Groundnut, 2014-15,Kharif     ,84.0,61,0.726190476190476
+Bangalore Urban,Groundnut, 2015-16,Kharif     ,68.0,46,0.676470588235294
+Bangalore Urban,Groundnut, 2015-16,Summer     ,4.0,3,0.75
+Bangalore Urban,Groundnut, 2016-17,Kharif     ,40.0,20,0.5
+Bangalore Urban,Groundnut, 2016-17,Summer     ,2.0,2,1
+Bangalore Urban,Groundnut, 2017-18,Kharif     ,78.0,86,1.1025641025641
+Bangalore Urban,Groundnut, 2017-18,Summer     ,4.0,5,1.25
+Bangalore Urban,Groundnut, 2018-19,Kharif     ,86.0,59,0.686046511627907
+Bangalore Urban,Groundnut, 2018-19,Summer     ,1.0,1,1
+Bangalore Urban,Horse-gram, 1997-98,Kharif     ,8904.0,4483,0.50348158131177
+Bangalore Urban,Horse-gram, 1997-98,Rabi       ,8299.0,7442,0.896734546330883
+Bangalore Urban,Horse-gram, 1998-99,Kharif     ,2603.0,1246,0.478678447944679
+Bangalore Urban,Horse-gram, 1998-99,Rabi       ,3221.0,1934,0.600434647624961
+Bangalore Urban,Horse-gram, 1999-00,Kharif     ,1237.0,550,0.444624090541633
+Bangalore Urban,Horse-gram, 1999-00,Rabi       ,2830.0,1675,0.591872791519435
+Bangalore Urban,Horse-gram, 2000-01,Kharif     ,1635.0,1462,0.894189602446483
+Bangalore Urban,Horse-gram, 2000-01,Rabi       ,2589.0,1535,0.592893008883739
+Bangalore Urban,Horse-gram, 2001-02,Kharif     ,1086.0,574,0.528545119705341
+Bangalore Urban,Horse-gram, 2001-02,Rabi       ,1190.0,1060,0.890756302521008
+Bangalore Urban,Horse-gram, 2002-03,Kharif     ,2439.0,1928,0.790487904879049
+Bangalore Urban,Horse-gram, 2002-03,Rabi       ,1502.0,1266,0.842876165113182
+Bangalore Urban,Horse-gram, 2003-04,Kharif     ,781.0,697,0.892445582586428
+Bangalore Urban,Horse-gram, 2003-04,Rabi       ,1160.0,564,0.486206896551724
+Bangalore Urban,Horse-gram, 2004-05,Kharif     ,1469.0,1595,1.0857726344452
+Bangalore Urban,Horse-gram, 2004-05,Rabi       ,480.0,286,0.595833333333333
+Bangalore Urban,Horse-gram, 2005-06,Kharif     ,1250.0,714,0.5712
+Bangalore Urban,Horse-gram, 2005-06,Rabi       ,279.0,165,0.591397849462366
+Bangalore Urban,Horse-gram, 2006-07,Kharif     ,114.0,41,0.359649122807018
+Bangalore Urban,Horse-gram, 2006-07,Rabi       ,607.0,191,0.314662273476112
+Bangalore Urban,Horse-gram, 2007-08,Kharif     ,443.0,227,0.512415349887133
+Bangalore Urban,Horse-gram, 2007-08,Rabi       ,583.0,409,0.701543739279588
+Bangalore Urban,Horse-gram, 2008-09,Kharif     ,488.0,221,0.452868852459016
+Bangalore Urban,Horse-gram, 2008-09,Rabi       ,429.0,164,0.382284382284382
+Bangalore Urban,Horse-gram, 2009-10,Kharif     ,611.0,322,0.527004909983633
+Bangalore Urban,Horse-gram, 2009-10,Rabi       ,302.0,146,0.483443708609272
+Bangalore Urban,Horse-gram, 2010-11,Kharif     ,575.0,330,0.573913043478261
+Bangalore Urban,Horse-gram, 2010-11,Rabi       ,290.0,140,0.482758620689655
+Bangalore Urban,Horse-gram, 2011-12,Kharif     ,391.0,214,0.547314578005115
+Bangalore Urban,Horse-gram, 2011-12,Rabi       ,276.0,151,0.547101449275362
+Bangalore Urban,Horse-gram, 2012-13,Kharif     ,690.0,281,0.407246376811594
+Bangalore Urban,Horse-gram, 2012-13,Rabi       ,196.0,121,0.61734693877551
+Bangalore Urban,Horse-gram, 2013-14,Kharif     ,443.0,223,0.503386004514673
+Bangalore Urban,Horse-gram, 2013-14,Rabi       ,166.0,91,0.548192771084337
+Bangalore Urban,Horse-gram, 2014-15,Kharif     ,403.0,188,0.466501240694789
+Bangalore Urban,Horse-gram, 2014-15,Rabi       ,199.0,135,0.678391959798995
+Bangalore Urban,Horse-gram, 2015-16,Kharif     ,534.0,248,0.464419475655431
+Bangalore Urban,Horse-gram, 2015-16,Rabi       ,170.0,67,0.394117647058823
+Bangalore Urban,Horse-gram, 2016-17,Kharif     ,304.0,92,0.302631578947368
+Bangalore Urban,Horse-gram, 2016-17,Rabi       ,126.0,49,0.388888888888889
+Bangalore Urban,Horse-gram, 2017-18,Kharif     ,307.0,212,0.690553745928339
+Bangalore Urban,Horse-gram, 2017-18,Rabi       ,71.0,45,0.633802816901409
+Bangalore Urban,Horse-gram, 2018-19,Kharif     ,546.0,230,0.421245421245421
+Bangalore Urban,Horse-gram, 2018-19,Rabi       ,550.0,277,0.503636363636364
+Bangalore Urban,Jowar, 2003-04,Kharif     ,253.0,268,1.05928853754941
+Bangalore Urban,Jowar, 2012-13,Kharif     ,750.0,918,1.224
+Bangalore Urban,Jowar, 2012-13,Rabi       ,1.0,1,1
+Bangalore Urban,Jowar, 2012-13,Summer     ,14.0,23,1.64285714285714
+Bangalore Urban,Jowar, 2013-14,Kharif     ,852.0,1212,1.42253521126761
+Bangalore Urban,Jowar, 2013-14,Rabi       ,21.0,23,1.0952380952381
+Bangalore Urban,Jowar, 2013-14,Summer     ,12.0,20,1.66666666666667
+Bangalore Urban,Jowar, 2014-15,Kharif     ,538.0,744,1.38289962825279
+Bangalore Urban,Jowar, 2014-15,Rabi       ,42.0,46,1.0952380952381
+Bangalore Urban,Jowar, 2014-15,Summer     ,3.0,6,2
+Bangalore Urban,Jowar, 2018-19,Kharif     ,365.0,501,1.37260273972603
+Bangalore Urban,Linseed, 2012-13,Rabi       ,2.0,nan,0
+Bangalore Urban,Linseed, 2013-14,Rabi       ,2.0,1,0.5
+Bangalore Urban,Linseed, 2015-16,Rabi       ,6.0,1,0.166666666666667
+Bangalore Urban,Maize, 1997-98,Kharif     ,5972.0,16426,2.75050234427328
+Bangalore Urban,Maize, 1997-98,Rabi       ,339.0,694,2.04719764011799
+Bangalore Urban,Maize, 1997-98,Summer     ,440.0,953,2.16590909090909
+Bangalore Urban,Maize, 1998-99,Kharif     ,977.0,3216,3.29170931422723
+Bangalore Urban,Maize, 1998-99,Rabi       ,165.0,338,2.04848484848485
+Bangalore Urban,Maize, 1998-99,Summer     ,273.0,621,2.27472527472527
+Bangalore Urban,Maize, 1999-00,Kharif     ,1253.0,3806,3.03750997605746
+Bangalore Urban,Maize, 1999-00,Rabi       ,23.0,56,2.43478260869565
+Bangalore Urban,Maize, 1999-00,Summer     ,2651.0,4845,1.82761222180309
+Bangalore Urban,Maize, 2000-01,Kharif     ,1134.0,3650,3.21869488536155
+Bangalore Urban,Maize, 2000-01,Rabi       ,84.0,212,2.52380952380952
+Bangalore Urban,Maize, 2000-01,Summer     ,230.0,647,2.81304347826087
+Bangalore Urban,Maize, 2001-02,Kharif     ,767.0,2100,2.73794002607562
+Bangalore Urban,Maize, 2001-02,Rabi       ,40.0,99,2.475
+Bangalore Urban,Maize, 2001-02,Summer     ,118.0,310,2.6271186440678
+Bangalore Urban,Maize, 2002-03,Kharif     ,512.0,1278,2.49609375
+Bangalore Urban,Maize, 2002-03,Rabi       ,125.0,320,2.56
+Bangalore Urban,Maize, 2002-03,Summer     ,87.0,222,2.55172413793103
+Bangalore Urban,Maize, 2003-04,Kharif     ,601.0,1832,3.04825291181364
+Bangalore Urban,Maize, 2003-04,Rabi       ,34.0,78,2.29411764705882
+Bangalore Urban,Maize, 2003-04,Summer     ,42.0,106,2.52380952380952
+Bangalore Urban,Maize, 2004-05,Kharif     ,648.0,2164,3.33950617283951
+Bangalore Urban,Maize, 2004-05,Rabi       ,6.0,18,3
+Bangalore Urban,Maize, 2004-05,Summer     ,70.0,214,3.05714285714286
+Bangalore Urban,Maize, 2005-06,Kharif     ,1018.0,3640,3.57563850687623
+Bangalore Urban,Maize, 2005-06,Rabi       ,41.0,147,3.58536585365854
+Bangalore Urban,Maize, 2005-06,Summer     ,167.0,516,3.08982035928144
+Bangalore Urban,Maize, 2006-07,Kharif     ,665.0,2295,3.45112781954887
+Bangalore Urban,Maize, 2006-07,Rabi       ,24.0,76,3.16666666666667
+Bangalore Urban,Maize, 2006-07,Summer     ,169.0,542,3.20710059171598
+Bangalore Urban,Maize, 2007-08,Kharif     ,601.0,2005,3.33610648918469
+Bangalore Urban,Maize, 2007-08,Rabi       ,133.0,475,3.57142857142857
+Bangalore Urban,Maize, 2007-08,Summer     ,104.0,336,3.23076923076923
+Bangalore Urban,Maize, 2008-09,Kharif     ,697.0,1990,2.85509325681492
+Bangalore Urban,Maize, 2008-09,Rabi       ,123.0,388,3.15447154471545
+Bangalore Urban,Maize, 2008-09,Summer     ,91.0,286,3.14285714285714
+Bangalore Urban,Maize, 2009-10,Kharif     ,442.0,1053,2.38235294117647
+Bangalore Urban,Maize, 2009-10,Rabi       ,84.0,221,2.63095238095238
+Bangalore Urban,Maize, 2009-10,Summer     ,129.0,353,2.73643410852713
+Bangalore Urban,Maize, 2010-11,Kharif     ,553.0,1964,3.55153707052441
+Bangalore Urban,Maize, 2010-11,Rabi       ,60.0,177,2.95
+Bangalore Urban,Maize, 2010-11,Summer     ,136.0,463,3.40441176470588
+Bangalore Urban,Maize, 2011-12,Kharif     ,633.0,1963,3.10110584518167
+Bangalore Urban,Maize, 2011-12,Rabi       ,73.0,236,3.23287671232877
+Bangalore Urban,Maize, 2011-12,Summer     ,125.0,426,3.408
+Bangalore Urban,Maize, 2012-13,Kharif     ,808.0,2072,2.56435643564356
+Bangalore Urban,Maize, 2012-13,Rabi       ,68.0,206,3.02941176470588
+Bangalore Urban,Maize, 2012-13,Summer     ,101.0,347,3.43564356435644
+Bangalore Urban,Maize, 2013-14,Kharif     ,907.0,2875,3.16979051819184
+Bangalore Urban,Maize, 2013-14,Rabi       ,171.0,524,3.06432748538012
+Bangalore Urban,Maize, 2013-14,Summer     ,160.0,519,3.24375
+Bangalore Urban,Maize, 2014-15,Kharif     ,634.0,1985,3.13091482649842
+Bangalore Urban,Maize, 2014-15,Rabi       ,118.0,399,3.38135593220339
+Bangalore Urban,Maize, 2014-15,Summer     ,40.0,130,3.25
+Bangalore Urban,Maize, 2015-16,Kharif     ,917.0,2505,2.73173391494002
+Bangalore Urban,Maize, 2015-16,Rabi       ,106.0,263,2.4811320754717
+Bangalore Urban,Maize, 2015-16,Summer     ,106.0,298,2.81132075471698
+Bangalore Urban,Maize, 2016-17,Kharif     ,1576.0,8209,5.20875634517767
+Bangalore Urban,Maize, 2016-17,Rabi       ,199.0,598,3.00502512562814
+Bangalore Urban,Maize, 2016-17,Summer     ,126.0,391,3.1031746031746
+Bangalore Urban,Maize, 2017-18,Kharif     ,1037.0,5157,4.97299903567985
+Bangalore Urban,Maize, 2017-18,Rabi       ,92.0,342,3.71739130434783
+Bangalore Urban,Maize, 2017-18,Summer     ,24.0,90,3.75
+Bangalore Urban,Maize, 2018-19,Kharif     ,1071.0,3276,3.05882352941176
+Bangalore Urban,Maize, 2018-19,Rabi       ,96.0,326,3.39583333333333
+Bangalore Urban,Maize, 2018-19,Summer     ,40.0,138,3.45
+Bangalore Urban,Moong(Green Gram), 1998-99,Kharif     ,112.0,22,0.196428571428571
+Bangalore Urban,Moong(Green Gram), 1999-00,Kharif     ,153.0,53,0.34640522875817
+Bangalore Urban,Moong(Green Gram), 2000-01,Kharif     ,122.0,51,0.418032786885246
+Bangalore Urban,Moong(Green Gram), 2001-02,Kharif     ,45.0,12,0.266666666666667
+Bangalore Urban,Moong(Green Gram), 2002-03,Kharif     ,16.0,1,0.0625
+Bangalore Urban,Moong(Green Gram), 2003-04,Kharif     ,15.0,2,0.133333333333333
+Bangalore Urban,Moong(Green Gram), 2004-05,Kharif     ,22.0,3,0.136363636363636
+Bangalore Urban,Moong(Green Gram), 2005-06,Kharif     ,19.0,5,0.263157894736842
+Bangalore Urban,Moong(Green Gram), 2006-07,Kharif     ,25.0,3,0.12
+Bangalore Urban,Moong(Green Gram), 2007-08,Kharif     ,46.0,10,0.217391304347826
+Bangalore Urban,Moong(Green Gram), 2008-09,Kharif     ,49.0,7,0.142857142857143
+Bangalore Urban,Moong(Green Gram), 2009-10,Kharif     ,50.0,6,0.12
+Bangalore Urban,Moong(Green Gram), 2010-11,Kharif     ,49.0,13,0.26530612244898
+Bangalore Urban,Moong(Green Gram), 2011-12,Kharif     ,28.0,7,0.25
+Bangalore Urban,Moong(Green Gram), 2012-13,Kharif     ,12.0,4,0.333333333333333
+Bangalore Urban,Moong(Green Gram), 2012-13,Rabi       ,2.0,nan,0
+Bangalore Urban,Moong(Green Gram), 2013-14,Kharif     ,21.0,5,0.238095238095238
+Bangalore Urban,Moong(Green Gram), 2013-14,Rabi       ,4.0,1,0.25
+Bangalore Urban,Moong(Green Gram), 2014-15,Kharif     ,13.0,3,0.230769230769231
+Bangalore Urban,Moong(Green Gram), 2015-16,Kharif     ,14.0,2,0.142857142857143
+Bangalore Urban,Moong(Green Gram), 2016-17,Kharif     ,22.0,6,0.272727272727273
+Bangalore Urban,Moong(Green Gram), 2017-18,Kharif     ,13.0,4,0.307692307692308
+Bangalore Urban,Moong(Green Gram), 2018-19,Kharif     ,5.0,2,0.4
+Bangalore Urban,Niger seed, 1998-99,Kharif     ,688.0,170,0.247093023255814
+Bangalore Urban,Niger seed, 1999-00,Kharif     ,518.0,128,0.247104247104247
+Bangalore Urban,Niger seed, 2000-01,Kharif     ,910.0,224,0.246153846153846
+Bangalore Urban,Niger seed, 2001-02,Kharif     ,635.0,157,0.247244094488189
+Bangalore Urban,Niger seed, 2002-03,Kharif     ,360.0,89,0.247222222222222
+Bangalore Urban,Niger seed, 2003-04,Kharif     ,646.0,159,0.246130030959752
+Bangalore Urban,Niger seed, 2004-05,Kharif     ,655.0,161,0.245801526717557
+Bangalore Urban,Niger seed, 2005-06,Kharif     ,460.0,113,0.245652173913043
+Bangalore Urban,Niger seed, 2006-07,Kharif     ,380.0,94,0.247368421052632
+Bangalore Urban,Niger seed, 2007-08,Kharif     ,573.0,216,0.37696335078534
+Bangalore Urban,Niger seed, 2008-09,Kharif     ,464.0,159,0.342672413793103
+Bangalore Urban,Niger seed, 2009-10,Kharif     ,425.0,149,0.350588235294118
+Bangalore Urban,Niger seed, 2010-11,Kharif     ,417.0,126,0.302158273381295
+Bangalore Urban,Niger seed, 2011-12,Kharif     ,364.0,99,0.271978021978022
+Bangalore Urban,Niger seed, 2012-13,Kharif     ,134.0,32,0.238805970149254
+Bangalore Urban,Niger seed, 2013-14,Kharif     ,161.0,35,0.217391304347826
+Bangalore Urban,Niger seed, 2014-15,Kharif     ,88.0,23,0.261363636363636
+Bangalore Urban,Niger seed, 2015-16,Kharif     ,96.0,25,0.260416666666667
+Bangalore Urban,Niger seed, 2016-17,Kharif     ,77.0,14,0.181818181818182
+Bangalore Urban,Niger seed, 2017-18,Kharif     ,26.0,6,0.230769230769231
+Bangalore Urban,Niger seed, 2018-19,Kharif     ,10.0,2,0.2
+Bangalore Urban,Onion, 1998-99,Kharif     ,74.0,335,4.52702702702703
+Bangalore Urban,Onion, 1999-00,Whole Year ,137.0,996,7.27007299270073
+Bangalore Urban,Onion, 2000-01,Whole Year ,120.0,706,5.88333333333333
+Bangalore Urban,Onion, 2001-02,Whole Year ,157.0,1143,7.28025477707006
+Bangalore Urban,Onion, 2002-03,Whole Year ,84.0,625,7.44047619047619
+Bangalore Urban,Onion, 2003-04,Whole Year ,76.0,419,5.51315789473684
+Bangalore Urban,Onion, 2004-05,Whole Year ,90.0,744,8.26666666666667
+Bangalore Urban,Onion, 2005-06,Kharif     ,77.0,429,5.57142857142857
+Bangalore Urban,Onion, 2006-07,Whole Year ,32.0,178,5.5625
+Bangalore Urban,Onion, 2007-08,Kharif     ,32.0,191,5.96875
+Bangalore Urban,Onion, 2008-09,Kharif     ,44.0,228,5.18181818181818
+Bangalore Urban,Onion, 2009-10,Kharif     ,45.0,159,3.53333333333333
+Bangalore Urban,Onion, 2010-11,Kharif     ,42.0,262,6.23809523809524
+Bangalore Urban,Onion, 2011-12,Kharif     ,44.0,217,4.93181818181818
+Bangalore Urban,Onion, 2012-13,Kharif     ,26.0,138,5.30769230769231
+Bangalore Urban,Onion, 2012-13,Rabi       ,1.0,7,7
+Bangalore Urban,Onion, 2012-13,Summer     ,14.0,79,5.64285714285714
+Bangalore Urban,Onion, 2013-14,Kharif     ,31.0,205,6.61290322580645
+Bangalore Urban,Onion, 2013-14,Rabi       ,8.0,56,7
+Bangalore Urban,Onion, 2014-15,Kharif     ,8.0,41,5.125
+Bangalore Urban,Onion, 2015-16,Kharif     ,1.0,4,4
+Bangalore Urban,Onion, 2015-16,Rabi       ,1.0,6,6
+Bangalore Urban,Onion, 2016-17,Kharif     ,3.0,22,7.33333333333333
+Bangalore Urban,Onion, 2016-17,Rabi       ,3.0,43,14.3333333333333
+Bangalore Urban,Onion, 2017-18,Kharif     ,16.0,177,11.0625
+Bangalore Urban,Onion, 2017-18,Rabi       ,2.0,28,14
+Bangalore Urban,Onion, 2017-18,Summer     ,13.0,157,12.0769230769231
+Bangalore Urban,Onion, 2018-19,Kharif     ,16.0,121,7.5625
+Bangalore Urban,Onion, 2018-19,Rabi       ,9.0,119,13.2222222222222
+Bangalore Urban,Onion, 2018-19,Summer     ,10.0,106,10.6
+Bangalore Urban,Other  Rabi pulses, 1999-00,Rabi       ,472.0,63,0.133474576271186
+Bangalore Urban,Other  Rabi pulses, 2000-01,Rabi       ,125.0,14,0.112
+Bangalore Urban,Other  Rabi pulses, 2001-02,Rabi       ,176.0,22,0.125
+Bangalore Urban,Other  Rabi pulses, 2002-03,Rabi       ,681.0,91,0.133627019089574
+Bangalore Urban,Other  Rabi pulses, 2003-04,Rabi       ,59.0,8,0.135593220338983
+Bangalore Urban,Other  Rabi pulses, 2004-05,Rabi       ,87.0,10,0.114942528735632
+Bangalore Urban,Other  Rabi pulses, 2005-06,Rabi       ,86.0,11,0.127906976744186
+Bangalore Urban,Other  Rabi pulses, 2006-07,Rabi       ,113.0,44,0.389380530973451
+Bangalore Urban,Other  Rabi pulses, 2007-08,Rabi       ,153.0,54,0.352941176470588
+Bangalore Urban,Other  Rabi pulses, 2008-09,Rabi       ,187.0,91,0.486631016042781
+Bangalore Urban,Other  Rabi pulses, 2009-10,Rabi       ,79.0,34,0.430379746835443
+Bangalore Urban,Other  Rabi pulses, 2010-11,Rabi       ,62.0,34,0.548387096774194
+Bangalore Urban,Other  Rabi pulses, 2011-12,Rabi       ,68.0,64,0.941176470588235
+Bangalore Urban,Other  Rabi pulses, 2012-13,Rabi       ,96.0,44,0.458333333333333
+Bangalore Urban,Other  Rabi pulses, 2013-14,Rabi       ,42.0,33,0.785714285714286
+Bangalore Urban,Other  Rabi pulses, 2014-15,Rabi       ,39.0,29,0.743589743589744
+Bangalore Urban,Other  Rabi pulses, 2015-16,Rabi       ,36.0,24,0.666666666666667
+Bangalore Urban,Other  Rabi pulses, 2016-17,Rabi       ,45.0,2,0.0444444444444444
+Bangalore Urban,Other  Rabi pulses, 2017-18,Rabi       ,46.0,36,0.782608695652174
+Bangalore Urban,Other  Rabi pulses, 2018-19,Rabi       ,36.0,27,0.75
+Bangalore Urban,Other Kharif pulses, 1999-00,Kharif     ,2109.0,709,0.336178283546705
+Bangalore Urban,Other Kharif pulses, 2000-01,Kharif     ,5621.0,975,0.173456680305995
+Bangalore Urban,Other Kharif pulses, 2001-02,Kharif     ,4974.0,845,0.169883393646964
+Bangalore Urban,Other Kharif pulses, 2002-03,Kharif     ,1209.0,389,0.321753515301902
+Bangalore Urban,Other Kharif pulses, 2003-04,Kharif     ,4421.0,754,0.170549649400588
+Bangalore Urban,Other Kharif pulses, 2004-05,Kharif     ,3981.0,676.77,0.17
+Bangalore Urban,Other Kharif pulses, 2005-06,Kharif     ,4125.0,701,0.169939393939394
+Bangalore Urban,Other Kharif pulses, 2006-07,Kharif     ,2439.0,4722,1.9360393603936
+Bangalore Urban,Other Kharif pulses, 2007-08,Kharif     ,2658.0,6387,2.40293453724605
+Bangalore Urban,Other Kharif pulses, 2008-09,Kharif     ,2486.0,2318,0.932421560740145
+Bangalore Urban,Other Kharif pulses, 2009-10,Kharif     ,2402.0,1913,0.796419650291424
+Bangalore Urban,Other Kharif pulses, 2010-11,Kharif     ,1806.0,2107,1.16666666666667
+Bangalore Urban,Other Kharif pulses, 2011-12,Kharif     ,1797.0,2422,1.34780189204229
+Bangalore Urban,Other Kharif pulses, 2012-13,Kharif     ,1302.0,1182,0.907834101382488
+Bangalore Urban,Other Kharif pulses, 2013-14,Kharif     ,1360.0,1776,1.30588235294118
+Bangalore Urban,Other Kharif pulses, 2014-15,Kharif     ,925.0,1744,1.88540540540541
+Bangalore Urban,Other Kharif pulses, 2015-16,Kharif     ,1090.0,771,0.707339449541284
+Bangalore Urban,Other Kharif pulses, 2016-17,Kharif     ,1019.0,379,0.371933267909715
+Bangalore Urban,Other Kharif pulses, 2017-18,Kharif     ,861.0,853,0.990708478513356
+Bangalore Urban,Other Kharif pulses, 2018-19,Kharif     ,591.0,366,0.619289340101523
+Bangalore Urban,Peas & beans (Pulses), 1998-99,Kharif     ,13.0,119,9.15384615384615
+Bangalore Urban,Peas & beans (Pulses), 1998-99,Rabi       ,19.0,168,8.8421052631579
+Bangalore Urban,Peas & beans (Pulses), 1998-99,Summer     ,24.0,213,8.875
+Bangalore Urban,Peas & beans (Pulses), 2001-02,Whole Year ,121.0,942,7.78512396694215
+Bangalore Urban,Peas & beans (Pulses), 2005-06,Kharif     ,103.0,630,6.11650485436893
+Bangalore Urban,Peas & beans (Pulses), 2005-06,Rabi       ,28.0,329,11.75
+Bangalore Urban,Peas & beans (Pulses), 2005-06,Summer     ,13.0,66,5.07692307692308
+Bangalore Urban,Peas & beans (Pulses), 2010-11,Kharif     ,42.0,374,8.90476190476191
+Bangalore Urban,Peas & beans (Pulses), 2010-11,Rabi       ,52.0,399,7.67307692307692
+Bangalore Urban,Peas & beans (Pulses), 2010-11,Summer     ,55.0,487,8.85454545454546
+Bangalore Urban,Peas & beans (Pulses), 2011-12,Kharif     ,54.0,491,9.09259259259259
+Bangalore Urban,Peas & beans (Pulses), 2011-12,Rabi       ,56.0,412,7.35714285714286
+Bangalore Urban,Peas & beans (Pulses), 2011-12,Summer     ,64.0,727,11.359375
+Bangalore Urban,Potato, 1998-99,Kharif     ,104.0,2219,21.3365384615385
+Bangalore Urban,Potato, 1998-99,Summer     ,16.0,407,25.4375
+Bangalore Urban,Potato, 1998-99,Whole Year ,268.0,3910,14.589552238806
+Bangalore Urban,Potato, 1999-00,Whole Year ,1069.0,17390,16.267539756782
+Bangalore Urban,Potato, 2000-01,Whole Year ,192.0,2963,15.4322916666667
+Bangalore Urban,Potato, 2001-02,Whole Year ,83.0,1149,13.8433734939759
+Bangalore Urban,Potato, 2002-03,Whole Year ,225.0,1973,8.76888888888889
+Bangalore Urban,Potato, 2003-04,Whole Year ,245.0,2418,9.86938775510204
+Bangalore Urban,Potato, 2004-05,Whole Year ,204.0,1978,9.69607843137255
+Bangalore Urban,Potato, 2005-06,Kharif     ,127.0,425,3.34645669291339
+Bangalore Urban,Potato, 2005-06,Rabi       ,67.0,1211,18.0746268656716
+Bangalore Urban,Potato, 2006-07,Whole Year ,299.0,6184,20.6822742474916
+Bangalore Urban,Potato, 2007-08,Kharif     ,66.0,218,3.3030303030303
+Bangalore Urban,Potato, 2007-08,Rabi       ,170.0,2092,12.3058823529412
+Bangalore Urban,Potato, 2008-09,Kharif     ,94.0,178,1.8936170212766
+Bangalore Urban,Potato, 2008-09,Rabi       ,121.0,1739,14.3719008264463
+Bangalore Urban,Potato, 2009-10,Kharif     ,66.0,408,6.18181818181818
+Bangalore Urban,Potato, 2009-10,Rabi       ,116.0,1713,14.7672413793103
+Bangalore Urban,Potato, 2010-11,Kharif     ,59.0,448,7.59322033898305
+Bangalore Urban,Potato, 2010-11,Rabi       ,113.0,1315,11.6371681415929
+Bangalore Urban,Potato, 2011-12,Kharif     ,61.0,504,8.26229508196721
+Bangalore Urban,Potato, 2011-12,Rabi       ,103.0,1251,12.1456310679612
+Bangalore Urban,Potato, 2011-12,Summer     ,10.0,144,14.4
+Bangalore Urban,Potato, 2012-13,Kharif     ,206.0,1315,6.38349514563107
+Bangalore Urban,Potato, 2012-13,Rabi       ,7.0,119,17
+Bangalore Urban,Potato, 2012-13,Summer     ,17.0,371,21.8235294117647
+Bangalore Urban,Potato, 2013-14,Kharif     ,79.0,520,6.58227848101266
+Bangalore Urban,Potato, 2013-14,Rabi       ,33.0,502,15.2121212121212
+Bangalore Urban,Potato, 2013-14,Summer     ,4.0,56,14
+Bangalore Urban,Potato, 2014-15,Kharif     ,64.0,394,6.15625
+Bangalore Urban,Potato, 2014-15,Rabi       ,14.0,216,15.4285714285714
+Bangalore Urban,Potato, 2014-15,Summer     ,9.0,123,13.6666666666667
+Bangalore Urban,Potato, 2015-16,Kharif     ,30.0,120,4
+Bangalore Urban,Potato, 2015-16,Rabi       ,63.0,949,15.0634920634921
+Bangalore Urban,Potato, 2015-16,Summer     ,7.0,116,16.5714285714286
+Bangalore Urban,Potato, 2016-17,Kharif     ,98.0,963,9.8265306122449
+Bangalore Urban,Potato, 2016-17,Rabi       ,36.0,498,13.8333333333333
+Bangalore Urban,Potato, 2016-17,Summer     ,13.0,210,16.1538461538462
+Bangalore Urban,Potato, 2017-18,Kharif     ,123.0,1186,9.64227642276423
+Bangalore Urban,Potato, 2017-18,Rabi       ,151.0,2825,18.7086092715232
+Bangalore Urban,Potato, 2017-18,Summer     ,21.0,324,15.4285714285714
+Bangalore Urban,Potato, 2018-19,Kharif     ,97.0,768,7.91752577319588
+Bangalore Urban,Potato, 2018-19,Rabi       ,117.0,1773,15.1538461538462
+Bangalore Urban,Potato, 2018-19,Summer     ,18.0,297,16.5
+Bangalore Urban,Ragi, 1997-98,Kharif     ,178931.0,309672,1.73067830616271
+Bangalore Urban,Ragi, 1997-98,Rabi       ,961.0,1303,1.35587929240375
+Bangalore Urban,Ragi, 1997-98,Summer     ,2040.0,3777,1.85147058823529
+Bangalore Urban,Ragi, 1998-99,Kharif     ,47929.0,102625,2.14118800726074
+Bangalore Urban,Ragi, 1998-99,Rabi       ,278.0,404,1.45323741007194
+Bangalore Urban,Ragi, 1998-99,Summer     ,252.0,567,2.25
+Bangalore Urban,Ragi, 1999-00,Kharif     ,45404.0,124107,2.73339353360937
+Bangalore Urban,Ragi, 1999-00,Rabi       ,327.0,424,1.29663608562691
+Bangalore Urban,Ragi, 1999-00,Summer     ,408.0,816,2
+Bangalore Urban,Ragi, 2000-01,Kharif     ,47486.0,110132,2.31925199006023
+Bangalore Urban,Ragi, 2000-01,Rabi       ,175.0,272,1.55428571428571
+Bangalore Urban,Ragi, 2000-01,Summer     ,362.0,718,1.98342541436464
+Bangalore Urban,Ragi, 2001-02,Kharif     ,47618.0,111399,2.33943046747028
+Bangalore Urban,Ragi, 2001-02,Rabi       ,152.0,208,1.36842105263158
+Bangalore Urban,Ragi, 2001-02,Summer     ,179.0,274,1.53072625698324
+Bangalore Urban,Ragi, 2002-03,Kharif     ,32037.0,34515,1.07734806629834
+Bangalore Urban,Ragi, 2002-03,Rabi       ,349.0,548,1.5702005730659
+Bangalore Urban,Ragi, 2002-03,Summer     ,146.0,168,1.15068493150685
+Bangalore Urban,Ragi, 2003-04,Kharif     ,41685.0,74079,1.77711406980928
+Bangalore Urban,Ragi, 2003-04,Rabi       ,133.0,122,0.917293233082707
+Bangalore Urban,Ragi, 2003-04,Summer     ,78.0,93,1.19230769230769
+Bangalore Urban,Ragi, 2004-05,Kharif     ,38343.0,111793,2.91560389119266
+Bangalore Urban,Ragi, 2004-05,Rabi       ,43.0,71,1.65116279069767
+Bangalore Urban,Ragi, 2004-05,Summer     ,68.0,108,1.58823529411765
+Bangalore Urban,Ragi, 2005-06,Kharif     ,35909.0,87909,2.44810493191122
+Bangalore Urban,Ragi, 2005-06,Rabi       ,54.0,157,2.90740740740741
+Bangalore Urban,Ragi, 2005-06,Summer     ,140.0,306,2.18571428571429
+Bangalore Urban,Ragi, 2006-07,Kharif     ,23136.0,23258,1.00527316735823
+Bangalore Urban,Ragi, 2006-07,Rabi       ,150.0,299,1.99333333333333
+Bangalore Urban,Ragi, 2006-07,Summer     ,246.0,523,2.1260162601626
+Bangalore Urban,Ragi, 2007-08,Kharif     ,28075.0,69342,2.46988423864648
+Bangalore Urban,Ragi, 2007-08,Rabi       ,147.0,318,2.16326530612245
+Bangalore Urban,Ragi, 2007-08,Summer     ,123.0,256,2.08130081300813
+Bangalore Urban,Ragi, 2008-09,Kharif     ,24839.0,60948,2.45372196948347
+Bangalore Urban,Ragi, 2008-09,Rabi       ,142.0,297,2.09154929577465
+Bangalore Urban,Ragi, 2008-09,Summer     ,97.0,193,1.98969072164948
+Bangalore Urban,Ragi, 2009-10,Kharif     ,23922.0,53746,2.24671850179751
+Bangalore Urban,Ragi, 2009-10,Rabi       ,87.0,204,2.3448275862069
+Bangalore Urban,Ragi, 2009-10,Summer     ,82.0,154,1.8780487804878
+Bangalore Urban,Ragi, 2010-11,Kharif     ,24063.0,62049,2.57860615883306
+Bangalore Urban,Ragi, 2010-11,Rabi       ,80.0,166,2.075
+Bangalore Urban,Ragi, 2010-11,Summer     ,113.0,221,1.95575221238938
+Bangalore Urban,Ragi, 2011-12,Kharif     ,24419.0,70059,2.86903640607723
+Bangalore Urban,Ragi, 2011-12,Rabi       ,122.0,245,2.00819672131148
+Bangalore Urban,Ragi, 2011-12,Summer     ,110.0,212,1.92727272727273
+Bangalore Urban,Ragi, 2012-13,Kharif     ,22457.0,49517,2.20496949726143
+Bangalore Urban,Ragi, 2012-13,Rabi       ,43.0,62,1.44186046511628
+Bangalore Urban,Ragi, 2012-13,Summer     ,95.0,142,1.49473684210526
+Bangalore Urban,Ragi, 2013-14,Kharif     ,23157.0,72993,3.15209223992745
+Bangalore Urban,Ragi, 2013-14,Rabi       ,104.0,152,1.46153846153846
+Bangalore Urban,Ragi, 2013-14,Summer     ,72.0,141,1.95833333333333
+Bangalore Urban,Ragi, 2014-15,Kharif     ,23792.0,66654,2.80152992602555
+Bangalore Urban,Ragi, 2014-15,Rabi       ,116.0,188,1.62068965517241
+Bangalore Urban,Ragi, 2014-15,Summer     ,34.0,61,1.79411764705882
+Bangalore Urban,Ragi, 2015-16,Kharif     ,19670.0,44362,2.25531265887138
+Bangalore Urban,Ragi, 2015-16,Rabi       ,19.0,32,1.68421052631579
+Bangalore Urban,Ragi, 2015-16,Summer     ,32.0,55,1.71875
+Bangalore Urban,Ragi, 2016-17,Kharif     ,15767.0,7624,0.483541574173908
+Bangalore Urban,Ragi, 2016-17,Rabi       ,164.0,170,1.03658536585366
+Bangalore Urban,Ragi, 2016-17,Summer     ,63.0,114,1.80952380952381
+Bangalore Urban,Ragi, 2017-18,Kharif     ,14268.0,26309,1.84391645640594
+Bangalore Urban,Ragi, 2017-18,Rabi       ,132.0,211,1.59848484848485
+Bangalore Urban,Ragi, 2017-18,Summer     ,49.0,85,1.73469387755102
+Bangalore Urban,Ragi, 2018-19,Kharif     ,10611.0,16905,1.59315804353972
+Bangalore Urban,Ragi, 2018-19,Rabi       ,30.0,42,1.4
+Bangalore Urban,Ragi, 2018-19,Summer     ,20.0,36,1.8
+Bangalore Urban,Rapeseed &Mustard, 1998-99,Kharif     ,742.0,241,0.324797843665768
+Bangalore Urban,Rapeseed &Mustard, 1999-00,Rabi       ,845.0,274,0.324260355029586
+Bangalore Urban,Rapeseed &Mustard, 2000-01,Rabi       ,890.0,289,0.324719101123596
+Bangalore Urban,Rapeseed &Mustard, 2001-02,Rabi       ,772.0,251,0.325129533678756
+Bangalore Urban,Rapeseed &Mustard, 2002-03,Rabi       ,430.0,140,0.325581395348837
+Bangalore Urban,Rapeseed &Mustard, 2003-04,Rabi       ,861.0,280,0.32520325203252
+Bangalore Urban,Rapeseed &Mustard, 2004-05,Rabi       ,645.0,209,0.324031007751938
+Bangalore Urban,Rapeseed &Mustard, 2005-06,Rabi       ,594.0,193,0.324915824915825
+Bangalore Urban,Rapeseed &Mustard, 2006-07,Kharif     ,419.0,136,0.324582338902148
+Bangalore Urban,Rapeseed &Mustard, 2007-08,Kharif     ,534.0,194,0.363295880149813
+Bangalore Urban,Rapeseed &Mustard, 2008-09,Rabi       ,423.0,170,0.401891252955083
+Bangalore Urban,Rapeseed &Mustard, 2009-10,Rabi       ,373.0,109,0.292225201072386
+Bangalore Urban,Rapeseed &Mustard, 2010-11,Rabi       ,329.0,115,0.349544072948328
+Bangalore Urban,Rapeseed &Mustard, 2011-12,Rabi       ,336.0,133,0.395833333333333
+Bangalore Urban,Rapeseed &Mustard, 2012-13,Kharif     ,200.0,79,0.395
+Bangalore Urban,Rapeseed &Mustard, 2013-14,Kharif     ,175.0,78,0.445714285714286
+Bangalore Urban,Rapeseed &Mustard, 2014-15,Kharif     ,127.0,28,0.220472440944882
+Bangalore Urban,Rapeseed &Mustard, 2015-16,Kharif     ,189.0,41,0.216931216931217
+Bangalore Urban,Rapeseed &Mustard, 2016-17,Kharif     ,163.0,34,0.208588957055215
+Bangalore Urban,Rapeseed &Mustard, 2017-18,Kharif     ,57.0,10,0.175438596491228
+Bangalore Urban,Rapeseed &Mustard, 2018-19,Kharif     ,2.0,nan,0
+Bangalore Urban,Rice, 1997-98,Kharif     ,3507.0,11033,3.14599372683205
+Bangalore Urban,Rice, 1997-98,Summer     ,1252.0,3490,2.78753993610224
+Bangalore Urban,Rice, 1998-99,Kharif     ,5124.0,14255,2.782006245121
+Bangalore Urban,Rice, 1998-99,Summer     ,2121.0,6847,3.22819424799623
+Bangalore Urban,Rice, 1999-00,Kharif     ,4551.0,10649,2.3399252911448
+Bangalore Urban,Rice, 1999-00,Rabi       ,12.0,26,2.16666666666667
+Bangalore Urban,Rice, 1999-00,Summer     ,2350.0,7289,3.10170212765957
+Bangalore Urban,Rice, 2000-01,Kharif     ,4483.0,12073,2.69306268124024
+Bangalore Urban,Rice, 2000-01,Summer     ,2491.0,6688,2.68486551585709
+Bangalore Urban,Rice, 2001-02,Kharif     ,3753.0,7313,1.94857447375433
+Bangalore Urban,Rice, 2001-02,Summer     ,1592.0,3271,2.05464824120603
+Bangalore Urban,Rice, 2002-03,Kharif     ,2393.0,4836,2.02089427496866
+Bangalore Urban,Rice, 2002-03,Summer     ,462.0,1278,2.76623376623377
+Bangalore Urban,Rice, 2003-04,Kharif     ,2213.0,4667,2.10890194306371
+Bangalore Urban,Rice, 2003-04,Rabi       ,5.0,15,3
+Bangalore Urban,Rice, 2003-04,Summer     ,427.0,2125,4.97658079625293
+Bangalore Urban,Rice, 2004-05,Kharif     ,2778.0,8577.075,3.0875
+Bangalore Urban,Rice, 2004-05,Summer     ,725.0,3243,4.47310344827586
+Bangalore Urban,Rice, 2005-06,Kharif     ,2496.0,6528,2.61538461538462
+Bangalore Urban,Rice, 2005-06,Summer     ,1026.0,3190,3.10916179337232
+Bangalore Urban,Rice, 2006-07,Kharif     ,1315.0,3537,2.68973384030418
+Bangalore Urban,Rice, 2006-07,Summer     ,557.0,1744,3.1310592459605
+Bangalore Urban,Rice, 2007-08,Kharif     ,1523.0,4752,3.12015758371635
+Bangalore Urban,Rice, 2007-08,Summer     ,517.0,1642,3.17601547388781
+Bangalore Urban,Rice, 2008-09,Kharif     ,1652.0,5022.08,3.04
+Bangalore Urban,Rice, 2008-09,Summer     ,467.0,1813,3.88222698072805
+Bangalore Urban,Rice, 2009-10,Kharif     ,1594.0,4361.184,2.736
+Bangalore Urban,Rice, 2009-10,Summer     ,447.0,1662,3.71812080536913
+Bangalore Urban,Rice, 2010-11,Kharif     ,1495.0,4258,2.84816053511706
+Bangalore Urban,Rice, 2010-11,Summer     ,400.0,1293,3.2325
+Bangalore Urban,Rice, 2011-12,Kharif     ,1410.0,4853,3.44184397163121
+Bangalore Urban,Rice, 2011-12,Summer     ,360.0,1400,3.88888888888889
+Bangalore Urban,Rice, 2012-13,Kharif     ,974.0,3006,3.08624229979466
+Bangalore Urban,Rice, 2012-13,Rabi       ,42.0,101,2.4047619047619
+Bangalore Urban,Rice, 2012-13,Summer     ,178.0,639,3.58988764044944
+Bangalore Urban,Rice, 2013-14,Kharif     ,1113.0,3941,3.54088050314465
+Bangalore Urban,Rice, 2013-14,Rabi       ,4.0,10,2.5
+Bangalore Urban,Rice, 2013-14,Summer     ,59.0,218,3.69491525423729
+Bangalore Urban,Rice, 2014-15,Kharif     ,950.0,3374,3.55157894736842
+Bangalore Urban,Rice, 2014-15,Summer     ,21.0,87,4.14285714285714
+Bangalore Urban,Rice, 2015-16,Kharif     ,716.0,2172,3.03351955307263
+Bangalore Urban,Rice, 2015-16,Summer     ,66.0,240,3.63636363636364
+Bangalore Urban,Rice, 2016-17,Kharif     ,296.0,953,3.21959459459459
+Bangalore Urban,Rice, 2016-17,Rabi       ,10.0,27,2.7
+Bangalore Urban,Rice, 2016-17,Summer     ,30.0,108,3.6
+Bangalore Urban,Rice, 2017-18,Kharif     ,226.0,725,3.20796460176991
+Bangalore Urban,Rice, 2017-18,Rabi       ,9.0,24,2.66666666666667
+Bangalore Urban,Rice, 2017-18,Summer     ,35.0,109,3.11428571428571
+Bangalore Urban,Rice, 2018-19,Kharif     ,328.0,1217,3.71036585365854
+Bangalore Urban,Rice, 2018-19,Summer     ,33.0,106,3.21212121212121
+Bangalore Urban,Sesamum, 1998-99,Kharif     ,137.0,55,0.401459854014599
+Bangalore Urban,Sesamum, 1999-00,Kharif     ,260.0,127,0.488461538461538
+Bangalore Urban,Sesamum, 2000-01,Kharif     ,212.0,87,0.410377358490566
+Bangalore Urban,Sesamum, 2001-02,Kharif     ,56.0,21,0.375
+Bangalore Urban,Sesamum, 2002-03,Kharif     ,7.0,3,0.428571428571429
+Bangalore Urban,Sesamum, 2004-05,Kharif     ,124.0,67,0.540322580645161
+Bangalore Urban,Sesamum, 2005-06,Kharif     ,53.0,46,0.867924528301887
+Bangalore Urban,Sesamum, 2006-07,Kharif     ,56.0,33,0.589285714285714
+Bangalore Urban,Sesamum, 2007-08,Kharif     ,21.0,12,0.571428571428571
+Bangalore Urban,Sesamum, 2008-09,Kharif     ,19.0,10,0.526315789473684
+Bangalore Urban,Sesamum, 2009-10,Kharif     ,29.0,12,0.413793103448276
+Bangalore Urban,Sesamum, 2010-11,Kharif     ,36.0,20,0.555555555555556
+Bangalore Urban,Sesamum, 2011-12,Kharif     ,84.0,42,0.5
+Bangalore Urban,Sesamum, 2012-13,Kharif     ,16.0,5,0.3125
+Bangalore Urban,Sesamum, 2013-14,Kharif     ,15.0,9,0.6
+Bangalore Urban,Sesamum, 2014-15,Kharif     ,13.0,7,0.538461538461538
+Bangalore Urban,Sesamum, 2015-16,Kharif     ,18.0,9,0.5
+Bangalore Urban,Sesamum, 2016-17,Kharif     ,7.0,4,0.571428571428571
+Bangalore Urban,Sesamum, 2017-18,Kharif     ,9.0,8,0.888888888888889
+Bangalore Urban,Sesamum, 2018-19,Kharif     ,7.0,4,0.571428571428571
+Bangalore Urban,Small millets, 1999-00,Kharif     ,76.0,52,0.68421052631579
+Bangalore Urban,Small millets, 2000-01,Kharif     ,75.0,38,0.506666666666667
+Bangalore Urban,Small millets, 2001-02,Kharif     ,91.0,52,0.571428571428571
+Bangalore Urban,Small millets, 2002-03,Kharif     ,81.0,71,0.876543209876543
+Bangalore Urban,Small millets, 2003-04,Kharif     ,36.0,21,0.583333333333333
+Bangalore Urban,Small millets, 2004-05,Kharif     ,26.0,19,0.730769230769231
+Bangalore Urban,Small millets, 2005-06,Kharif     ,28.0,23,0.821428571428571
+Bangalore Urban,Small millets, 2006-07,Kharif     ,39.0,6,0.153846153846154
+Bangalore Urban,Small millets, 2007-08,Kharif     ,40.0,27,0.675
+Bangalore Urban,Small millets, 2012-13,Kharif     ,24.0,6,0.25
+Bangalore Urban,Small millets, 2013-14,Kharif     ,3.0,1,0.333333333333333
+Bangalore Urban,Small millets, 2014-15,Kharif     ,2.0,1,0.5
+Bangalore Urban,Small millets, 2015-16,Kharif     ,2.0,1,0.5
+Bangalore Urban,Small millets, 2017-18,Kharif     ,1.0,1,1
+Bangalore Urban,Small millets, 2018-19,Kharif     ,26.0,25,0.961538461538462
+Bangalore Urban,Soyabean, 2018-19,Kharif     ,4.0,4,1
+Bangalore Urban,Sugarcane, 1997-98,Whole Year ,1585.0,149070,94.0504731861199
+Bangalore Urban,Sugarcane, 1999-00,Whole Year ,66.0,6646,100.69696969697
+Bangalore Urban,Sugarcane, 2000-01,Whole Year ,58.0,5951,102.603448275862
+Bangalore Urban,Sugarcane, 2001-02,Whole Year ,50.0,4038,80.76
+Bangalore Urban,Sugarcane, 2002-03,Whole Year ,91.0,7694,84.5494505494506
+Bangalore Urban,Sugarcane, 2003-04,Whole Year ,5.0,328,65.6
+Bangalore Urban,Sugarcane, 2006-07,Whole Year ,20.0,1748,87.4
+Bangalore Urban,Sugarcane, 2007-08,Whole Year ,20.0,1691,84.55
+Bangalore Urban,Sugarcane, 2010-11,Whole Year ,3.0,291,97
+Bangalore Urban,Sugarcane, 2012-13,Whole Year ,12.0,1003,83.5833333333333
+Bangalore Urban,Sugarcane, 2014-15,Whole Year ,2.0,182,91
+Bangalore Urban,Sugarcane, 2017-18,Whole Year ,2.0,188,94
+Bangalore Urban,Sugarcane, 2018-19,Whole Year ,30.0,2565,85.5
+Bangalore Urban,Sunflower, 1998-99,Kharif     ,47.0,14,0.297872340425532
+Bangalore Urban,Sunflower, 1998-99,Rabi       ,10.0,6,0.6
+Bangalore Urban,Sunflower, 1998-99,Summer     ,5.0,3,0.6
+Bangalore Urban,Sunflower, 1999-00,Kharif     ,25.0,16,0.64
+Bangalore Urban,Sunflower, 1999-00,Summer     ,2.0,1,0.5
+Bangalore Urban,Sunflower, 2000-01,Kharif     ,10.0,8,0.8
+Bangalore Urban,Sunflower, 2001-02,Kharif     ,8.0,7,0.875
+Bangalore Urban,Sunflower, 2002-03,Kharif     ,7.0,5,0.714285714285714
+Bangalore Urban,Sunflower, 2002-03,Summer     ,1.0,1,1
+Bangalore Urban,Sunflower, 2003-04,Rabi       ,1.0,1,1
+Bangalore Urban,Sunflower, 2004-05,Kharif     ,3.0,2,0.666666666666667
+Bangalore Urban,Sunflower, 2004-05,Summer     ,8.0,5,0.625
+Bangalore Urban,Sunflower, 2005-06,Kharif     ,12.0,9,0.75
+Bangalore Urban,Sunflower, 2005-06,Rabi       ,1.0,1,1
+Bangalore Urban,Sunflower, 2005-06,Summer     ,1.0,1,1
+Bangalore Urban,Sunflower, 2006-07,Kharif     ,12.0,7,0.583333333333333
+Bangalore Urban,Sunflower, 2006-07,Summer     ,5.0,4,0.8
+Bangalore Urban,Sunflower, 2007-08,Kharif     ,9.0,7,0.777777777777778
+Bangalore Urban,Sunflower, 2008-09,Kharif     ,6.0,5,0.833333333333333
+Bangalore Urban,Sunflower, 2009-10,Kharif     ,5.0,3,0.6
+Bangalore Urban,Sunflower, 2009-10,Rabi       ,4.0,3,0.75
+Bangalore Urban,Sunflower, 2010-11,Kharif     ,1.0,1,1
+Bangalore Urban,Sunflower, 2010-11,Summer     ,22.0,22,1
+Bangalore Urban,Sunflower, 2011-12,Summer     ,6.0,6,1
+Bangalore Urban,Sunflower, 2012-13,Kharif     ,1.0,1,1
+Bangalore Urban,Sunflower, 2014-15,Kharif     ,4.0,2,0.5
+Bangalore Urban,Sunflower, 2015-16,Kharif     ,8.0,3,0.375
+Bangalore Urban,Sunflower, 2016-17,Kharif     ,2.0,1,0.5
+Bangalore Urban,Sunflower, 2017-18,Kharif     ,2.0,2,1
+Bangalore Urban,Sunflower, 2018-19,Kharif     ,1.0,1,1
+Bangalore Urban,Sweet potato, 2003-04,Whole Year ,29.0,184,6.3448275862069
+Bangalore Urban,Sweet potato, 2004-05,Whole Year ,13.0,82,6.30769230769231
+Bangalore Urban,Sweet potato, 2015-16,Whole Year ,6.0,95,15.8333333333333
+Bangalore Urban,Sweet potato, 2018-19,Whole Year ,3.0,44,14.6666666666667
+Bangalore Urban,Tapioca, 2014-15,Whole Year ,1.0,9,9
+Bangalore Urban,Tapioca, 2018-19,Whole Year ,4.0,53,13.25
+Bangalore Urban,Tobacco, 2018-19,Whole Year ,1.0,1,1
+Bangalore Urban,Turmeric, 1997-98,Whole Year ,54.0,181,3.35185185185185
+Bangalore Urban,Turmeric, 2003-04,Whole Year ,13.0,85,6.53846153846154
+Bangalore Urban,Turmeric, 2016-17,Whole Year ,1.0,6,6
+Bangalore Urban,Turmeric, 2017-18,Whole Year ,3.0,19,6.33333333333333
+Bangalore Urban,Turmeric, 2018-19,Whole Year ,2.0,12,6
+Bangalore Urban,Urad, 1999-00,Kharif     ,116.0,38,0.327586206896552
+Bangalore Urban,Urad, 2000-01,Kharif     ,134.0,52,0.388059701492537
+Bangalore Urban,Urad, 2001-02,Kharif     ,38.0,14,0.368421052631579
+Bangalore Urban,Urad, 2002-03,Kharif     ,13.0,2,0.153846153846154
+Bangalore Urban,Urad, 2003-04,Kharif     ,21.0,5,0.238095238095238
+Bangalore Urban,Urad, 2004-05,Kharif     ,25.0,3,0.12
+Bangalore Urban,Urad, 2005-06,Kharif     ,16.0,3,0.1875
+Bangalore Urban,Urad, 2006-07,Kharif     ,23.0,3,0.130434782608696
+Bangalore Urban,Urad, 2007-08,Kharif     ,33.0,14,0.424242424242424
+Bangalore Urban,Urad, 2008-09,Kharif     ,30.0,8,0.266666666666667
+Bangalore Urban,Urad, 2009-10,Kharif     ,69.0,6,0.0869565217391304
+Bangalore Urban,Urad, 2010-11,Kharif     ,43.0,16,0.372093023255814
+Bangalore Urban,Urad, 2011-12,Kharif     ,26.0,10,0.384615384615385
+Bangalore Urban,Urad, 2012-13,Kharif     ,28.0,13,0.464285714285714
+Bangalore Urban,Urad, 2013-14,Kharif     ,8.0,4,0.5
+Bangalore Urban,Urad, 2014-15,Kharif     ,17.0,5,0.294117647058823
+Bangalore Urban,Urad, 2015-16,Kharif     ,7.0,2,0.285714285714286
+Bangalore Urban,Urad, 2016-17,Kharif     ,5.0,2,0.4
+Bangalore Urban,Urad, 2017-18,Kharif     ,4.0,2,0.5
+Bangalore Urban,Urad, 2018-19,Kharif     ,7.0,3,0.428571428571429
+Bangalore Urban,Wheat, 2018-19,Rabi       ,3.0,3,1

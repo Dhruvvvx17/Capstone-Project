@@ -1,0 +1,729 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Kolar,Arecanut, 1997-98,Whole Year ,111.0,155,1.3963963963964
+Kolar,Arecanut, 1998-99,Whole Year ,111.0,749,6.74774774774775
+Kolar,Arecanut, 2000-01,Whole Year ,86.0,120,1.3953488372093
+Kolar,Arecanut, 2001-02,Whole Year ,81.0,113,1.39506172839506
+Kolar,Arecanut, 2003-04,Whole Year ,67.0,94,1.40298507462687
+Kolar,Arecanut, 2004-05,Whole Year ,54.0,76,1.40740740740741
+Kolar,Arecanut, 2005-06,Whole Year ,54.0,364,6.74074074074074
+Kolar,Arecanut, 2006-07,Whole Year ,54.0,76,1.40740740740741
+Kolar,Arecanut, 2018-19,Whole Year ,5.0,45,9
+Kolar,Arhar/Tur, 1997-98,Kharif     ,9925.0,3432,0.345793450881612
+Kolar,Arhar/Tur, 1998-99,Kharif     ,12694.0,11239,0.885378919174413
+Kolar,Arhar/Tur, 1999-00,Kharif     ,8908.0,5568,0.625056129321958
+Kolar,Arhar/Tur, 2000-01,Kharif     ,8048.0,6828,0.848409542743539
+Kolar,Arhar/Tur, 2001-02,Kharif     ,4702.0,1979,0.420884729902169
+Kolar,Arhar/Tur, 2002-03,Kharif     ,2883.0,852,0.295525494276795
+Kolar,Arhar/Tur, 2003-04,Kharif     ,6078.0,4533,0.745804540967424
+Kolar,Arhar/Tur, 2004-05,Kharif     ,7907.0,6332,0.80080940938409
+Kolar,Arhar/Tur, 2005-06,Kharif     ,8991.0,5091,0.566232899566233
+Kolar,Arhar/Tur, 2006-07,Kharif     ,6166.0,3321,0.538598767434317
+Kolar,Arhar/Tur, 2007-08,Kharif     ,3195.0,1685,0.527386541471048
+Kolar,Arhar/Tur, 2008-09,Kharif     ,3200.0,2803,0.8759375
+Kolar,Arhar/Tur, 2009-10,Kharif     ,1852.0,1510,0.815334773218143
+Kolar,Arhar/Tur, 2010-11,Kharif     ,4086.0,7503,1.83627019089574
+Kolar,Arhar/Tur, 2011-12,Kharif     ,3401.0,5208,1.53131431931785
+Kolar,Arhar/Tur, 2012-13,Kharif     ,3829.0,4420,1.15434839383651
+Kolar,Arhar/Tur, 2013-14,Kharif     ,2506.0,1895,0.756185155626496
+Kolar,Arhar/Tur, 2014-15,Kharif     ,4657.0,4929,1.05840669959201
+Kolar,Arhar/Tur, 2015-16,Kharif     ,2637.0,1816,0.688661357603337
+Kolar,Arhar/Tur, 2016-17,Kharif     ,3540.0,972,0.274576271186441
+Kolar,Arhar/Tur, 2017-18,Kharif     ,2297.0,2653,1.154984762734
+Kolar,Arhar/Tur, 2018-19,Kharif     ,2053.0,876,0.426692644909888
+Kolar,Bajra, 1997-98,Kharif     ,119.0,44,0.369747899159664
+Kolar,Bajra, 1998-99,Kharif     ,172.0,81,0.47093023255814
+Kolar,Bajra, 1999-00,Kharif     ,228.0,87,0.381578947368421
+Kolar,Bajra, 2000-01,Kharif     ,44.0,19,0.431818181818182
+Kolar,Bajra, 2002-03,Kharif     ,378.0,138,0.365079365079365
+Kolar,Bajra, 2003-04,Kharif     ,31.0,9,0.290322580645161
+Kolar,Bajra, 2004-05,Kharif     ,77.0,29,0.376623376623377
+Kolar,Bajra, 2005-06,Kharif     ,93.0,54,0.580645161290323
+Kolar,Bajra, 2006-07,Kharif     ,100.0,45,0.45
+Kolar,Bajra, 2007-08,Kharif     ,39.0,27,0.692307692307692
+Kolar,Bajra, 2018-19,Kharif     ,98.0,89,0.908163265306122
+Kolar,Banana, 1999-00,Whole Year ,422.0,9902,23.4644549763033
+Kolar,Banana, 2000-01,Whole Year ,481.0,8842,18.3825363825364
+Kolar,Banana, 2002-03,Whole Year ,1096.0,14701,13.4133211678832
+Kolar,Banana, 2003-04,Whole Year ,1366.0,42123,30.8367496339678
+Kolar,Banana, 2004-05,Whole Year ,1101.0,7498,6.81017257039055
+Kolar,Banana, 2005-06,Whole Year ,1382.0,23168,16.7641099855282
+Kolar,Banana, 2006-07,Whole Year ,2068.0,63037,30.4821083172147
+Kolar,Banana, 2007-08,Whole Year ,568.0,5824,10.2535211267606
+Kolar,Banana, 2008-09,Whole Year ,518.0,16886,32.5984555984556
+Kolar,Banana, 2009-10,Whole Year ,568.0,8145,14.3397887323944
+Kolar,Banana, 2010-11,Whole Year ,823.0,10525,12.7885783718105
+Kolar,Banana, 2011-12,Whole Year ,750.0,10234,13.6453333333333
+Kolar,Cardamom, 2018-19,Whole Year ,1.0,0.1,0.1
+Kolar,Cashewnut, 2008-09,Whole Year ,883.0,542.85957,0.61479
+Kolar,Cashewnut, 2009-10,Whole Year ,883.0,670,0.758776896942242
+Kolar,Cashewnut, 2010-11,Whole Year ,1566.0,569,0.363346104725415
+Kolar,Cashewnut, 2011-12,Whole Year ,1566.0,2223,1.41954022988506
+Kolar,Cashewnut, 2012-13,Whole Year ,1515.0,2151,1.41980198019802
+Kolar,Cashewnut, 2013-14,Whole Year ,1425.0,868,0.609122807017544
+Kolar,Cashewnut, 2014-15,Whole Year ,700.0,450,0.642857142857143
+Kolar,Cashewnut, 2015-16,Whole Year ,314.0,183,0.582802547770701
+Kolar,Cashewnut, 2016-17,Whole Year ,197.0,91,0.461928934010152
+Kolar,Cashewnut, 2017-18,Whole Year ,97.0,71,0.731958762886598
+Kolar,Cashewnut, 2018-19,Whole Year ,69.0,83,1.20289855072464
+Kolar,Castor seed, 1998-99,Kharif     ,298.0,254,0.852348993288591
+Kolar,Castor seed, 1999-00,Kharif     ,412.0,318,0.771844660194175
+Kolar,Castor seed, 2000-01,Kharif     ,292.0,374,1.28082191780822
+Kolar,Castor seed, 2001-02,Kharif     ,124.0,92,0.741935483870968
+Kolar,Castor seed, 2002-03,Kharif     ,140.0,129,0.921428571428571
+Kolar,Castor seed, 2003-04,Kharif     ,671.0,602,0.897168405365127
+Kolar,Castor seed, 2004-05,Kharif     ,297.0,258,0.868686868686869
+Kolar,Castor seed, 2005-06,Kharif     ,497.0,517,1.04024144869215
+Kolar,Castor seed, 2006-07,Kharif     ,497.0,397,0.798792756539235
+Kolar,Castor seed, 2007-08,Kharif     ,45.0,30,0.666666666666667
+Kolar,Castor seed, 2008-09,Kharif     ,69.0,65,0.942028985507246
+Kolar,Castor seed, 2009-10,Kharif     ,72.0,47,0.652777777777778
+Kolar,Castor seed, 2010-11,Kharif     ,80.0,67,0.8375
+Kolar,Castor seed, 2011-12,Kharif     ,87.0,73,0.839080459770115
+Kolar,Castor seed, 2012-13,Kharif     ,104.0,65,0.625
+Kolar,Castor seed, 2013-14,Kharif     ,104.0,93,0.894230769230769
+Kolar,Castor seed, 2014-15,Kharif     ,57.0,35,0.614035087719298
+Kolar,Castor seed, 2015-16,Kharif     ,55.0,29,0.527272727272727
+Kolar,Castor seed, 2016-17,Kharif     ,60.0,30,0.5
+Kolar,Castor seed, 2017-18,Kharif     ,57.0,37,0.649122807017544
+Kolar,Castor seed, 2018-19,Kharif     ,30.0,17,0.566666666666667
+Kolar,Coconut , 1998-99,Whole Year ,2101.0,10030000,4773.91718229415
+Kolar,Coconut , 1999-00,Whole Year ,2101.0,10030000,4773.91718229415
+Kolar,Coconut , 2000-01,Whole Year ,2101.0,10030000,4773.91718229415
+Kolar,Coconut , 2001-02,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2002-03,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2003-04,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2004-05,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2005-06,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2006-07,Whole Year ,2101.0,7523000,3580.67586863398
+Kolar,Coconut , 2007-08,Whole Year ,1471.0,7490000,5091.7743031951
+Kolar,Coconut , 2008-09,Whole Year ,1471.0,10078000,6851.12168592794
+Kolar,Coconut , 2009-10,Whole Year ,1471.0,10459000,7110.12916383413
+Kolar,Coconut , 2010-11,Whole Year ,2805.0,26814000,9559.35828877005
+Kolar,Coconut , 2011-12,Whole Year ,2805.0,27886000,9941.53297682709
+Kolar,Coconut , 2012-13,Whole Year ,2805.0,27617000,9845.63279857398
+Kolar,Coconut , 2013-14,Whole Year ,2805.0,22254000,7933.68983957219
+Kolar,Coconut , 2014-15,Whole Year ,2566.0,22899000,8924.00623538581
+Kolar,Coconut , 2015-16,Whole Year ,2341.0,19577000,8362.66552755233
+Kolar,Coconut , 2016-17,Whole Year ,2109.0,16488000,7817.92318634424
+Kolar,Coconut , 2017-18,Whole Year ,1976.0,15624000,7906.88259109312
+Kolar,Coconut , 2018-19,Whole Year ,1229.0,8704000,7082.18063466233
+Kolar,Coriander, 1997-98,Whole Year ,67.0,7,0.104477611940299
+Kolar,Coriander, 1998-99,Whole Year ,60.0,6,0.1
+Kolar,Coriander, 1999-00,Whole Year ,70.0,7,0.1
+Kolar,Coriander, 2000-01,Whole Year ,120.0,12,0.1
+Kolar,Coriander, 2001-02,Whole Year ,56.0,6,0.107142857142857
+Kolar,Coriander, 2002-03,Whole Year ,57.0,6,0.105263157894737
+Kolar,Coriander, 2003-04,Whole Year ,88.0,9,0.102272727272727
+Kolar,Coriander, 2004-05,Whole Year ,108.0,11,0.101851851851852
+Kolar,Coriander, 2005-06,Whole Year ,78.0,8,0.102564102564103
+Kolar,Coriander, 2006-07,Whole Year ,66.0,7,0.106060606060606
+Kolar,Coriander, 2007-08,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2008-09,Whole Year ,5.0,3,0.6
+Kolar,Coriander, 2009-10,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2010-11,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2011-12,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2012-13,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2013-14,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2014-15,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2015-16,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2016-17,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2017-18,Whole Year ,5.0,2,0.4
+Kolar,Coriander, 2018-19,Whole Year ,761.0,680,0.893561103810775
+Kolar,Cotton(lint), 1998-99,Kharif     ,30.0,53,1.76666666666667
+Kolar,Cowpea(Lobia), 2010-11,Kharif     ,1766.0,2027,1.14779161947905
+Kolar,Cowpea(Lobia), 2010-11,Rabi       ,18.0,5,0.277777777777778
+Kolar,Cowpea(Lobia), 2011-12,Kharif     ,1600.0,2804,1.7525
+Kolar,Cowpea(Lobia), 2011-12,Rabi       ,19.0,7,0.368421052631579
+Kolar,Cowpea(Lobia), 2012-13,Kharif     ,1200.0,1754,1.46166666666667
+Kolar,Cowpea(Lobia), 2012-13,Rabi       ,14.0,5,0.357142857142857
+Kolar,Cowpea(Lobia), 2013-14,Kharif     ,1255.0,941,0.749800796812749
+Kolar,Cowpea(Lobia), 2013-14,Rabi       ,14.0,6,0.428571428571429
+Kolar,Cowpea(Lobia), 2014-15,Kharif     ,928.0,785,0.845905172413793
+Kolar,Cowpea(Lobia), 2014-15,Rabi       ,14.0,5,0.357142857142857
+Kolar,Cowpea(Lobia), 2015-16,Kharif     ,1126.0,1132,1.00532859680284
+Kolar,Cowpea(Lobia), 2015-16,Rabi       ,8.0,4,0.5
+Kolar,Cowpea(Lobia), 2016-17,Kharif     ,1083.0,829,0.765466297322253
+Kolar,Cowpea(Lobia), 2017-18,Kharif     ,1601.0,364,0.22735790131168
+Kolar,Cowpea(Lobia), 2018-19,Kharif     ,216.0,82,0.37962962962963
+Kolar,Dry chillies, 1997-98,Kharif     ,1126.0,1558,1.38365896980462
+Kolar,Dry chillies, 1997-98,Rabi       ,165.0,177,1.07272727272727
+Kolar,Dry chillies, 1998-99,Whole Year ,2070.0,1822,0.880193236714976
+Kolar,Dry chillies, 1999-00,Whole Year ,2127.0,2453,1.15326751292901
+Kolar,Dry chillies, 2000-01,Whole Year ,1792.0,1439,0.803013392857143
+Kolar,Dry chillies, 2001-02,Whole Year ,1782.0,2122,1.19079685746352
+Kolar,Dry chillies, 2002-03,Whole Year ,1101.0,2209,2.0063578564941
+Kolar,Dry chillies, 2003-04,Whole Year ,1864.0,2858,1.53326180257511
+Kolar,Dry chillies, 2004-05,Whole Year ,1444.0,1332,0.922437673130194
+Kolar,Dry chillies, 2005-06,Kharif     ,527.0,383,0.726755218216319
+Kolar,Dry chillies, 2005-06,Rabi       ,244.0,388,1.59016393442623
+Kolar,Dry chillies, 2005-06,Summer     ,340.0,473,1.39117647058824
+Kolar,Dry chillies, 2006-07,Whole Year ,988.0,2113,2.13866396761134
+Kolar,Dry chillies, 2007-08,Kharif     ,283.0,255,0.901060070671378
+Kolar,Dry chillies, 2007-08,Rabi       ,198.0,346,1.74747474747475
+Kolar,Dry chillies, 2007-08,Summer     ,858.0,2904,3.38461538461538
+Kolar,Dry chillies, 2008-09,Kharif     ,394.0,366,0.928934010152284
+Kolar,Dry chillies, 2008-09,Rabi       ,316.0,536,1.69620253164557
+Kolar,Dry chillies, 2008-09,Summer     ,1063.0,1592,1.49764816556914
+Kolar,Dry chillies, 2009-10,Rabi       ,227.0,371,1.63436123348018
+Kolar,Dry chillies, 2009-10,Summer     ,840.0,2221,2.64404761904762
+Kolar,Dry chillies, 2010-11,Kharif     ,501.0,413,0.82435129740519
+Kolar,Dry chillies, 2010-11,Rabi       ,288.0,782,2.71527777777778
+Kolar,Dry chillies, 2010-11,Summer     ,745.0,1166,1.56510067114094
+Kolar,Dry chillies, 2011-12,Kharif     ,503.0,406,0.807157057654075
+Kolar,Dry chillies, 2011-12,Rabi       ,245.0,578,2.35918367346939
+Kolar,Dry chillies, 2011-12,Summer     ,300.0,428,1.42666666666667
+Kolar,Dry chillies, 2012-13,Kharif     ,272.0,249,0.915441176470588
+Kolar,Dry chillies, 2012-13,Rabi       ,246.0,672,2.73170731707317
+Kolar,Dry chillies, 2012-13,Summer     ,275.0,397,1.44363636363636
+Kolar,Dry chillies, 2013-14,Kharif     ,459.0,509,1.10893246187364
+Kolar,Dry chillies, 2013-14,Rabi       ,225.0,426,1.89333333333333
+Kolar,Dry chillies, 2013-14,Summer     ,250.0,664,2.656
+Kolar,Dry chillies, 2014-15,Kharif     ,425.0,481,1.13176470588235
+Kolar,Dry chillies, 2014-15,Rabi       ,223.0,418,1.87443946188341
+Kolar,Dry chillies, 2014-15,Summer     ,179.0,345,1.92737430167598
+Kolar,Dry chillies, 2015-16,Kharif     ,466.0,404,0.866952789699571
+Kolar,Dry chillies, 2015-16,Rabi       ,243.0,491,2.02057613168724
+Kolar,Dry chillies, 2015-16,Summer     ,165.0,302,1.83030303030303
+Kolar,Dry chillies, 2016-17,Kharif     ,375.0,755,2.01333333333333
+Kolar,Dry chillies, 2016-17,Rabi       ,235.0,503,2.14042553191489
+Kolar,Dry chillies, 2016-17,Summer     ,85.0,148,1.74117647058824
+Kolar,Dry chillies, 2017-18,Kharif     ,353.0,664,1.88101983002833
+Kolar,Dry chillies, 2017-18,Rabi       ,178.0,358,2.01123595505618
+Kolar,Dry chillies, 2017-18,Summer     ,150.0,275,1.83333333333333
+Kolar,Garlic, 1997-98,Whole Year ,12.0,14,1.16666666666667
+Kolar,Garlic, 1998-99,Whole Year ,15.0,17,1.13333333333333
+Kolar,Garlic, 1999-00,Whole Year ,5.0,6,1.2
+Kolar,Garlic, 2018-19,Whole Year ,2.0,13,6.5
+Kolar,Ginger, 1997-98,Kharif     ,4.0,5,1.25
+Kolar,Ginger, 1998-99,Kharif     ,3.0,39,13
+Kolar,Ginger, 2018-19,Whole Year ,13.0,200.1,15.3923076923077
+Kolar,Gram, 1998-99,Rabi       ,21.0,15,0.714285714285714
+Kolar,Gram, 2001-02,Rabi       ,10.0,6,0.6
+Kolar,Gram, 2004-05,Rabi       ,144.0,108,0.75
+Kolar,Gram, 2005-06,Rabi       ,52.0,36,0.692307692307692
+Kolar,Gram, 2006-07,Kharif     ,16.0,2,0.125
+Kolar,Gram, 2009-10,Kharif     ,127.0,75,0.590551181102362
+Kolar,Gram, 2009-10,Rabi       ,5890.0,1757,0.29830220713073
+Kolar,Gram, 2010-11,Rabi       ,26.0,16,0.615384615384615
+Kolar,Gram, 2011-12,Rabi       ,28.0,11,0.392857142857143
+Kolar,Gram, 2012-13,Rabi       ,15.0,10,0.666666666666667
+Kolar,Gram, 2013-14,Rabi       ,14.0,11,0.785714285714286
+Kolar,Gram, 2014-15,Rabi       ,8.0,6,0.75
+Kolar,Gram, 2018-19,Rabi       ,33.0,16,0.484848484848485
+Kolar,Groundnut, 1997-98,Kharif     ,86924.0,68844,0.792002208826101
+Kolar,Groundnut, 1997-98,Rabi       ,2622.0,3801,1.44965675057208
+Kolar,Groundnut, 1998-99,Kharif     ,84759.0,69141,0.815736381977135
+Kolar,Groundnut, 1998-99,Rabi       ,2135.0,2365,1.10772833723653
+Kolar,Groundnut, 1999-00,Kharif     ,65167.0,30583,0.469301947304617
+Kolar,Groundnut, 1999-00,Rabi       ,729.0,1206,1.65432098765432
+Kolar,Groundnut, 2000-01,Kharif     ,53073.0,75207,1.41704821660731
+Kolar,Groundnut, 2000-01,Rabi       ,1943.0,2697,1.38805970149254
+Kolar,Groundnut, 2001-02,Kharif     ,54751.0,30857,0.563587879673431
+Kolar,Groundnut, 2002-03,Kharif     ,33281.0,10445,0.313842733090953
+Kolar,Groundnut, 2002-03,Rabi       ,209.0,227,1.08612440191388
+Kolar,Groundnut, 2003-04,Kharif     ,43008.0,30706,0.713960193452381
+Kolar,Groundnut, 2003-04,Rabi       ,225.0,219,0.973333333333333
+Kolar,Groundnut, 2004-05,Kharif     ,50172.0,31973,0.637267798772224
+Kolar,Groundnut, 2004-05,Rabi       ,79.0,72,0.911392405063291
+Kolar,Groundnut, 2005-06,Kharif     ,51664.0,36605,0.708520439764633
+Kolar,Groundnut, 2005-06,Rabi       ,382.0,376,0.984293193717278
+Kolar,Groundnut, 2006-07,Kharif     ,37775.0,11709,0.309966909331568
+Kolar,Groundnut, 2006-07,Rabi       ,273.0,330,1.20879120879121
+Kolar,Groundnut, 2007-08,Kharif     ,10776.0,11155,1.0351707498144
+Kolar,Groundnut, 2007-08,Rabi       ,95.0,82,0.863157894736842
+Kolar,Groundnut, 2008-09,Kharif     ,12475.0,7626,0.611302605210421
+Kolar,Groundnut, 2008-09,Rabi       ,35.0,26,0.742857142857143
+Kolar,Groundnut, 2009-10,Kharif     ,7814.0,7002,0.896083951881239
+Kolar,Groundnut, 2009-10,Rabi       ,64.0,50,0.78125
+Kolar,Groundnut, 2010-11,Kharif     ,11163.0,10313,0.923855594374272
+Kolar,Groundnut, 2010-11,Rabi       ,15.0,13,0.866666666666667
+Kolar,Groundnut, 2011-12,Kharif     ,10513.0,14532,1.38228859507277
+Kolar,Groundnut, 2011-12,Rabi       ,15.0,12,0.8
+Kolar,Groundnut, 2012-13,Kharif     ,10401.0,6640,0.638400153831362
+Kolar,Groundnut, 2012-13,Summer     ,7.0,6,0.857142857142857
+Kolar,Groundnut, 2013-14,Kharif     ,6733.0,6914,1.02688251893658
+Kolar,Groundnut, 2014-15,Kharif     ,13160.0,5663,0.43031914893617
+Kolar,Groundnut, 2015-16,Kharif     ,8608.0,5700,0.662174721189591
+Kolar,Groundnut, 2016-17,Kharif     ,9854.0,4512,0.457885122792774
+Kolar,Groundnut, 2017-18,Kharif     ,6728.0,10080,1.49821640903686
+Kolar,Groundnut, 2018-19,Kharif     ,12104.0,6899,0.569976867151355
+Kolar,Horse-gram, 1997-98,Kharif     ,7154.0,2433,0.340089460441711
+Kolar,Horse-gram, 1997-98,Rabi       ,6605.0,3376,0.5111279333838
+Kolar,Horse-gram, 1998-99,Kharif     ,4489.0,2879,0.641345511249722
+Kolar,Horse-gram, 1998-99,Rabi       ,5426.0,3320,0.611868779948397
+Kolar,Horse-gram, 1999-00,Kharif     ,3992.0,1498,0.375250501002004
+Kolar,Horse-gram, 1999-00,Rabi       ,20533.0,9344,0.45507232260264
+Kolar,Horse-gram, 2000-01,Kharif     ,4684.0,1811,0.38663535439795
+Kolar,Horse-gram, 2000-01,Rabi       ,5009.0,1951,0.389498901976442
+Kolar,Horse-gram, 2001-02,Kharif     ,1932.0,1182,0.611801242236025
+Kolar,Horse-gram, 2001-02,Rabi       ,6815.0,2596,0.380924431401321
+Kolar,Horse-gram, 2002-03,Kharif     ,6053.0,1300,0.214769535767388
+Kolar,Horse-gram, 2002-03,Rabi       ,14178.0,3152,0.222316264635351
+Kolar,Horse-gram, 2003-04,Kharif     ,1754.0,450,0.256556442417332
+Kolar,Horse-gram, 2003-04,Rabi       ,5911.0,1690,0.285907629842666
+Kolar,Horse-gram, 2004-05,Kharif     ,3199.0,1267,0.396061269146608
+Kolar,Horse-gram, 2004-05,Rabi       ,12327.0,3279,0.266001460209297
+Kolar,Horse-gram, 2005-06,Kharif     ,2686.0,1271,0.47319434102755
+Kolar,Horse-gram, 2005-06,Rabi       ,3907.0,1845,0.472229331968262
+Kolar,Horse-gram, 2006-07,Kharif     ,3021.0,1533,0.507447864945382
+Kolar,Horse-gram, 2006-07,Rabi       ,13882.0,3666,0.26408298516064
+Kolar,Horse-gram, 2007-08,Kharif     ,147.0,78,0.530612244897959
+Kolar,Horse-gram, 2007-08,Rabi       ,4270.0,1610,0.377049180327869
+Kolar,Horse-gram, 2008-09,Kharif     ,127.0,49,0.385826771653543
+Kolar,Horse-gram, 2008-09,Rabi       ,4900.0,1182,0.241224489795918
+Kolar,Horse-gram, 2009-10,Kharif     ,127.0,75,0.590551181102362
+Kolar,Horse-gram, 2009-10,Rabi       ,5890.0,1757,0.29830220713073
+Kolar,Horse-gram, 2010-11,Kharif     ,127.0,81,0.637795275590551
+Kolar,Horse-gram, 2010-11,Rabi       ,6955.0,4083,0.58705966930266
+Kolar,Horse-gram, 2011-12,Kharif     ,135.0,147,1.08888888888889
+Kolar,Horse-gram, 2011-12,Rabi       ,7206.0,4943,0.685956147654732
+Kolar,Horse-gram, 2012-13,Kharif     ,248.0,204,0.82258064516129
+Kolar,Horse-gram, 2012-13,Rabi       ,7223.0,3445,0.476948636300706
+Kolar,Horse-gram, 2013-14,Kharif     ,550.0,448,0.814545454545454
+Kolar,Horse-gram, 2013-14,Rabi       ,11780.0,9826,0.834125636672326
+Kolar,Horse-gram, 2014-15,Kharif     ,135.0,121,0.896296296296296
+Kolar,Horse-gram, 2014-15,Rabi       ,9961.0,6397,0.642204597931934
+Kolar,Horse-gram, 2015-16,Kharif     ,34.0,26,0.764705882352941
+Kolar,Horse-gram, 2015-16,Rabi       ,9447.0,7171,0.759076955647296
+Kolar,Horse-gram, 2016-17,Kharif     ,47.0,10,0.212765957446808
+Kolar,Horse-gram, 2016-17,Rabi       ,4847.0,603,0.124406849597689
+Kolar,Horse-gram, 2017-18,Kharif     ,32.0,27,0.84375
+Kolar,Horse-gram, 2017-18,Rabi       ,5772.0,4003,0.693520443520444
+Kolar,Horse-gram, 2018-19,Kharif     ,216.0,57,0.263888888888889
+Kolar,Horse-gram, 2018-19,Rabi       ,9978.0,3555,0.35628382441371
+Kolar,Jowar, 2018-19,Kharif     ,1088.0,1493,1.37224264705882
+Kolar,Maize, 1997-98,Kharif     ,11503.0,40636,3.53264365817613
+Kolar,Maize, 1997-98,Rabi       ,239.0,489,2.04602510460251
+Kolar,Maize, 1997-98,Summer     ,740.0,1601,2.16351351351351
+Kolar,Maize, 1998-99,Kharif     ,13482.0,45983,3.41069574247144
+Kolar,Maize, 1998-99,Rabi       ,64.0,131,2.046875
+Kolar,Maize, 1998-99,Summer     ,475.0,1080,2.27368421052632
+Kolar,Maize, 1999-00,Kharif     ,13183.0,32078,2.43328529166351
+Kolar,Maize, 1999-00,Rabi       ,202.0,494,2.44554455445545
+Kolar,Maize, 1999-00,Summer     ,444.0,812,1.82882882882883
+Kolar,Maize, 2000-01,Kharif     ,15632.0,40280,2.57676560900716
+Kolar,Maize, 2000-01,Summer     ,802.0,2255,2.81172069825436
+Kolar,Maize, 2001-02,Kharif     ,15429.0,22856,1.48136625834468
+Kolar,Maize, 2001-02,Rabi       ,63.0,155,2.46031746031746
+Kolar,Maize, 2001-02,Summer     ,804.0,2115,2.63059701492537
+Kolar,Maize, 2002-03,Kharif     ,15647.0,18642,1.19141049402441
+Kolar,Maize, 2002-03,Rabi       ,657.0,1681,2.558599695586
+Kolar,Maize, 2002-03,Summer     ,598.0,1528,2.55518394648829
+Kolar,Maize, 2003-04,Kharif     ,25698.0,53583,2.08510389913612
+Kolar,Maize, 2003-04,Rabi       ,339.0,781,2.30383480825959
+Kolar,Maize, 2003-04,Summer     ,293.0,738,2.51877133105802
+Kolar,Maize, 2004-05,Kharif     ,24304.0,46248,1.90289664252798
+Kolar,Maize, 2004-05,Rabi       ,367.0,1118,3.04632152588556
+Kolar,Maize, 2004-05,Summer     ,226.0,691,3.05752212389381
+Kolar,Maize, 2005-06,Kharif     ,22036.0,60505,2.74573425304048
+Kolar,Maize, 2005-06,Rabi       ,536.0,1916,3.57462686567164
+Kolar,Maize, 2005-06,Summer     ,518.0,1747,3.37258687258687
+Kolar,Maize, 2006-07,Kharif     ,20465.0,39468,1.92856095773271
+Kolar,Maize, 2006-07,Rabi       ,2369.0,5200,2.19501899535669
+Kolar,Maize, 2006-07,Summer     ,1118.0,3582,3.20393559928444
+Kolar,Maize, 2007-08,Kharif     ,932.0,2906,3.11802575107296
+Kolar,Maize, 2007-08,Summer     ,109.0,352,3.22935779816514
+Kolar,Maize, 2008-09,Kharif     ,520.0,1672,3.21538461538462
+Kolar,Maize, 2008-09,Rabi       ,94.0,296,3.14893617021277
+Kolar,Maize, 2008-09,Summer     ,103.0,324,3.14563106796116
+Kolar,Maize, 2009-10,Kharif     ,526.0,1257,2.38973384030418
+Kolar,Maize, 2009-10,Rabi       ,77.0,203,2.63636363636364
+Kolar,Maize, 2009-10,Summer     ,242.0,662,2.73553719008264
+Kolar,Maize, 2010-11,Kharif     ,455.0,1653,3.63296703296703
+Kolar,Maize, 2010-11,Rabi       ,74.0,218,2.94594594594595
+Kolar,Maize, 2010-11,Summer     ,197.0,670,3.4010152284264
+Kolar,Maize, 2011-12,Kharif     ,550.0,1697,3.08545454545455
+Kolar,Maize, 2011-12,Rabi       ,80.0,258,3.225
+Kolar,Maize, 2011-12,Summer     ,209.0,712,3.4066985645933
+Kolar,Maize, 2012-13,Kharif     ,420.0,1077,2.56428571428571
+Kolar,Maize, 2012-13,Rabi       ,77.0,233,3.02597402597403
+Kolar,Maize, 2012-13,Summer     ,168.0,577,3.43452380952381
+Kolar,Maize, 2013-14,Kharif     ,420.0,1331,3.16904761904762
+Kolar,Maize, 2013-14,Rabi       ,70.0,214,3.05714285714286
+Kolar,Maize, 2013-14,Summer     ,75.0,243,3.24
+Kolar,Maize, 2014-15,Kharif     ,439.0,1374,3.12984054669704
+Kolar,Maize, 2014-15,Rabi       ,35.0,118,3.37142857142857
+Kolar,Maize, 2014-15,Summer     ,55.0,179,3.25454545454545
+Kolar,Maize, 2015-16,Kharif     ,550.0,1503,2.73272727272727
+Kolar,Maize, 2015-16,Rabi       ,38.0,94,2.47368421052632
+Kolar,Maize, 2015-16,Summer     ,52.0,146,2.80769230769231
+Kolar,Maize, 2016-17,Kharif     ,310.0,734,2.36774193548387
+Kolar,Maize, 2017-18,Kharif     ,114.0,496,4.35087719298246
+Kolar,Maize, 2018-19,Kharif     ,1098.0,2887,2.62932604735883
+Kolar,Moong(Green Gram), 1998-99,Kharif     ,186.0,37,0.198924731182796
+Kolar,Moong(Green Gram), 1998-99,Rabi       ,3.0,1,0.333333333333333
+Kolar,Moong(Green Gram), 1999-00,Kharif     ,150.0,52,0.346666666666667
+Kolar,Moong(Green Gram), 2000-01,Kharif     ,90.0,37,0.411111111111111
+Kolar,Moong(Green Gram), 2001-02,Kharif     ,44.0,11,0.25
+Kolar,Moong(Green Gram), 2004-05,Kharif     ,159.0,25,0.157232704402516
+Kolar,Moong(Green Gram), 2005-06,Kharif     ,74.0,18,0.243243243243243
+Kolar,Moong(Green Gram), 2006-07,Kharif     ,14.0,2,0.142857142857143
+Kolar,Moong(Green Gram), 2018-19,Kharif     ,43.0,14,0.325581395348837
+Kolar,Niger seed, 1998-99,Kharif     ,1069.0,246,0.230121608980355
+Kolar,Niger seed, 1999-00,Kharif     ,1037.0,238,0.229508196721311
+Kolar,Niger seed, 2000-01,Kharif     ,1094.0,251,0.229433272394881
+Kolar,Niger seed, 2001-02,Kharif     ,1069.0,246,0.230121608980355
+Kolar,Niger seed, 2002-03,Kharif     ,402.0,92,0.228855721393035
+Kolar,Niger seed, 2003-04,Kharif     ,847.0,195,0.230224321133412
+Kolar,Niger seed, 2004-05,Kharif     ,811.0,186,0.229346485819975
+Kolar,Niger seed, 2005-06,Kharif     ,537.0,123,0.229050279329609
+Kolar,Niger seed, 2006-07,Kharif     ,537.0,123,0.229050279329609
+Kolar,Niger seed, 2007-08,Kharif     ,174.0,65,0.373563218390805
+Kolar,Niger seed, 2008-09,Kharif     ,680.0,233,0.342647058823529
+Kolar,Niger seed, 2009-10,Kharif     ,223.0,78,0.349775784753363
+Kolar,Niger seed, 2010-11,Kharif     ,289.0,87,0.301038062283737
+Kolar,Niger seed, 2011-12,Kharif     ,229.0,62,0.270742358078603
+Kolar,Niger seed, 2012-13,Kharif     ,164.0,39,0.23780487804878
+Kolar,Niger seed, 2013-14,Kharif     ,135.0,30,0.222222222222222
+Kolar,Niger seed, 2014-15,Kharif     ,71.0,19,0.267605633802817
+Kolar,Niger seed, 2015-16,Kharif     ,88.0,23,0.261363636363636
+Kolar,Niger seed, 2016-17,Kharif     ,92.0,17,0.184782608695652
+Kolar,Niger seed, 2017-18,Kharif     ,61.0,13,0.213114754098361
+Kolar,Niger seed, 2018-19,Kharif     ,64.0,13,0.203125
+Kolar,Onion, 1998-99,Kharif     ,773.0,11697,15.1319534282018
+Kolar,Onion, 1998-99,Rabi       ,1423.0,19450,13.6683063949403
+Kolar,Onion, 1998-99,Summer     ,51.0,588,11.5294117647059
+Kolar,Onion, 1999-00,Whole Year ,1476.0,22878,15.5
+Kolar,Onion, 2000-01,Whole Year ,2143.0,15646,7.30097993467102
+Kolar,Onion, 2001-02,Whole Year ,1779.0,18154,10.2046093310849
+Kolar,Onion, 2002-03,Whole Year ,1568.0,8929,5.69451530612245
+Kolar,Onion, 2003-04,Whole Year ,1760.0,8616,4.89545454545455
+Kolar,Onion, 2004-05,Whole Year ,1507.0,17872,11.8593231585932
+Kolar,Onion, 2005-06,Kharif     ,505.0,2814,5.57227722772277
+Kolar,Onion, 2005-06,Rabi       ,401.0,4157,10.3665835411471
+Kolar,Onion, 2005-06,Summer     ,132.0,2281,17.280303030303
+Kolar,Onion, 2006-07,Whole Year ,696.0,4384,6.29885057471264
+Kolar,Onion, 2007-08,Kharif     ,220.0,1311,5.95909090909091
+Kolar,Onion, 2007-08,Rabi       ,9.0,76,8.44444444444444
+Kolar,Onion, 2007-08,Summer     ,50.0,151,3.02
+Kolar,Onion, 2008-09,Kharif     ,185.0,960,5.18918918918919
+Kolar,Onion, 2008-09,Rabi       ,28.0,187,6.67857142857143
+Kolar,Onion, 2008-09,Summer     ,222.0,1211,5.45495495495496
+Kolar,Onion, 2009-10,Kharif     ,90.0,318,3.53333333333333
+Kolar,Onion, 2009-10,Rabi       ,59.0,350,5.93220338983051
+Kolar,Onion, 2009-10,Summer     ,143.0,857,5.99300699300699
+Kolar,Onion, 2010-11,Kharif     ,180.0,1124,6.24444444444444
+Kolar,Onion, 2010-11,Rabi       ,110.0,753,6.84545454545455
+Kolar,Onion, 2010-11,Summer     ,189.0,2011,10.6402116402116
+Kolar,Onion, 2011-12,Kharif     ,197.0,972,4.93401015228426
+Kolar,Onion, 2011-12,Rabi       ,52.0,414,7.96153846153846
+Kolar,Onion, 2011-12,Summer     ,80.0,493,6.1625
+Kolar,Onion, 2012-13,Kharif     ,180.0,956,5.31111111111111
+Kolar,Onion, 2012-13,Rabi       ,55.0,360,6.54545454545455
+Kolar,Onion, 2012-13,Summer     ,76.0,431,5.67105263157895
+Kolar,Onion, 2013-14,Kharif     ,98.0,648,6.61224489795918
+Kolar,Onion, 2013-14,Rabi       ,55.0,386,7.01818181818182
+Kolar,Onion, 2013-14,Summer     ,70.0,550,7.85714285714286
+Kolar,Onion, 2014-15,Kharif     ,107.0,550,5.14018691588785
+Kolar,Onion, 2014-15,Rabi       ,52.0,345,6.63461538461539
+Kolar,Onion, 2014-15,Summer     ,64.0,314,4.90625
+Kolar,Onion, 2015-16,Kharif     ,117.0,511,4.36752136752137
+Kolar,Onion, 2015-16,Rabi       ,57.0,323,5.66666666666667
+Kolar,Onion, 2015-16,Summer     ,70.0,303,4.32857142857143
+Kolar,Onion, 2016-17,Kharif     ,128.0,919,7.1796875
+Kolar,Onion, 2016-17,Rabi       ,62.0,888,14.3225806451613
+Kolar,Onion, 2016-17,Summer     ,39.0,574,14.7179487179487
+Kolar,Onion, 2017-18,Kharif     ,145.0,1600,11.0344827586207
+Kolar,Onion, 2017-18,Rabi       ,68.0,964,14.1764705882353
+Kolar,Onion, 2017-18,Summer     ,61.0,736,12.0655737704918
+Kolar,Onion, 2018-19,Kharif     ,156.0,1181,7.57051282051282
+Kolar,Onion, 2018-19,Rabi       ,99.0,1313,13.2626262626263
+Kolar,Onion, 2018-19,Summer     ,71.0,749,10.5492957746479
+Kolar,Other  Rabi pulses, 1999-00,Rabi       ,140.0,17,0.121428571428571
+Kolar,Other  Rabi pulses, 2000-01,Rabi       ,102.0,12,0.117647058823529
+Kolar,Other  Rabi pulses, 2001-02,Rabi       ,152.0,18,0.118421052631579
+Kolar,Other  Rabi pulses, 2002-03,Rabi       ,406.0,49,0.120689655172414
+Kolar,Other  Rabi pulses, 2005-06,Rabi       ,29.0,3,0.103448275862069
+Kolar,Other  Rabi pulses, 2006-07,Rabi       ,89.0,47,0.528089887640449
+Kolar,Other  Rabi pulses, 2007-08,Rabi       ,85.0,18,0.211764705882353
+Kolar,Other  Rabi pulses, 2008-09,Rabi       ,15.0,4,0.266666666666667
+Kolar,Other  Rabi pulses, 2009-10,Rabi       ,60.0,20,0.333333333333333
+Kolar,Other Kharif pulses, 1999-00,Kharif     ,11708.0,3064,0.261701400751623
+Kolar,Other Kharif pulses, 2000-01,Kharif     ,14970.0,3921,0.261923847695391
+Kolar,Other Kharif pulses, 2001-02,Kharif     ,10311.0,2660,0.257976917854718
+Kolar,Other Kharif pulses, 2002-03,Kharif     ,5003.0,1304,0.260643613831701
+Kolar,Other Kharif pulses, 2003-04,Kharif     ,11716.0,2956,0.252304540798907
+Kolar,Other Kharif pulses, 2004-05,Kharif     ,11374.0,2890,0.254088271496395
+Kolar,Other Kharif pulses, 2005-06,Kharif     ,13049.0,3394,0.260096559123304
+Kolar,Other Kharif pulses, 2006-07,Kharif     ,5478.0,7340,1.33990507484483
+Kolar,Other Kharif pulses, 2007-08,Kharif     ,4871.0,3853,0.791008006569493
+Kolar,Other Kharif pulses, 2008-09,Kharif     ,6432.0,6508,1.01181592039801
+Kolar,Other Kharif pulses, 2009-10,Kharif     ,6115.0,5184,0.847751430907604
+Kolar,Other Kharif pulses, 2010-11,Kharif     ,7764.0,10282,1.32431736218444
+Kolar,Other Kharif pulses, 2011-12,Kharif     ,8023.0,18132,2.2600024928331
+Kolar,Other Kharif pulses, 2012-13,Kharif     ,7152.0,21382,2.98965324384787
+Kolar,Other Kharif pulses, 2013-14,Kharif     ,6476.0,4774,0.737183446571958
+Kolar,Other Kharif pulses, 2014-15,Kharif     ,5117.0,7277,1.42212233730702
+Kolar,Other Kharif pulses, 2015-16,Kharif     ,6373.0,13895,2.18029185626863
+Kolar,Other Kharif pulses, 2016-17,Kharif     ,7381.0,2076,0.281262701530958
+Kolar,Other Kharif pulses, 2017-18,Kharif     ,9025.0,18348,2.03301939058172
+Kolar,Other Kharif pulses, 2018-19,Kharif     ,5387.0,3330,0.618154817152404
+Kolar,Peas & beans (Pulses), 1998-99,Kharif     ,739.0,6239,8.4424898511502
+Kolar,Peas & beans (Pulses), 1998-99,Rabi       ,322.0,3299,10.2453416149068
+Kolar,Peas & beans (Pulses), 1998-99,Summer     ,645.0,5668,8.78759689922481
+Kolar,Peas & beans (Pulses), 2001-02,Whole Year ,3784.0,21108,5.57822410147992
+Kolar,Peas & beans (Pulses), 2005-06,Kharif     ,2177.0,14671,6.73909049150207
+Kolar,Peas & beans (Pulses), 2005-06,Rabi       ,366.0,2311,6.31420765027322
+Kolar,Peas & beans (Pulses), 2005-06,Summer     ,194.0,982,5.06185567010309
+Kolar,Peas & beans (Pulses), 2010-11,Kharif     ,565.0,4684,8.29026548672566
+Kolar,Peas & beans (Pulses), 2010-11,Rabi       ,500.0,3768,7.536
+Kolar,Peas & beans (Pulses), 2010-11,Summer     ,580.0,5685,9.80172413793103
+Kolar,Peas & beans (Pulses), 2011-12,Kharif     ,510.0,5961,11.6882352941176
+Kolar,Peas & beans (Pulses), 2011-12,Rabi       ,455.0,3855,8.47252747252747
+Kolar,Peas & beans (Pulses), 2011-12,Summer     ,525.0,5580,10.6285714285714
+Kolar,Potato, 1998-99,Kharif     ,1410.0,17952,12.731914893617
+Kolar,Potato, 1998-99,Rabi       ,3368.0,69974,20.7761282660333
+Kolar,Potato, 1998-99,Summer     ,216.0,5069,23.4675925925926
+Kolar,Potato, 1999-00,Whole Year ,7739.0,151312,19.5518800878666
+Kolar,Potato, 2000-01,Whole Year ,10372.0,170713,16.459024296182
+Kolar,Potato, 2001-02,Whole Year ,11834.0,214109,18.0926990028731
+Kolar,Potato, 2002-03,Whole Year ,5550.0,48176,8.68036036036036
+Kolar,Potato, 2003-04,Whole Year ,5116.0,91056,17.7982799061767
+Kolar,Potato, 2004-05,Whole Year ,4028.0,72607,18.0255710029791
+Kolar,Potato, 2005-06,Kharif     ,1145.0,3833,3.34759825327511
+Kolar,Potato, 2005-06,Rabi       ,3836.0,73493,19.1587591240876
+Kolar,Potato, 2005-06,Summer     ,178.0,2859,16.061797752809
+Kolar,Potato, 2006-07,Whole Year ,7162.0,164474,22.9648142976822
+Kolar,Potato, 2007-08,Kharif     ,510.0,13259,25.9980392156863
+Kolar,Potato, 2007-08,Rabi       ,790.0,9319,11.7962025316456
+Kolar,Potato, 2007-08,Summer     ,1726.0,27519,15.9438006952491
+Kolar,Potato, 2008-09,Rabi       ,4028.0,47274,11.7363455809335
+Kolar,Potato, 2008-09,Summer     ,1507.0,24188,16.0504313205043
+Kolar,Potato, 2009-10,Rabi       ,3641.0,49338,13.5506728920626
+Kolar,Potato, 2009-10,Summer     ,2513.0,40325,16.0465578989256
+Kolar,Potato, 2010-11,Rabi       ,3083.0,19770,6.41258514433993
+Kolar,Potato, 2010-11,Summer     ,1275.0,19603,15.3749019607843
+Kolar,Potato, 2011-12,Rabi       ,3125.0,37335,11.9472
+Kolar,Potato, 2011-12,Summer     ,463.0,6680,14.4276457883369
+Kolar,Potato, 2012-13,Rabi       ,3055.0,70043,22.9273322422259
+Kolar,Potato, 2012-13,Summer     ,350.0,7632,21.8057142857143
+Kolar,Potato, 2013-14,Rabi       ,3205.0,58837,18.3578783151326
+Kolar,Potato, 2013-14,Summer     ,340.0,4777,14.05
+Kolar,Potato, 2014-15,Rabi       ,3024.0,60070,19.864417989418
+Kolar,Potato, 2014-15,Summer     ,320.0,4387,13.709375
+Kolar,Potato, 2015-16,Rabi       ,3313.0,57839,17.4581949894356
+Kolar,Potato, 2015-16,Summer     ,335.0,5535,16.5223880597015
+Kolar,Potato, 2016-17,Rabi       ,2910.0,37163,12.7707903780069
+Kolar,Potato, 2016-17,Summer     ,104.0,1644,15.8076923076923
+Kolar,Potato, 2017-18,Rabi       ,2145.0,37495,17.4801864801865
+Kolar,Potato, 2018-19,Kharif     ,26.0,206,7.92307692307692
+Kolar,Potato, 2018-19,Rabi       ,3428.0,49344,14.3943990665111
+Kolar,Ragi, 1997-98,Kharif     ,100225.0,142957,1.42636068845099
+Kolar,Ragi, 1997-98,Rabi       ,187.0,254,1.35828877005348
+Kolar,Ragi, 1997-98,Summer     ,574.0,1063,1.85191637630662
+Kolar,Ragi, 1998-99,Kharif     ,117395.0,220794,1.88077856808212
+Kolar,Ragi, 1998-99,Rabi       ,150.0,218,1.45333333333333
+Kolar,Ragi, 1998-99,Summer     ,899.0,2022,2.24916573971079
+Kolar,Ragi, 1999-00,Kharif     ,90091.0,127105,1.41085125040237
+Kolar,Ragi, 1999-00,Rabi       ,108.0,140,1.2962962962963
+Kolar,Ragi, 1999-00,Summer     ,858.0,1715,1.9988344988345
+Kolar,Ragi, 2000-01,Kharif     ,130824.0,241192,1.84363725310341
+Kolar,Ragi, 2000-01,Rabi       ,9.0,14,1.55555555555556
+Kolar,Ragi, 2000-01,Summer     ,1123.0,2227,1.98308103294746
+Kolar,Ragi, 2001-02,Kharif     ,100223.0,165110,1.64742623948595
+Kolar,Ragi, 2001-02,Rabi       ,12.0,16,1.33333333333333
+Kolar,Ragi, 2001-02,Summer     ,668.0,1024,1.53293413173653
+Kolar,Ragi, 2002-03,Kharif     ,46550.0,27240,0.585177228786251
+Kolar,Ragi, 2002-03,Rabi       ,4315.0,6776,1.57033603707995
+Kolar,Ragi, 2002-03,Summer     ,388.0,445,1.14690721649485
+Kolar,Ragi, 2003-04,Kharif     ,120681.0,176361,1.46138165908469
+Kolar,Ragi, 2003-04,Rabi       ,108.0,99,0.916666666666667
+Kolar,Ragi, 2003-04,Summer     ,129.0,153,1.18604651162791
+Kolar,Ragi, 2004-05,Kharif     ,109068.0,152191,1.3953771958778
+Kolar,Ragi, 2004-05,Rabi       ,175.0,335,1.91428571428571
+Kolar,Ragi, 2004-05,Summer     ,69.0,110,1.59420289855072
+Kolar,Ragi, 2005-06,Kharif     ,106403.0,193572,1.81923442008214
+Kolar,Ragi, 2005-06,Rabi       ,167.0,485,2.90419161676647
+Kolar,Ragi, 2005-06,Summer     ,117.0,256,2.18803418803419
+Kolar,Ragi, 2006-07,Kharif     ,62021.0,72276,1.16534722110253
+Kolar,Ragi, 2006-07,Rabi       ,80.0,160,2
+Kolar,Ragi, 2006-07,Summer     ,417.0,886,2.12470023980815
+Kolar,Ragi, 2007-08,Kharif     ,60285.0,72434,1.20152608443228
+Kolar,Ragi, 2007-08,Rabi       ,75.0,162,2.16
+Kolar,Ragi, 2007-08,Summer     ,330.0,686,2.07878787878788
+Kolar,Ragi, 2008-09,Kharif     ,63571.0,102755,1.61638168347202
+Kolar,Ragi, 2008-09,Rabi       ,105.0,219,2.08571428571429
+Kolar,Ragi, 2008-09,Summer     ,185.0,368,1.98918918918919
+Kolar,Ragi, 2009-10,Kharif     ,50091.0,67737,1.35227885248847
+Kolar,Ragi, 2009-10,Rabi       ,86.0,202,2.34883720930233
+Kolar,Ragi, 2009-10,Summer     ,460.0,864,1.87826086956522
+Kolar,Ragi, 2010-11,Kharif     ,57153.0,108551,1.89930537329624
+Kolar,Ragi, 2010-11,Rabi       ,81.0,168,2.07407407407407
+Kolar,Ragi, 2010-11,Summer     ,260.0,509,1.95769230769231
+Kolar,Ragi, 2011-12,Kharif     ,60011.0,118044,1.96703937611438
+Kolar,Ragi, 2011-12,Rabi       ,77.0,155,2.01298701298701
+Kolar,Ragi, 2011-12,Summer     ,185.0,356,1.92432432432432
+Kolar,Ragi, 2012-13,Kharif     ,57079.0,137406,2.40729515233273
+Kolar,Ragi, 2012-13,Rabi       ,76.0,110,1.44736842105263
+Kolar,Ragi, 2012-13,Summer     ,180.0,270,1.5
+Kolar,Ragi, 2013-14,Kharif     ,55002.0,123680,2.24864550379986
+Kolar,Ragi, 2013-14,Rabi       ,74.0,108,1.45945945945946
+Kolar,Ragi, 2013-14,Summer     ,60.0,118,1.96666666666667
+Kolar,Ragi, 2014-15,Kharif     ,52427.0,70824,1.35090697541343
+Kolar,Ragi, 2014-15,Rabi       ,43.0,70,1.62790697674419
+Kolar,Ragi, 2014-15,Summer     ,21.0,37,1.76190476190476
+Kolar,Ragi, 2015-16,Kharif     ,58328.0,65774,1.12765738581813
+Kolar,Ragi, 2015-16,Rabi       ,40.0,68,1.7
+Kolar,Ragi, 2016-17,Kharif     ,59258.0,25671,0.433207330655776
+Kolar,Ragi, 2016-17,Summer     ,46.0,83,1.80434782608696
+Kolar,Ragi, 2017-18,Kharif     ,66148.0,181546,2.74454254096874
+Kolar,Ragi, 2017-18,Rabi       ,76.0,122,1.60526315789474
+Kolar,Ragi, 2017-18,Summer     ,157.0,273,1.73885350318471
+Kolar,Ragi, 2018-19,Kharif     ,44077.0,43004,0.975656237947229
+Kolar,Ragi, 2018-19,Rabi       ,22.0,31,1.40909090909091
+Kolar,Ragi, 2018-19,Summer     ,21.0,38,1.80952380952381
+Kolar,Rapeseed &Mustard, 1998-99,Kharif     ,1281.0,367,0.286494925839188
+Kolar,Rapeseed &Mustard, 1999-00,Rabi       ,1324.0,379,0.286253776435045
+Kolar,Rapeseed &Mustard, 2000-01,Rabi       ,1553.0,444,0.285898261429491
+Kolar,Rapeseed &Mustard, 2001-02,Rabi       ,1245.0,356,0.285943775100402
+Kolar,Rapeseed &Mustard, 2002-03,Rabi       ,469.0,134,0.285714285714286
+Kolar,Rapeseed &Mustard, 2003-04,Rabi       ,1409.0,403,0.286018452803407
+Kolar,Rapeseed &Mustard, 2004-05,Rabi       ,895.0,256,0.286033519553073
+Kolar,Rapeseed &Mustard, 2005-06,Rabi       ,1227.0,351,0.286063569682152
+Kolar,Rapeseed &Mustard, 2008-09,Rabi       ,615.0,247,0.401626016260163
+Kolar,Rapeseed &Mustard, 2009-10,Rabi       ,285.0,77,0.270175438596491
+Kolar,Rapeseed &Mustard, 2010-11,Rabi       ,327.0,109,0.333333333333333
+Kolar,Rapeseed &Mustard, 2011-12,Rabi       ,339.0,97,0.286135693215339
+Kolar,Rapeseed &Mustard, 2012-13,Kharif     ,289.0,85,0.294117647058823
+Kolar,Rapeseed &Mustard, 2013-14,Kharif     ,214.0,61,0.285046728971963
+Kolar,Rapeseed &Mustard, 2014-15,Kharif     ,161.0,35,0.217391304347826
+Kolar,Rapeseed &Mustard, 2015-16,Kharif     ,177.0,30,0.169491525423729
+Kolar,Rapeseed &Mustard, 2016-17,Kharif     ,171.0,25,0.146198830409357
+Kolar,Rapeseed &Mustard, 2017-18,Kharif     ,183.0,41,0.224043715846995
+Kolar,Rapeseed &Mustard, 2018-19,Kharif     ,12.0,2,0.166666666666667
+Kolar,Rice, 1997-98,Kharif     ,12130.0,26791,2.20865622423743
+Kolar,Rice, 1997-98,Rabi       ,330.0,714,2.16363636363636
+Kolar,Rice, 1997-98,Summer     ,7914.0,22059,2.78733889310083
+Kolar,Rice, 1998-99,Kharif     ,13466.0,34437,2.55732957077083
+Kolar,Rice, 1998-99,Rabi       ,260.0,568,2.18461538461538
+Kolar,Rice, 1998-99,Summer     ,15541.0,44823,2.88417733736568
+Kolar,Rice, 1999-00,Kharif     ,7917.0,16842,2.12732095490716
+Kolar,Rice, 1999-00,Summer     ,2079.0,4191,2.01587301587302
+Kolar,Rice, 2000-01,Kharif     ,11995.0,29032,2.42034180908712
+Kolar,Rice, 2000-01,Summer     ,10760.0,31034,2.88420074349442
+Kolar,Rice, 2001-02,Kharif     ,6189.0,14118,2.28114396509937
+Kolar,Rice, 2001-02,Summer     ,18419.0,37848,2.0548346815788
+Kolar,Rice, 2002-03,Kharif     ,5630.0,11215,1.99200710479574
+Kolar,Rice, 2002-03,Summer     ,220.0,347,1.57727272727273
+Kolar,Rice, 2003-04,Kharif     ,8368.0,18998,2.2703154875717
+Kolar,Rice, 2003-04,Summer     ,691.0,1814,2.62518089725036
+Kolar,Rice, 2004-05,Kharif     ,6972.0,16558.5,2.375
+Kolar,Rice, 2004-05,Summer     ,351.0,1570,4.47293447293447
+Kolar,Rice, 2005-06,Kharif     ,6487.0,14584,2.24818868506243
+Kolar,Rice, 2005-06,Rabi       ,25.0,55,2.2
+Kolar,Rice, 2005-06,Summer     ,10231.0,45108,4.40895318150718
+Kolar,Rice, 2006-07,Kharif     ,9734.0,18143,1.8638791863571
+Kolar,Rice, 2006-07,Summer     ,521.0,1409,2.70441458733205
+Kolar,Rice, 2007-08,Kharif     ,4759.0,7223,1.51775583105694
+Kolar,Rice, 2007-08,Summer     ,801.0,2409,3.00749063670412
+Kolar,Rice, 2008-09,Kharif     ,3939.0,6211.803,1.577
+Kolar,Rice, 2008-09,Summer     ,218.0,466,2.13761467889908
+Kolar,Rice, 2009-10,Kharif     ,3832.0,6370.7,1.6625
+Kolar,Rice, 2009-10,Summer     ,3264.0,6465,1.98069852941176
+Kolar,Rice, 2010-11,Kharif     ,7539.0,16286,2.16023345271256
+Kolar,Rice, 2010-11,Summer     ,2040.0,3397,1.66519607843137
+Kolar,Rice, 2011-12,Kharif     ,5138.0,10063,1.95854418061503
+Kolar,Rice, 2011-12,Summer     ,65.0,221,3.4
+Kolar,Rice, 2012-13,Kharif     ,3909.0,8552,2.18777180864671
+Kolar,Rice, 2012-13,Summer     ,66.0,155,2.34848484848485
+Kolar,Rice, 2013-14,Kharif     ,1917.0,3278,1.70996348461137
+Kolar,Rice, 2013-14,Summer     ,60.0,203,3.38333333333333
+Kolar,Rice, 2014-15,Kharif     ,344.0,873,2.53779069767442
+Kolar,Rice, 2015-16,Kharif     ,395.0,611,1.54683544303797
+Kolar,Rice, 2016-17,Kharif     ,1232.0,2385,1.93587662337662
+Kolar,Rice, 2017-18,Kharif     ,753.0,2366,3.14209827357238
+Kolar,Rice, 2017-18,Summer     ,503.0,1512,3.00596421471173
+Kolar,Rice, 2018-19,Kharif     ,3223.0,6026,1.86968662736581
+Kolar,Sannhamp, 2018-19,Whole Year ,38.0,9,0.236842105263158
+Kolar,Sesamum, 1998-99,Kharif     ,15.0,6,0.4
+Kolar,Sesamum, 2010-11,Kharif     ,86.0,49,0.569767441860465
+Kolar,Sesamum, 2011-12,Kharif     ,300.0,151,0.503333333333333
+Kolar,Sesamum, 2012-13,Kharif     ,256.0,83,0.32421875
+Kolar,Sesamum, 2013-14,Kharif     ,239.0,137,0.573221757322176
+Kolar,Sesamum, 2014-15,Kharif     ,191.0,98,0.513089005235602
+Kolar,Sesamum, 2015-16,Kharif     ,258.0,125,0.484496124031008
+Kolar,Sesamum, 2016-17,Kharif     ,50.0,32,0.64
+Kolar,Sesamum, 2017-18,Kharif     ,29.0,25,0.862068965517241
+Kolar,Sesamum, 2018-19,Kharif     ,11.0,7,0.636363636363636
+Kolar,Small millets, 1999-00,Kharif     ,765.0,516,0.674509803921569
+Kolar,Small millets, 2000-01,Kharif     ,718.0,649,0.903899721448468
+Kolar,Small millets, 2001-02,Kharif     ,619.0,536,0.865912762520194
+Kolar,Small millets, 2002-03,Kharif     ,243.0,213,0.876543209876543
+Kolar,Small millets, 2003-04,Kharif     ,1863.0,1071,0.57487922705314
+Kolar,Small millets, 2004-05,Kharif     ,488.0,351,0.719262295081967
+Kolar,Small millets, 2005-06,Kharif     ,333.0,276,0.828828828828829
+Kolar,Small millets, 2006-07,Kharif     ,185.0,143,0.772972972972973
+Kolar,Small millets, 2007-08,Kharif     ,53.0,35,0.660377358490566
+Kolar,Small millets, 2009-10,Kharif     ,60.0,44,0.733333333333333
+Kolar,Small millets, 2010-11,Kharif     ,65.0,43,0.661538461538462
+Kolar,Small millets, 2011-12,Kharif     ,70.0,51,0.728571428571429
+Kolar,Small millets, 2012-13,Kharif     ,70.0,34,0.485714285714286
+Kolar,Small millets, 2013-14,Kharif     ,70.0,43,0.614285714285714
+Kolar,Small millets, 2014-15,Kharif     ,70.0,45,0.642857142857143
+Kolar,Small millets, 2015-16,Kharif     ,60.0,34,0.566666666666667
+Kolar,Small millets, 2016-17,Kharif     ,55.0,20,0.363636363636364
+Kolar,Small millets, 2017-18,Kharif     ,61.0,60,0.983606557377049
+Kolar,Small millets, 2018-19,Kharif     ,289.0,294,1.01730103806228
+Kolar,Soyabean, 2018-19,Kharif     ,3.0,3,1
+Kolar,Sugarcane, 1997-98,Whole Year ,3183.0,290290,91.2001256676092
+Kolar,Sugarcane, 1999-00,Whole Year ,4101.0,483098,117.800048768593
+Kolar,Sugarcane, 2000-01,Whole Year ,2545.0,198256,77.9001964636542
+Kolar,Sugarcane, 2001-02,Whole Year ,1225.0,123358,100.700408163265
+Kolar,Sugarcane, 2002-03,Whole Year ,1268.0,104800,82.6498422712934
+Kolar,Sugarcane, 2003-04,Whole Year ,692.0,46018,66.5
+Kolar,Sugarcane, 2005-06,Whole Year ,402.0,35517,88.3507462686567
+Kolar,Sugarcane, 2006-07,Whole Year ,327.0,28580,87.4006116207951
+Kolar,Sugarcane, 2007-08,Whole Year ,100.0,8455,84.55
+Kolar,Sugarcane, 2010-11,Whole Year ,300.0,29070,96.9
+Kolar,Sugarcane, 2011-12,Whole Year ,70.0,6384,91.2
+Kolar,Sugarcane, 2012-13,Whole Year ,95.0,7942,83.6
+Kolar,Sugarcane, 2016-17,Whole Year ,81.0,5617,69.3456790123457
+Kolar,Sugarcane, 2018-19,Whole Year ,48.0,4104,85.5
+Kolar,Sunflower, 1998-99,Kharif     ,1688.0,575,0.34063981042654
+Kolar,Sunflower, 1998-99,Rabi       ,45.0,25,0.555555555555556
+Kolar,Sunflower, 1998-99,Summer     ,553.0,310,0.560578661844485
+Kolar,Sunflower, 1999-00,Kharif     ,1987.0,1040,0.523402113739305
+Kolar,Sunflower, 1999-00,Rabi       ,77.0,55,0.714285714285714
+Kolar,Sunflower, 1999-00,Summer     ,388.0,219,0.564432989690722
+Kolar,Sunflower, 2000-01,Kharif     ,1175.0,820,0.697872340425532
+Kolar,Sunflower, 2000-01,Rabi       ,14.0,10,0.714285714285714
+Kolar,Sunflower, 2000-01,Summer     ,541.0,388,0.717190388170055
+Kolar,Sunflower, 2001-02,Kharif     ,683.0,514,0.752562225475842
+Kolar,Sunflower, 2001-02,Summer     ,531.0,434,0.817325800376648
+Kolar,Sunflower, 2002-03,Kharif     ,889.0,662,0.744656917885264
+Kolar,Sunflower, 2002-03,Rabi       ,1080.0,763,0.706481481481482
+Kolar,Sunflower, 2002-03,Summer     ,408.0,248,0.607843137254902
+Kolar,Sunflower, 2003-04,Kharif     ,605.0,353,0.583471074380165
+Kolar,Sunflower, 2003-04,Rabi       ,1662.0,1279,0.769554753309266
+Kolar,Sunflower, 2003-04,Summer     ,888.0,469,0.528153153153153
+Kolar,Sunflower, 2004-05,Kharif     ,1917.0,1310,0.683359415753782
+Kolar,Sunflower, 2004-05,Rabi       ,2509.0,5713,2.27700278995616
+Kolar,Sunflower, 2004-05,Summer     ,1009.0,655,0.649157581764123
+Kolar,Sunflower, 2005-06,Kharif     ,671.0,660,0.983606557377049
+Kolar,Sunflower, 2005-06,Rabi       ,1613.0,7775,4.82021078735276
+Kolar,Sunflower, 2005-06,Summer     ,4045.0,3136,0.775278121137206
+Kolar,Sunflower, 2006-07,Kharif     ,889.0,288,0.323959505061867
+Kolar,Sunflower, 2006-07,Rabi       ,597.0,1316,2.20435510887772
+Kolar,Sunflower, 2006-07,Summer     ,1275.0,2508,1.96705882352941
+Kolar,Sunflower, 2007-08,Kharif     ,49.0,37,0.755102040816326
+Kolar,Sunflower, 2007-08,Summer     ,68.0,69,1.01470588235294
+Kolar,Sunflower, 2008-09,Kharif     ,40.0,23,0.575
+Kolar,Sunflower, 2008-09,Summer     ,10.0,8,0.8
+Kolar,Sunflower, 2009-10,Kharif     ,46.0,16,0.347826086956522
+Kolar,Sunflower, 2009-10,Summer     ,5.0,4,0.8
+Kolar,Sunflower, 2010-11,Kharif     ,42.0,18,0.428571428571429
+Kolar,Sunflower, 2010-11,Summer     ,4.0,4,1
+Kolar,Sunflower, 2011-12,Kharif     ,8.0,3,0.375
+Kolar,Sunflower, 2011-12,Summer     ,4.0,4,1
+Kolar,Sunflower, 2012-13,Summer     ,4.0,4,1
+Kolar,Sunflower, 2018-19,Kharif     ,1.0,1,1
+Kolar,Sweet potato, 2018-19,Whole Year ,36.0,523,14.5277777777778
+Kolar,Tapioca, 2018-19,Whole Year ,3.0,40,13.3333333333333
+Kolar,Turmeric, 1997-98,Whole Year ,4.0,22,5.5
+Kolar,Turmeric, 1998-99,Whole Year ,1.0,5,5
+Kolar,Turmeric, 2018-19,Whole Year ,1.0,6,6
+Kolar,Urad, 2001-02,Kharif     ,41.0,15,0.365853658536585
+Kolar,Urad, 2004-05,Kharif     ,23.0,3,0.130434782608696
+Kolar,Urad, 2005-06,Kharif     ,16.0,3,0.1875
+Kolar,Urad, 2006-07,Kharif     ,16.0,2,0.125
+Kolar,Urad, 2018-19,Kharif     ,8.0,4,0.5

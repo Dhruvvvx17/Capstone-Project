@@ -1,0 +1,1001 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Mysore,Arecanut, 1997-98,Whole Year ,600.0,426,0.71
+Mysore,Arecanut, 1998-99,Whole Year ,453.0,1589,3.50772626931567
+Mysore,Arecanut, 2000-01,Whole Year ,400.0,284,0.71
+Mysore,Arecanut, 2001-02,Whole Year ,798.0,566,0.709273182957393
+Mysore,Arecanut, 2003-04,Whole Year ,645.0,458,0.710077519379845
+Mysore,Arecanut, 2004-05,Whole Year ,676.0,480,0.710059171597633
+Mysore,Arecanut, 2005-06,Whole Year ,556.0,1950,3.50719424460432
+Mysore,Arecanut, 2006-07,Whole Year ,1026.0,728,0.709551656920078
+Mysore,Arecanut, 2007-08,Whole Year ,911.0,3195,3.50713501646542
+Mysore,Arecanut, 2008-09,Whole Year ,1109.0,3890,3.50766456266907
+Mysore,Arecanut, 2009-10,Whole Year ,1066.0,3739,3.50750469043152
+Mysore,Arecanut, 2010-11,Whole Year ,1375.0,14868,10.8130909090909
+Mysore,Arecanut, 2011-12,Whole Year ,1424.0,11532,8.09831460674157
+Mysore,Arecanut, 2012-13,Whole Year ,1527.0,12256,8.02619515389653
+Mysore,Arecanut, 2013-14,Whole Year ,1617.0,18011,11.1385281385281
+Mysore,Arecanut, 2014-15,Whole Year ,1786.0,16525,9.2525195968645
+Mysore,Arecanut, 2015-16,Whole Year ,1485.0,14556,9.8020202020202
+Mysore,Arecanut, 2016-17,Whole Year ,1567.0,15918,10.1582641991066
+Mysore,Arecanut, 2017-18,Whole Year ,1616.0,17526,10.845297029703
+Mysore,Arecanut, 2018-19,Whole Year ,3130.0,27947,8.92875399361022
+Mysore,Arhar/Tur, 1997-98,Kharif     ,7509.0,1812,0.241310427487016
+Mysore,Arhar/Tur, 1998-99,Kharif     ,6687.0,1957,0.292657394945416
+Mysore,Arhar/Tur, 1999-00,Kharif     ,6465.0,3617,0.559474091260634
+Mysore,Arhar/Tur, 2000-01,Kharif     ,4911.0,1694,0.344939930767664
+Mysore,Arhar/Tur, 2001-02,Kharif     ,4394.0,2651,0.603322712790168
+Mysore,Arhar/Tur, 2002-03,Kharif     ,6267.0,2697,0.430349449497367
+Mysore,Arhar/Tur, 2003-04,Kharif     ,3601.0,2111,0.586226048319911
+Mysore,Arhar/Tur, 2004-05,Kharif     ,5345.0,3214,0.601309635173059
+Mysore,Arhar/Tur, 2005-06,Kharif     ,4315.0,2513,0.582387022016223
+Mysore,Arhar/Tur, 2006-07,Kharif     ,5591.0,5025,0.89876587372563
+Mysore,Arhar/Tur, 2007-08,Kharif     ,3194.0,1420,0.444583594239198
+Mysore,Arhar/Tur, 2008-09,Kharif     ,3136.0,1335,0.425701530612245
+Mysore,Arhar/Tur, 2009-10,Kharif     ,3368.0,1766,0.524346793349169
+Mysore,Arhar/Tur, 2010-11,Kharif     ,4426.0,3561,0.804563940352463
+Mysore,Arhar/Tur, 2011-12,Kharif     ,4439.0,2142,0.482541112863258
+Mysore,Arhar/Tur, 2012-13,Kharif     ,4804.0,3551,0.73917568692756
+Mysore,Arhar/Tur, 2013-14,Kharif     ,3763.0,2291,0.6088227478076
+Mysore,Arhar/Tur, 2014-15,Kharif     ,2697.0,1617,0.599555061179088
+Mysore,Arhar/Tur, 2015-16,Kharif     ,2774.0,1181,0.425739005046864
+Mysore,Arhar/Tur, 2016-17,Kharif     ,2903.0,1081,0.37237340682053
+Mysore,Arhar/Tur, 2017-18,Kharif     ,2022.0,1510,0.746785361028684
+Mysore,Arhar/Tur, 2018-19,Kharif     ,3767.0,3457,0.917706397663924
+Mysore,Bajra, 1997-98,Kharif     ,365.0,161,0.441095890410959
+Mysore,Bajra, 1998-99,Kharif     ,6.0,3,0.5
+Mysore,Bajra, 1999-00,Kharif     ,52.0,29,0.557692307692308
+Mysore,Bajra, 2000-01,Kharif     ,21.0,15,0.714285714285714
+Mysore,Bajra, 2013-14,Kharif     ,4.0,5,1.25
+Mysore,Bajra, 2018-19,Kharif     ,18.0,16,0.888888888888889
+Mysore,Banana, 1999-00,Whole Year ,976.0,20468,20.9713114754098
+Mysore,Banana, 2000-01,Whole Year ,1409.0,30423,21.5919091554294
+Mysore,Banana, 2002-03,Whole Year ,1579.0,32041,20.2919569347688
+Mysore,Banana, 2003-04,Whole Year ,2085.0,27931,13.3961630695444
+Mysore,Banana, 2004-05,Whole Year ,1570.0,34482,21.9630573248408
+Mysore,Banana, 2005-06,Whole Year ,2337.0,44669,19.1138211382114
+Mysore,Banana, 2006-07,Whole Year ,2027.0,44570,21.9881598421312
+Mysore,Banana, 2007-08,Whole Year ,2863.0,67366,23.5298637792525
+Mysore,Banana, 2008-09,Whole Year ,3706.0,60286,16.2671343766865
+Mysore,Banana, 2009-10,Whole Year ,4454.0,131054,29.4238886394252
+Mysore,Banana, 2010-11,Whole Year ,5468.0,142523,26.064923189466
+Mysore,Banana, 2011-12,Whole Year ,5610.0,154656,27.5679144385027
+Mysore,Black pepper, 1997-98,Kharif     ,12.0,3,0.25
+Mysore,Black pepper, 1998-99,Whole Year ,5.0,13,2.6
+Mysore,Black pepper, 1999-00,Whole Year ,16.0,41,2.5625
+Mysore,Black pepper, 2000-01,Whole Year ,14.0,36,2.57142857142857
+Mysore,Black pepper, 2001-02,Whole Year ,20.0,51,2.55
+Mysore,Black pepper, 2002-03,Whole Year ,124.0,317,2.55645161290323
+Mysore,Black pepper, 2003-04,Whole Year ,25.0,64,2.56
+Mysore,Black pepper, 2004-05,Whole Year ,28.0,72,2.57142857142857
+Mysore,Black pepper, 2005-06,Whole Year ,25.0,64,2.56
+Mysore,Black pepper, 2006-07,Whole Year ,26.0,66,2.53846153846154
+Mysore,Black pepper, 2007-08,Whole Year ,59.0,184,3.11864406779661
+Mysore,Black pepper, 2008-09,Whole Year ,62.0,263,4.24193548387097
+Mysore,Black pepper, 2009-10,Whole Year ,166.0,616,3.71084337349398
+Mysore,Black pepper, 2010-11,Whole Year ,63.0,38,0.603174603174603
+Mysore,Black pepper, 2011-12,Whole Year ,73.0,20.7,0.283561643835616
+Mysore,Black pepper, 2012-13,Whole Year ,46.0,130,2.82608695652174
+Mysore,Black pepper, 2013-14,Whole Year ,21.0,52,2.47619047619048
+Mysore,Black pepper, 2014-15,Whole Year ,52.0,30.5,0.586538461538462
+Mysore,Black pepper, 2015-16,Whole Year ,42.0,32.1,0.764285714285714
+Mysore,Black pepper, 2016-17,Whole Year ,73.0,44.2,0.605479452054795
+Mysore,Black pepper, 2017-18,Whole Year ,39.0,25.6,0.656410256410256
+Mysore,Black pepper, 2018-19,Whole Year ,39.0,24.7,0.633333333333333
+Mysore,Cardamom, 1997-98,Whole Year ,16.0,1,0.0625
+Mysore,Cardamom, 2014-15,Whole Year ,5.0,nan,0
+Mysore,Cardamom, 2018-19,Whole Year ,7.0,1,0.142857142857143
+Mysore,Cashewnut, 2008-09,Whole Year ,200.0,122.958,0.61479
+Mysore,Cashewnut, 2009-10,Whole Year ,190.0,144,0.757894736842105
+Mysore,Cashewnut, 2010-11,Whole Year ,184.0,135,0.733695652173913
+Mysore,Cashewnut, 2011-12,Whole Year ,184.0,147,0.798913043478261
+Mysore,Cashewnut, 2012-13,Whole Year ,219.0,176,0.80365296803653
+Mysore,Cashewnut, 2013-14,Whole Year ,127.0,113,0.889763779527559
+Mysore,Cashewnut, 2014-15,Whole Year ,39.0,29,0.743589743589744
+Mysore,Cashewnut, 2015-16,Whole Year ,23.0,15,0.652173913043478
+Mysore,Cashewnut, 2016-17,Whole Year ,22.0,12,0.545454545454545
+Mysore,Cashewnut, 2017-18,Whole Year ,24.0,18,0.75
+Mysore,Cashewnut, 2018-19,Whole Year ,10.0,12,1.2
+Mysore,Castor seed, 1998-99,Kharif     ,2476.0,1146,0.462843295638126
+Mysore,Castor seed, 1999-00,Kharif     ,2727.0,1583,0.580491382471581
+Mysore,Castor seed, 2000-01,Kharif     ,2377.0,3837,1.61421960454354
+Mysore,Castor seed, 2001-02,Kharif     ,2301.0,1091,0.474141677531508
+Mysore,Castor seed, 2002-03,Kharif     ,3021.0,1289,0.426679907315458
+Mysore,Castor seed, 2003-04,Kharif     ,1863.0,699,0.375201288244766
+Mysore,Castor seed, 2004-05,Kharif     ,2383.0,1564,0.656315568610995
+Mysore,Castor seed, 2005-06,Kharif     ,4735.0,2604,0.549947201689546
+Mysore,Castor seed, 2006-07,Kharif     ,3904.0,2618,0.670594262295082
+Mysore,Castor seed, 2007-08,Kharif     ,3856.0,1989,0.515819502074689
+Mysore,Castor seed, 2008-09,Kharif     ,2527.0,883,0.349426197071626
+Mysore,Castor seed, 2009-10,Kharif     ,2755.0,906,0.328856624319419
+Mysore,Castor seed, 2010-11,Kharif     ,3643.0,2824,0.775185286851496
+Mysore,Castor seed, 2011-12,Kharif     ,2739.0,1520,0.554947060971157
+Mysore,Castor seed, 2012-13,Kharif     ,2473.0,1238,0.500606550748079
+Mysore,Castor seed, 2013-14,Kharif     ,2044.0,748,0.365949119373777
+Mysore,Castor seed, 2014-15,Kharif     ,1125.0,679,0.603555555555556
+Mysore,Castor seed, 2015-16,Kharif     ,943.0,515,0.546129374337222
+Mysore,Castor seed, 2016-17,Kharif     ,796.0,178,0.223618090452261
+Mysore,Castor seed, 2017-18,Kharif     ,973.0,682,0.700924974306269
+Mysore,Castor seed, 2018-19,Kharif     ,763.0,437,0.572739187418086
+Mysore,Coconut , 1998-99,Whole Year ,11821.0,42095000,3561.03544539379
+Mysore,Coconut , 1999-00,Whole Year ,11281.0,40172000,3561.03182341991
+Mysore,Coconut , 2000-01,Whole Year ,12512.0,44556000,3561.06138107417
+Mysore,Coconut , 2001-02,Whole Year ,18765.0,50122000,2671.03650413003
+Mysore,Coconut , 2002-03,Whole Year ,19801.0,52889000,2671.02671582243
+Mysore,Coconut , 2003-04,Whole Year ,18005.0,48092000,2671.03582338239
+Mysore,Coconut , 2004-05,Whole Year ,19404.0,51828000,2670.99567099567
+Mysore,Coconut , 2005-06,Whole Year ,13158.0,35145000,2670.99863201094
+Mysore,Coconut , 2006-07,Whole Year ,18462.0,49312000,2670.99989166937
+Mysore,Coconut , 2007-08,Whole Year ,22122.0,112636000,5091.58303950818
+Mysore,Coconut , 2008-09,Whole Year ,21977.0,193857000,8820.90367202075
+Mysore,Coconut , 2009-10,Whole Year ,22070.0,130899000,5931.08291798822
+Mysore,Coconut , 2010-11,Whole Year ,26195.0,324630000,12392.8230578355
+Mysore,Coconut , 2011-12,Whole Year ,26280.0,238760000,9085.23592085236
+Mysore,Coconut , 2012-13,Whole Year ,21605.0,196286000,9085.21175653784
+Mysore,Coconut , 2013-14,Whole Year ,22417.0,177853000,7933.84484989071
+Mysore,Coconut , 2014-15,Whole Year ,22352.0,197674000,8843.68289191124
+Mysore,Coconut , 2015-16,Whole Year ,16712.0,164837000,9863.39157491623
+Mysore,Coconut , 2016-17,Whole Year ,19554.0,80434000,4113.42947734479
+Mysore,Coconut , 2017-18,Whole Year ,21194.0,209988000,9907.89846182882
+Mysore,Coconut , 2018-19,Whole Year ,23277.0,246158000,10575.1600292134
+Mysore,Coriander, 1997-98,Whole Year ,870.0,86,0.0988505747126437
+Mysore,Coriander, 1998-99,Whole Year ,639.0,63,0.0985915492957746
+Mysore,Coriander, 1999-00,Whole Year ,630.0,62,0.0984126984126984
+Mysore,Coriander, 2000-01,Whole Year ,15.0,1,0.0666666666666667
+Mysore,Coriander, 2001-02,Whole Year ,217.0,21,0.0967741935483871
+Mysore,Coriander, 2002-03,Whole Year ,34.0,3,0.0882352941176471
+Mysore,Coriander, 2003-04,Whole Year ,75.0,7,0.0933333333333333
+Mysore,Coriander, 2004-05,Whole Year ,24.0,2,0.0833333333333333
+Mysore,Coriander, 2005-06,Whole Year ,25.0,2,0.08
+Mysore,Coriander, 2006-07,Whole Year ,42.0,4,0.0952380952380952
+Mysore,Coriander, 2007-08,Whole Year ,26.0,9,0.346153846153846
+Mysore,Coriander, 2008-09,Whole Year ,63.0,34,0.53968253968254
+Mysore,Coriander, 2009-10,Whole Year ,61.0,30,0.491803278688525
+Mysore,Coriander, 2010-11,Whole Year ,46.0,17,0.369565217391304
+Mysore,Coriander, 2011-12,Whole Year ,19.0,8,0.421052631578947
+Mysore,Coriander, 2012-13,Whole Year ,34.0,13,0.382352941176471
+Mysore,Coriander, 2013-14,Whole Year ,51.0,16,0.313725490196078
+Mysore,Coriander, 2014-15,Whole Year ,9.0,3,0.333333333333333
+Mysore,Coriander, 2015-16,Whole Year ,6.0,3,0.5
+Mysore,Coriander, 2016-17,Whole Year ,1.0,nan,0
+Mysore,Coriander, 2018-19,Whole Year ,74.0,66,0.891891891891892
+Mysore,Cotton(lint), 1998-99,Kharif     ,59668.0,153042,2.564892404639
+Mysore,Cotton(lint), 1999-00,Kharif     ,63107.0,154105,2.44196364904052
+Mysore,Cotton(lint), 2000-01,Kharif     ,64715.0,130909,2.02285405238353
+Mysore,Cotton(lint), 2001-02,Kharif     ,55918.0,76555,1.36905826388641
+Mysore,Cotton(lint), 2002-03,Kharif     ,36105.0,31900,0.883534136546185
+Mysore,Cotton(lint), 2003-04,Kharif     ,42809.0,33251,0.77672919245953
+Mysore,Cotton(lint), 2004-05,Kharif     ,72962.0,83989,1.15113346673611
+Mysore,Cotton(lint), 2005-06,Whole Year ,46606.0,78651,1.68757241556881
+Mysore,Cotton(lint), 2006-07,Whole Year ,55070.0,50468,0.916433629925549
+Mysore,Cotton(lint), 2007-08,Whole Year ,52439.0,35750,0.681744503136978
+Mysore,Cotton(lint), 2008-09,Whole Year ,43629.0,34863,0.799078594512824
+Mysore,Cotton(lint), 2009-10,Whole Year ,41255.0,54175,1.31317416070779
+Mysore,Cotton(lint), 2010-11,Kharif     ,38897.0,62164,1.598169524642
+Mysore,Cotton(lint), 2010-11,Rabi       ,133.0,288,2.16541353383459
+Mysore,Cotton(lint), 2011-12,Kharif     ,44335.0,100051,2.25670463516409
+Mysore,Cotton(lint), 2012-13,Kharif     ,44424.0,50145,1.12878173960022
+Mysore,Cotton(lint), 2012-13,Summer     ,67.0,186,2.77611940298507
+Mysore,Cotton(lint), 2013-14,Kharif     ,46165.0,136724,2.96163760424564
+Mysore,Cotton(lint), 2013-14,Summer     ,10.0,36,3.6
+Mysore,Cotton(lint), 2014-15,Kharif     ,48174.0,85874,1.78257981483788
+Mysore,Cotton(lint), 2015-16,Kharif     ,49160.0,65105,1.3243490642799
+Mysore,Cotton(lint), 2016-17,Kharif     ,39754.0,25991,0.653795844443327
+Mysore,Cotton(lint), 2017-18,Kharif     ,48027.0,113791,2.36931309471755
+Mysore,Cotton(lint), 2018-19,Kharif     ,43453.0,54633,1.2572894851909
+Mysore,Cowpea(Lobia), 2010-11,Kharif     ,24202.0,9910,0.409470291711429
+Mysore,Cowpea(Lobia), 2010-11,Rabi       ,7576.0,2001,0.264123548046462
+Mysore,Cowpea(Lobia), 2011-12,Kharif     ,25791.0,11638,0.451242681555581
+Mysore,Cowpea(Lobia), 2011-12,Rabi       ,8335.0,3159,0.379004199160168
+Mysore,Cowpea(Lobia), 2012-13,Kharif     ,26432.0,4846,0.183338377723971
+Mysore,Cowpea(Lobia), 2012-13,Rabi       ,1770.0,668,0.377401129943503
+Mysore,Cowpea(Lobia), 2012-13,Summer     ,187.0,78,0.417112299465241
+Mysore,Cowpea(Lobia), 2013-14,Kharif     ,25712.0,11578,0.450295581829496
+Mysore,Cowpea(Lobia), 2013-14,Rabi       ,5729.0,2259,0.394309652644441
+Mysore,Cowpea(Lobia), 2013-14,Summer     ,160.0,63,0.39375
+Mysore,Cowpea(Lobia), 2014-15,Kharif     ,22587.0,8948,0.396157081507062
+Mysore,Cowpea(Lobia), 2014-15,Rabi       ,4096.0,1331,0.324951171875
+Mysore,Cowpea(Lobia), 2014-15,Summer     ,211.0,77,0.364928909952607
+Mysore,Cowpea(Lobia), 2015-16,Kharif     ,35380.0,11697,0.330610514414924
+Mysore,Cowpea(Lobia), 2015-16,Rabi       ,5641.0,2406,0.426520120546002
+Mysore,Cowpea(Lobia), 2015-16,Summer     ,1.0,nan,0
+Mysore,Cowpea(Lobia), 2016-17,Kharif     ,29018.0,22219,0.765697153490937
+Mysore,Cowpea(Lobia), 2016-17,Rabi       ,1307.0,31,0.0237184391736802
+Mysore,Cowpea(Lobia), 2017-18,Kharif     ,35933.0,10036,0.279297581610219
+Mysore,Cowpea(Lobia), 2017-18,Rabi       ,3780.0,1422,0.376190476190476
+Mysore,Cowpea(Lobia), 2017-18,Summer     ,1.0,nan,0
+Mysore,Cowpea(Lobia), 2018-19,Kharif     ,20765.0,8640,0.416084758006261
+Mysore,Cowpea(Lobia), 2018-19,Rabi       ,6817.0,1917,0.28120874284876
+Mysore,Cowpea(Lobia), 2018-19,Summer     ,73.0,10,0.136986301369863
+Mysore,Dry chillies, 1997-98,Kharif     ,3097.0,768,0.247981917985147
+Mysore,Dry chillies, 1997-98,Rabi       ,207.0,272,1.31400966183575
+Mysore,Dry chillies, 1998-99,Whole Year ,2000.0,564,0.282
+Mysore,Dry chillies, 1999-00,Whole Year ,986.0,1100,1.11561866125761
+Mysore,Dry chillies, 2000-01,Whole Year ,1894.0,1838,0.970432946145723
+Mysore,Dry chillies, 2001-02,Whole Year ,1666.0,1573,0.944177671068427
+Mysore,Dry chillies, 2002-03,Whole Year ,1484.0,1634,1.1010781671159
+Mysore,Dry chillies, 2003-04,Whole Year ,804.0,1931,2.40174129353234
+Mysore,Dry chillies, 2004-05,Whole Year ,1391.0,2653,1.90726096333573
+Mysore,Dry chillies, 2005-06,Kharif     ,525.0,382,0.727619047619048
+Mysore,Dry chillies, 2005-06,Rabi       ,127.0,470,3.7007874015748
+Mysore,Dry chillies, 2005-06,Summer     ,228.0,1178,5.16666666666667
+Mysore,Dry chillies, 2006-07,Whole Year ,1077.0,2513,2.33333333333333
+Mysore,Dry chillies, 2007-08,Kharif     ,530.0,477,0.9
+Mysore,Dry chillies, 2007-08,Rabi       ,197.0,344,1.74619289340102
+Mysore,Dry chillies, 2007-08,Summer     ,423.0,1432,3.38534278959811
+Mysore,Dry chillies, 2008-09,Kharif     ,629.0,584,0.92845786963434
+Mysore,Dry chillies, 2008-09,Rabi       ,133.0,225,1.69172932330827
+Mysore,Dry chillies, 2008-09,Summer     ,455.0,1493,3.28131868131868
+Mysore,Dry chillies, 2009-10,Rabi       ,232.0,692,2.98275862068966
+Mysore,Dry chillies, 2009-10,Summer     ,468.0,2155,4.60470085470085
+Mysore,Dry chillies, 2010-11,Kharif     ,923.0,760,0.823401950162513
+Mysore,Dry chillies, 2010-11,Rabi       ,252.0,685,2.71825396825397
+Mysore,Dry chillies, 2010-11,Summer     ,422.0,1284,3.04265402843602
+Mysore,Dry chillies, 2011-12,Kharif     ,920.0,743,0.807608695652174
+Mysore,Dry chillies, 2011-12,Rabi       ,335.0,790,2.35820895522388
+Mysore,Dry chillies, 2011-12,Summer     ,339.0,1187,3.50147492625369
+Mysore,Dry chillies, 2012-13,Kharif     ,1330.0,1219,0.916541353383459
+Mysore,Dry chillies, 2012-13,Rabi       ,339.0,926,2.73156342182891
+Mysore,Dry chillies, 2012-13,Summer     ,98.0,277,2.8265306122449
+Mysore,Dry chillies, 2013-14,Kharif     ,879.0,975,1.10921501706485
+Mysore,Dry chillies, 2013-14,Rabi       ,221.0,419,1.89592760180995
+Mysore,Dry chillies, 2013-14,Summer     ,309.0,821,2.65695792880259
+Mysore,Dry chillies, 2014-15,Kharif     ,1061.0,1200,1.13100848256362
+Mysore,Dry chillies, 2014-15,Rabi       ,286.0,537,1.87762237762238
+Mysore,Dry chillies, 2014-15,Summer     ,270.0,520,1.92592592592593
+Mysore,Dry chillies, 2015-16,Kharif     ,1473.0,1278,0.867617107942973
+Mysore,Dry chillies, 2015-16,Rabi       ,626.0,1266,2.0223642172524
+Mysore,Dry chillies, 2015-16,Summer     ,159.0,291,1.83018867924528
+Mysore,Dry chillies, 2016-17,Kharif     ,1441.0,2902,2.01387925052047
+Mysore,Dry chillies, 2016-17,Rabi       ,317.0,678,2.13880126182965
+Mysore,Dry chillies, 2016-17,Summer     ,216.0,489,2.26388888888889
+Mysore,Dry chillies, 2017-18,Kharif     ,1290.0,2426,1.88062015503876
+Mysore,Dry chillies, 2017-18,Rabi       ,521.0,1048,2.01151631477927
+Mysore,Dry chillies, 2017-18,Summer     ,323.0,648,2.0061919504644
+Mysore,Garlic, 1997-98,Whole Year ,98.0,201,2.05102040816327
+Mysore,Garlic, 2011-12,Whole Year ,5.0,6,1.2
+Mysore,Garlic, 2014-15,Whole Year ,101.0,111,1.0990099009901
+Mysore,Garlic, 2015-16,Whole Year ,96.0,129,1.34375
+Mysore,Garlic, 2016-17,Whole Year ,68.0,56,0.823529411764706
+Mysore,Garlic, 2017-18,Whole Year ,4.0,4,1
+Mysore,Garlic, 2018-19,Whole Year ,8.0,53,6.625
+Mysore,Ginger, 1997-98,Kharif     ,62.0,80,1.29032258064516
+Mysore,Ginger, 1998-99,Kharif     ,140.0,1830,13.0714285714286
+Mysore,Ginger, 1999-00,Kharif     ,145.0,1893,13.0551724137931
+Mysore,Ginger, 2000-01,Kharif     ,399.0,5210,13.0576441102757
+Mysore,Ginger, 2001-02,Kharif     ,1320.0,17237,13.0583333333333
+Mysore,Ginger, 2002-03,Kharif     ,1105.0,14429,13.0579185520362
+Mysore,Ginger, 2003-04,Kharif     ,386.0,5040,13.0569948186529
+Mysore,Ginger, 2004-05,Kharif     ,158.0,2063,13.0569620253165
+Mysore,Ginger, 2005-06,Whole Year ,135.0,1763,13.0592592592593
+Mysore,Ginger, 2006-07,Whole Year ,1080.0,14103,13.0583333333333
+Mysore,Ginger, 2007-08,Whole Year ,999.0,20502,20.5225225225225
+Mysore,Ginger, 2008-09,Whole Year ,1714.0,65855,38.4218203033839
+Mysore,Ginger, 2009-10,Whole Year ,1801.0,65507,36.3725707940033
+Mysore,Ginger, 2010-11,Whole Year ,1692.0,5368.6,3.17293144208038
+Mysore,Ginger, 2011-12,Whole Year ,2472.0,7782.4,3.14822006472492
+Mysore,Ginger, 2012-13,Whole Year ,2172.0,68379,31.482044198895
+Mysore,Ginger, 2013-14,Whole Year ,2567.0,82771,32.2442539929879
+Mysore,Ginger, 2014-15,Whole Year ,3468.0,110622,31.8979238754325
+Mysore,Ginger, 2015-16,Whole Year ,2812.0,111049,39.4911095305832
+Mysore,Ginger, 2016-17,Whole Year ,2749.0,105595,38.412149872681
+Mysore,Ginger, 2017-18,Whole Year ,2708.0,77693,28.6901772525849
+Mysore,Ginger, 2018-19,Whole Year ,3372.0,44689.6,13.2531435349941
+Mysore,Gram, 1998-99,Rabi       ,923.0,213,0.230769230769231
+Mysore,Gram, 1999-00,Rabi       ,1335.0,694,0.519850187265918
+Mysore,Gram, 2000-01,Rabi       ,1238.0,804,0.649434571890145
+Mysore,Gram, 2001-02,Rabi       ,1857.0,1090,0.586968228325256
+Mysore,Gram, 2002-03,Rabi       ,1239.0,545,0.439870863599677
+Mysore,Gram, 2003-04,Rabi       ,1143.0,416,0.363954505686789
+Mysore,Gram, 2004-05,Rabi       ,991.0,379,0.382441977800202
+Mysore,Gram, 2005-06,Rabi       ,1321.0,722,0.546555639666919
+Mysore,Gram, 2006-07,Kharif     ,5836.0,1547,0.265078821110349
+Mysore,Gram, 2006-07,Rabi       ,2373.0,983,0.414243573535609
+Mysore,Gram, 2007-08,Rabi       ,1549.0,1842,1.18915429309232
+Mysore,Gram, 2008-09,Rabi       ,1197.0,655,0.547201336675021
+Mysore,Gram, 2009-10,Kharif     ,33250.0,25112,0.755248120300752
+Mysore,Gram, 2009-10,Rabi       ,16153.0,8900,0.550981241874574
+Mysore,Gram, 2010-11,Rabi       ,759.0,861,1.13438735177866
+Mysore,Gram, 2011-12,Rabi       ,972.0,758,0.779835390946502
+Mysore,Gram, 2012-13,Rabi       ,534.0,172,0.322097378277154
+Mysore,Gram, 2013-14,Rabi       ,786.0,421,0.535623409669211
+Mysore,Gram, 2014-15,Rabi       ,2240.0,1551,0.692410714285714
+Mysore,Gram, 2015-16,Rabi       ,1052.0,795,0.755703422053232
+Mysore,Gram, 2016-17,Rabi       ,320.0,189,0.590625
+Mysore,Gram, 2017-18,Rabi       ,972.0,842,0.866255144032922
+Mysore,Gram, 2018-19,Rabi       ,648.0,449,0.692901234567901
+Mysore,Groundnut, 1997-98,Kharif     ,36156.0,36705,1.01518420179223
+Mysore,Groundnut, 1997-98,Rabi       ,1466.0,2153,1.46862210095498
+Mysore,Groundnut, 1998-99,Kharif     ,10799.0,12051,1.11593666080193
+Mysore,Groundnut, 1998-99,Rabi       ,991.0,1098,1.1079717457114
+Mysore,Groundnut, 1999-00,Kharif     ,9189.0,5646,0.614430297094352
+Mysore,Groundnut, 1999-00,Rabi       ,645.0,708,1.09767441860465
+Mysore,Groundnut, 2000-01,Kharif     ,6818.0,6483,0.950865356409504
+Mysore,Groundnut, 2000-01,Rabi       ,486.0,534,1.09876543209877
+Mysore,Groundnut, 2001-02,Kharif     ,7817.0,6958,0.890111295893565
+Mysore,Groundnut, 2002-03,Kharif     ,6041.0,4563,0.755338520112564
+Mysore,Groundnut, 2002-03,Rabi       ,255.0,333,1.30588235294118
+Mysore,Groundnut, 2003-04,Kharif     ,4965.0,2933,0.590735146022155
+Mysore,Groundnut, 2003-04,Rabi       ,43.0,42,0.976744186046512
+Mysore,Groundnut, 2004-05,Kharif     ,7168.0,5640,0.786830357142857
+Mysore,Groundnut, 2004-05,Rabi       ,735.0,669,0.910204081632653
+Mysore,Groundnut, 2005-06,Kharif     ,14357.0,8771,0.610921501706485
+Mysore,Groundnut, 2005-06,Rabi       ,180.0,152,0.844444444444444
+Mysore,Groundnut, 2006-07,Kharif     ,9204.0,3747,0.407105606258149
+Mysore,Groundnut, 2006-07,Rabi       ,172.0,131,0.761627906976744
+Mysore,Groundnut, 2007-08,Kharif     ,9744.0,6569,0.674158456486043
+Mysore,Groundnut, 2007-08,Rabi       ,271.0,238,0.878228782287823
+Mysore,Groundnut, 2008-09,Kharif     ,3761.0,2744,0.729593193299654
+Mysore,Groundnut, 2008-09,Rabi       ,185.0,139,0.751351351351351
+Mysore,Groundnut, 2009-10,Kharif     ,5838.0,4330,0.741692360397396
+Mysore,Groundnut, 2009-10,Rabi       ,17.0,13,0.764705882352941
+Mysore,Groundnut, 2010-11,Kharif     ,4220.0,3638,0.862085308056872
+Mysore,Groundnut, 2010-11,Rabi       ,70.0,62,0.885714285714286
+Mysore,Groundnut, 2011-12,Kharif     ,4440.0,3051,0.687162162162162
+Mysore,Groundnut, 2011-12,Rabi       ,129.0,129,1
+Mysore,Groundnut, 2012-13,Kharif     ,4164.0,1903,0.457012487992315
+Mysore,Groundnut, 2012-13,Rabi       ,16.0,27,1.6875
+Mysore,Groundnut, 2013-14,Kharif     ,2532.0,1710,0.675355450236967
+Mysore,Groundnut, 2013-14,Summer     ,49.0,44,0.897959183673469
+Mysore,Groundnut, 2014-15,Kharif     ,2567.0,1853,0.721854304635762
+Mysore,Groundnut, 2015-16,Kharif     ,2344.0,1550,0.661262798634812
+Mysore,Groundnut, 2015-16,Summer     ,43.0,31,0.72093023255814
+Mysore,Groundnut, 2016-17,Kharif     ,2482.0,905,0.364625302175665
+Mysore,Groundnut, 2017-18,Kharif     ,2550.0,2662,1.04392156862745
+Mysore,Groundnut, 2018-19,Kharif     ,1673.0,1774,1.06037059175134
+Mysore,Horse-gram, 1997-98,Kharif     ,22413.0,11115,0.495917547851693
+Mysore,Horse-gram, 1997-98,Rabi       ,36782.0,13069,0.355309662334838
+Mysore,Horse-gram, 1998-99,Kharif     ,25569.0,11611,0.454104579764559
+Mysore,Horse-gram, 1998-99,Rabi       ,24298.0,10110,0.416083628282163
+Mysore,Horse-gram, 1999-00,Kharif     ,20126.0,18986,0.943356851833449
+Mysore,Horse-gram, 1999-00,Rabi       ,30071.0,15084,0.501612849589305
+Mysore,Horse-gram, 2000-01,Kharif     ,28851.0,21242,0.736265640705695
+Mysore,Horse-gram, 2000-01,Rabi       ,20704.0,14398,0.695421174652241
+Mysore,Horse-gram, 2001-02,Kharif     ,35698.0,29538,0.827441313238837
+Mysore,Horse-gram, 2001-02,Rabi       ,24566.0,10805,0.439835545062281
+Mysore,Horse-gram, 2002-03,Kharif     ,19024.0,8603,0.452218250630782
+Mysore,Horse-gram, 2002-03,Rabi       ,41160.0,9306,0.226093294460641
+Mysore,Horse-gram, 2003-04,Kharif     ,14199.0,3575,0.251778294246074
+Mysore,Horse-gram, 2003-04,Rabi       ,38006.0,6463,0.17005209703731
+Mysore,Horse-gram, 2004-05,Kharif     ,26453.0,8796,0.332514270593127
+Mysore,Horse-gram, 2004-05,Rabi       ,32278.0,7973,0.24701034760518
+Mysore,Horse-gram, 2005-06,Kharif     ,24665.0,12114,0.49114129333063
+Mysore,Horse-gram, 2005-06,Rabi       ,36747.0,12358,0.336299561868996
+Mysore,Horse-gram, 2006-07,Kharif     ,25447.0,7446,0.292608165992062
+Mysore,Horse-gram, 2006-07,Rabi       ,37818.0,13545,0.358162779628748
+Mysore,Horse-gram, 2007-08,Kharif     ,20757.0,7592,0.365756130462013
+Mysore,Horse-gram, 2007-08,Rabi       ,31809.0,12359,0.388537835203873
+Mysore,Horse-gram, 2008-09,Kharif     ,23592.0,8270,0.350542556798915
+Mysore,Horse-gram, 2008-09,Rabi       ,33177.0,10464,0.315399222352835
+Mysore,Horse-gram, 2009-10,Kharif     ,33250.0,25112,0.755248120300752
+Mysore,Horse-gram, 2009-10,Rabi       ,16153.0,8900,0.550981241874574
+Mysore,Horse-gram, 2010-11,Kharif     ,18331.0,10692,0.583274234902624
+Mysore,Horse-gram, 2010-11,Rabi       ,25775.0,16136,0.626032977691562
+Mysore,Horse-gram, 2011-12,Kharif     ,11315.0,6514,0.575695978789218
+Mysore,Horse-gram, 2011-12,Rabi       ,25692.0,13766,0.535808812081582
+Mysore,Horse-gram, 2012-13,Kharif     ,1839.0,416,0.22620989668298
+Mysore,Horse-gram, 2012-13,Rabi       ,31602.0,11558,0.365736345800899
+Mysore,Horse-gram, 2013-14,Kharif     ,1065.0,295,0.276995305164319
+Mysore,Horse-gram, 2013-14,Rabi       ,27203.0,12430,0.456934896886373
+Mysore,Horse-gram, 2014-15,Rabi       ,34171.0,14965,0.437944455825115
+Mysore,Horse-gram, 2015-16,Rabi       ,34913.0,15290,0.437945750866439
+Mysore,Horse-gram, 2016-17,Rabi       ,7454.0,64,0.00858599409712906
+Mysore,Horse-gram, 2017-18,Kharif     ,25.0,17,0.68
+Mysore,Horse-gram, 2017-18,Rabi       ,42105.0,25560,0.607053794086213
+Mysore,Horse-gram, 2018-19,Rabi       ,30805.0,16915,0.549099172212303
+Mysore,Jowar, 1997-98,Kharif     ,39698.0,35995,0.906720741599073
+Mysore,Jowar, 1997-98,Rabi       ,1026.0,462,0.450292397660819
+Mysore,Jowar, 1997-98,Summer     ,490.0,1208,2.46530612244898
+Mysore,Jowar, 1998-99,Kharif     ,15239.0,16502,1.08287945403242
+Mysore,Jowar, 1998-99,Rabi       ,1130.0,777,0.687610619469027
+Mysore,Jowar, 1998-99,Summer     ,1123.0,2979,2.65271593944791
+Mysore,Jowar, 1999-00,Kharif     ,18560.0,20711,1.11589439655172
+Mysore,Jowar, 1999-00,Rabi       ,1081.0,744,0.688251618871415
+Mysore,Jowar, 1999-00,Summer     ,186.0,427,2.29569892473118
+Mysore,Jowar, 2000-01,Kharif     ,13556.0,11948,0.881380938329891
+Mysore,Jowar, 2000-01,Rabi       ,1171.0,899,0.767719897523484
+Mysore,Jowar, 2000-01,Summer     ,286.0,581,2.03146853146853
+Mysore,Jowar, 2001-02,Kharif     ,13458.0,9029,0.670902065685837
+Mysore,Jowar, 2001-02,Rabi       ,991.0,747,0.753784056508577
+Mysore,Jowar, 2002-03,Kharif     ,10366.0,4464,0.430638626278217
+Mysore,Jowar, 2002-03,Rabi       ,1474.0,1059,0.718453188602442
+Mysore,Jowar, 2002-03,Summer     ,92.0,127,1.3804347826087
+Mysore,Jowar, 2003-04,Kharif     ,10369.0,4631,0.446619731893143
+Mysore,Jowar, 2003-04,Rabi       ,1499.0,567,0.378252168112075
+Mysore,Jowar, 2003-04,Summer     ,80.0,190,2.375
+Mysore,Jowar, 2004-05,Kharif     ,19079.0,32450,1.70082289428167
+Mysore,Jowar, 2004-05,Rabi       ,739.0,369,0.499323410013532
+Mysore,Jowar, 2004-05,Summer     ,1.0,1,1
+Mysore,Jowar, 2005-06,Kharif     ,13295.0,17122,1.28785257615645
+Mysore,Jowar, 2005-06,Rabi       ,380.0,220,0.578947368421053
+Mysore,Jowar, 2005-06,Summer     ,412.0,587,1.4247572815534
+Mysore,Jowar, 2006-07,Kharif     ,14845.0,21862,1.47268440552375
+Mysore,Jowar, 2006-07,Rabi       ,430.0,218,0.506976744186047
+Mysore,Jowar, 2006-07,Summer     ,10.0,15,1.5
+Mysore,Jowar, 2007-08,Kharif     ,11724.0,13363,1.13979870351416
+Mysore,Jowar, 2007-08,Rabi       ,179.0,82,0.458100558659218
+Mysore,Jowar, 2007-08,Summer     ,15.0,29,1.93333333333333
+Mysore,Jowar, 2008-09,Kharif     ,11519.0,10598,0.920045142807535
+Mysore,Jowar, 2008-09,Rabi       ,195.0,106,0.543589743589744
+Mysore,Jowar, 2008-09,Summer     ,75.0,171,2.28
+Mysore,Jowar, 2009-10,Kharif     ,12911.0,9880,0.765238943536519
+Mysore,Jowar, 2009-10,Rabi       ,325.0,229,0.704615384615385
+Mysore,Jowar, 2009-10,Summer     ,267.0,394,1.47565543071161
+Mysore,Jowar, 2010-11,Kharif     ,11629.0,14165,1.21807550090292
+Mysore,Jowar, 2010-11,Rabi       ,130.0,124,0.953846153846154
+Mysore,Jowar, 2011-12,Kharif     ,9337.0,18323,1.96240762557567
+Mysore,Jowar, 2012-13,Kharif     ,7795.0,1126,0.144451571520205
+Mysore,Jowar, 2012-13,Rabi       ,1086.0,205,0.188766114180479
+Mysore,Jowar, 2013-14,Kharif     ,5463.0,7058,1.29196412227714
+Mysore,Jowar, 2013-14,Rabi       ,390.0,231,0.592307692307692
+Mysore,Jowar, 2013-14,Summer     ,1.0,2,2
+Mysore,Jowar, 2014-15,Kharif     ,5459.0,8038,1.47243084814069
+Mysore,Jowar, 2014-15,Rabi       ,308.0,157,0.50974025974026
+Mysore,Jowar, 2015-16,Kharif     ,3308.0,4283,1.2947400241838
+Mysore,Jowar, 2015-16,Rabi       ,158.0,128,0.810126582278481
+Mysore,Jowar, 2016-17,Kharif     ,4834.0,4473,0.925320645428217
+Mysore,Jowar, 2016-17,Rabi       ,56.0,48,0.857142857142857
+Mysore,Jowar, 2016-17,Summer     ,12.0,16,1.33333333333333
+Mysore,Jowar, 2017-18,Kharif     ,4988.0,4028,0.807538091419407
+Mysore,Jowar, 2017-18,Rabi       ,250.0,279,1.116
+Mysore,Jowar, 2018-19,Kharif     ,9690.0,12022,1.2406604747162
+Mysore,Jowar, 2018-19,Rabi       ,163.0,25,0.153374233128834
+Mysore,Jowar, 2018-19,Summer     ,1.0,1,1
+Mysore,Linseed, 2014-15,Rabi       ,11.0,3,0.272727272727273
+Mysore,Linseed, 2015-16,Rabi       ,16.0,2,0.125
+Mysore,Maize, 1997-98,Kharif     ,20029.0,65080,3.24928853162914
+Mysore,Maize, 1997-98,Rabi       ,1338.0,2712,2.02690582959641
+Mysore,Maize, 1997-98,Summer     ,945.0,2045,2.16402116402116
+Mysore,Maize, 1998-99,Kharif     ,17459.0,74847,4.28701529297211
+Mysore,Maize, 1998-99,Rabi       ,109.0,215,1.97247706422018
+Mysore,Maize, 1998-99,Summer     ,34.0,77,2.26470588235294
+Mysore,Maize, 1999-00,Kharif     ,13391.0,41903,3.12919124785304
+Mysore,Maize, 1999-00,Rabi       ,15.0,28,1.86666666666667
+Mysore,Maize, 1999-00,Summer     ,10.0,15,1.5
+Mysore,Maize, 2000-01,Kharif     ,21315.0,64028,3.00389397138166
+Mysore,Maize, 2000-01,Rabi       ,282.0,555,1.96808510638298
+Mysore,Maize, 2000-01,Summer     ,78.0,219,2.80769230769231
+Mysore,Maize, 2001-02,Kharif     ,15251.0,65459,4.29211199265622
+Mysore,Maize, 2001-02,Rabi       ,654.0,1225,1.87308868501529
+Mysore,Maize, 2001-02,Summer     ,205.0,539,2.62926829268293
+Mysore,Maize, 2002-03,Kharif     ,12935.0,28164,2.17734827986084
+Mysore,Maize, 2002-03,Rabi       ,5382.0,13379,2.48587885544407
+Mysore,Maize, 2002-03,Summer     ,515.0,1316,2.55533980582524
+Mysore,Maize, 2003-04,Kharif     ,13108.0,39107,2.98344522429051
+Mysore,Maize, 2003-04,Rabi       ,2051.0,2850,1.38956606533398
+Mysore,Maize, 2003-04,Summer     ,396.0,997,2.51767676767677
+Mysore,Maize, 2004-05,Kharif     ,14851.0,50799,3.4205777388728
+Mysore,Maize, 2004-05,Rabi       ,2861.0,8616,3.0115344285215
+Mysore,Maize, 2004-05,Summer     ,506.0,1548,3.05928853754941
+Mysore,Maize, 2005-06,Kharif     ,19445.0,77852,4.00370275134996
+Mysore,Maize, 2005-06,Rabi       ,1545.0,5173,3.34822006472492
+Mysore,Maize, 2005-06,Summer     ,516.0,1716,3.32558139534884
+Mysore,Maize, 2006-07,Kharif     ,23868.0,94829,3.97306016423663
+Mysore,Maize, 2006-07,Rabi       ,2462.0,7439,3.02152721364744
+Mysore,Maize, 2006-07,Summer     ,374.0,1198,3.20320855614973
+Mysore,Maize, 2007-08,Kharif     ,25387.0,87986,3.46578957734273
+Mysore,Maize, 2007-08,Rabi       ,3105.0,8409,2.70821256038647
+Mysore,Maize, 2007-08,Summer     ,203.0,655,3.22660098522167
+Mysore,Maize, 2008-09,Kharif     ,22771.0,83658,3.67388344824558
+Mysore,Maize, 2008-09,Rabi       ,3323.0,8461,2.54619319891664
+Mysore,Maize, 2008-09,Summer     ,322.0,1013,3.14596273291925
+Mysore,Maize, 2009-10,Kharif     ,26496.0,85131,3.21297554347826
+Mysore,Maize, 2009-10,Rabi       ,2643.0,6463,2.44532727960651
+Mysore,Maize, 2009-10,Summer     ,252.0,906,3.5952380952381
+Mysore,Maize, 2010-11,Kharif     ,25928.0,106277,4.09892780006171
+Mysore,Maize, 2010-11,Rabi       ,4292.0,10860,2.53028890959925
+Mysore,Maize, 2010-11,Summer     ,205.0,697,3.4
+Mysore,Maize, 2011-12,Kharif     ,28414.0,77629,2.73206869852889
+Mysore,Maize, 2011-12,Rabi       ,4602.0,13516,2.93698392003477
+Mysore,Maize, 2011-12,Summer     ,186.0,634,3.40860215053763
+Mysore,Maize, 2012-13,Kharif     ,33510.0,61982,1.84965681886004
+Mysore,Maize, 2012-13,Rabi       ,6454.0,19810,3.06941431670282
+Mysore,Maize, 2012-13,Summer     ,114.0,392,3.43859649122807
+Mysore,Maize, 2013-14,Kharif     ,30416.0,92060,3.02669647553919
+Mysore,Maize, 2013-14,Rabi       ,4167.0,12874,3.08951283897288
+Mysore,Maize, 2013-14,Summer     ,880.0,2855,3.24431818181818
+Mysore,Maize, 2014-15,Kharif     ,30195.0,101259,3.35350223546945
+Mysore,Maize, 2014-15,Rabi       ,6266.0,22704,3.62336418767954
+Mysore,Maize, 2014-15,Summer     ,238.0,776,3.26050420168067
+Mysore,Maize, 2015-16,Kharif     ,29061.0,86358,2.9716114380097
+Mysore,Maize, 2015-16,Rabi       ,7668.0,25299,3.29929577464789
+Mysore,Maize, 2015-16,Summer     ,474.0,1331,2.80801687763713
+Mysore,Maize, 2016-17,Kharif     ,41179.0,82700,2.00830520410889
+Mysore,Maize, 2016-17,Rabi       ,4112.0,11340,2.75778210116732
+Mysore,Maize, 2016-17,Summer     ,295.0,915,3.10169491525424
+Mysore,Maize, 2017-18,Kharif     ,43013.0,162428,3.77625369074466
+Mysore,Maize, 2017-18,Rabi       ,5979.0,19176,3.20722528850978
+Mysore,Maize, 2017-18,Summer     ,317.0,1190,3.75394321766562
+Mysore,Maize, 2018-19,Kharif     ,21051.0,68195,3.23951356230108
+Mysore,Maize, 2018-19,Rabi       ,5104.0,15856,3.10658307210031
+Mysore,Maize, 2018-19,Summer     ,102.0,351,3.44117647058824
+Mysore,Mesta, 2014-15,Whole Year ,48.0,54,1.125
+Mysore,Moong(Green Gram), 1998-99,Kharif     ,2309.0,454,0.196621914248592
+Mysore,Moong(Green Gram), 1998-99,Rabi       ,778.0,349,0.448586118251928
+Mysore,Moong(Green Gram), 1999-00,Kharif     ,2237.0,774,0.345999105945463
+Mysore,Moong(Green Gram), 1999-00,Rabi       ,1606.0,400,0.24906600249066
+Mysore,Moong(Green Gram), 2000-01,Kharif     ,3085.0,1216,0.394165316045381
+Mysore,Moong(Green Gram), 2000-01,Rabi       ,934.0,250,0.267665952890792
+Mysore,Moong(Green Gram), 2001-02,Kharif     ,3433.0,1790,0.521409845616079
+Mysore,Moong(Green Gram), 2001-02,Rabi       ,1146.0,336,0.293193717277487
+Mysore,Moong(Green Gram), 2002-03,Kharif     ,4682.0,734,0.156770610850064
+Mysore,Moong(Green Gram), 2002-03,Rabi       ,1566.0,274,0.174968071519796
+Mysore,Moong(Green Gram), 2003-04,Kharif     ,4004.0,612,0.152847152847153
+Mysore,Moong(Green Gram), 2003-04,Rabi       ,590.0,173,0.293220338983051
+Mysore,Moong(Green Gram), 2004-05,Kharif     ,6683.0,2216,0.331587610354631
+Mysore,Moong(Green Gram), 2004-05,Rabi       ,462.0,113,0.244588744588745
+Mysore,Moong(Green Gram), 2005-06,Kharif     ,4415.0,986,0.223329558323896
+Mysore,Moong(Green Gram), 2005-06,Rabi       ,465.0,137,0.294623655913978
+Mysore,Moong(Green Gram), 2006-07,Kharif     ,4923.0,1239,0.251675807434491
+Mysore,Moong(Green Gram), 2006-07,Rabi       ,357.0,108,0.302521008403361
+Mysore,Moong(Green Gram), 2007-08,Kharif     ,3564.0,1087,0.304994388327722
+Mysore,Moong(Green Gram), 2007-08,Rabi       ,515.0,168,0.32621359223301
+Mysore,Moong(Green Gram), 2008-09,Kharif     ,3583.0,1382,0.385710298632431
+Mysore,Moong(Green Gram), 2008-09,Rabi       ,530.0,135,0.254716981132075
+Mysore,Moong(Green Gram), 2009-10,Kharif     ,7178.0,2346,0.326831986625801
+Mysore,Moong(Green Gram), 2009-10,Rabi       ,145.0,38,0.262068965517241
+Mysore,Moong(Green Gram), 2010-11,Kharif     ,5901.0,3291,0.557702084392476
+Mysore,Moong(Green Gram), 2010-11,Rabi       ,233.0,61,0.261802575107296
+Mysore,Moong(Green Gram), 2011-12,Kharif     ,6752.0,3316,0.491113744075829
+Mysore,Moong(Green Gram), 2011-12,Rabi       ,166.0,56,0.337349397590361
+Mysore,Moong(Green Gram), 2012-13,Kharif     ,8656.0,765,0.0883780036968577
+Mysore,Moong(Green Gram), 2013-14,Kharif     ,5751.0,1961,0.340984176664928
+Mysore,Moong(Green Gram), 2013-14,Rabi       ,53.0,13,0.245283018867925
+Mysore,Moong(Green Gram), 2014-15,Kharif     ,7912.0,2247,0.283998988877654
+Mysore,Moong(Green Gram), 2014-15,Rabi       ,77.0,25,0.324675324675325
+Mysore,Moong(Green Gram), 2015-16,Kharif     ,12379.0,4445,0.359075854269327
+Mysore,Moong(Green Gram), 2015-16,Rabi       ,19.0,6,0.31578947368421
+Mysore,Moong(Green Gram), 2016-17,Kharif     ,8091.0,2191,0.270794710171796
+Mysore,Moong(Green Gram), 2016-17,Summer     ,5.0,1,0.2
+Mysore,Moong(Green Gram), 2017-18,Kharif     ,7401.0,2475,0.334414268342116
+Mysore,Moong(Green Gram), 2018-19,Kharif     ,4450.0,2300,0.51685393258427
+Mysore,Moong(Green Gram), 2018-19,Summer     ,13.0,3,0.230769230769231
+Mysore,Niger seed, 1998-99,Kharif     ,2809.0,578,0.205767176931292
+Mysore,Niger seed, 1999-00,Kharif     ,2897.0,597,0.206075250258888
+Mysore,Niger seed, 2000-01,Kharif     ,3046.0,627,0.205843729481287
+Mysore,Niger seed, 2001-02,Kharif     ,3277.0,675,0.205981080256332
+Mysore,Niger seed, 2002-03,Kharif     ,4244.0,874,0.205937794533459
+Mysore,Niger seed, 2003-04,Kharif     ,3609.0,743,0.205874203380438
+Mysore,Niger seed, 2004-05,Kharif     ,3731.0,768,0.205842937550255
+Mysore,Niger seed, 2005-06,Kharif     ,4914.0,1012,0.205942205942206
+Mysore,Niger seed, 2006-07,Kharif     ,2836.0,584,0.205923836389281
+Mysore,Niger seed, 2007-08,Kharif     ,6482.0,3401,0.524683739586547
+Mysore,Niger seed, 2008-09,Kharif     ,3054.0,1046,0.342501637197118
+Mysore,Niger seed, 2009-10,Kharif     ,2819.0,1153,0.409010287335935
+Mysore,Niger seed, 2010-11,Kharif     ,2180.0,796,0.365137614678899
+Mysore,Niger seed, 2011-12,Kharif     ,2017.0,751,0.372335151214675
+Mysore,Niger seed, 2012-13,Kharif     ,644.0,240,0.372670807453416
+Mysore,Niger seed, 2013-14,Kharif     ,1572.0,585,0.372137404580153
+Mysore,Niger seed, 2014-15,Kharif     ,1864.0,493,0.264484978540772
+Mysore,Niger seed, 2015-16,Kharif     ,734.0,188,0.256130790190736
+Mysore,Niger seed, 2016-17,Kharif     ,15.0,3,0.2
+Mysore,Niger seed, 2017-18,Kharif     ,102.0,22,0.215686274509804
+Mysore,Niger seed, 2018-19,Kharif     ,63.0,13,0.206349206349206
+Mysore,Onion, 1998-99,Kharif     ,12.0,54,4.5
+Mysore,Onion, 1999-00,Whole Year ,8.0,47,5.875
+Mysore,Onion, 2000-01,Whole Year ,15.0,80,5.33333333333333
+Mysore,Onion, 2001-02,Whole Year ,5.0,21,4.2
+Mysore,Onion, 2002-03,Whole Year ,5.0,17,3.4
+Mysore,Onion, 2003-04,Whole Year ,5.0,13,2.6
+Mysore,Onion, 2004-05,Whole Year ,5.0,29,5.8
+Mysore,Onion, 2005-06,Kharif     ,20.0,111,5.55
+Mysore,Onion, 2006-07,Whole Year ,5.0,28,5.6
+Mysore,Onion, 2007-08,Kharif     ,7.0,42,6
+Mysore,Onion, 2008-09,Kharif     ,7.0,36,5.14285714285714
+Mysore,Onion, 2009-10,Kharif     ,10.0,35,3.5
+Mysore,Onion, 2010-11,Kharif     ,15.0,94,6.26666666666667
+Mysore,Onion, 2011-12,Kharif     ,17.0,84,4.94117647058824
+Mysore,Onion, 2012-13,Kharif     ,16.0,85,5.3125
+Mysore,Onion, 2013-14,Kharif     ,2.0,13,6.5
+Mysore,Onion, 2013-14,Summer     ,2.0,16,8
+Mysore,Onion, 2014-15,Rabi       ,5.0,33,6.6
+Mysore,Onion, 2015-16,Rabi       ,2.0,11,5.5
+Mysore,Onion, 2016-17,Summer     ,5.0,74,14.8
+Mysore,Onion, 2017-18,Rabi       ,4.0,57,14.25
+Mysore,Onion, 2017-18,Summer     ,11.0,133,12.0909090909091
+Mysore,Onion, 2018-19,Kharif     ,11.0,83,7.54545454545455
+Mysore,Onion, 2018-19,Rabi       ,7.0,93,13.2857142857143
+Mysore,Onion, 2018-19,Summer     ,7.0,74,10.5714285714286
+Mysore,Other  Rabi pulses, 1999-00,Rabi       ,21565.0,2133,0.0989102712728959
+Mysore,Other  Rabi pulses, 2000-01,Rabi       ,4857.0,511,0.10520897673461
+Mysore,Other  Rabi pulses, 2001-02,Rabi       ,5350.0,580,0.108411214953271
+Mysore,Other  Rabi pulses, 2002-03,Rabi       ,9486.0,963,0.101518026565465
+Mysore,Other  Rabi pulses, 2003-04,Rabi       ,4098.0,422,0.102977061981454
+Mysore,Other  Rabi pulses, 2004-05,Rabi       ,6626.0,724,0.109266525807425
+Mysore,Other  Rabi pulses, 2005-06,Rabi       ,9140.0,1056,0.115536105032823
+Mysore,Other  Rabi pulses, 2006-07,Rabi       ,11529.0,2937,0.254748894093156
+Mysore,Other  Rabi pulses, 2007-08,Rabi       ,13471.0,3688,0.273773290772771
+Mysore,Other  Rabi pulses, 2008-09,Rabi       ,11750.0,3751,0.319234042553191
+Mysore,Other  Rabi pulses, 2009-10,Rabi       ,12789.0,3918,0.306357025568848
+Mysore,Other  Rabi pulses, 2010-11,Rabi       ,4488.0,1411,0.314393939393939
+Mysore,Other  Rabi pulses, 2011-12,Rabi       ,6292.0,5894,0.93674507310871
+Mysore,Other  Rabi pulses, 2012-13,Rabi       ,1343.0,615,0.457930007446016
+Mysore,Other  Rabi pulses, 2013-14,Rabi       ,3953.0,3151,0.797116114343537
+Mysore,Other  Rabi pulses, 2014-15,Rabi       ,3614.0,2764,0.764803541781959
+Mysore,Other  Rabi pulses, 2015-16,Rabi       ,8071.0,5413,0.670672779085615
+Mysore,Other  Rabi pulses, 2016-17,Rabi       ,465.0,17,0.0365591397849462
+Mysore,Other  Rabi pulses, 2017-18,Rabi       ,6812.0,5378,0.789489136817381
+Mysore,Other  Rabi pulses, 2018-19,Rabi       ,11083.0,8297,0.748624018767482
+Mysore,Other Kharif pulses, 1999-00,Kharif     ,16684.0,8282,0.496403740110285
+Mysore,Other Kharif pulses, 2000-01,Kharif     ,21004.0,10433,0.496714911445439
+Mysore,Other Kharif pulses, 2001-02,Kharif     ,27408.0,13212,0.482049036777583
+Mysore,Other Kharif pulses, 2002-03,Kharif     ,21318.0,10156,0.476404916033399
+Mysore,Other Kharif pulses, 2003-04,Kharif     ,24367.0,11493,0.471662494357122
+Mysore,Other Kharif pulses, 2004-05,Kharif     ,37944.0,18310,0.482553236348303
+Mysore,Other Kharif pulses, 2005-06,Kharif     ,37545.0,16765,0.446530829671061
+Mysore,Other Kharif pulses, 2006-07,Kharif     ,31048.0,22195,0.714860860602937
+Mysore,Other Kharif pulses, 2007-08,Kharif     ,42327.0,23980,0.566541451083233
+Mysore,Other Kharif pulses, 2008-09,Kharif     ,34737.0,18422,0.530327892448974
+Mysore,Other Kharif pulses, 2009-10,Kharif     ,15798.0,19019,1.20388656791999
+Mysore,Other Kharif pulses, 2010-11,Kharif     ,17056.0,9203,0.539575515947467
+Mysore,Other Kharif pulses, 2011-12,Kharif     ,12601.0,6967,0.552892627569241
+Mysore,Other Kharif pulses, 2012-13,Kharif     ,15394.0,6405,0.416071196570092
+Mysore,Other Kharif pulses, 2013-14,Kharif     ,10116.0,4930,0.487346777382365
+Mysore,Other Kharif pulses, 2014-15,Kharif     ,11389.0,6091,0.534814294494688
+Mysore,Other Kharif pulses, 2015-16,Kharif     ,10283.0,14136,1.37469610035982
+Mysore,Other Kharif pulses, 2016-17,Kharif     ,9376.0,2743,0.292555460750853
+Mysore,Other Kharif pulses, 2017-18,Kharif     ,13257.0,8828,0.665912348193407
+Mysore,Other Kharif pulses, 2018-19,Kharif     ,4355.0,2696,0.619058553386912
+Mysore,Peas & beans (Pulses), 1998-99,Kharif     ,22.0,202,9.18181818181818
+Mysore,Peas & beans (Pulses), 1998-99,Rabi       ,17.0,168,9.88235294117647
+Mysore,Peas & beans (Pulses), 1998-99,Summer     ,121.0,1048,8.66115702479339
+Mysore,Peas & beans (Pulses), 2001-02,Whole Year ,148.0,763,5.15540540540541
+Mysore,Peas & beans (Pulses), 2005-06,Kharif     ,90.0,550,6.11111111111111
+Mysore,Peas & beans (Pulses), 2005-06,Rabi       ,7.0,49,7
+Mysore,Peas & beans (Pulses), 2005-06,Summer     ,22.0,111,5.04545454545455
+Mysore,Peas & beans (Pulses), 2010-11,Kharif     ,257.0,2288,8.90272373540856
+Mysore,Peas & beans (Pulses), 2010-11,Rabi       ,105.0,971,9.24761904761905
+Mysore,Peas & beans (Pulses), 2010-11,Summer     ,59.0,505,8.5593220338983
+Mysore,Peas & beans (Pulses), 2011-12,Kharif     ,289.0,2210,7.64705882352941
+Mysore,Peas & beans (Pulses), 2011-12,Rabi       ,117.0,926,7.91452991452992
+Mysore,Peas & beans (Pulses), 2011-12,Summer     ,70.0,531,7.58571428571429
+Mysore,Potato, 1998-99,Kharif     ,28.0,309,11.0357142857143
+Mysore,Potato, 2000-01,Whole Year ,30.0,282,9.4
+Mysore,Potato, 2001-02,Whole Year ,50.0,448,8.96
+Mysore,Potato, 2002-03,Whole Year ,52.0,104,2
+Mysore,Potato, 2003-04,Whole Year ,50.0,257,5.14
+Mysore,Potato, 2004-05,Whole Year ,15.0,93,6.2
+Mysore,Potato, 2005-06,Kharif     ,10.0,33,3.3
+Mysore,Potato, 2006-07,Whole Year ,186.0,1190,6.39784946236559
+Mysore,Potato, 2007-08,Kharif     ,190.0,627,3.3
+Mysore,Potato, 2008-09,Kharif     ,116.0,220,1.89655172413793
+Mysore,Potato, 2009-10,Kharif     ,116.0,718,6.18965517241379
+Mysore,Potato, 2010-11,Kharif     ,103.0,782,7.59223300970874
+Mysore,Potato, 2011-12,Kharif     ,105.0,868,8.26666666666667
+Mysore,Potato, 2012-13,Kharif     ,139.0,888,6.38848920863309
+Mysore,Potato, 2013-14,Kharif     ,119.0,783,6.57983193277311
+Mysore,Potato, 2014-15,Kharif     ,200.0,1231,6.155
+Mysore,Potato, 2014-15,Rabi       ,31.0,478,15.4193548387097
+Mysore,Potato, 2014-15,Summer     ,1.0,14,14
+Mysore,Potato, 2015-16,Kharif     ,83.0,333,4.01204819277108
+Mysore,Potato, 2015-16,Rabi       ,8.0,120,15
+Mysore,Potato, 2016-17,Kharif     ,73.0,525,7.19178082191781
+Mysore,Potato, 2017-18,Kharif     ,41.0,176,4.29268292682927
+Mysore,Potato, 2018-19,Kharif     ,16.0,33,2.0625
+Mysore,Ragi, 1997-98,Kharif     ,90302.0,133034,1.47321211047374
+Mysore,Ragi, 1997-98,Rabi       ,6089.0,7875,1.29331581540483
+Mysore,Ragi, 1997-98,Summer     ,4857.0,8407,1.73090385011324
+Mysore,Ragi, 1998-99,Kharif     ,71644.0,115488,1.61197029758249
+Mysore,Ragi, 1998-99,Rabi       ,10701.0,14587,1.36314363143631
+Mysore,Ragi, 1998-99,Summer     ,1325.0,3085,2.32830188679245
+Mysore,Ragi, 1999-00,Kharif     ,55044.0,59440,1.07986338202166
+Mysore,Ragi, 1999-00,Rabi       ,16415.0,18860,1.14894913189156
+Mysore,Ragi, 1999-00,Summer     ,1442.0,2406,1.66851595006935
+Mysore,Ragi, 2000-01,Kharif     ,63305.0,102662,1.62170444672617
+Mysore,Ragi, 2000-01,Rabi       ,9616.0,10852,1.12853577371048
+Mysore,Ragi, 2000-01,Summer     ,1670.0,3311,1.98263473053892
+Mysore,Ragi, 2001-02,Kharif     ,66135.0,109676,1.65836546458003
+Mysore,Ragi, 2001-02,Rabi       ,12642.0,17457,1.38087327954438
+Mysore,Ragi, 2001-02,Summer     ,756.0,1159,1.53306878306878
+Mysore,Ragi, 2002-03,Kharif     ,47217.0,45080,0.954740877226423
+Mysore,Ragi, 2002-03,Rabi       ,23032.0,19920,0.864883640152831
+Mysore,Ragi, 2002-03,Summer     ,654.0,751,1.14831804281346
+Mysore,Ragi, 2003-04,Kharif     ,61691.0,74870,1.2136292165794
+Mysore,Ragi, 2003-04,Rabi       ,14384.0,3701,0.257299777530589
+Mysore,Ragi, 2003-04,Summer     ,619.0,736,1.18901453957997
+Mysore,Ragi, 2004-05,Kharif     ,58102.0,106653,1.83561667412482
+Mysore,Ragi, 2004-05,Rabi       ,20819.0,15766,0.757289014842211
+Mysore,Ragi, 2004-05,Summer     ,2446.0,3895,1.59239574816026
+Mysore,Ragi, 2005-06,Kharif     ,78192.0,171342,2.19129834254144
+Mysore,Ragi, 2005-06,Rabi       ,20603.0,49286,2.39217589671407
+Mysore,Ragi, 2005-06,Summer     ,2114.0,4617,2.18401135288553
+Mysore,Ragi, 2006-07,Kharif     ,48661.0,78258,1.60822835535645
+Mysore,Ragi, 2006-07,Rabi       ,18181.0,24358,1.33975028876299
+Mysore,Ragi, 2006-07,Summer     ,739.0,1406,1.90257104194858
+Mysore,Ragi, 2007-08,Kharif     ,64082.0,108905,1.69946318779064
+Mysore,Ragi, 2007-08,Rabi       ,15858.0,31549,1.98946903770967
+Mysore,Ragi, 2007-08,Summer     ,660.0,1235,1.87121212121212
+Mysore,Ragi, 2008-09,Kharif     ,52888.0,103766,1.96199515958251
+Mysore,Ragi, 2008-09,Rabi       ,10319.0,18336,1.7769163678651
+Mysore,Ragi, 2008-09,Summer     ,559.0,830,1.48479427549195
+Mysore,Ragi, 2009-10,Kharif     ,52134.0,99941,1.91700234012353
+Mysore,Ragi, 2009-10,Rabi       ,11962.0,20148,1.68433372345762
+Mysore,Ragi, 2009-10,Summer     ,552.0,802,1.45289855072464
+Mysore,Ragi, 2010-11,Kharif     ,42299.0,66557,1.57348873495827
+Mysore,Ragi, 2010-11,Rabi       ,11663.0,19310,1.65566320843694
+Mysore,Ragi, 2010-11,Summer     ,379.0,501,1.32189973614776
+Mysore,Ragi, 2011-12,Kharif     ,29873.0,51570,1.72630803735815
+Mysore,Ragi, 2011-12,Rabi       ,15363.0,23774,1.54748421532253
+Mysore,Ragi, 2011-12,Summer     ,166.0,207,1.24698795180723
+Mysore,Ragi, 2012-13,Kharif     ,21283.0,18965,0.891086782878354
+Mysore,Ragi, 2012-13,Rabi       ,11862.0,20960,1.76698701736638
+Mysore,Ragi, 2012-13,Summer     ,172.0,153,0.88953488372093
+Mysore,Ragi, 2013-14,Kharif     ,27007.0,46875,1.73566112489355
+Mysore,Ragi, 2013-14,Rabi       ,9290.0,13609,1.46490850376749
+Mysore,Ragi, 2013-14,Summer     ,540.0,1030,1.90740740740741
+Mysore,Ragi, 2014-15,Kharif     ,26942.0,60430,2.24296637220696
+Mysore,Ragi, 2014-15,Rabi       ,12834.0,22361,1.74232507402213
+Mysore,Ragi, 2014-15,Summer     ,356.0,676,1.89887640449438
+Mysore,Ragi, 2015-16,Kharif     ,29877.0,58100,1.94463968939318
+Mysore,Ragi, 2015-16,Rabi       ,20835.0,38221,1.83446124310055
+Mysore,Ragi, 2015-16,Summer     ,170.0,271,1.59411764705882
+Mysore,Ragi, 2016-17,Kharif     ,10459.0,9390,0.897791375848552
+Mysore,Ragi, 2016-17,Rabi       ,5902.0,3751,0.635547272111149
+Mysore,Ragi, 2016-17,Summer     ,255.0,598,2.34509803921569
+Mysore,Ragi, 2017-18,Kharif     ,37987.0,60808,1.60075815410535
+Mysore,Ragi, 2017-18,Rabi       ,17436.0,25426,1.45824730442762
+Mysore,Ragi, 2017-18,Summer     ,155.0,290,1.87096774193548
+Mysore,Ragi, 2018-19,Kharif     ,33236.0,50771,1.52759056444819
+Mysore,Ragi, 2018-19,Rabi       ,12759.0,19539,1.531389607336
+Mysore,Ragi, 2018-19,Summer     ,144.0,288,2
+Mysore,Rapeseed &Mustard, 1999-00,Rabi       ,7.0,2,0.285714285714286
+Mysore,Rapeseed &Mustard, 2000-01,Rabi       ,5.0,1,0.2
+Mysore,Rapeseed &Mustard, 2005-06,Rabi       ,25.0,7,0.28
+Mysore,Rice, 1997-98,Kharif     ,105069.0,306717,2.91919595694258
+Mysore,Rice, 1997-98,Rabi       ,817.0,1767,2.16279069767442
+Mysore,Rice, 1997-98,Summer     ,20560.0,56994,2.77208171206226
+Mysore,Rice, 1998-99,Kharif     ,95399.0,291632,3.05697124707806
+Mysore,Rice, 1998-99,Rabi       ,612.0,1336,2.18300653594771
+Mysore,Rice, 1998-99,Summer     ,13655.0,40058,2.93357744415965
+Mysore,Rice, 1999-00,Kharif     ,91444.0,264324,2.89055596868029
+Mysore,Rice, 1999-00,Rabi       ,1687.0,3438,2.03793716656787
+Mysore,Rice, 1999-00,Summer     ,17520.0,47691,2.72208904109589
+Mysore,Rice, 2000-01,Kharif     ,91522.0,275479,3.00997574353707
+Mysore,Rice, 2000-01,Rabi       ,1179.0,2356,1.99830364715861
+Mysore,Rice, 2000-01,Summer     ,16308.0,46416,2.84621044885946
+Mysore,Rice, 2001-02,Kharif     ,102365.0,327885,3.20309676158843
+Mysore,Rice, 2001-02,Rabi       ,176.0,436,2.47727272727273
+Mysore,Rice, 2001-02,Summer     ,12254.0,33574,2.73984005222784
+Mysore,Rice, 2002-03,Kharif     ,80233.0,217716,2.71354679495968
+Mysore,Rice, 2002-03,Rabi       ,627.0,1309,2.08771929824561
+Mysore,Rice, 2002-03,Summer     ,2487.0,6355,2.55528749497386
+Mysore,Rice, 2003-04,Kharif     ,76564.0,228647,2.9863512878115
+Mysore,Rice, 2003-04,Rabi       ,2484.0,7363,2.96417069243156
+Mysore,Rice, 2003-04,Summer     ,2454.0,9449,3.85044824775876
+Mysore,Rice, 2004-05,Kharif     ,99284.0,312198.538,3.1445
+Mysore,Rice, 2004-05,Rabi       ,48.0,162,3.375
+Mysore,Rice, 2004-05,Summer     ,19148.0,84113,4.3927825360351
+Mysore,Rice, 2005-06,Kharif     ,99671.0,294884,2.95857370749767
+Mysore,Rice, 2005-06,Rabi       ,35.0,78,2.22857142857143
+Mysore,Rice, 2005-06,Summer     ,21147.0,64086,3.03050078025252
+Mysore,Rice, 2006-07,Kharif     ,100912.0,276379,2.73881203424766
+Mysore,Rice, 2006-07,Rabi       ,202.0,465,2.3019801980198
+Mysore,Rice, 2006-07,Summer     ,13280.0,40624,3.05903614457831
+Mysore,Rice, 2007-08,Kharif     ,105745.0,315901,2.9873847463237
+Mysore,Rice, 2007-08,Rabi       ,200.0,435,2.175
+Mysore,Rice, 2007-08,Summer     ,16841.0,53740,3.1910219108129
+Mysore,Rice, 2008-09,Kharif     ,110591.0,327791.724,2.964
+Mysore,Rice, 2008-09,Summer     ,13212.0,37629,2.84809264305177
+Mysore,Rice, 2009-10,Kharif     ,110196.0,341277.012,3.097
+Mysore,Rice, 2009-10,Summer     ,13454.0,40747,3.02861602497399
+Mysore,Rice, 2010-11,Kharif     ,106382.0,337247,3.17015096538888
+Mysore,Rice, 2010-11,Summer     ,18712.0,56724,3.03142368533561
+Mysore,Rice, 2011-12,Kharif     ,107820.0,349693,3.24330365423855
+Mysore,Rice, 2011-12,Rabi       ,4.0,9,2.25
+Mysore,Rice, 2011-12,Summer     ,13180.0,45113,3.42283763277693
+Mysore,Rice, 2012-13,Kharif     ,87894.0,276550,3.14640362254534
+Mysore,Rice, 2012-13,Rabi       ,240.0,579,2.4125
+Mysore,Rice, 2012-13,Summer     ,901.0,2709,3.00665926748058
+Mysore,Rice, 2013-14,Kharif     ,91737.0,311039,3.39055124976836
+Mysore,Rice, 2013-14,Rabi       ,50.0,125,2.5
+Mysore,Rice, 2013-14,Summer     ,10661.0,39236,3.68033017540568
+Mysore,Rice, 2014-15,Kharif     ,94359.0,319929,3.39055098082854
+Mysore,Rice, 2014-15,Summer     ,8864.0,30349,3.42384927797834
+Mysore,Rice, 2015-16,Kharif     ,88740.0,300709,3.3886522425062
+Mysore,Rice, 2015-16,Summer     ,4781.0,15556,3.25371261242418
+Mysore,Rice, 2016-17,Kharif     ,64775.0,186578,2.88040138942493
+Mysore,Rice, 2016-17,Summer     ,869.0,3117,3.58688147295742
+Mysore,Rice, 2017-18,Kharif     ,57177.0,175013,3.06089861307869
+Mysore,Rice, 2017-18,Summer     ,7951.0,24488,3.07986416802918
+Mysore,Rice, 2018-19,Kharif     ,91304.0,274615,3.00769955314115
+Mysore,Rice, 2018-19,Summer     ,8440.0,26058,3.08744075829384
+Mysore,Safflower, 2018-19,Rabi       ,21.0,12,0.571428571428571
+Mysore,Sannhamp, 2018-19,Whole Year ,39.0,10,0.256410256410256
+Mysore,Sesamum, 1998-99,Kharif     ,6314.0,3593,0.569052898321191
+Mysore,Sesamum, 1999-00,Kharif     ,7462.0,2786,0.373358348968105
+Mysore,Sesamum, 2000-01,Kharif     ,5608.0,2621,0.467368045649073
+Mysore,Sesamum, 2001-02,Kharif     ,4926.0,3660,0.74299634591961
+Mysore,Sesamum, 2002-03,Kharif     ,5256.0,1947,0.370433789954338
+Mysore,Sesamum, 2003-04,Kharif     ,4335.0,1783,0.411303344867359
+Mysore,Sesamum, 2004-05,Kharif     ,11153.0,11252,1.00887653546131
+Mysore,Sesamum, 2005-06,Kharif     ,8410.0,11713,1.39274673008323
+Mysore,Sesamum, 2006-07,Kharif     ,14032.0,13997,0.997505701254276
+Mysore,Sesamum, 2007-08,Kharif     ,8518.0,5810,0.682084996478046
+Mysore,Sesamum, 2008-09,Kharif     ,6534.0,4463,0.68304254667891
+Mysore,Sesamum, 2009-10,Kharif     ,10079.0,7095,0.703938882825677
+Mysore,Sesamum, 2010-11,Kharif     ,10490.0,9099,0.867397521448999
+Mysore,Sesamum, 2011-12,Kharif     ,9580.0,6052,0.631732776617954
+Mysore,Sesamum, 2012-13,Kharif     ,6001.0,1357,0.226128978503583
+Mysore,Sesamum, 2013-14,Kharif     ,5907.0,3457,0.585237853394278
+Mysore,Sesamum, 2014-15,Kharif     ,4460.0,2669,0.598430493273543
+Mysore,Sesamum, 2015-16,Kharif     ,10072.0,7502,0.744837172359015
+Mysore,Sesamum, 2016-17,Kharif     ,1624.0,906,0.557881773399015
+Mysore,Sesamum, 2017-18,Kharif     ,6694.0,4954,0.74006573050493
+Mysore,Sesamum, 2018-19,Kharif     ,1729.0,1608,0.930017351069983
+Mysore,Small millets, 1999-00,Kharif     ,4.0,1,0.25
+Mysore,Small millets, 2013-14,Kharif     ,3.0,1,0.333333333333333
+Mysore,Small millets, 2017-18,Kharif     ,98.0,53,0.540816326530612
+Mysore,Small millets, 2018-19,Kharif     ,232.0,259,1.11637931034483
+Mysore,Soyabean, 1998-99,Kharif     ,8.0,9,1.125
+Mysore,Soyabean, 1999-00,Kharif     ,16.0,15,0.9375
+Mysore,Soyabean, 2000-01,Kharif     ,43.0,45,1.04651162790698
+Mysore,Soyabean, 2001-02,Kharif     ,67.0,56,0.835820895522388
+Mysore,Soyabean, 2004-05,Kharif     ,18.0,11,0.611111111111111
+Mysore,Soyabean, 2005-06,Kharif     ,11.0,6,0.545454545454545
+Mysore,Soyabean, 2006-07,Kharif     ,23.0,17,0.739130434782609
+Mysore,Soyabean, 2007-08,Kharif     ,52.0,42,0.807692307692308
+Mysore,Soyabean, 2008-09,Kharif     ,17.0,12,0.705882352941176
+Mysore,Soyabean, 2018-19,Kharif     ,70.0,69,0.985714285714286
+Mysore,Sugarcane, 1997-98,Whole Year ,19349.0,2058734,106.400020672903
+Mysore,Sugarcane, 1999-00,Whole Year ,11118.0,1288576,115.899982011153
+Mysore,Sugarcane, 2000-01,Whole Year ,8964.0,698296,77.9000446229362
+Mysore,Sugarcane, 2001-02,Whole Year ,11009.0,983104,89.3000272504315
+Mysore,Sugarcane, 2002-03,Whole Year ,13048.0,1351120,103.549969343961
+Mysore,Sugarcane, 2003-04,Whole Year ,9849.0,1253778,127.300030459945
+Mysore,Sugarcane, 2005-06,Whole Year ,8744.0,988509,113.049977127173
+Mysore,Sugarcane, 2006-07,Whole Year ,11178.0,1592865,142.5
+Mysore,Sugarcane, 2007-08,Whole Year ,10002.0,1178236,117.800039992002
+Mysore,Sugarcane, 2008-09,Whole Year ,5588.0,637032,114
+Mysore,Sugarcane, 2009-10,Whole Year ,8435.0,897484,106.4
+Mysore,Sugarcane, 2010-11,Whole Year ,12303.0,1367478,111.149963423555
+Mysore,Sugarcane, 2011-12,Whole Year ,11500.0,1190825,103.55
+Mysore,Sugarcane, 2012-13,Whole Year ,6545.0,547162,83.6
+Mysore,Sugarcane, 2013-14,Whole Year ,7995.0,683572,85.4999374609131
+Mysore,Sugarcane, 2014-15,Whole Year ,4104.0,374285,91.2000487329435
+Mysore,Sugarcane, 2015-16,Whole Year ,6261.0,618587,98.800031943779
+Mysore,Sugarcane, 2016-17,Whole Year ,3338.0,332966,99.7501497902936
+Mysore,Sugarcane, 2017-18,Whole Year ,4150.0,508582,122.549879518072
+Mysore,Sugarcane, 2018-19,Whole Year ,9345.0,861142,92.1500267522739
+Mysore,Sunflower, 1998-99,Kharif     ,1268.0,778,0.613564668769716
+Mysore,Sunflower, 1998-99,Rabi       ,130.0,36,0.276923076923077
+Mysore,Sunflower, 1998-99,Summer     ,5.0,3,0.6
+Mysore,Sunflower, 1999-00,Kharif     ,1713.0,615,0.359019264448336
+Mysore,Sunflower, 1999-00,Rabi       ,320.0,102,0.31875
+Mysore,Sunflower, 2000-01,Kharif     ,823.0,251,0.30498177399757
+Mysore,Sunflower, 2000-01,Rabi       ,5.0,2,0.4
+Mysore,Sunflower, 2000-01,Summer     ,34.0,24,0.705882352941176
+Mysore,Sunflower, 2001-02,Kharif     ,767.0,435,0.567144719687093
+Mysore,Sunflower, 2001-02,Rabi       ,15.0,5,0.333333333333333
+Mysore,Sunflower, 2002-03,Kharif     ,1896.0,730,0.385021097046413
+Mysore,Sunflower, 2002-03,Rabi       ,260.0,92,0.353846153846154
+Mysore,Sunflower, 2002-03,Summer     ,62.0,38,0.612903225806452
+Mysore,Sunflower, 2003-04,Kharif     ,994.0,380,0.382293762575453
+Mysore,Sunflower, 2003-04,Rabi       ,317.0,63,0.198738170347003
+Mysore,Sunflower, 2004-05,Kharif     ,1008.0,425,0.421626984126984
+Mysore,Sunflower, 2004-05,Rabi       ,42.0,24,0.571428571428571
+Mysore,Sunflower, 2004-05,Summer     ,164.0,106,0.646341463414634
+Mysore,Sunflower, 2005-06,Kharif     ,1970.0,696,0.353299492385787
+Mysore,Sunflower, 2005-06,Rabi       ,42.0,21,0.5
+Mysore,Sunflower, 2005-06,Summer     ,23.0,18,0.782608695652174
+Mysore,Sunflower, 2006-07,Kharif     ,2303.0,692,0.300477637863656
+Mysore,Sunflower, 2006-07,Rabi       ,12.0,4,0.333333333333333
+Mysore,Sunflower, 2006-07,Summer     ,5.0,4,0.8
+Mysore,Sunflower, 2007-08,Kharif     ,1877.0,888,0.47309536494406
+Mysore,Sunflower, 2007-08,Rabi       ,28.0,12,0.428571428571429
+Mysore,Sunflower, 2008-09,Kharif     ,1845.0,1065,0.577235772357724
+Mysore,Sunflower, 2008-09,Rabi       ,5.0,1,0.2
+Mysore,Sunflower, 2009-10,Kharif     ,2313.0,1151,0.497622135754432
+Mysore,Sunflower, 2009-10,Rabi       ,169.0,38,0.224852071005917
+Mysore,Sunflower, 2010-11,Kharif     ,1987.0,1818,0.914947156517363
+Mysore,Sunflower, 2010-11,Rabi       ,2.0,2,1
+Mysore,Sunflower, 2011-12,Kharif     ,1153.0,803,0.696444058976583
+Mysore,Sunflower, 2012-13,Kharif     ,1255.0,407,0.324302788844621
+Mysore,Sunflower, 2013-14,Kharif     ,1016.0,647,0.636811023622047
+Mysore,Sunflower, 2014-15,Kharif     ,696.0,827,1.1882183908046
+Mysore,Sunflower, 2015-16,Kharif     ,1005.0,598,0.595024875621891
+Mysore,Sunflower, 2016-17,Kharif     ,517.0,128,0.247582205029014
+Mysore,Sunflower, 2017-18,Kharif     ,306.0,241,0.787581699346405
+Mysore,Sunflower, 2018-19,Kharif     ,1108.0,1245,1.12364620938628
+Mysore,Sweet potato, 2007-08,Whole Year ,15.0,125,8.33333333333333
+Mysore,Sweet potato, 2008-09,Whole Year ,16.0,162,10.125
+Mysore,Sweet potato, 2009-10,Whole Year ,16.0,105,6.5625
+Mysore,Sweet potato, 2011-12,Whole Year ,2.0,29,14.5
+Mysore,Sweet potato, 2012-13,Whole Year ,16.0,248,15.5
+Mysore,Sweet potato, 2013-14,Whole Year ,2.0,29,14.5
+Mysore,Sweet potato, 2014-15,Whole Year ,28.0,475,16.9642857142857
+Mysore,Sweet potato, 2015-16,Whole Year ,25.0,398,15.92
+Mysore,Sweet potato, 2016-17,Whole Year ,22.0,264,12
+Mysore,Sweet potato, 2017-18,Whole Year ,26.0,337,12.9615384615385
+Mysore,Sweet potato, 2018-19,Whole Year ,8.0,116,14.5
+Mysore,Tapioca, 2006-07,Whole Year ,15.0,126,8.4
+Mysore,Tapioca, 2008-09,Whole Year ,110.0,906,8.23636363636364
+Mysore,Tapioca, 2009-10,Whole Year ,115.0,965,8.39130434782609
+Mysore,Tapioca, 2010-11,Whole Year ,13.0,144,11.0769230769231
+Mysore,Tapioca, 2011-12,Whole Year ,23.0,243,10.5652173913043
+Mysore,Tapioca, 2012-13,Whole Year ,33.0,349,10.5757575757576
+Mysore,Tapioca, 2013-14,Whole Year ,2.0,17,8.5
+Mysore,Tapioca, 2014-15,Whole Year ,3.0,27,9
+Mysore,Tapioca, 2015-16,Whole Year ,20.0,150,7.5
+Mysore,Tapioca, 2016-17,Whole Year ,16.0,97,6.0625
+Mysore,Tapioca, 2017-18,Whole Year ,18.0,151,8.38888888888889
+Mysore,Tapioca, 2018-19,Whole Year ,220.0,2923,13.2863636363636
+Mysore,Tobacco, 1999-00,Whole Year ,39824.0,18879,0.474060867818401
+Mysore,Tobacco, 2000-01,Whole Year ,33375.0,17058,0.511101123595506
+Mysore,Tobacco, 2002-03,Whole Year ,49790.0,29563,0.593753765816429
+Mysore,Tobacco, 2003-04,Whole Year ,64147.0,32176,0.501597892341029
+Mysore,Tobacco, 2004-05,Whole Year ,59482.0,38821,0.652651222218486
+Mysore,Tobacco, 2005-06,Whole Year ,69104.0,35779,0.517755846260708
+Mysore,Tobacco, 2006-07,Whole Year ,71231.0,25444,0.357204026336848
+Mysore,Tobacco, 2007-08,Whole Year ,82890.0,27482,0.331547834479431
+Mysore,Tobacco, 2008-09,Whole Year ,73995.0,21229,0.286897763362389
+Mysore,Tobacco, 2009-10,Whole Year ,83050.0,58700,0.70680313064419
+Mysore,Tobacco, 2010-11,Whole Year ,88280.0,93343,1.05735160851835
+Mysore,Tobacco, 2011-12,Whole Year ,82234.0,72185,0.877799936765815
+Mysore,Tobacco, 2012-13,Whole Year ,75310.0,35558,0.472155092285221
+Mysore,Tobacco, 2013-14,Whole Year ,84544.0,61282,0.724853330809992
+Mysore,Tobacco, 2014-15,Whole Year ,72647.0,44721,0.615593211006649
+Mysore,Tobacco, 2016-17,Whole Year ,67594.0,39749,0.588055152824215
+Mysore,Tobacco, 2017-18,Whole Year ,70596.0,57677,0.817000963227378
+Mysore,Tobacco, 2018-19,Whole Year ,44109.0,34780,0.788501212904396
+Mysore,Turmeric, 1997-98,Whole Year ,2316.0,15147,6.54015544041451
+Mysore,Turmeric, 1998-99,Whole Year ,331.0,1092,3.29909365558912
+Mysore,Turmeric, 1999-00,Whole Year ,572.0,1928,3.37062937062937
+Mysore,Turmeric, 2000-01,Whole Year ,827.0,2918,3.52841596130592
+Mysore,Turmeric, 2001-02,Whole Year ,691.0,2594,3.75397973950796
+Mysore,Turmeric, 2002-03,Whole Year ,428.0,2009,4.69392523364486
+Mysore,Turmeric, 2003-04,Whole Year ,566.0,4183,7.3904593639576
+Mysore,Turmeric, 2004-05,Whole Year ,614.0,3450,5.61889250814332
+Mysore,Turmeric, 2005-06,Whole Year ,535.0,2588,4.83738317757009
+Mysore,Turmeric, 2006-07,Whole Year ,665.0,3272,4.9203007518797
+Mysore,Turmeric, 2007-08,Whole Year ,677.0,3905,5.76809453471197
+Mysore,Turmeric, 2008-09,Whole Year ,1946.0,9356,4.80781089414183
+Mysore,Turmeric, 2009-10,Whole Year ,1935.0,9896,5.11421188630491
+Mysore,Turmeric, 2010-11,Whole Year ,2081.0,14927,7.17299375300336
+Mysore,Turmeric, 2011-12,Whole Year ,3908.0,20372,5.2128966223132
+Mysore,Turmeric, 2012-13,Whole Year ,3540.0,21884,6.1819209039548
+Mysore,Turmeric, 2013-14,Whole Year ,3340.0,21870,6.54790419161677
+Mysore,Turmeric, 2014-15,Whole Year ,3382.0,23234,6.86989946777055
+Mysore,Turmeric, 2015-16,Whole Year ,2504.0,15324,6.11980830670927
+Mysore,Turmeric, 2016-17,Whole Year ,2213.0,8283,3.74288296430185
+Mysore,Turmeric, 2017-18,Whole Year ,1731.0,7899,4.5632582322357
+Mysore,Turmeric, 2018-19,Whole Year ,2345.0,8794,3.7501066098081
+Mysore,Urad, 1999-00,Kharif     ,1846.0,600,0.325027085590466
+Mysore,Urad, 1999-00,Rabi       ,967.0,360,0.372285418821096
+Mysore,Urad, 2000-01,Kharif     ,2645.0,1023,0.386767485822306
+Mysore,Urad, 2000-01,Rabi       ,776.0,271,0.349226804123711
+Mysore,Urad, 2001-02,Kharif     ,5184.0,1916,0.369598765432099
+Mysore,Urad, 2001-02,Rabi       ,768.0,288,0.375
+Mysore,Urad, 2002-03,Kharif     ,3569.0,556,0.155785934435416
+Mysore,Urad, 2002-03,Rabi       ,1941.0,229,0.117980422462648
+Mysore,Urad, 2003-04,Kharif     ,5918.0,1321,0.223217303142954
+Mysore,Urad, 2003-04,Rabi       ,463.0,244,0.526997840172786
+Mysore,Urad, 2004-05,Kharif     ,6565.0,1185,0.180502665651181
+Mysore,Urad, 2004-05,Rabi       ,577.0,199,0.344887348353553
+Mysore,Urad, 2005-06,Kharif     ,4123.0,1034,0.250788260975018
+Mysore,Urad, 2005-06,Rabi       ,518.0,248,0.478764478764479
+Mysore,Urad, 2006-07,Kharif     ,5836.0,1547,0.265078821110349
+Mysore,Urad, 2006-07,Rabi       ,458.0,241,0.526200873362445
+Mysore,Urad, 2007-08,Kharif     ,5835.0,1358,0.232733504712939
+Mysore,Urad, 2007-08,Rabi       ,503.0,195,0.387673956262425
+Mysore,Urad, 2008-09,Kharif     ,3120.0,1286,0.412179487179487
+Mysore,Urad, 2008-09,Rabi       ,489.0,213,0.43558282208589
+Mysore,Urad, 2009-10,Kharif     ,8673.0,3419,0.394211922056958
+Mysore,Urad, 2009-10,Rabi       ,207.0,81,0.391304347826087
+Mysore,Urad, 2010-11,Kharif     ,7946.0,3835,0.482632771205638
+Mysore,Urad, 2010-11,Rabi       ,299.0,140,0.468227424749164
+Mysore,Urad, 2011-12,Kharif     ,10079.0,5027,0.498759797598968
+Mysore,Urad, 2011-12,Rabi       ,199.0,101,0.507537688442211
+Mysore,Urad, 2012-13,Kharif     ,12067.0,1559,0.129195326095964
+Mysore,Urad, 2013-14,Kharif     ,7969.0,3225,0.404693186096123
+Mysore,Urad, 2013-14,Rabi       ,107.0,61,0.570093457943925
+Mysore,Urad, 2014-15,Kharif     ,10082.0,3007,0.298254314620115
+Mysore,Urad, 2014-15,Rabi       ,707.0,322,0.455445544554455
+Mysore,Urad, 2015-16,Kharif     ,19801.0,7901,0.399020251502449
+Mysore,Urad, 2015-16,Rabi       ,19.0,7,0.368421052631579
+Mysore,Urad, 2015-16,Summer     ,20.0,10,0.5
+Mysore,Urad, 2016-17,Kharif     ,9853.0,2565,0.26032680401908
+Mysore,Urad, 2016-17,Summer     ,251.0,133,0.529880478087649
+Mysore,Urad, 2017-18,Kharif     ,14779.0,3173,0.214696528858515
+Mysore,Urad, 2018-19,Kharif     ,13021.0,6927,0.531986790569081
+Mysore,Urad, 2018-19,Summer     ,17.0,9,0.529411764705882
+Mysore,Wheat, 1997-98,Rabi       ,4.0,4,1
+Mysore,Wheat, 2018-19,Rabi       ,3.0,3,1

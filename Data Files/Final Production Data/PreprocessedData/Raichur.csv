@@ -1,0 +1,814 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Raichur,Arhar/Tur, 1997-98,Kharif     ,25952.0,3156,0.121609124537608
+Raichur,Arhar/Tur, 1998-99,Kharif     ,19100.0,3429,0.179528795811518
+Raichur,Arhar/Tur, 1999-00,Kharif     ,12469.0,2499,0.200417034244927
+Raichur,Arhar/Tur, 2000-01,Kharif     ,20627.0,2920,0.141562030348572
+Raichur,Arhar/Tur, 2001-02,Kharif     ,13450.0,2581,0.191895910780669
+Raichur,Arhar/Tur, 2002-03,Kharif     ,12569.0,3403,0.270745484923224
+Raichur,Arhar/Tur, 2003-04,Kharif     ,17478.0,3719,0.212781782812679
+Raichur,Arhar/Tur, 2004-05,Kharif     ,17583.0,8569,0.487345731672638
+Raichur,Arhar/Tur, 2005-06,Kharif     ,16413.0,9387,0.571924693840249
+Raichur,Arhar/Tur, 2006-07,Kharif     ,13338.0,4688,0.35147698305593
+Raichur,Arhar/Tur, 2007-08,Kharif     ,17912.0,6245,0.348648950424297
+Raichur,Arhar/Tur, 2008-09,Kharif     ,13531.0,3432,0.253639790111596
+Raichur,Arhar/Tur, 2009-10,Kharif     ,12984.0,3626,0.279266789895256
+Raichur,Arhar/Tur, 2010-11,Kharif     ,62051.0,20986,0.338205669529903
+Raichur,Arhar/Tur, 2011-12,Kharif     ,42859.0,11808,0.275508061317343
+Raichur,Arhar/Tur, 2012-13,Kharif     ,31072.0,12103,0.389514675592173
+Raichur,Arhar/Tur, 2013-14,Kharif     ,38322.0,16965,0.442696101456083
+Raichur,Arhar/Tur, 2014-15,Kharif     ,37594.0,24929,0.663111134755546
+Raichur,Arhar/Tur, 2015-16,Kharif     ,33623.0,14246,0.423698063825358
+Raichur,Arhar/Tur, 2016-17,Kharif     ,89220.0,70265,0.787547635059404
+Raichur,Arhar/Tur, 2017-18,Kharif     ,38188.0,27100,0.70964700953179
+Raichur,Arhar/Tur, 2018-19,Kharif     ,102883.0,36261,0.352448898263075
+Raichur,Bajra, 1997-98,Kharif     ,68296.0,26777,0.392072742181094
+Raichur,Bajra, 1998-99,Kharif     ,65722.0,42536,0.647210979580658
+Raichur,Bajra, 1999-00,Kharif     ,54069.0,21834,0.403817344504245
+Raichur,Bajra, 2000-01,Kharif     ,75776.0,44190,0.583166173986487
+Raichur,Bajra, 2001-02,Kharif     ,41821.0,12900,0.308457473518089
+Raichur,Bajra, 2002-03,Kharif     ,63588.0,18369,0.288875259482921
+Raichur,Bajra, 2003-04,Kharif     ,69550.0,29978,0.431028037383178
+Raichur,Bajra, 2003-04,Summer     ,14.0,13,0.928571428571429
+Raichur,Bajra, 2004-05,Kharif     ,74080.0,32237,0.435164686825054
+Raichur,Bajra, 2004-05,Summer     ,769.0,621,0.807542262678804
+Raichur,Bajra, 2005-06,Kharif     ,68058.0,69299,1.01823444708925
+Raichur,Bajra, 2005-06,Summer     ,4.0,5,1.25
+Raichur,Bajra, 2006-07,Kharif     ,57333.0,17692,0.308583189437148
+Raichur,Bajra, 2006-07,Summer     ,70.0,30,0.428571428571429
+Raichur,Bajra, 2007-08,Kharif     ,62068.0,43211,0.696188051814139
+Raichur,Bajra, 2007-08,Summer     ,9.0,8,0.888888888888889
+Raichur,Bajra, 2008-09,Kharif     ,53497.0,36280,0.67816886928239
+Raichur,Bajra, 2008-09,Summer     ,8.0,7,0.875
+Raichur,Bajra, 2009-10,Kharif     ,55935.0,24202,0.432680790202914
+Raichur,Bajra, 2010-11,Kharif     ,53772.0,47919,0.891151528676635
+Raichur,Bajra, 2010-11,Summer     ,115.0,98,0.852173913043478
+Raichur,Bajra, 2011-12,Kharif     ,45346.0,40543,0.894081065584616
+Raichur,Bajra, 2011-12,Summer     ,870.0,744,0.855172413793103
+Raichur,Bajra, 2012-13,Kharif     ,52357.0,51281,0.979448784307733
+Raichur,Bajra, 2013-14,Kharif     ,50996.0,56876,1.11530316103224
+Raichur,Bajra, 2014-15,Kharif     ,46275.0,33806,0.73054565099946
+Raichur,Bajra, 2015-16,Kharif     ,35812.0,27149,0.758097844298001
+Raichur,Bajra, 2015-16,Summer     ,1230.0,1332,1.08292682926829
+Raichur,Bajra, 2016-17,Kharif     ,51248.0,74051,1.44495394942242
+Raichur,Bajra, 2016-17,Summer     ,559.0,584,1.04472271914132
+Raichur,Bajra, 2017-18,Kharif     ,39708.0,52963,1.33381182633223
+Raichur,Bajra, 2018-19,Kharif     ,46878.0,43198,0.921498357438457
+Raichur,Bajra, 2018-19,Summer     ,144.0,153,1.0625
+Raichur,Banana, 1999-00,Whole Year ,20.0,469,23.45
+Raichur,Banana, 2000-01,Whole Year ,23.0,423,18.3913043478261
+Raichur,Banana, 2002-03,Whole Year ,36.0,616,17.1111111111111
+Raichur,Banana, 2003-04,Whole Year ,25.0,325,13
+Raichur,Banana, 2004-05,Whole Year ,22.0,276,12.5454545454545
+Raichur,Banana, 2005-06,Whole Year ,8.0,95,11.875
+Raichur,Banana, 2006-07,Whole Year ,8.0,160,20
+Raichur,Banana, 2007-08,Whole Year ,93.0,1645,17.6881720430108
+Raichur,Banana, 2008-09,Whole Year ,59.0,1025,17.3728813559322
+Raichur,Banana, 2009-10,Whole Year ,65.0,1442,22.1846153846154
+Raichur,Banana, 2010-11,Whole Year ,79.0,1855,23.4810126582278
+Raichur,Banana, 2011-12,Whole Year ,71.0,1774,24.9859154929577
+Raichur,Castor seed, 1998-99,Kharif     ,578.0,493,0.852941176470588
+Raichur,Castor seed, 1999-00,Kharif     ,1267.0,977,0.771112865035517
+Raichur,Castor seed, 2000-01,Kharif     ,3200.0,4098,1.280625
+Raichur,Castor seed, 2001-02,Kharif     ,1076.0,405,0.37639405204461
+Raichur,Castor seed, 2002-03,Kharif     ,429.0,140,0.326340326340326
+Raichur,Castor seed, 2003-04,Kharif     ,1165.0,437,0.375107296137339
+Raichur,Castor seed, 2004-05,Kharif     ,1598.0,1386,0.867334167709637
+Raichur,Castor seed, 2005-06,Kharif     ,2220.0,550,0.247747747747748
+Raichur,Castor seed, 2006-07,Kharif     ,1583.0,209,0.132027795325332
+Raichur,Castor seed, 2007-08,Kharif     ,1401.0,287,0.204853675945753
+Raichur,Castor seed, 2008-09,Kharif     ,1062.0,376,0.354048964218456
+Raichur,Castor seed, 2009-10,Kharif     ,953.0,249,0.261280167890871
+Raichur,Castor seed, 2010-11,Kharif     ,1301.0,510,0.392006149116065
+Raichur,Castor seed, 2011-12,Kharif     ,890.0,194,0.217977528089888
+Raichur,Castor seed, 2012-13,Kharif     ,707.0,185,0.261669024045262
+Raichur,Castor seed, 2013-14,Kharif     ,1011.0,284,0.280909990108803
+Raichur,Castor seed, 2014-15,Kharif     ,1341.0,285,0.212527964205817
+Raichur,Castor seed, 2015-16,Kharif     ,920.0,214,0.232608695652174
+Raichur,Castor seed, 2016-17,Kharif     ,1229.0,434,0.35313262815297
+Raichur,Castor seed, 2018-19,Kharif     ,212.0,121,0.570754716981132
+Raichur,Coconut , 1998-99,Whole Year ,90.0,429000,4766.66666666667
+Raichur,Coconut , 1999-00,Whole Year ,178.0,849000,4769.66292134831
+Raichur,Coconut , 2000-01,Whole Year ,111.0,529000,4765.76576576577
+Raichur,Coconut , 2001-02,Whole Year ,208.0,992000,4769.23076923077
+Raichur,Coconut , 2002-03,Whole Year ,523.0,2494000,4768.64244741874
+Raichur,Coconut , 2003-04,Whole Year ,496.0,2365000,4768.14516129032
+Raichur,Coconut , 2004-05,Whole Year ,441.0,2103000,4768.7074829932
+Raichur,Coconut , 2005-06,Whole Year ,138.0,658000,4768.11594202899
+Raichur,Coconut , 2006-07,Whole Year ,158.0,753000,4765.82278481013
+Raichur,Coconut , 2007-08,Whole Year ,429.0,2184000,5090.90909090909
+Raichur,Coconut , 2008-09,Whole Year ,229.0,1569000,6851.52838427948
+Raichur,Coconut , 2009-10,Whole Year ,175.0,1244000,7108.57142857143
+Raichur,Coconut , 2010-11,Whole Year ,30.0,287000,9566.66666666667
+Raichur,Coconut , 2011-12,Whole Year ,27.0,268000,9925.92592592593
+Raichur,Coconut , 2012-13,Whole Year ,36.0,354000,9833.33333333333
+Raichur,Coconut , 2013-14,Whole Year ,63.0,500000,7936.50793650794
+Raichur,Coconut , 2014-15,Whole Year ,80.0,714000,8925
+Raichur,Coconut , 2015-16,Whole Year ,3166.0,26476000,8362.60265319015
+Raichur,Coconut , 2017-18,Whole Year ,80.0,633000,7912.5
+Raichur,Coconut , 2018-19,Whole Year ,29.0,205000,7068.96551724138
+Raichur,Coriander, 1997-98,Whole Year ,38.0,7,0.184210526315789
+Raichur,Coriander, 2000-01,Whole Year ,23.0,4,0.173913043478261
+Raichur,Coriander, 2001-02,Whole Year ,275.0,48,0.174545454545455
+Raichur,Coriander, 2002-03,Whole Year ,103.0,18,0.174757281553398
+Raichur,Coriander, 2003-04,Whole Year ,18.0,3,0.166666666666667
+Raichur,Coriander, 2004-05,Whole Year ,18.0,3,0.166666666666667
+Raichur,Coriander, 2005-06,Whole Year ,4.0,1,0.25
+Raichur,Coriander, 2018-19,Whole Year ,28.0,25,0.892857142857143
+Raichur,Cotton(lint), 1998-99,Kharif     ,49208.0,58421,1.18722565436514
+Raichur,Cotton(lint), 1999-00,Kharif     ,34301.0,35606,1.03804553803096
+Raichur,Cotton(lint), 2000-01,Kharif     ,36981.0,43909,1.18733944457965
+Raichur,Cotton(lint), 2001-02,Kharif     ,44627.0,41939,0.939767405382392
+Raichur,Cotton(lint), 2002-03,Kharif     ,31605.0,21270,0.672994779307072
+Raichur,Cotton(lint), 2003-04,Kharif     ,31965.0,30941,0.967964961676834
+Raichur,Cotton(lint), 2004-05,Kharif     ,35250.0,32681,0.927120567375887
+Raichur,Cotton(lint), 2005-06,Whole Year ,22061.0,31534,1.42940029917048
+Raichur,Cotton(lint), 2006-07,Whole Year ,12783.0,24291,1.90025815536259
+Raichur,Cotton(lint), 2007-08,Whole Year ,22259.0,51779,2.32620513050901
+Raichur,Cotton(lint), 2008-09,Whole Year ,26561.0,73442,2.76503143706939
+Raichur,Cotton(lint), 2009-10,Whole Year ,22101.0,53381,2.4153205737297
+Raichur,Cotton(lint), 2010-11,Kharif     ,27086.0,55465,2.04773683821901
+Raichur,Cotton(lint), 2010-11,Rabi       ,280.0,657,2.34642857142857
+Raichur,Cotton(lint), 2011-12,Kharif     ,38467.0,69268,1.80071229885356
+Raichur,Cotton(lint), 2012-13,Kharif     ,53170.0,174109,3.27457212713936
+Raichur,Cotton(lint), 2012-13,Rabi       ,190.0,235,1.23684210526316
+Raichur,Cotton(lint), 2013-14,Kharif     ,55755.0,165126,2.96163572773742
+Raichur,Cotton(lint), 2014-15,Kharif     ,104970.0,302671,2.88340478231876
+Raichur,Cotton(lint), 2015-16,Kharif     ,45159.0,124408,2.7548882836201
+Raichur,Cotton(lint), 2015-16,Rabi       ,250.0,299,1.196
+Raichur,Cotton(lint), 2016-17,Kharif     ,47054.0,175117,3.72161771581587
+Raichur,Cotton(lint), 2017-18,Kharif     ,85850.0,218757,2.54813046010483
+Raichur,Cotton(lint), 2018-19,Kharif     ,123580.0,218909,1.77139504774235
+Raichur,Cowpea(Lobia), 2010-11,Kharif     ,187.0,97,0.518716577540107
+Raichur,Cowpea(Lobia), 2010-11,Rabi       ,228.0,60,0.263157894736842
+Raichur,Cowpea(Lobia), 2011-12,Kharif     ,181.0,96,0.530386740331492
+Raichur,Cowpea(Lobia), 2011-12,Rabi       ,80.0,28,0.35
+Raichur,Cowpea(Lobia), 2012-13,Kharif     ,62.0,17,0.274193548387097
+Raichur,Cowpea(Lobia), 2012-13,Summer     ,77.0,28,0.363636363636364
+Raichur,Cowpea(Lobia), 2013-14,Kharif     ,196.0,73,0.372448979591837
+Raichur,Cowpea(Lobia), 2014-15,Kharif     ,172.0,75,0.436046511627907
+Raichur,Cowpea(Lobia), 2015-16,Kharif     ,31.0,13,0.419354838709677
+Raichur,Cowpea(Lobia), 2015-16,Summer     ,15.0,5,0.333333333333333
+Raichur,Cowpea(Lobia), 2016-17,Kharif     ,5.0,4,0.8
+Raichur,Cowpea(Lobia), 2017-18,Summer     ,22.0,7,0.318181818181818
+Raichur,Cowpea(Lobia), 2018-19,Kharif     ,83.0,31,0.373493975903614
+Raichur,Dry chillies, 1997-98,Kharif     ,2109.0,2491,1.18112849691797
+Raichur,Dry chillies, 1997-98,Rabi       ,262.0,453,1.72900763358779
+Raichur,Dry chillies, 1998-99,Whole Year ,1392.0,1081,0.776580459770115
+Raichur,Dry chillies, 1999-00,Whole Year ,1694.0,3331,1.96635182998819
+Raichur,Dry chillies, 2000-01,Whole Year ,1920.0,1350,0.703125
+Raichur,Dry chillies, 2001-02,Whole Year ,1608.0,1294,0.804726368159204
+Raichur,Dry chillies, 2002-03,Whole Year ,1890.0,1839,0.973015873015873
+Raichur,Dry chillies, 2003-04,Whole Year ,1514.0,1229,0.811756935270806
+Raichur,Dry chillies, 2004-05,Whole Year ,3241.0,1641,0.506325208269053
+Raichur,Dry chillies, 2005-06,Kharif     ,1007.0,678,0.673286991062562
+Raichur,Dry chillies, 2005-06,Rabi       ,11.0,18,1.63636363636364
+Raichur,Dry chillies, 2005-06,Summer     ,98.0,259,2.64285714285714
+Raichur,Dry chillies, 2006-07,Whole Year ,1799.0,1788,0.993885491939967
+Raichur,Dry chillies, 2007-08,Kharif     ,3311.0,1761,0.531863485351857
+Raichur,Dry chillies, 2007-08,Rabi       ,15.0,26,1.73333333333333
+Raichur,Dry chillies, 2007-08,Summer     ,10.0,34,3.4
+Raichur,Dry chillies, 2008-09,Kharif     ,3284.0,2480,0.755176613885505
+Raichur,Dry chillies, 2008-09,Rabi       ,6.0,10,1.66666666666667
+Raichur,Dry chillies, 2008-09,Summer     ,10.0,33,3.3
+Raichur,Dry chillies, 2009-10,Rabi       ,68.0,203,2.98529411764706
+Raichur,Dry chillies, 2009-10,Summer     ,10.0,46,4.6
+Raichur,Dry chillies, 2010-11,Kharif     ,2024.0,2780,1.37351778656126
+Raichur,Dry chillies, 2010-11,Rabi       ,62.0,168,2.70967741935484
+Raichur,Dry chillies, 2010-11,Summer     ,38.0,116,3.05263157894737
+Raichur,Dry chillies, 2011-12,Kharif     ,3437.0,3595,1.04597032295607
+Raichur,Dry chillies, 2011-12,Rabi       ,46.0,108,2.34782608695652
+Raichur,Dry chillies, 2012-13,Kharif     ,4363.0,4895,1.12193444877378
+Raichur,Dry chillies, 2012-13,Rabi       ,52.0,142,2.73076923076923
+Raichur,Dry chillies, 2012-13,Summer     ,25.0,71,2.84
+Raichur,Dry chillies, 2013-14,Kharif     ,3757.0,4676,1.24461006121906
+Raichur,Dry chillies, 2013-14,Rabi       ,45.0,85,1.88888888888889
+Raichur,Dry chillies, 2013-14,Summer     ,22.0,58,2.63636363636364
+Raichur,Dry chillies, 2014-15,Kharif     ,3763.0,7990,2.12330587297369
+Raichur,Dry chillies, 2014-15,Rabi       ,76.0,143,1.88157894736842
+Raichur,Dry chillies, 2015-16,Kharif     ,3926.0,8302,2.11462047885889
+Raichur,Dry chillies, 2015-16,Rabi       ,280.0,566,2.02142857142857
+Raichur,Dry chillies, 2015-16,Summer     ,5.0,9,1.8
+Raichur,Dry chillies, 2016-17,Kharif     ,1969.0,3966,2.01422041645505
+Raichur,Dry chillies, 2016-17,Rabi       ,165.0,353,2.13939393939394
+Raichur,Dry chillies, 2016-17,Summer     ,17.0,39,2.29411764705882
+Raichur,Dry chillies, 2017-18,Kharif     ,1714.0,3224,1.88098016336056
+Raichur,Dry chillies, 2017-18,Summer     ,10.0,21,2.1
+Raichur,Dry chillies, 2018-19,Kharif     ,7423.0,9210,1.24073824599219
+Raichur,Garlic, 2018-19,Whole Year ,2.0,13,6.5
+Raichur,Ginger, 1998-99,Kharif     ,1.0,13,13
+Raichur,Ginger, 1999-00,Kharif     ,1.0,13,13
+Raichur,Ginger, 2000-01,Kharif     ,6.0,79,13.1666666666667
+Raichur,Ginger, 2001-02,Kharif     ,9.0,118,13.1111111111111
+Raichur,Ginger, 2018-19,Whole Year ,2.0,30.8,15.4
+Raichur,Gram, 1998-99,Rabi       ,14597.0,10077,0.690347331643488
+Raichur,Gram, 1999-00,Rabi       ,14620.0,7262,0.49671682626539
+Raichur,Gram, 2000-01,Rabi       ,23214.0,11094,0.477901266477126
+Raichur,Gram, 2001-02,Rabi       ,32056.0,18760,0.58522585475418
+Raichur,Gram, 2002-03,Rabi       ,28033.0,13094,0.467092355438234
+Raichur,Gram, 2003-04,Rabi       ,37409.0,14265,0.381325349514823
+Raichur,Gram, 2004-05,Rabi       ,18483.0,8823,0.477357571822756
+Raichur,Gram, 2005-06,Rabi       ,23661.0,12447,0.526055534423735
+Raichur,Gram, 2006-07,Kharif     ,25.0,3,0.12
+Raichur,Gram, 2006-07,Rabi       ,64084.0,31152,0.486111978028837
+Raichur,Gram, 2007-08,Rabi       ,58483.0,35870,0.613340628900706
+Raichur,Gram, 2008-09,Rabi       ,76525.0,27376,0.357739300882065
+Raichur,Gram, 2009-10,Kharif     ,583.0,187,0.320754716981132
+Raichur,Gram, 2009-10,Rabi       ,797.0,202,0.2534504391468
+Raichur,Gram, 2010-11,Rabi       ,100330.0,45180,0.450313963919067
+Raichur,Gram, 2011-12,Rabi       ,69776.0,26348,0.37760834670947
+Raichur,Gram, 2012-13,Rabi       ,109636.0,103113,0.940503119413331
+Raichur,Gram, 2013-14,Rabi       ,127854.0,127170,0.994650147824863
+Raichur,Gram, 2014-15,Rabi       ,60078.0,57474,0.956656346749226
+Raichur,Gram, 2015-16,Rabi       ,155722.0,99117,0.636499659649889
+Raichur,Gram, 2016-17,Rabi       ,111990.0,74048,0.661201893026163
+Raichur,Gram, 2017-18,Rabi       ,116784.0,117047,1.00225202082477
+Raichur,Gram, 2018-19,Rabi       ,177001.0,94165,0.532002644052858
+Raichur,Groundnut, 1997-98,Kharif     ,62527.0,22818,0.364930350088762
+Raichur,Groundnut, 1997-98,Rabi       ,31657.0,20511,0.647913573617209
+Raichur,Groundnut, 1998-99,Kharif     ,35726.0,14179,0.396881822762134
+Raichur,Groundnut, 1998-99,Rabi       ,14314.0,14836,1.03646779376834
+Raichur,Groundnut, 1999-00,Kharif     ,33776.0,14921,0.441763382283278
+Raichur,Groundnut, 1999-00,Rabi       ,13474.0,10547,0.782766810152887
+Raichur,Groundnut, 2000-01,Kharif     ,35823.0,20610,0.575328699438908
+Raichur,Groundnut, 2000-01,Rabi       ,17058.0,21342,1.25114315863524
+Raichur,Groundnut, 2001-02,Kharif     ,40392.0,28282,0.700188156070509
+Raichur,Groundnut, 2002-03,Kharif     ,26591.0,10245,0.38528073408296
+Raichur,Groundnut, 2002-03,Rabi       ,15674.0,18940,1.20837054995534
+Raichur,Groundnut, 2003-04,Kharif     ,20561.0,10247,0.498370701814114
+Raichur,Groundnut, 2003-04,Rabi       ,15973.0,14385,0.900582232517373
+Raichur,Groundnut, 2004-05,Kharif     ,17913.0,10880,0.607380115000279
+Raichur,Groundnut, 2004-05,Rabi       ,17456.0,18076,1.03551787351054
+Raichur,Groundnut, 2005-06,Kharif     ,20330.0,16726,0.822725036891294
+Raichur,Groundnut, 2005-06,Rabi       ,24013.0,17976,0.748594511306376
+Raichur,Groundnut, 2006-07,Kharif     ,14477.0,5747,0.396974511293776
+Raichur,Groundnut, 2006-07,Rabi       ,25156.0,23420,0.930990618540309
+Raichur,Groundnut, 2007-08,Kharif     ,15476.0,9497,0.613659860429051
+Raichur,Groundnut, 2007-08,Rabi       ,31075.0,28193,0.907256637168142
+Raichur,Groundnut, 2008-09,Kharif     ,10493.0,7451,0.710092442580768
+Raichur,Groundnut, 2008-09,Rabi       ,28747.0,22285,0.775211326399276
+Raichur,Groundnut, 2009-10,Kharif     ,8592.0,3879,0.451466480446927
+Raichur,Groundnut, 2009-10,Rabi       ,30330.0,21869,0.721035278602044
+Raichur,Groundnut, 2010-11,Kharif     ,10064.0,6106,0.606717011128776
+Raichur,Groundnut, 2010-11,Rabi       ,27558.0,24766,0.898686406851005
+Raichur,Groundnut, 2011-12,Kharif     ,9933.0,5472,0.550890969495621
+Raichur,Groundnut, 2011-12,Rabi       ,28115.0,21661,0.770442824115241
+Raichur,Groundnut, 2012-13,Kharif     ,5363.0,3831,0.71433898937162
+Raichur,Groundnut, 2012-13,Summer     ,38169.0,34629,0.907254578322723
+Raichur,Groundnut, 2013-14,Kharif     ,4165.0,2888,0.693397358943577
+Raichur,Groundnut, 2013-14,Summer     ,48600.0,44231,0.910102880658436
+Raichur,Groundnut, 2014-15,Kharif     ,2847.0,1571,0.551808921671935
+Raichur,Groundnut, 2014-15,Summer     ,30100.0,29081,0.966146179401993
+Raichur,Groundnut, 2015-16,Kharif     ,452.0,431,0.95353982300885
+Raichur,Groundnut, 2015-16,Summer     ,35508.0,26413,0.743860538470204
+Raichur,Groundnut, 2016-17,Kharif     ,5457.0,6470,1.18563313175738
+Raichur,Groundnut, 2016-17,Summer     ,30153.0,37525,1.24448645242596
+Raichur,Groundnut, 2017-18,Kharif     ,343.0,422,1.23032069970845
+Raichur,Groundnut, 2017-18,Summer     ,17817.0,23680,1.32906774428916
+Raichur,Groundnut, 2018-19,Kharif     ,1522.0,1304,0.85676741130092
+Raichur,Groundnut, 2018-19,Summer     ,33281.0,26369,0.792313932874613
+Raichur,Horse-gram, 1997-98,Kharif     ,19319.0,4001,0.207101816864227
+Raichur,Horse-gram, 1997-98,Rabi       ,3161.0,1601,0.506485289465359
+Raichur,Horse-gram, 1998-99,Kharif     ,2294.0,597,0.260244115082825
+Raichur,Horse-gram, 1998-99,Rabi       ,707.0,326,0.461103253182461
+Raichur,Horse-gram, 1999-00,Kharif     ,1532.0,421,0.274804177545692
+Raichur,Horse-gram, 1999-00,Rabi       ,2650.0,642,0.242264150943396
+Raichur,Horse-gram, 2000-01,Kharif     ,1954.0,449,0.22978505629478
+Raichur,Horse-gram, 2000-01,Rabi       ,2567.0,1241,0.483443708609272
+Raichur,Horse-gram, 2001-02,Kharif     ,2448.0,1293,0.528186274509804
+Raichur,Horse-gram, 2001-02,Rabi       ,2773.0,437,0.157591056617382
+Raichur,Horse-gram, 2002-03,Kharif     ,2890.0,722,0.249826989619377
+Raichur,Horse-gram, 2002-03,Rabi       ,1401.0,359,0.256245538900785
+Raichur,Horse-gram, 2003-04,Kharif     ,1350.0,144,0.106666666666667
+Raichur,Horse-gram, 2003-04,Rabi       ,1932.0,195,0.100931677018634
+Raichur,Horse-gram, 2004-05,Kharif     ,1367.0,342,0.250182882223848
+Raichur,Horse-gram, 2004-05,Rabi       ,1690.0,315,0.186390532544379
+Raichur,Horse-gram, 2005-06,Kharif     ,1296.0,528,0.407407407407407
+Raichur,Horse-gram, 2005-06,Rabi       ,999.0,277,0.277277277277277
+Raichur,Horse-gram, 2006-07,Kharif     ,744.0,154,0.206989247311828
+Raichur,Horse-gram, 2006-07,Rabi       ,1525.0,565,0.370491803278688
+Raichur,Horse-gram, 2007-08,Kharif     ,1283.0,628,0.489477786438036
+Raichur,Horse-gram, 2007-08,Rabi       ,988.0,367,0.371457489878542
+Raichur,Horse-gram, 2008-09,Kharif     ,811.0,355,0.437731196054254
+Raichur,Horse-gram, 2008-09,Rabi       ,1000.0,261,0.261
+Raichur,Horse-gram, 2009-10,Kharif     ,583.0,187,0.320754716981132
+Raichur,Horse-gram, 2009-10,Rabi       ,797.0,202,0.2534504391468
+Raichur,Horse-gram, 2010-11,Kharif     ,117.0,50,0.427350427350427
+Raichur,Horse-gram, 2010-11,Rabi       ,948.0,338,0.356540084388186
+Raichur,Horse-gram, 2011-12,Kharif     ,100.0,31,0.31
+Raichur,Horse-gram, 2011-12,Rabi       ,342.0,74,0.216374269005848
+Raichur,Horse-gram, 2012-13,Kharif     ,69.0,28,0.405797101449275
+Raichur,Horse-gram, 2012-13,Rabi       ,664.0,144,0.216867469879518
+Raichur,Horse-gram, 2013-14,Kharif     ,60.0,34,0.566666666666667
+Raichur,Horse-gram, 2013-14,Rabi       ,412.0,194,0.470873786407767
+Raichur,Horse-gram, 2014-15,Kharif     ,30.0,10,0.333333333333333
+Raichur,Horse-gram, 2014-15,Rabi       ,502.0,215,0.428286852589641
+Raichur,Horse-gram, 2015-16,Kharif     ,29.0,9,0.310344827586207
+Raichur,Horse-gram, 2015-16,Rabi       ,256.0,41,0.16015625
+Raichur,Horse-gram, 2016-17,Kharif     ,23.0,14,0.608695652173913
+Raichur,Horse-gram, 2016-17,Rabi       ,19.0,6,0.31578947368421
+Raichur,Horse-gram, 2017-18,Rabi       ,98.0,48,0.489795918367347
+Raichur,Horse-gram, 2018-19,Kharif     ,158.0,66,0.417721518987342
+Raichur,Horse-gram, 2018-19,Rabi       ,38.0,16,0.421052631578947
+Raichur,Jowar, 1997-98,Kharif     ,31464.0,25101,0.797768878718536
+Raichur,Jowar, 1997-98,Rabi       ,194872.0,94518,0.485026068393612
+Raichur,Jowar, 1997-98,Summer     ,2699.0,6656,2.46609855502038
+Raichur,Jowar, 1998-99,Kharif     ,3611.0,1943,0.538078094710607
+Raichur,Jowar, 1998-99,Rabi       ,169677.0,125732,0.741007915038573
+Raichur,Jowar, 1998-99,Summer     ,1098.0,2912,2.65209471766849
+Raichur,Jowar, 1999-00,Kharif     ,2784.0,4231,1.51975574712644
+Raichur,Jowar, 1999-00,Rabi       ,193745.0,165312,0.853245245038582
+Raichur,Jowar, 1999-00,Summer     ,2083.0,4787,2.29812770043207
+Raichur,Jowar, 2000-01,Kharif     ,3398.0,3746,1.10241318422602
+Raichur,Jowar, 2000-01,Rabi       ,170356.0,140604,0.825353964638756
+Raichur,Jowar, 2000-01,Summer     ,985.0,1985,2.01522842639594
+Raichur,Jowar, 2001-02,Kharif     ,1040.0,1004,0.965384615384615
+Raichur,Jowar, 2001-02,Rabi       ,184291.0,114503,0.621316287827403
+Raichur,Jowar, 2001-02,Summer     ,1038.0,1829,1.76204238921002
+Raichur,Jowar, 2002-03,Kharif     ,1955.0,1914,0.979028132992327
+Raichur,Jowar, 2002-03,Rabi       ,168277.0,109308,0.649571836911759
+Raichur,Jowar, 2002-03,Summer     ,465.0,1082,2.32688172043011
+Raichur,Jowar, 2003-04,Kharif     ,2264.0,1448,0.639575971731449
+Raichur,Jowar, 2003-04,Rabi       ,157200.0,98682,0.627748091603053
+Raichur,Jowar, 2003-04,Summer     ,913.0,2429,2.66046002190581
+Raichur,Jowar, 2004-05,Kharif     ,1382.0,746,0.539797395079595
+Raichur,Jowar, 2004-05,Rabi       ,127952.0,80001,0.625242278354383
+Raichur,Jowar, 2004-05,Summer     ,7422.0,5895,0.794260307194826
+Raichur,Jowar, 2005-06,Kharif     ,1860.0,1432,0.76989247311828
+Raichur,Jowar, 2005-06,Rabi       ,114822.0,102423,0.892015467419136
+Raichur,Jowar, 2005-06,Summer     ,1799.0,3076,1.70983879933296
+Raichur,Jowar, 2006-07,Kharif     ,1854.0,1162,0.626752966558792
+Raichur,Jowar, 2006-07,Rabi       ,119447.0,88504,0.740947868092125
+Raichur,Jowar, 2006-07,Summer     ,1228.0,1983,1.61482084690554
+Raichur,Jowar, 2007-08,Kharif     ,2559.0,2602,1.0168034388433
+Raichur,Jowar, 2007-08,Rabi       ,115414.0,149896,1.29876791377129
+Raichur,Jowar, 2007-08,Summer     ,2045.0,3256,1.5921760391198
+Raichur,Jowar, 2008-09,Kharif     ,708.0,343,0.484463276836158
+Raichur,Jowar, 2008-09,Rabi       ,91205.0,125493,1.37594430129927
+Raichur,Jowar, 2008-09,Summer     ,375.0,831,2.216
+Raichur,Jowar, 2009-10,Kharif     ,519.0,432,0.832369942196532
+Raichur,Jowar, 2009-10,Rabi       ,110905.0,144492,1.30284477706145
+Raichur,Jowar, 2009-10,Summer     ,1078.0,834,0.773654916512059
+Raichur,Jowar, 2010-11,Kharif     ,346.0,413,1.19364161849711
+Raichur,Jowar, 2010-11,Rabi       ,112097.0,162948,1.45363390634897
+Raichur,Jowar, 2010-11,Summer     ,1085.0,1997,1.84055299539171
+Raichur,Jowar, 2011-12,Kharif     ,339.0,425,1.25368731563422
+Raichur,Jowar, 2011-12,Rabi       ,84790.0,61297,0.722927231984904
+Raichur,Jowar, 2011-12,Summer     ,1009.0,1745,1.72943508424182
+Raichur,Jowar, 2012-13,Kharif     ,81.0,115,1.41975308641975
+Raichur,Jowar, 2012-13,Rabi       ,108723.0,141813,1.30435142518142
+Raichur,Jowar, 2012-13,Summer     ,399.0,884,2.21553884711779
+Raichur,Jowar, 2013-14,Kharif     ,469.0,450,0.959488272921109
+Raichur,Jowar, 2013-14,Rabi       ,95243.0,133821,1.40504814002079
+Raichur,Jowar, 2014-15,Rabi       ,76744.0,107465,1.40030490983008
+Raichur,Jowar, 2015-16,Rabi       ,91397.0,90474,0.989901200258214
+Raichur,Jowar, 2015-16,Summer     ,140.0,277,1.97857142857143
+Raichur,Jowar, 2016-17,Kharif     ,125.0,145,1.16
+Raichur,Jowar, 2016-17,Rabi       ,70803.0,56030,0.7913506489838
+Raichur,Jowar, 2017-18,Rabi       ,67018.0,101931,1.52094959563102
+Raichur,Jowar, 2017-18,Summer     ,39.0,81,2.07692307692308
+Raichur,Jowar, 2018-19,Kharif     ,5113.0,7014,1.37179737922942
+Raichur,Jowar, 2018-19,Rabi       ,122630.0,170321,1.38890157384001
+Raichur,Linseed, 1998-99,Rabi       ,395.0,128,0.324050632911392
+Raichur,Linseed, 1999-00,Rabi       ,254.0,86,0.338582677165354
+Raichur,Linseed, 2000-01,Rabi       ,52.0,19,0.365384615384615
+Raichur,Linseed, 2001-02,Rabi       ,155.0,52,0.335483870967742
+Raichur,Linseed, 2002-03,Rabi       ,334.0,117,0.350299401197605
+Raichur,Linseed, 2003-04,Rabi       ,157.0,12,0.0764331210191083
+Raichur,Linseed, 2004-05,Rabi       ,160.0,34,0.2125
+Raichur,Linseed, 2005-06,Rabi       ,112.0,37,0.330357142857143
+Raichur,Linseed, 2006-07,Rabi       ,85.0,26,0.305882352941176
+Raichur,Linseed, 2007-08,Rabi       ,237.0,94,0.39662447257384
+Raichur,Linseed, 2008-09,Rabi       ,52.0,17,0.326923076923077
+Raichur,Linseed, 2009-10,Rabi       ,119.0,61,0.512605042016807
+Raichur,Linseed, 2010-11,Rabi       ,159.0,75,0.471698113207547
+Raichur,Linseed, 2011-12,Rabi       ,299.0,164,0.548494983277592
+Raichur,Linseed, 2012-13,Rabi       ,38.0,15,0.394736842105263
+Raichur,Linseed, 2013-14,Rabi       ,48.0,21,0.4375
+Raichur,Linseed, 2014-15,Rabi       ,57.0,44,0.771929824561403
+Raichur,Maize, 1997-98,Kharif     ,9911.0,34724,3.50358187872061
+Raichur,Maize, 1997-98,Rabi       ,336.0,658,1.95833333333333
+Raichur,Maize, 1997-98,Summer     ,339.0,734,2.16519174041298
+Raichur,Maize, 1998-99,Kharif     ,216.0,741,3.43055555555556
+Raichur,Maize, 1998-99,Summer     ,33.0,75,2.27272727272727
+Raichur,Maize, 1999-00,Kharif     ,144.0,420,2.91666666666667
+Raichur,Maize, 1999-00,Summer     ,11.0,20,1.81818181818182
+Raichur,Maize, 2000-01,Kharif     ,188.0,622,3.30851063829787
+Raichur,Maize, 2001-02,Kharif     ,135.0,368,2.72592592592593
+Raichur,Maize, 2002-03,Kharif     ,85.0,155,1.82352941176471
+Raichur,Maize, 2002-03,Summer     ,21.0,54,2.57142857142857
+Raichur,Maize, 2003-04,Kharif     ,397.0,1268,3.19395465994962
+Raichur,Maize, 2003-04,Rabi       ,36.0,67,1.86111111111111
+Raichur,Maize, 2003-04,Summer     ,53.0,133,2.50943396226415
+Raichur,Maize, 2004-05,Kharif     ,385.0,1311,3.40519480519481
+Raichur,Maize, 2004-05,Summer     ,48.0,147,3.0625
+Raichur,Maize, 2005-06,Kharif     ,355.0,1285,3.61971830985915
+Raichur,Maize, 2005-06,Summer     ,344.0,1063,3.09011627906977
+Raichur,Maize, 2006-07,Kharif     ,625.0,2278,3.6448
+Raichur,Maize, 2006-07,Rabi       ,40.0,126,3.15
+Raichur,Maize, 2006-07,Summer     ,141.0,452,3.20567375886525
+Raichur,Maize, 2007-08,Kharif     ,606.0,1188,1.96039603960396
+Raichur,Maize, 2007-08,Rabi       ,369.0,1312,3.55555555555556
+Raichur,Maize, 2007-08,Summer     ,193.0,623,3.2279792746114
+Raichur,Maize, 2008-09,Kharif     ,438.0,1103,2.51826484018265
+Raichur,Maize, 2008-09,Rabi       ,116.0,366,3.1551724137931
+Raichur,Maize, 2008-09,Summer     ,198.0,623,3.14646464646465
+Raichur,Maize, 2009-10,Kharif     ,475.0,662,1.39368421052632
+Raichur,Maize, 2009-10,Rabi       ,109.0,287,2.63302752293578
+Raichur,Maize, 2009-10,Summer     ,331.0,906,2.73716012084592
+Raichur,Maize, 2010-11,Kharif     ,358.0,1029,2.87430167597765
+Raichur,Maize, 2010-11,Rabi       ,339.0,999,2.94690265486726
+Raichur,Maize, 2010-11,Summer     ,316.0,1075,3.40189873417721
+Raichur,Maize, 2011-12,Kharif     ,329.0,1074,3.2644376899696
+Raichur,Maize, 2011-12,Rabi       ,199.0,642,3.22613065326633
+Raichur,Maize, 2011-12,Summer     ,159.0,542,3.40880503144654
+Raichur,Maize, 2012-13,Kharif     ,141.0,311,2.20567375886525
+Raichur,Maize, 2012-13,Rabi       ,338.0,1023,3.02662721893491
+Raichur,Maize, 2012-13,Summer     ,171.0,588,3.43859649122807
+Raichur,Maize, 2013-14,Kharif     ,227.0,870,3.83259911894273
+Raichur,Maize, 2013-14,Rabi       ,103.0,315,3.05825242718447
+Raichur,Maize, 2013-14,Summer     ,50.0,107,2.14
+Raichur,Maize, 2014-15,Kharif     ,198.0,293,1.47979797979798
+Raichur,Maize, 2014-15,Rabi       ,118.0,399,3.38135593220339
+Raichur,Maize, 2015-16,Kharif     ,135.0,171,1.26666666666667
+Raichur,Maize, 2015-16,Rabi       ,2295.0,5704,2.48540305010893
+Raichur,Maize, 2015-16,Summer     ,170.0,477,2.80588235294118
+Raichur,Maize, 2016-17,Kharif     ,350.0,1792,5.12
+Raichur,Maize, 2016-17,Rabi       ,589.0,1911,3.24448217317487
+Raichur,Maize, 2016-17,Summer     ,40.0,124,3.1
+Raichur,Maize, 2017-18,Kharif     ,1540.0,5511,3.57857142857143
+Raichur,Maize, 2017-18,Rabi       ,11.0,64,5.81818181818182
+Raichur,Maize, 2017-18,Summer     ,41.0,154,3.75609756097561
+Raichur,Maize, 2018-19,Kharif     ,4077.0,30974,7.59725288202109
+Raichur,Maize, 2018-19,Rabi       ,522.0,2080,3.98467432950192
+Raichur,Mesta, 2018-19,Whole Year ,1.0,1,1
+Raichur,Moong(Green Gram), 1998-99,Kharif     ,9376.0,2031,0.216616894197952
+Raichur,Moong(Green Gram), 1999-00,Kharif     ,9553.0,1243,0.130116193865801
+Raichur,Moong(Green Gram), 2000-01,Kharif     ,13925.0,3466,0.248904847396768
+Raichur,Moong(Green Gram), 2001-02,Kharif     ,1504.0,983,0.653590425531915
+Raichur,Moong(Green Gram), 2002-03,Kharif     ,7935.0,460,0.0579710144927536
+Raichur,Moong(Green Gram), 2002-03,Rabi       ,168.0,29,0.172619047619048
+Raichur,Moong(Green Gram), 2003-04,Kharif     ,5806.0,866,0.149156045470203
+Raichur,Moong(Green Gram), 2003-04,Rabi       ,7.0,2,0.285714285714286
+Raichur,Moong(Green Gram), 2004-05,Kharif     ,9929.0,1802,0.181488568838755
+Raichur,Moong(Green Gram), 2004-05,Rabi       ,8.0,2,0.25
+Raichur,Moong(Green Gram), 2005-06,Kharif     ,4099.0,787,0.191998048304465
+Raichur,Moong(Green Gram), 2005-06,Rabi       ,3.0,1,0.333333333333333
+Raichur,Moong(Green Gram), 2006-07,Kharif     ,6240.0,184,0.0294871794871795
+Raichur,Moong(Green Gram), 2006-07,Rabi       ,45.0,14,0.311111111111111
+Raichur,Moong(Green Gram), 2007-08,Kharif     ,11911.0,962,0.080765678784317
+Raichur,Moong(Green Gram), 2007-08,Rabi       ,33.0,11,0.333333333333333
+Raichur,Moong(Green Gram), 2008-09,Kharif     ,470.0,9,0.0191489361702128
+Raichur,Moong(Green Gram), 2009-10,Kharif     ,3563.0,54,0.0151557676115633
+Raichur,Moong(Green Gram), 2010-11,Kharif     ,15445.0,2362,0.152929750728391
+Raichur,Moong(Green Gram), 2011-12,Kharif     ,2717.0,485,0.178505704821494
+Raichur,Moong(Green Gram), 2012-13,Kharif     ,530.0,62,0.116981132075472
+Raichur,Moong(Green Gram), 2013-14,Kharif     ,2419.0,761,0.314592806945019
+Raichur,Moong(Green Gram), 2014-15,Kharif     ,266.0,10,0.037593984962406
+Raichur,Moong(Green Gram), 2015-16,Kharif     ,178.0,21,0.117977528089888
+Raichur,Moong(Green Gram), 2016-17,Kharif     ,7441.0,2679,0.360032253729337
+Raichur,Moong(Green Gram), 2017-18,Kharif     ,540.0,176,0.325925925925926
+Raichur,Moong(Green Gram), 2018-19,Kharif     ,1355.0,312,0.230258302583026
+Raichur,Niger seed, 1998-99,Kharif     ,6.0,1,0.166666666666667
+Raichur,Niger seed, 1999-00,Kharif     ,35.0,5,0.142857142857143
+Raichur,Niger seed, 2000-01,Kharif     ,71.0,9,0.126760563380282
+Raichur,Niger seed, 2001-02,Kharif     ,15.0,2,0.133333333333333
+Raichur,Niger seed, 2002-03,Kharif     ,73.0,10,0.136986301369863
+Raichur,Niger seed, 2003-04,Kharif     ,57.0,7,0.12280701754386
+Raichur,Niger seed, 2004-05,Kharif     ,20.0,3,0.15
+Raichur,Niger seed, 2005-06,Kharif     ,9.0,1,0.111111111111111
+Raichur,Niger seed, 2006-07,Kharif     ,72.0,9,0.125
+Raichur,Niger seed, 2008-09,Kharif     ,12.0,4,0.333333333333333
+Raichur,Niger seed, 2010-11,Kharif     ,26.0,8,0.307692307692308
+Raichur,Niger seed, 2011-12,Kharif     ,44.0,12,0.272727272727273
+Raichur,Niger seed, 2018-19,Kharif     ,22.0,4,0.181818181818182
+Raichur,Onion, 1998-99,Kharif     ,1940.0,1141,0.588144329896907
+Raichur,Onion, 1998-99,Rabi       ,140.0,777,5.55
+Raichur,Onion, 1998-99,Summer     ,58.0,669,11.5344827586207
+Raichur,Onion, 1999-00,Whole Year ,1532.0,8583,5.60248041775457
+Raichur,Onion, 2000-01,Whole Year ,1470.0,8402,5.7156462585034
+Raichur,Onion, 2001-02,Whole Year ,1597.0,11068,6.93049467752035
+Raichur,Onion, 2002-03,Whole Year ,1849.0,11856,6.41211465657112
+Raichur,Onion, 2003-04,Whole Year ,1354.0,4531,3.34638109305761
+Raichur,Onion, 2004-05,Whole Year ,1429.0,12466,8.72358292512246
+Raichur,Onion, 2005-06,Kharif     ,1527.0,22135,14.4957432874918
+Raichur,Onion, 2005-06,Rabi       ,45.0,466,10.3555555555556
+Raichur,Onion, 2005-06,Summer     ,324.0,5540,17.0987654320988
+Raichur,Onion, 2006-07,Whole Year ,2142.0,23100,10.7843137254902
+Raichur,Onion, 2007-08,Kharif     ,1771.0,17156,9.68718238283456
+Raichur,Onion, 2007-08,Rabi       ,20.0,168,8.4
+Raichur,Onion, 2007-08,Summer     ,251.0,819,3.26294820717131
+Raichur,Onion, 2008-09,Kharif     ,1595.0,16574,10.3912225705329
+Raichur,Onion, 2008-09,Rabi       ,14.0,93,6.64285714285714
+Raichur,Onion, 2008-09,Summer     ,221.0,2212,10.0090497737557
+Raichur,Onion, 2009-10,Kharif     ,1255.0,8274,6.59282868525896
+Raichur,Onion, 2009-10,Rabi       ,10.0,59,5.9
+Raichur,Onion, 2009-10,Summer     ,291.0,2225,7.64604810996564
+Raichur,Onion, 2010-11,Kharif     ,1004.0,11457,11.4113545816733
+Raichur,Onion, 2010-11,Rabi       ,15.0,103,6.86666666666667
+Raichur,Onion, 2010-11,Summer     ,251.0,2670,10.6374501992032
+Raichur,Onion, 2011-12,Kharif     ,826.0,8317,10.0690072639225
+Raichur,Onion, 2011-12,Rabi       ,390.0,3104,7.95897435897436
+Raichur,Onion, 2011-12,Summer     ,135.0,831,6.15555555555556
+Raichur,Onion, 2012-13,Kharif     ,1147.0,9869,8.60418482999128
+Raichur,Onion, 2012-13,Rabi       ,124.0,812,6.54838709677419
+Raichur,Onion, 2013-14,Kharif     ,837.0,6572,7.85185185185185
+Raichur,Onion, 2013-14,Rabi       ,140.0,984,7.02857142857143
+Raichur,Onion, 2013-14,Summer     ,44.0,345,7.84090909090909
+Raichur,Onion, 2014-15,Kharif     ,1173.0,7150,6.09548167092924
+Raichur,Onion, 2014-15,Rabi       ,137.0,908,6.62773722627737
+Raichur,Onion, 2014-15,Summer     ,30.0,147,4.9
+Raichur,Onion, 2015-16,Kharif     ,978.0,5779,5.90899795501023
+Raichur,Onion, 2015-16,Rabi       ,128.0,724,5.65625
+Raichur,Onion, 2015-16,Summer     ,33.0,143,4.33333333333333
+Raichur,Onion, 2016-17,Kharif     ,1414.0,8840,6.25176803394625
+Raichur,Onion, 2016-17,Rabi       ,212.0,3036,14.3207547169811
+Raichur,Onion, 2016-17,Summer     ,20.0,294,14.7
+Raichur,Onion, 2017-18,Kharif     ,90.0,1080,12
+Raichur,Onion, 2017-18,Summer     ,10.0,121,12.1
+Raichur,Onion, 2018-19,Kharif     ,2374.0,21272,8.96040438079191
+Raichur,Onion, 2018-19,Rabi       ,616.0,8167,13.2581168831169
+Raichur,Onion, 2018-19,Summer     ,25.0,264,10.56
+Raichur,Other  Rabi pulses, 2000-01,Rabi       ,86.0,9,0.104651162790698
+Raichur,Other  Rabi pulses, 2001-02,Rabi       ,20.0,2,0.1
+Raichur,Other  Rabi pulses, 2002-03,Rabi       ,65.0,7,0.107692307692308
+Raichur,Other  Rabi pulses, 2003-04,Rabi       ,1.0,0,0
+Raichur,Other  Rabi pulses, 2004-05,Rabi       ,116.0,13,0.112068965517241
+Raichur,Other  Rabi pulses, 2005-06,Rabi       ,155.0,17,0.109677419354839
+Raichur,Other  Rabi pulses, 2006-07,Rabi       ,87.0,21,0.241379310344828
+Raichur,Other  Rabi pulses, 2007-08,Rabi       ,71.0,18,0.253521126760563
+Raichur,Other  Rabi pulses, 2008-09,Rabi       ,131.0,33,0.251908396946565
+Raichur,Other  Rabi pulses, 2009-10,Rabi       ,176.0,43,0.244318181818182
+Raichur,Other Kharif pulses, 1999-00,Kharif     ,435.0,54,0.124137931034483
+Raichur,Other Kharif pulses, 2000-01,Kharif     ,1113.0,137,0.123090745732255
+Raichur,Other Kharif pulses, 2001-02,Kharif     ,252.0,31,0.123015873015873
+Raichur,Other Kharif pulses, 2002-03,Kharif     ,659.0,81,0.122913505311077
+Raichur,Other Kharif pulses, 2003-04,Kharif     ,370.0,46,0.124324324324324
+Raichur,Other Kharif pulses, 2004-05,Kharif     ,652.0,80,0.122699386503067
+Raichur,Other Kharif pulses, 2005-06,Kharif     ,844.0,104,0.123222748815166
+Raichur,Other Kharif pulses, 2006-07,Kharif     ,472.0,273,0.578389830508475
+Raichur,Other Kharif pulses, 2007-08,Kharif     ,617.0,322,0.521880064829822
+Raichur,Other Kharif pulses, 2008-09,Kharif     ,395.0,234,0.592405063291139
+Raichur,Other Kharif pulses, 2009-10,Kharif     ,235.0,96,0.408510638297872
+Raichur,Other Kharif pulses, 2010-11,Kharif     ,47.0,20,0.425531914893617
+Raichur,Other Kharif pulses, 2011-12,Kharif     ,50.0,25,0.5
+Raichur,Other Kharif pulses, 2012-13,Kharif     ,35.0,9,0.257142857142857
+Raichur,Other Kharif pulses, 2018-19,Kharif     ,94.0,75,0.797872340425532
+Raichur,Peas & beans (Pulses), 2001-02,Whole Year ,49.0,338,6.89795918367347
+Raichur,Potato, 2018-19,Kharif     ,43.0,340,7.90697674418605
+Raichur,Ragi, 2018-19,Kharif     ,84.0,101,1.20238095238095
+Raichur,Rapeseed &Mustard, 2001-02,Rabi       ,30.0,8,0.266666666666667
+Raichur,Rapeseed &Mustard, 2002-03,Rabi       ,332.0,89,0.268072289156626
+Raichur,Rapeseed &Mustard, 2003-04,Rabi       ,32.0,9,0.28125
+Raichur,Rapeseed &Mustard, 2004-05,Rabi       ,229.0,62,0.270742358078603
+Raichur,Rapeseed &Mustard, 2006-07,Kharif     ,41.0,11,0.268292682926829
+Raichur,Rapeseed &Mustard, 2018-19,Kharif     ,655.0,130,0.198473282442748
+Raichur,Rice, 1997-98,Kharif     ,92636.0,287526,3.10382572649942
+Raichur,Rice, 1997-98,Summer     ,79540.0,190102,2.39001760120694
+Raichur,Rice, 1998-99,Kharif     ,66264.0,225260,3.39943257273935
+Raichur,Rice, 1998-99,Summer     ,51083.0,170193,3.33169547599006
+Raichur,Rice, 1999-00,Kharif     ,90604.0,278618,3.07511809633129
+Raichur,Rice, 1999-00,Summer     ,57121.0,180417,3.15850562840286
+Raichur,Rice, 2000-01,Kharif     ,90009.0,294349,3.27021742270217
+Raichur,Rice, 2000-01,Summer     ,51537.0,151023,2.930380115257
+Raichur,Rice, 2001-02,Kharif     ,77825.0,245184,3.15045293928686
+Raichur,Rice, 2001-02,Summer     ,43935.0,108088,2.46017981108456
+Raichur,Rice, 2002-03,Kharif     ,81970.0,271989,3.31815298279858
+Raichur,Rice, 2002-03,Summer     ,5954.0,13383,2.24773261672825
+Raichur,Rice, 2003-04,Kharif     ,65710.0,172865,2.63072591690762
+Raichur,Rice, 2003-04,Rabi       ,7058.0,20920,2.96401246812128
+Raichur,Rice, 2003-04,Summer     ,6234.0,18738,3.00577478344562
+Raichur,Rice, 2004-05,Kharif     ,89833.0,240662.607,2.679
+Raichur,Rice, 2004-05,Rabi       ,555.0,1872,3.37297297297297
+Raichur,Rice, 2004-05,Summer     ,17602.0,53376,3.03238268378593
+Raichur,Rice, 2005-06,Kharif     ,100632.0,273862,2.72142062167104
+Raichur,Rice, 2005-06,Summer     ,77553.0,155308,2.00260467035447
+Raichur,Rice, 2006-07,Kharif     ,81530.0,285068,3.4964798233779
+Raichur,Rice, 2006-07,Summer     ,56238.0,130306,2.31704541413279
+Raichur,Rice, 2007-08,Kharif     ,96323.0,286365,2.97296595828618
+Raichur,Rice, 2007-08,Summer     ,63904.0,175509,2.74644779669504
+Raichur,Rice, 2008-09,Kharif     ,94423.0,334587.9005,3.5435
+Raichur,Rice, 2008-09,Summer     ,70502.0,188205,2.66949873762446
+Raichur,Rice, 2009-10,Kharif     ,96230.0,252315.06,2.622
+Raichur,Rice, 2009-10,Summer     ,80210.0,240181,2.99440219424012
+Raichur,Rice, 2010-11,Kharif     ,100297.0,309529,3.08612421109305
+Raichur,Rice, 2010-11,Summer     ,74459.0,212420,2.85284518997032
+Raichur,Rice, 2011-12,Kharif     ,105525.0,346950,3.28784648187633
+Raichur,Rice, 2011-12,Summer     ,37175.0,108244,2.91174176193679
+Raichur,Rice, 2012-13,Kharif     ,113989.0,354865,3.11315126898209
+Raichur,Rice, 2012-13,Summer     ,37718.0,115881,3.07229969775704
+Raichur,Rice, 2013-14,Kharif     ,107557.0,347511,3.230947311658
+Raichur,Rice, 2013-14,Summer     ,70799.0,225452,3.18439525982005
+Raichur,Rice, 2014-15,Kharif     ,97935.0,320982,3.27750038290703
+Raichur,Rice, 2014-15,Summer     ,64645.0,171894,2.65904555650089
+Raichur,Rice, 2015-16,Kharif     ,104129.0,328423,3.15400128686533
+Raichur,Rice, 2015-16,Summer     ,11117.0,22390,2.01403256274175
+Raichur,Rice, 2016-17,Kharif     ,109850.0,441954,4.02324988620847
+Raichur,Rice, 2016-17,Summer     ,16825.0,47024,2.79488855869242
+Raichur,Rice, 2017-18,Kharif     ,90242.0,260533,2.88704815939363
+Raichur,Rice, 2017-18,Summer     ,23215.0,55378,2.38544044798622
+Raichur,Rice, 2018-19,Kharif     ,162181.0,434791,2.68089973548073
+Raichur,Rice, 2018-19,Summer     ,12753.0,29210,2.29044146475339
+Raichur,Safflower, 1998-99,Rabi       ,11158.0,5151,0.461641871303101
+Raichur,Safflower, 1999-00,Rabi       ,12923.0,6012,0.465217054863422
+Raichur,Safflower, 2000-01,Rabi       ,11593.0,10176,0.877771068748383
+Raichur,Safflower, 2001-02,Rabi       ,13780.0,12376,0.89811320754717
+Raichur,Safflower, 2002-03,Rabi       ,8954.0,5487,0.612798749162385
+Raichur,Safflower, 2003-04,Rabi       ,8123.0,4509,0.5550904838114
+Raichur,Safflower, 2004-05,Rabi       ,7150.0,2037,0.284895104895105
+Raichur,Safflower, 2005-06,Rabi       ,7291.0,6705,0.919626937319983
+Raichur,Safflower, 2006-07,Rabi       ,7325.0,5486,0.748941979522184
+Raichur,Safflower, 2007-08,Rabi       ,5007.0,5491,1.09666466946275
+Raichur,Safflower, 2008-09,Rabi       ,3763.0,2900,0.77066170608557
+Raichur,Safflower, 2009-10,Rabi       ,3337.0,1909,0.572070722205574
+Raichur,Safflower, 2010-11,Rabi       ,3517.0,2967,0.843616718794427
+Raichur,Safflower, 2011-12,Rabi       ,2874.0,1911,0.664926931106472
+Raichur,Safflower, 2012-13,Rabi       ,1350.0,596,0.441481481481481
+Raichur,Safflower, 2013-14,Rabi       ,781.0,683,0.874519846350832
+Raichur,Safflower, 2014-15,Rabi       ,1163.0,979,0.841788478073947
+Raichur,Safflower, 2015-16,Rabi       ,584.0,232,0.397260273972603
+Raichur,Safflower, 2016-17,Rabi       ,409.0,81,0.198044009779951
+Raichur,Safflower, 2017-18,Rabi       ,1263.0,703,0.556611243072051
+Raichur,Safflower, 2018-19,Rabi       ,265.0,57,0.215094339622641
+Raichur,Sannhamp, 2005-06,Whole Year ,92.0,21,0.228260869565217
+Raichur,Sannhamp, 2007-08,Whole Year ,13.0,3,0.230769230769231
+Raichur,Sannhamp, 2008-09,Whole Year ,13.0,3,0.230769230769231
+Raichur,Sannhamp, 2018-19,Whole Year ,1.0,nan,0
+Raichur,Sesamum, 1998-99,Kharif     ,6428.0,1142,0.177660236465464
+Raichur,Sesamum, 1999-00,Kharif     ,4442.0,1502,0.338135974786132
+Raichur,Sesamum, 2000-01,Kharif     ,10159.0,4140,0.407520425238705
+Raichur,Sesamum, 2001-02,Kharif     ,2575.0,267,0.10368932038835
+Raichur,Sesamum, 2002-03,Kharif     ,10017.0,3264,0.325846061695118
+Raichur,Sesamum, 2003-04,Kharif     ,3872.0,710,0.183367768595041
+Raichur,Sesamum, 2004-05,Kharif     ,5166.0,692,0.13395276809911
+Raichur,Sesamum, 2005-06,Kharif     ,7088.0,1832,0.258465011286682
+Raichur,Sesamum, 2006-07,Kharif     ,3959.0,809,0.204344531447335
+Raichur,Sesamum, 2007-08,Kharif     ,5159.0,1446,0.280286877301803
+Raichur,Sesamum, 2008-09,Kharif     ,2295.0,815,0.355119825708061
+Raichur,Sesamum, 2009-10,Kharif     ,4577.0,335,0.0731920471924842
+Raichur,Sesamum, 2010-11,Kharif     ,5977.0,2254,0.37711226367743
+Raichur,Sesamum, 2011-12,Kharif     ,5327.0,850,0.159564482823353
+Raichur,Sesamum, 2012-13,Kharif     ,968.0,220,0.227272727272727
+Raichur,Sesamum, 2013-14,Kharif     ,2309.0,704,0.304893893460372
+Raichur,Sesamum, 2014-15,Kharif     ,1431.0,173,0.120894479385045
+Raichur,Sesamum, 2015-16,Kharif     ,909.0,32,0.0352035203520352
+Raichur,Sesamum, 2016-17,Kharif     ,3175.0,860,0.270866141732283
+Raichur,Sesamum, 2017-18,Kharif     ,713.0,240,0.336605890603086
+Raichur,Sesamum, 2018-19,Kharif     ,632.0,235,0.371835443037975
+Raichur,Small millets, 1999-00,Kharif     ,1632.0,518,0.317401960784314
+Raichur,Small millets, 2000-01,Kharif     ,931.0,519,0.557465091299678
+Raichur,Small millets, 2001-02,Kharif     ,1065.0,395,0.370892018779343
+Raichur,Small millets, 2002-03,Kharif     ,803.0,179,0.222914072229141
+Raichur,Small millets, 2003-04,Kharif     ,610.0,355,0.581967213114754
+Raichur,Small millets, 2004-05,Kharif     ,497.0,178,0.358148893360161
+Raichur,Small millets, 2005-06,Kharif     ,386.0,106,0.274611398963731
+Raichur,Small millets, 2006-07,Kharif     ,227.0,53,0.233480176211454
+Raichur,Small millets, 2007-08,Kharif     ,73.0,24,0.328767123287671
+Raichur,Small millets, 2009-10,Kharif     ,14.0,4,0.285714285714286
+Raichur,Small millets, 2010-11,Kharif     ,19.0,7,0.368421052631579
+Raichur,Small millets, 2011-12,Kharif     ,30.0,9,0.3
+Raichur,Small millets, 2018-19,Kharif     ,94.0,41,0.436170212765957
+Raichur,Soyabean, 1999-00,Kharif     ,3.0,3,1
+Raichur,Soyabean, 2018-19,Kharif     ,9.0,9,1
+Raichur,Sugarcane, 1997-98,Whole Year ,1304.0,122641,94.0498466257669
+Raichur,Sugarcane, 1999-00,Whole Year ,88.0,8862,100.704545454545
+Raichur,Sugarcane, 2000-01,Whole Year ,51.0,5233,102.607843137255
+Raichur,Sugarcane, 2001-02,Whole Year ,41.0,3311,80.7560975609756
+Raichur,Sugarcane, 2002-03,Whole Year ,142.0,12006,84.5492957746479
+Raichur,Sugarcane, 2003-04,Whole Year ,7.0,459,65.5714285714286
+Raichur,Sugarcane, 2005-06,Whole Year ,3.0,265,88.3333333333333
+Raichur,Sugarcane, 2006-07,Whole Year ,15.0,1311,87.4
+Raichur,Sugarcane, 2007-08,Whole Year ,81.0,6849,84.5555555555556
+Raichur,Sugarcane, 2009-10,Whole Year ,30.0,2879,95.9666666666667
+Raichur,Sugarcane, 2010-11,Whole Year ,134.0,12985,96.9029850746269
+Raichur,Sugarcane, 2012-13,Whole Year ,382.0,31935,83.5994764397906
+Raichur,Sugarcane, 2013-14,Whole Year ,345.0,30808,89.2985507246377
+Raichur,Sugarcane, 2014-15,Whole Year ,295.0,26904,91.2
+Raichur,Sugarcane, 2018-19,Whole Year ,558.0,47709,85.5
+Raichur,Sunflower, 1998-99,Kharif     ,52531.0,10824,0.20604976109345
+Raichur,Sunflower, 1998-99,Rabi       ,48627.0,13614,0.279967919057314
+Raichur,Sunflower, 1998-99,Summer     ,8625.0,5359,0.621333333333333
+Raichur,Sunflower, 1999-00,Kharif     ,21647.0,5874,0.27135399824456
+Raichur,Sunflower, 1999-00,Rabi       ,43061.0,14651,0.340238266644992
+Raichur,Sunflower, 1999-00,Summer     ,7337.0,3234,0.440779610194902
+Raichur,Sunflower, 2000-01,Kharif     ,39027.0,14760,0.378199707894535
+Raichur,Sunflower, 2000-01,Rabi       ,45620.0,17023,0.373147742218325
+Raichur,Sunflower, 2000-01,Summer     ,7388.0,5376,0.727666486193828
+Raichur,Sunflower, 2001-02,Kharif     ,16555.0,4829,0.291694352159468
+Raichur,Sunflower, 2001-02,Rabi       ,55888.0,23715,0.424330804466075
+Raichur,Sunflower, 2001-02,Summer     ,14856.0,12801,0.861672051696284
+Raichur,Sunflower, 2002-03,Kharif     ,40186.0,13923,0.3464639426666
+Raichur,Sunflower, 2002-03,Rabi       ,80254.0,30990,0.386148976998031
+Raichur,Sunflower, 2002-03,Summer     ,4530.0,2870,0.63355408388521
+Raichur,Sunflower, 2003-04,Kharif     ,75176.0,27419,0.36473076513781
+Raichur,Sunflower, 2003-04,Rabi       ,83305.0,26556,0.318780385331013
+Raichur,Sunflower, 2003-04,Summer     ,4598.0,1446,0.314484558503697
+Raichur,Sunflower, 2004-05,Kharif     ,100715.0,21923,0.21767363352033
+Raichur,Sunflower, 2004-05,Rabi       ,92989.0,25308,0.272161223370506
+Raichur,Sunflower, 2004-05,Summer     ,8257.0,3616,0.437931452101247
+Raichur,Sunflower, 2005-06,Kharif     ,114184.0,42968,0.37630491137112
+Raichur,Sunflower, 2005-06,Rabi       ,110591.0,47485,0.429374903925274
+Raichur,Sunflower, 2005-06,Summer     ,7055.0,4310,0.610914245216159
+Raichur,Sunflower, 2006-07,Kharif     ,96199.0,15997,0.166290709882639
+Raichur,Sunflower, 2006-07,Rabi       ,102957.0,30489,0.29613333721845
+Raichur,Sunflower, 2006-07,Summer     ,13391.0,9058,0.676424464192368
+Raichur,Sunflower, 2007-08,Kharif     ,91908.0,45008,0.489707098402751
+Raichur,Sunflower, 2007-08,Rabi       ,93898.0,40141,0.427495793307632
+Raichur,Sunflower, 2007-08,Summer     ,6980.0,6246,0.894842406876791
+Raichur,Sunflower, 2008-09,Kharif     ,67831.0,30631,0.451578186964662
+Raichur,Sunflower, 2008-09,Rabi       ,91313.0,27868,0.305192031802701
+Raichur,Sunflower, 2008-09,Summer     ,3682.0,2092,0.568169473112439
+Raichur,Sunflower, 2009-10,Kharif     ,69592.0,14681,0.210958156109898
+Raichur,Sunflower, 2009-10,Rabi       ,58324.0,12404,0.212674027844455
+Raichur,Sunflower, 2009-10,Summer     ,4222.0,2378,0.563240170535291
+Raichur,Sunflower, 2010-11,Kharif     ,30610.0,15180,0.495916367200261
+Raichur,Sunflower, 2010-11,Rabi       ,23381.0,10846,0.463880928959411
+Raichur,Sunflower, 2010-11,Summer     ,2125.0,1954,0.919529411764706
+Raichur,Sunflower, 2011-12,Kharif     ,34946.0,12848,0.367652950266125
+Raichur,Sunflower, 2011-12,Rabi       ,18367.0,4563,0.248434692655306
+Raichur,Sunflower, 2011-12,Summer     ,877.0,495,0.56442417331813
+Raichur,Sunflower, 2012-13,Kharif     ,25208.0,13698,0.543398920977467
+Raichur,Sunflower, 2012-13,Rabi       ,40399.0,20418,0.505408549716577
+Raichur,Sunflower, 2012-13,Summer     ,2160.0,2066,0.956481481481482
+Raichur,Sunflower, 2013-14,Kharif     ,33642.0,18920,0.562392247785506
+Raichur,Sunflower, 2013-14,Rabi       ,29139.0,16997,0.583307594632623
+Raichur,Sunflower, 2013-14,Summer     ,595.0,644,1.08235294117647
+Raichur,Sunflower, 2014-15,Kharif     ,13318.0,6048,0.454122240576663
+Raichur,Sunflower, 2014-15,Rabi       ,16293.0,8157,0.500644448536181
+Raichur,Sunflower, 2014-15,Summer     ,850.0,649,0.763529411764706
+Raichur,Sunflower, 2015-16,Kharif     ,12454.0,4934,0.396177934800064
+Raichur,Sunflower, 2015-16,Rabi       ,17221.0,4973,0.288775332442948
+Raichur,Sunflower, 2015-16,Summer     ,290.0,196,0.675862068965517
+Raichur,Sunflower, 2016-17,Kharif     ,17170.0,14958,0.871170646476412
+Raichur,Sunflower, 2016-17,Rabi       ,9715.0,1883,0.193823983530623
+Raichur,Sunflower, 2017-18,Kharif     ,12030.0,10423,0.866417290108063
+Raichur,Sunflower, 2017-18,Rabi       ,4757.0,1830,0.384696237124238
+Raichur,Sunflower, 2018-19,Kharif     ,3600.0,2695,0.748611111111111
+Raichur,Sunflower, 2018-19,Rabi       ,365.0,144,0.394520547945205
+Raichur,Sunflower, 2018-19,Summer     ,25.0,22,0.88
+Raichur,Sweet potato, 1999-00,Whole Year ,8.0,59,7.375
+Raichur,Sweet potato, 2000-01,Whole Year ,10.0,74,7.4
+Raichur,Sweet potato, 2018-19,Whole Year ,8.0,116,14.5
+Raichur,Tobacco, 1999-00,Whole Year ,811.0,479,0.590628853267571
+Raichur,Tobacco, 2002-03,Whole Year ,9.0,6,0.666666666666667
+Raichur,Tobacco, 2003-04,Whole Year ,64.0,36,0.5625
+Raichur,Tobacco, 2004-05,Whole Year ,83.0,61,0.734939759036145
+Raichur,Tobacco, 2005-06,Whole Year ,201.0,127,0.6318407960199
+Raichur,Tobacco, 2006-07,Whole Year ,920.0,410,0.445652173913043
+Raichur,Tobacco, 2007-08,Whole Year ,645.0,273,0.423255813953488
+Raichur,Tobacco, 2008-09,Whole Year ,922.0,469,0.508676789587852
+Raichur,Tobacco, 2009-10,Whole Year ,69.0,53,0.768115942028985
+Raichur,Tobacco, 2018-19,Whole Year ,41.0,34,0.829268292682927
+Raichur,Turmeric, 1998-99,Whole Year ,11.0,56,5.09090909090909
+Raichur,Turmeric, 2001-02,Whole Year ,23.0,119,5.17391304347826
+Raichur,Turmeric, 2002-03,Whole Year ,21.0,91,4.33333333333333
+Raichur,Turmeric, 2003-04,Whole Year ,4.0,20,5
+Raichur,Turmeric, 2004-05,Whole Year ,3.0,14,4.66666666666667
+Raichur,Turmeric, 2005-06,Whole Year ,36.0,192,5.33333333333333
+Raichur,Turmeric, 2006-07,Whole Year ,83.0,419,5.04819277108434
+Raichur,Turmeric, 2008-09,Whole Year ,6.0,6,1
+Raichur,Turmeric, 2009-10,Whole Year ,51.0,257,5.03921568627451
+Raichur,Turmeric, 2011-12,Whole Year ,56.0,281,5.01785714285714
+Raichur,Turmeric, 2012-13,Whole Year ,16.0,133,8.3125
+Raichur,Turmeric, 2013-14,Whole Year ,50.0,238,4.76
+Raichur,Turmeric, 2014-15,Whole Year ,35.0,210,6
+Raichur,Turmeric, 2018-19,Whole Year ,14.0,81,5.78571428571429
+Raichur,Urad, 2000-01,Kharif     ,31.0,12,0.387096774193548
+Raichur,Urad, 2001-02,Kharif     ,42.0,16,0.380952380952381
+Raichur,Urad, 2002-03,Kharif     ,13.0,2,0.153846153846154
+Raichur,Urad, 2002-03,Rabi       ,809.0,95,0.117428924598269
+Raichur,Urad, 2004-05,Kharif     ,50.0,6,0.12
+Raichur,Urad, 2004-05,Rabi       ,5.0,2,0.4
+Raichur,Urad, 2005-06,Kharif     ,2.0,nan,0
+Raichur,Urad, 2006-07,Kharif     ,25.0,3,0.12
+Raichur,Urad, 2006-07,Rabi       ,91.0,48,0.527472527472527
+Raichur,Urad, 2007-08,Kharif     ,29.0,13,0.448275862068966
+Raichur,Urad, 2008-09,Kharif     ,10.0,3,0.3
+Raichur,Urad, 2009-10,Kharif     ,31.0,3,0.0967741935483871
+Raichur,Urad, 2009-10,Rabi       ,45.0,18,0.4
+Raichur,Urad, 2010-11,Kharif     ,42.0,15,0.357142857142857
+Raichur,Urad, 2011-12,Kharif     ,20.0,7,0.35
+Raichur,Urad, 2011-12,Rabi       ,28.0,14,0.5
+Raichur,Urad, 2015-16,Summer     ,262.0,133,0.50763358778626
+Raichur,Urad, 2018-19,Kharif     ,1.0,nan,0
+Raichur,Wheat, 1997-98,Rabi       ,18598.0,3725,0.200290353801484
+Raichur,Wheat, 1998-99,Rabi       ,4158.0,1772,0.426166426166426
+Raichur,Wheat, 1999-00,Rabi       ,3174.0,1473,0.464083175803403
+Raichur,Wheat, 2000-01,Rabi       ,3566.0,2045,0.573471676948962
+Raichur,Wheat, 2001-02,Rabi       ,3048.0,1231,0.403871391076115
+Raichur,Wheat, 2002-03,Rabi       ,3197.0,978,0.305911792305286
+Raichur,Wheat, 2003-04,Rabi       ,2584.0,587,0.227167182662539
+Raichur,Wheat, 2004-05,Rabi       ,2746.0,756,0.275309541150765
+Raichur,Wheat, 2005-06,Rabi       ,2825.0,1041,0.368495575221239
+Raichur,Wheat, 2006-07,Rabi       ,4029.0,2214,0.54951600893522
+Raichur,Wheat, 2007-08,Rabi       ,3155.0,1908,0.604754358161648
+Raichur,Wheat, 2008-09,Rabi       ,1780.0,802,0.450561797752809
+Raichur,Wheat, 2009-10,Rabi       ,1798.0,941,0.523359288097887
+Raichur,Wheat, 2010-11,Rabi       ,2558.0,2112,0.825645035183737
+Raichur,Wheat, 2011-12,Rabi       ,2307.0,1294,0.560901603814478
+Raichur,Wheat, 2012-13,Rabi       ,2332.0,1172,0.502572898799314
+Raichur,Wheat, 2013-14,Rabi       ,1054.0,1047,0.993358633776091
+Raichur,Wheat, 2014-15,Rabi       ,656.0,589,0.897865853658537
+Raichur,Wheat, 2015-16,Rabi       ,416.0,165,0.396634615384615
+Raichur,Wheat, 2016-17,Rabi       ,369.0,348,0.943089430894309
+Raichur,Wheat, 2017-18,Rabi       ,391.0,315,0.805626598465473
+Raichur,Wheat, 2018-19,Rabi       ,25.0,24,0.96

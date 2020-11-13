@@ -1,0 +1,941 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Bidar,Arhar/Tur, 1997-98,Kharif     ,48463.0,3499,0.0721994098590677
+Bidar,Arhar/Tur, 1998-99,Kharif     ,54354.0,41464,0.762850940133201
+Bidar,Arhar/Tur, 1999-00,Kharif     ,56604.0,44847,0.792293830824677
+Bidar,Arhar/Tur, 2000-01,Kharif     ,62518.0,23757,0.380002559262932
+Bidar,Arhar/Tur, 2001-02,Kharif     ,64077.0,24349,0.379995942381822
+Bidar,Arhar/Tur, 2002-03,Kharif     ,67313.0,40990,0.608946265951599
+Bidar,Arhar/Tur, 2003-04,Kharif     ,73792.0,31967,0.433204141370338
+Bidar,Arhar/Tur, 2004-05,Kharif     ,70100.0,44286,0.631754636233951
+Bidar,Arhar/Tur, 2005-06,Kharif     ,69344.0,56522,0.815095754499308
+Bidar,Arhar/Tur, 2006-07,Kharif     ,69189.0,34902,0.504444348090014
+Bidar,Arhar/Tur, 2007-08,Kharif     ,66110.0,48422,0.732445923460899
+Bidar,Arhar/Tur, 2008-09,Kharif     ,62667.0,50782,0.810346753474716
+Bidar,Arhar/Tur, 2009-10,Kharif     ,67000.0,49647,0.741
+Bidar,Arhar/Tur, 2010-11,Kharif     ,72728.0,65568,0.901550984490155
+Bidar,Arhar/Tur, 2011-12,Kharif     ,76010.0,44842,0.589948690961716
+Bidar,Arhar/Tur, 2012-13,Kharif     ,68625.0,82666,1.20460473588342
+Bidar,Arhar/Tur, 2013-14,Kharif     ,73270.0,59305,0.809403575815477
+Bidar,Arhar/Tur, 2014-15,Kharif     ,65965.0,44243,0.670704161297658
+Bidar,Arhar/Tur, 2015-16,Kharif     ,67453.0,29797,0.441744622181371
+Bidar,Arhar/Tur, 2016-17,Kharif     ,81611.0,101487,1.24354560047052
+Bidar,Arhar/Tur, 2017-18,Kharif     ,78680.0,129909,1.65110574478902
+Bidar,Arhar/Tur, 2018-19,Kharif     ,77019.0,34828,0.452200106467235
+Bidar,Bajra, 1997-98,Kharif     ,14756.0,9500,0.643805909460558
+Bidar,Bajra, 1998-99,Kharif     ,13994.0,6398,0.457195941117622
+Bidar,Bajra, 1999-00,Kharif     ,8690.0,6722,0.773532796317606
+Bidar,Bajra, 2000-01,Kharif     ,9808.0,7442,0.758768352365416
+Bidar,Bajra, 2001-02,Kharif     ,8672.0,5038,0.580950184501845
+Bidar,Bajra, 2002-03,Kharif     ,8364.0,6234,0.745337159253945
+Bidar,Bajra, 2003-04,Kharif     ,10039.0,9804,0.976591293953581
+Bidar,Bajra, 2004-05,Kharif     ,8912.0,7744,0.868940754039497
+Bidar,Bajra, 2005-06,Kharif     ,9577.0,6050,0.63172183355957
+Bidar,Bajra, 2006-07,Kharif     ,9430.0,7831,0.830434782608696
+Bidar,Bajra, 2007-08,Kharif     ,8077.0,8456,1.04692336263464
+Bidar,Bajra, 2008-09,Kharif     ,7219.0,7065,0.97866740545782
+Bidar,Bajra, 2009-10,Kharif     ,7943.0,4377,0.55105124008561
+Bidar,Bajra, 2010-11,Kharif     ,6717.0,5117,0.761798421914545
+Bidar,Bajra, 2011-12,Kharif     ,6414.0,5837,0.910040536326785
+Bidar,Bajra, 2012-13,Kharif     ,5110.0,5772,1.12954990215264
+Bidar,Bajra, 2013-14,Kharif     ,2939.0,3356,1.14188499489622
+Bidar,Bajra, 2014-15,Kharif     ,3724.0,3743,1.00510204081633
+Bidar,Bajra, 2015-16,Kharif     ,5348.0,3765,0.704001495886313
+Bidar,Bajra, 2016-17,Kharif     ,1878.0,1252,0.666666666666667
+Bidar,Bajra, 2017-18,Kharif     ,2290.0,3322,1.45065502183406
+Bidar,Bajra, 2018-19,Kharif     ,409.0,312,0.762836185819071
+Bidar,Banana, 1999-00,Whole Year ,411.0,9644,23.4647201946472
+Bidar,Banana, 2000-01,Whole Year ,469.0,8622,18.3837953091684
+Bidar,Banana, 2002-03,Whole Year ,249.0,2846,11.429718875502
+Bidar,Banana, 2003-04,Whole Year ,189.0,3500,18.5185185185185
+Bidar,Banana, 2004-05,Whole Year ,63.0,2573,40.8412698412698
+Bidar,Banana, 2005-06,Whole Year ,207.0,2458,11.8743961352657
+Bidar,Banana, 2006-07,Whole Year ,195.0,3893,19.9641025641026
+Bidar,Banana, 2007-08,Whole Year ,114.0,2016,17.6842105263158
+Bidar,Banana, 2008-09,Whole Year ,147.0,5647,38.4149659863946
+Bidar,Banana, 2009-10,Whole Year ,174.0,3859,22.1781609195402
+Bidar,Banana, 2010-11,Whole Year ,219.0,5144,23.4885844748858
+Bidar,Banana, 2011-12,Whole Year ,92.0,2299,24.9891304347826
+Bidar,Black pepper, 1999-00,Whole Year ,4.0,10,2.5
+Bidar,Black pepper, 2008-09,Whole Year ,1.0,4,4
+Bidar,Black pepper, 2015-16,Whole Year ,2.0,1.5,0.75
+Bidar,Cashewnut, 2008-09,Whole Year ,39.0,23.97681,0.61479
+Bidar,Cashewnut, 2009-10,Whole Year ,36.0,27,0.75
+Bidar,Cashewnut, 2010-11,Whole Year ,66.0,48,0.727272727272727
+Bidar,Cashewnut, 2011-12,Whole Year ,79.0,63,0.79746835443038
+Bidar,Cashewnut, 2012-13,Whole Year ,61.0,49,0.80327868852459
+Bidar,Cashewnut, 2013-14,Whole Year ,62.0,55,0.887096774193548
+Bidar,Cashewnut, 2014-15,Whole Year ,97.0,72,0.742268041237113
+Bidar,Cashewnut, 2015-16,Whole Year ,21.0,14,0.666666666666667
+Bidar,Cashewnut, 2016-17,Whole Year ,16.0,9,0.5625
+Bidar,Cashewnut, 2018-19,Whole Year ,142.0,171,1.20422535211268
+Bidar,Castor seed, 2013-14,Kharif     ,8.0,7,0.875
+Bidar,Castor seed, 2014-15,Kharif     ,11.0,7,0.636363636363636
+Bidar,Castor seed, 2016-17,Kharif     ,27.0,13,0.481481481481481
+Bidar,Castor seed, 2017-18,Kharif     ,13.0,8,0.615384615384615
+Bidar,Castor seed, 2018-19,Kharif     ,1.0,1,1
+Bidar,Coconut , 1998-99,Whole Year ,2.0,10000,5000
+Bidar,Coconut , 1999-00,Whole Year ,3.0,14000,4666.66666666667
+Bidar,Coconut , 2000-01,Whole Year ,3.0,14000,4666.66666666667
+Bidar,Coconut , 2001-02,Whole Year ,27.0,129000,4777.77777777778
+Bidar,Coconut , 2002-03,Whole Year ,23.0,110000,4782.60869565217
+Bidar,Coconut , 2003-04,Whole Year ,23.0,110000,4782.60869565217
+Bidar,Coconut , 2004-05,Whole Year ,24.0,115000,4791.66666666667
+Bidar,Coconut , 2005-06,Whole Year ,25.0,120000,4800
+Bidar,Coconut , 2006-07,Whole Year ,26.0,124000,4769.23076923077
+Bidar,Coconut , 2007-08,Whole Year ,23.0,117000,5086.95652173913
+Bidar,Coconut , 2008-09,Whole Year ,24.0,164000,6833.33333333333
+Bidar,Coconut , 2009-10,Whole Year ,19.0,135000,7105.26315789474
+Bidar,Coconut , 2010-11,Whole Year ,20.0,191000,9550
+Bidar,Coconut , 2011-12,Whole Year ,20.0,199000,9950
+Bidar,Coconut , 2012-13,Whole Year ,21.0,207000,9857.14285714286
+Bidar,Coconut , 2013-14,Whole Year ,29.0,230000,7931.03448275862
+Bidar,Coconut , 2014-15,Whole Year ,19.0,170000,8947.36842105263
+Bidar,Coconut , 2015-16,Whole Year ,8.0,67000,8375
+Bidar,Coconut , 2017-18,Whole Year ,8.0,63000,7875
+Bidar,Coconut , 2018-19,Whole Year ,68.0,482000,7088.23529411765
+Bidar,Coriander, 1997-98,Whole Year ,701.0,74,0.105563480741797
+Bidar,Coriander, 1998-99,Whole Year ,786.0,83,0.10559796437659
+Bidar,Coriander, 1999-00,Whole Year ,717.0,76,0.105997210599721
+Bidar,Coriander, 2000-01,Whole Year ,661.0,70,0.10590015128593
+Bidar,Coriander, 2001-02,Whole Year ,788.0,83,0.105329949238579
+Bidar,Coriander, 2002-03,Whole Year ,729.0,77,0.10562414266118
+Bidar,Coriander, 2003-04,Whole Year ,687.0,73,0.106259097525473
+Bidar,Coriander, 2004-05,Whole Year ,674.0,71,0.105341246290801
+Bidar,Coriander, 2005-06,Whole Year ,532.0,56,0.105263157894737
+Bidar,Coriander, 2006-07,Whole Year ,331.0,35,0.105740181268882
+Bidar,Coriander, 2007-08,Whole Year ,287.0,100,0.348432055749129
+Bidar,Coriander, 2008-09,Whole Year ,272.0,147,0.540441176470588
+Bidar,Coriander, 2009-10,Whole Year ,285.0,140,0.491228070175439
+Bidar,Coriander, 2010-11,Whole Year ,223.0,83,0.37219730941704
+Bidar,Coriander, 2011-12,Whole Year ,276.0,73,0.264492753623188
+Bidar,Coriander, 2012-13,Whole Year ,64.0,17,0.265625
+Bidar,Coriander, 2013-14,Whole Year ,55.0,17,0.309090909090909
+Bidar,Coriander, 2014-15,Whole Year ,76.0,26,0.342105263157895
+Bidar,Coriander, 2016-17,Whole Year ,1.0,nan,0
+Bidar,Coriander, 2018-19,Whole Year ,17.0,15,0.882352941176471
+Bidar,Cotton(lint), 1998-99,Kharif     ,3616.0,3439,0.951050884955752
+Bidar,Cotton(lint), 1999-00,Kharif     ,2817.0,3001,1.06531771388001
+Bidar,Cotton(lint), 2000-01,Kharif     ,1373.0,1994,1.45229424617626
+Bidar,Cotton(lint), 2001-02,Kharif     ,1843.0,1668,0.905046120455779
+Bidar,Cotton(lint), 2002-03,Kharif     ,1477.0,2410,1.63168584969533
+Bidar,Cotton(lint), 2003-04,Kharif     ,1321.0,1373,1.03936411809235
+Bidar,Cotton(lint), 2004-05,Kharif     ,1914.0,2194,1.14629049111808
+Bidar,Cotton(lint), 2005-06,Whole Year ,1505.0,1279,0.849833887043189
+Bidar,Cotton(lint), 2006-07,Whole Year ,1430.0,1151,0.804895104895105
+Bidar,Cotton(lint), 2007-08,Whole Year ,1307.0,1066,0.815608263198164
+Bidar,Cotton(lint), 2008-09,Whole Year ,1384.0,1270,0.917630057803468
+Bidar,Cotton(lint), 2009-10,Whole Year ,1165.0,1115,0.957081545064378
+Bidar,Cotton(lint), 2010-11,Kharif     ,787.0,901,1.14485387547649
+Bidar,Cotton(lint), 2011-12,Kharif     ,632.0,1286,2.03481012658228
+Bidar,Cotton(lint), 2012-13,Kharif     ,549.0,1261,2.29690346083789
+Bidar,Cotton(lint), 2013-14,Kharif     ,319.0,945,2.96238244514107
+Bidar,Cotton(lint), 2014-15,Kharif     ,291.0,794,2.72852233676976
+Bidar,Cotton(lint), 2015-16,Kharif     ,283.0,520,1.83745583038869
+Bidar,Cotton(lint), 2016-17,Kharif     ,51.0,107,2.09803921568627
+Bidar,Cotton(lint), 2017-18,Kharif     ,490.0,1714,3.49795918367347
+Bidar,Cotton(lint), 2018-19,Kharif     ,446.0,875,1.96188340807175
+Bidar,Cowpea(Lobia), 2010-11,Kharif     ,19.0,10,0.526315789473684
+Bidar,Cowpea(Lobia), 2011-12,Kharif     ,31.0,16,0.516129032258065
+Bidar,Cowpea(Lobia), 2012-13,Kharif     ,123.0,34,0.276422764227642
+Bidar,Cowpea(Lobia), 2013-14,Kharif     ,204.0,76,0.372549019607843
+Bidar,Cowpea(Lobia), 2014-15,Kharif     ,54.0,24,0.444444444444444
+Bidar,Cowpea(Lobia), 2015-16,Kharif     ,85.0,35,0.411764705882353
+Bidar,Cowpea(Lobia), 2016-17,Kharif     ,37.0,28,0.756756756756757
+Bidar,Cowpea(Lobia), 2017-18,Kharif     ,125.0,28,0.224
+Bidar,Cowpea(Lobia), 2018-19,Kharif     ,128.0,48,0.375
+Bidar,Cowpea(Lobia), 2018-19,Rabi       ,30.0,8,0.266666666666667
+Bidar,Dry chillies, 1997-98,Kharif     ,1139.0,957,0.840210711150132
+Bidar,Dry chillies, 1997-98,Rabi       ,66.0,86,1.3030303030303
+Bidar,Dry chillies, 1998-99,Whole Year ,772.0,682,0.883419689119171
+Bidar,Dry chillies, 1999-00,Whole Year ,880.0,788,0.895454545454546
+Bidar,Dry chillies, 2000-01,Whole Year ,849.0,701,0.82567726737338
+Bidar,Dry chillies, 2001-02,Whole Year ,766.0,681,0.889033942558747
+Bidar,Dry chillies, 2002-03,Whole Year ,995.0,399,0.401005025125628
+Bidar,Dry chillies, 2003-04,Whole Year ,1291.0,820,0.635166537567777
+Bidar,Dry chillies, 2004-05,Whole Year ,624.0,441,0.706730769230769
+Bidar,Dry chillies, 2005-06,Kharif     ,677.0,492,0.726735598227474
+Bidar,Dry chillies, 2005-06,Rabi       ,111.0,129,1.16216216216216
+Bidar,Dry chillies, 2005-06,Summer     ,3.0,8,2.66666666666667
+Bidar,Dry chillies, 2006-07,Whole Year ,650.0,869,1.33692307692308
+Bidar,Dry chillies, 2007-08,Kharif     ,548.0,494,0.901459854014598
+Bidar,Dry chillies, 2007-08,Rabi       ,116.0,202,1.74137931034483
+Bidar,Dry chillies, 2007-08,Summer     ,16.0,54,3.375
+Bidar,Dry chillies, 2008-09,Kharif     ,470.0,436,0.927659574468085
+Bidar,Dry chillies, 2008-09,Rabi       ,137.0,232,1.69343065693431
+Bidar,Dry chillies, 2008-09,Summer     ,22.0,72,3.27272727272727
+Bidar,Dry chillies, 2009-10,Rabi       ,119.0,355,2.98319327731092
+Bidar,Dry chillies, 2009-10,Summer     ,25.0,115,4.6
+Bidar,Dry chillies, 2010-11,Kharif     ,496.0,409,0.824596774193548
+Bidar,Dry chillies, 2010-11,Rabi       ,123.0,334,2.71544715447154
+Bidar,Dry chillies, 2010-11,Summer     ,10.0,30,3
+Bidar,Dry chillies, 2011-12,Kharif     ,488.0,394,0.807377049180328
+Bidar,Dry chillies, 2011-12,Rabi       ,213.0,502,2.35680751173709
+Bidar,Dry chillies, 2011-12,Summer     ,27.0,95,3.51851851851852
+Bidar,Dry chillies, 2012-13,Kharif     ,191.0,175,0.916230366492147
+Bidar,Dry chillies, 2012-13,Rabi       ,28.0,77,2.75
+Bidar,Dry chillies, 2012-13,Summer     ,5.0,14,2.8
+Bidar,Dry chillies, 2013-14,Kharif     ,1717.0,1904,1.10891089108911
+Bidar,Dry chillies, 2013-14,Rabi       ,31.0,59,1.90322580645161
+Bidar,Dry chillies, 2013-14,Summer     ,30.0,80,2.66666666666667
+Bidar,Dry chillies, 2014-15,Kharif     ,284.0,321,1.13028169014085
+Bidar,Dry chillies, 2014-15,Rabi       ,32.0,60,1.875
+Bidar,Dry chillies, 2014-15,Summer     ,11.0,21,1.90909090909091
+Bidar,Dry chillies, 2015-16,Kharif     ,177.0,154,0.870056497175141
+Bidar,Dry chillies, 2015-16,Rabi       ,39.0,79,2.02564102564103
+Bidar,Dry chillies, 2015-16,Summer     ,20.0,37,1.85
+Bidar,Dry chillies, 2016-17,Kharif     ,162.0,326,2.01234567901235
+Bidar,Dry chillies, 2016-17,Rabi       ,28.0,60,2.14285714285714
+Bidar,Dry chillies, 2016-17,Summer     ,6.0,14,2.33333333333333
+Bidar,Dry chillies, 2017-18,Kharif     ,162.0,305,1.88271604938272
+Bidar,Dry chillies, 2017-18,Rabi       ,15.0,30,2
+Bidar,Dry chillies, 2017-18,Summer     ,47.0,94,2
+Bidar,Dry chillies, 2018-19,Kharif     ,573.0,711,1.24083769633508
+Bidar,Garlic, 1997-98,Whole Year ,73.0,138,1.89041095890411
+Bidar,Garlic, 1998-99,Whole Year ,107.0,202,1.88785046728972
+Bidar,Garlic, 1999-00,Whole Year ,24.0,45,1.875
+Bidar,Garlic, 2000-01,Whole Year ,46.0,87,1.89130434782609
+Bidar,Garlic, 2002-03,Whole Year ,104.0,197,1.89423076923077
+Bidar,Garlic, 2003-04,Whole Year ,73.0,138,1.89041095890411
+Bidar,Garlic, 2004-05,Whole Year ,85.0,161,1.89411764705882
+Bidar,Garlic, 2005-06,Whole Year ,75.0,142,1.89333333333333
+Bidar,Garlic, 2006-07,Whole Year ,60.0,113,1.88333333333333
+Bidar,Garlic, 2007-08,Whole Year ,74.0,76,1.02702702702703
+Bidar,Garlic, 2008-09,Whole Year ,67.0,147,2.19402985074627
+Bidar,Garlic, 2009-10,Whole Year ,107.0,150,1.4018691588785
+Bidar,Garlic, 2010-11,Whole Year ,135.0,174,1.28888888888889
+Bidar,Garlic, 2011-12,Whole Year ,182.0,227,1.24725274725275
+Bidar,Garlic, 2012-13,Whole Year ,128.0,167,1.3046875
+Bidar,Garlic, 2013-14,Whole Year ,93.0,98,1.05376344086022
+Bidar,Garlic, 2014-15,Whole Year ,50.0,55,1.1
+Bidar,Garlic, 2015-16,Whole Year ,43.0,58,1.34883720930233
+Bidar,Garlic, 2016-17,Whole Year ,21.0,17,0.80952380952381
+Bidar,Garlic, 2017-18,Whole Year ,15.0,13,0.866666666666667
+Bidar,Garlic, 2018-19,Whole Year ,79.0,524,6.63291139240506
+Bidar,Ginger, 1997-98,Kharif     ,1168.0,1484,1.27054794520548
+Bidar,Ginger, 1998-99,Kharif     ,1089.0,13843,12.7116620752984
+Bidar,Ginger, 1999-00,Kharif     ,927.0,11784,12.7119741100324
+Bidar,Ginger, 2000-01,Kharif     ,1108.0,14084,12.7111913357401
+Bidar,Ginger, 2001-02,Kharif     ,1038.0,13195,12.7119460500963
+Bidar,Ginger, 2002-03,Kharif     ,1047.0,13309,12.7115568290353
+Bidar,Ginger, 2003-04,Kharif     ,788.0,10017,12.7119289340102
+Bidar,Ginger, 2004-05,Kharif     ,711.0,9038,12.7116736990155
+Bidar,Ginger, 2005-06,Whole Year ,967.0,12292,12.7114788004137
+Bidar,Ginger, 2006-07,Whole Year ,1355.0,17224,12.7114391143911
+Bidar,Ginger, 2007-08,Whole Year ,817.0,16767,20.5226438188494
+Bidar,Ginger, 2008-09,Whole Year ,1179.0,37561,31.8583545377439
+Bidar,Ginger, 2009-10,Whole Year ,1375.0,43301,31.4916363636364
+Bidar,Ginger, 2010-11,Whole Year ,1219.0,4410.9,3.61845775225595
+Bidar,Ginger, 2011-12,Whole Year ,1382.0,4397.3,3.18183791606368
+Bidar,Ginger, 2012-13,Whole Year ,1285.0,40938,31.8583657587549
+Bidar,Ginger, 2013-14,Whole Year ,775.0,12683,16.3651612903226
+Bidar,Ginger, 2014-15,Whole Year ,902.0,14279,15.830376940133
+Bidar,Ginger, 2015-16,Whole Year ,779.0,12509,16.0577663671374
+Bidar,Ginger, 2016-17,Whole Year ,1690.0,30819,18.2360946745562
+Bidar,Ginger, 2017-18,Whole Year ,510.0,13173,25.8294117647059
+Bidar,Ginger, 2018-19,Whole Year ,1731.0,26641,15.3905257076834
+Bidar,Gram, 1998-99,Rabi       ,41731.0,18557,0.444681411900026
+Bidar,Gram, 1999-00,Rabi       ,38957.0,15821,0.406114433862977
+Bidar,Gram, 2000-01,Rabi       ,40933.0,25227,0.616299807001686
+Bidar,Gram, 2001-02,Rabi       ,41761.0,27462,0.657599195421566
+Bidar,Gram, 2002-03,Rabi       ,40840.0,25780,0.631243878550441
+Bidar,Gram, 2003-04,Rabi       ,40561.0,22830,0.562855945366239
+Bidar,Gram, 2004-05,Rabi       ,40496.0,20938,0.517038719873568
+Bidar,Gram, 2005-06,Rabi       ,40091.0,20541,0.512359382405029
+Bidar,Gram, 2006-07,Kharif     ,60364.0,4416,0.0731561858061096
+Bidar,Gram, 2006-07,Rabi       ,39956.0,27433,0.686580238262088
+Bidar,Gram, 2007-08,Rabi       ,35053.0,17123,0.4884888597267
+Bidar,Gram, 2008-09,Rabi       ,38454.0,21799,0.566885109481458
+Bidar,Gram, 2010-11,Rabi       ,43074.0,28154,0.653619352741793
+Bidar,Gram, 2011-12,Rabi       ,37860.0,19274,0.509086106708928
+Bidar,Gram, 2012-13,Rabi       ,47003.0,37464,0.797055507095292
+Bidar,Gram, 2013-14,Rabi       ,50943.0,39733,0.779950140352944
+Bidar,Gram, 2014-15,Rabi       ,25973.0,14138,0.544334501212798
+Bidar,Gram, 2015-16,Rabi       ,47060.0,11534,0.245091372715682
+Bidar,Gram, 2016-17,Rabi       ,71789.0,59470,0.828399894134199
+Bidar,Gram, 2017-18,Rabi       ,65424.0,57429,0.87779713866471
+Bidar,Gram, 2018-19,Rabi       ,49509.0,19143,0.386656971459735
+Bidar,Groundnut, 1997-98,Kharif     ,2499.0,648,0.259303721488595
+Bidar,Groundnut, 1997-98,Rabi       ,1337.0,1255,0.93866866118175
+Bidar,Groundnut, 1998-99,Kharif     ,2344.0,681,0.290529010238908
+Bidar,Groundnut, 1998-99,Rabi       ,1423.0,1983,1.39353478566409
+Bidar,Groundnut, 1999-00,Kharif     ,1813.0,956,0.527302813017099
+Bidar,Groundnut, 1999-00,Rabi       ,824.0,1116,1.35436893203884
+Bidar,Groundnut, 2000-01,Kharif     ,1760.0,558,0.317045454545454
+Bidar,Groundnut, 2000-01,Rabi       ,1213.0,1287,1.06100577081616
+Bidar,Groundnut, 2001-02,Kharif     ,2466.0,1858,0.753446877534469
+Bidar,Groundnut, 2002-03,Kharif     ,1374.0,733,0.533478893740903
+Bidar,Groundnut, 2002-03,Rabi       ,749.0,933,1.2456608811749
+Bidar,Groundnut, 2003-04,Kharif     ,1219.0,440,0.360951599671862
+Bidar,Groundnut, 2003-04,Rabi       ,511.0,596,1.16634050880626
+Bidar,Groundnut, 2004-05,Kharif     ,1067.0,344,0.322399250234302
+Bidar,Groundnut, 2004-05,Rabi       ,459.0,471,1.02614379084967
+Bidar,Groundnut, 2005-06,Kharif     ,910.0,265,0.291208791208791
+Bidar,Groundnut, 2005-06,Rabi       ,402.0,383,0.95273631840796
+Bidar,Groundnut, 2006-07,Kharif     ,958.0,347,0.362212943632568
+Bidar,Groundnut, 2006-07,Rabi       ,410.0,350,0.853658536585366
+Bidar,Groundnut, 2007-08,Kharif     ,862.0,308,0.357308584686775
+Bidar,Groundnut, 2007-08,Rabi       ,513.0,443,0.8635477582846
+Bidar,Groundnut, 2008-09,Kharif     ,434.0,169,0.389400921658986
+Bidar,Groundnut, 2008-09,Rabi       ,680.0,535,0.786764705882353
+Bidar,Groundnut, 2009-10,Kharif     ,542.0,207,0.381918819188192
+Bidar,Groundnut, 2009-10,Rabi       ,594.0,471,0.792929292929293
+Bidar,Groundnut, 2010-11,Kharif     ,280.0,110,0.392857142857143
+Bidar,Groundnut, 2010-11,Rabi       ,587.0,516,0.879045996592845
+Bidar,Groundnut, 2011-12,Kharif     ,253.0,145,0.573122529644269
+Bidar,Groundnut, 2011-12,Rabi       ,607.0,494,0.813838550247117
+Bidar,Groundnut, 2012-13,Kharif     ,405.0,198,0.488888888888889
+Bidar,Groundnut, 2012-13,Rabi       ,329.0,556,1.68996960486322
+Bidar,Groundnut, 2012-13,Summer     ,379.0,311,0.820580474934037
+Bidar,Groundnut, 2013-14,Kharif     ,363.0,172,0.473829201101928
+Bidar,Groundnut, 2013-14,Summer     ,574.0,511,0.890243902439024
+Bidar,Groundnut, 2014-15,Kharif     ,243.0,62,0.255144032921811
+Bidar,Groundnut, 2014-15,Summer     ,102.0,87,0.852941176470588
+Bidar,Groundnut, 2015-16,Kharif     ,246.0,38,0.154471544715447
+Bidar,Groundnut, 2015-16,Summer     ,52.0,37,0.711538461538462
+Bidar,Groundnut, 2016-17,Kharif     ,30.0,16,0.533333333333333
+Bidar,Groundnut, 2016-17,Summer     ,48.0,47,0.979166666666667
+Bidar,Groundnut, 2017-18,Kharif     ,10.0,6,0.6
+Bidar,Groundnut, 2017-18,Summer     ,54.0,63,1.16666666666667
+Bidar,Groundnut, 2018-19,Kharif     ,30.0,23,0.766666666666667
+Bidar,Groundnut, 2018-19,Summer     ,6.0,5,0.833333333333333
+Bidar,Horse-gram, 1997-98,Kharif     ,150.0,67,0.446666666666667
+Bidar,Horse-gram, 1998-99,Kharif     ,109.0,52,0.477064220183486
+Bidar,Horse-gram, 1999-00,Kharif     ,78.0,35,0.448717948717949
+Bidar,Horse-gram, 2000-01,Kharif     ,77.0,44,0.571428571428571
+Bidar,Horse-gram, 2001-02,Kharif     ,55.0,29,0.527272727272727
+Bidar,Horse-gram, 2002-03,Kharif     ,46.0,18,0.391304347826087
+Bidar,Horse-gram, 2003-04,Kharif     ,36.0,13,0.361111111111111
+Bidar,Horse-gram, 2004-05,Kharif     ,38.0,20,0.526315789473684
+Bidar,Horse-gram, 2005-06,Kharif     ,38.0,22,0.578947368421053
+Bidar,Horse-gram, 2006-07,Kharif     ,85.0,31,0.364705882352941
+Bidar,Horse-gram, 2007-08,Kharif     ,52.0,27,0.519230769230769
+Bidar,Horse-gram, 2013-14,Kharif     ,16.0,8,0.5
+Bidar,Horse-gram, 2016-17,Kharif     ,8.0,2,0.25
+Bidar,Horse-gram, 2017-18,Kharif     ,95.0,66,0.694736842105263
+Bidar,Horse-gram, 2018-19,Kharif     ,350.0,147,0.42
+Bidar,Jowar, 1997-98,Kharif     ,76833.0,115225,1.49968112659925
+Bidar,Jowar, 1997-98,Rabi       ,37204.0,5233,0.140656918610902
+Bidar,Jowar, 1997-98,Summer     ,2.0,5,2.5
+Bidar,Jowar, 1998-99,Kharif     ,85602.0,105761,1.23549683418612
+Bidar,Jowar, 1998-99,Rabi       ,30169.0,13646,0.452318605190759
+Bidar,Jowar, 1998-99,Summer     ,17.0,16,0.941176470588235
+Bidar,Jowar, 1999-00,Kharif     ,77723.0,107468,1.38270524812475
+Bidar,Jowar, 1999-00,Rabi       ,31377.0,15692,0.500111546674316
+Bidar,Jowar, 1999-00,Summer     ,38.0,32,0.842105263157895
+Bidar,Jowar, 2000-01,Kharif     ,75439.0,110862,1.46955818608412
+Bidar,Jowar, 2000-01,Rabi       ,32055.0,13399,0.418000311963812
+Bidar,Jowar, 2000-01,Summer     ,13.0,24,1.84615384615385
+Bidar,Jowar, 2001-02,Kharif     ,69180.0,97825,1.41406475860075
+Bidar,Jowar, 2001-02,Rabi       ,29109.0,14347,0.492871620461026
+Bidar,Jowar, 2002-03,Kharif     ,69191.0,108598,1.56953939096125
+Bidar,Jowar, 2002-03,Rabi       ,32041.0,13638,0.425642146000437
+Bidar,Jowar, 2003-04,Kharif     ,65262.0,93270,1.42916245288223
+Bidar,Jowar, 2003-04,Rabi       ,30617.0,8929,0.291635365973152
+Bidar,Jowar, 2004-05,Kharif     ,63640.0,78627,1.23549654305468
+Bidar,Jowar, 2004-05,Rabi       ,31157.0,11721,0.376191546041018
+Bidar,Jowar, 2005-06,Kharif     ,59339.0,68914,1.16136099361297
+Bidar,Jowar, 2005-06,Rabi       ,29402.0,10111,0.34388817087273
+Bidar,Jowar, 2006-07,Kharif     ,58541.0,83774,1.43103124306042
+Bidar,Jowar, 2006-07,Rabi       ,26870.0,13172,0.490212132489766
+Bidar,Jowar, 2007-08,Kharif     ,60040.0,114717,1.9106762158561
+Bidar,Jowar, 2007-08,Rabi       ,23488.0,11369,0.484034400544959
+Bidar,Jowar, 2008-09,Kharif     ,56822.0,88510,1.55767132448699
+Bidar,Jowar, 2008-09,Rabi       ,24150.0,13398,0.554782608695652
+Bidar,Jowar, 2009-10,Kharif     ,55352.0,45436,0.820855614973262
+Bidar,Jowar, 2009-10,Rabi       ,26124.0,13677,0.523541570969224
+Bidar,Jowar, 2010-11,Kharif     ,56034.0,77549,1.38396330799158
+Bidar,Jowar, 2010-11,Rabi       ,22485.0,8414,0.374205025572604
+Bidar,Jowar, 2011-12,Kharif     ,53943.0,90870,1.68455592013792
+Bidar,Jowar, 2011-12,Rabi       ,21863.0,15414,0.705026757535562
+Bidar,Jowar, 2012-13,Kharif     ,44234.0,82532,1.8658045847086
+Bidar,Jowar, 2012-13,Rabi       ,20467.0,16838,0.822690184198954
+Bidar,Jowar, 2012-13,Summer     ,44.0,72,1.63636363636364
+Bidar,Jowar, 2013-14,Kharif     ,37997.0,53352,1.40411085085665
+Bidar,Jowar, 2013-14,Rabi       ,24711.0,20072,0.812269839342803
+Bidar,Jowar, 2014-15,Kharif     ,24725.0,29948,1.21124368048534
+Bidar,Jowar, 2014-15,Rabi       ,15021.0,10346,0.688769056654018
+Bidar,Jowar, 2015-16,Kharif     ,23931.0,27804,1.16184029083615
+Bidar,Jowar, 2015-16,Rabi       ,26851.0,8520,0.317306618003054
+Bidar,Jowar, 2016-17,Kharif     ,26612.0,17394,0.653614910566662
+Bidar,Jowar, 2016-17,Rabi       ,27006.0,25450,0.942383174109457
+Bidar,Jowar, 2017-18,Kharif     ,20333.0,40197,1.97693404809915
+Bidar,Jowar, 2017-18,Rabi       ,22355.0,21853,0.977544173562961
+Bidar,Jowar, 2018-19,Kharif     ,13177.0,13933,1.05737269484708
+Bidar,Jowar, 2018-19,Rabi       ,16350.0,10624,0.649785932721713
+Bidar,Linseed, 1998-99,Rabi       ,503.0,163,0.324055666003976
+Bidar,Linseed, 1999-00,Rabi       ,472.0,159,0.336864406779661
+Bidar,Linseed, 2000-01,Rabi       ,474.0,175,0.369198312236287
+Bidar,Linseed, 2001-02,Rabi       ,609.0,204,0.334975369458128
+Bidar,Linseed, 2002-03,Rabi       ,570.0,200,0.350877192982456
+Bidar,Linseed, 2003-04,Rabi       ,601.0,46,0.0765391014975042
+Bidar,Linseed, 2004-05,Rabi       ,536.0,113,0.210820895522388
+Bidar,Linseed, 2005-06,Rabi       ,483.0,161,0.333333333333333
+Bidar,Linseed, 2006-07,Rabi       ,373.0,114,0.305630026809651
+Bidar,Linseed, 2007-08,Rabi       ,297.0,117,0.393939393939394
+Bidar,Linseed, 2008-09,Rabi       ,262.0,99,0.377862595419847
+Bidar,Linseed, 2009-10,Rabi       ,320.0,94,0.29375
+Bidar,Linseed, 2010-11,Rabi       ,290.0,97,0.33448275862069
+Bidar,Linseed, 2011-12,Rabi       ,160.0,39,0.24375
+Bidar,Linseed, 2012-13,Rabi       ,525.0,92,0.175238095238095
+Bidar,Linseed, 2013-14,Rabi       ,439.0,131,0.298405466970387
+Bidar,Linseed, 2014-15,Rabi       ,150.0,47,0.313333333333333
+Bidar,Linseed, 2015-16,Rabi       ,133.0,16,0.120300751879699
+Bidar,Linseed, 2016-17,Rabi       ,295.0,16,0.0542372881355932
+Bidar,Linseed, 2017-18,Rabi       ,164.0,57,0.347560975609756
+Bidar,Linseed, 2018-19,Rabi       ,69.0,14,0.202898550724638
+Bidar,Maize, 1997-98,Kharif     ,292.0,522,1.78767123287671
+Bidar,Maize, 1997-98,Rabi       ,38.0,68,1.78947368421053
+Bidar,Maize, 1997-98,Summer     ,18.0,39,2.16666666666667
+Bidar,Maize, 1998-99,Kharif     ,233.0,585,2.51072961373391
+Bidar,Maize, 1998-99,Rabi       ,47.0,78,1.65957446808511
+Bidar,Maize, 1998-99,Summer     ,26.0,52,2
+Bidar,Maize, 1999-00,Kharif     ,511.0,1152,2.25440313111546
+Bidar,Maize, 1999-00,Rabi       ,47.0,99,2.1063829787234
+Bidar,Maize, 1999-00,Summer     ,47.0,69,1.46808510638298
+Bidar,Maize, 2000-01,Kharif     ,297.0,643,2.16498316498316
+Bidar,Maize, 2000-01,Rabi       ,46.0,107,2.32608695652174
+Bidar,Maize, 2000-01,Summer     ,17.0,34,2
+Bidar,Maize, 2001-02,Kharif     ,241.0,415,1.72199170124481
+Bidar,Maize, 2001-02,Rabi       ,36.0,68,1.88888888888889
+Bidar,Maize, 2002-03,Kharif     ,267.0,386,1.44569288389513
+Bidar,Maize, 2002-03,Rabi       ,89.0,145,1.62921348314607
+Bidar,Maize, 2003-04,Kharif     ,433.0,653,1.5080831408776
+Bidar,Maize, 2003-04,Rabi       ,92.0,112,1.21739130434783
+Bidar,Maize, 2004-05,Kharif     ,243.0,450,1.85185185185185
+Bidar,Maize, 2004-05,Rabi       ,77.0,173,2.24675324675325
+Bidar,Maize, 2005-06,Kharif     ,265.0,499,1.88301886792453
+Bidar,Maize, 2005-06,Rabi       ,71.0,220,3.09859154929577
+Bidar,Maize, 2006-07,Kharif     ,249.0,407,1.63453815261044
+Bidar,Maize, 2006-07,Rabi       ,83.0,186,2.24096385542169
+Bidar,Maize, 2007-08,Kharif     ,433.0,927,2.14087759815242
+Bidar,Maize, 2007-08,Rabi       ,77.0,216,2.80519480519481
+Bidar,Maize, 2008-09,Kharif     ,560.0,1028,1.83571428571429
+Bidar,Maize, 2008-09,Rabi       ,134.0,284,2.11940298507463
+Bidar,Maize, 2008-09,Summer     ,33.0,69,2.09090909090909
+Bidar,Maize, 2009-10,Kharif     ,1440.0,930,0.645833333333333
+Bidar,Maize, 2009-10,Rabi       ,213.0,409,1.92018779342723
+Bidar,Maize, 2009-10,Summer     ,32.0,67,2.09375
+Bidar,Maize, 2010-11,Kharif     ,925.0,1721,1.86054054054054
+Bidar,Maize, 2010-11,Rabi       ,315.0,668,2.12063492063492
+Bidar,Maize, 2010-11,Summer     ,116.0,295,2.54310344827586
+Bidar,Maize, 2011-12,Kharif     ,943.0,2107,2.23435843054083
+Bidar,Maize, 2011-12,Rabi       ,400.0,1036,2.59
+Bidar,Maize, 2011-12,Summer     ,184.0,385,2.09239130434783
+Bidar,Maize, 2012-13,Kharif     ,1937.0,4967,2.56427465152297
+Bidar,Maize, 2012-13,Rabi       ,444.0,1344,3.02702702702703
+Bidar,Maize, 2012-13,Summer     ,337.0,1158,3.43620178041543
+Bidar,Maize, 2013-14,Kharif     ,2145.0,8359,3.8969696969697
+Bidar,Maize, 2013-14,Rabi       ,451.0,1381,3.06208425720621
+Bidar,Maize, 2013-14,Summer     ,170.0,552,3.24705882352941
+Bidar,Maize, 2014-15,Kharif     ,1065.0,1329,1.24788732394366
+Bidar,Maize, 2014-15,Rabi       ,396.0,1337,3.37626262626263
+Bidar,Maize, 2014-15,Summer     ,22.0,72,3.27272727272727
+Bidar,Maize, 2015-16,Kharif     ,1235.0,2330,1.88663967611336
+Bidar,Maize, 2015-16,Rabi       ,148.0,368,2.48648648648649
+Bidar,Maize, 2016-17,Kharif     ,1314.0,989,0.752663622526636
+Bidar,Maize, 2016-17,Rabi       ,181.0,544,3.00552486187845
+Bidar,Maize, 2016-17,Summer     ,22.0,68,3.09090909090909
+Bidar,Maize, 2017-18,Kharif     ,718.0,2475,3.44707520891365
+Bidar,Maize, 2017-18,Rabi       ,113.0,420,3.71681415929204
+Bidar,Maize, 2017-18,Summer     ,36.0,135,3.75
+Bidar,Maize, 2018-19,Kharif     ,1349.0,2578,1.9110452186805
+Bidar,Maize, 2018-19,Rabi       ,105.0,356,3.39047619047619
+Bidar,Maize, 2018-19,Summer     ,36.0,124,3.44444444444444
+Bidar,Mesta, 1999-00,Kharif     ,1382.0,1006,0.727930535455861
+Bidar,Mesta, 2000-01,Kharif     ,1151.0,838,0.728062554300608
+Bidar,Mesta, 2001-02,Kharif     ,1427.0,1039,0.728100911002102
+Bidar,Mesta, 2002-03,Kharif     ,1386.0,999,0.720779220779221
+Bidar,Mesta, 2003-04,Kharif     ,1255.0,904,0.720318725099602
+Bidar,Mesta, 2004-05,Kharif     ,1058.0,762,0.720226843100189
+Bidar,Mesta, 2005-06,Whole Year ,1048.0,755,0.720419847328244
+Bidar,Mesta, 2006-07,Whole Year ,869.0,626,0.720368239355581
+Bidar,Mesta, 2007-08,Whole Year ,897.0,646,0.720178372352285
+Bidar,Mesta, 2008-09,Whole Year ,596.0,610,1.02348993288591
+Bidar,Mesta, 2009-10,Whole Year ,973.0,1504,1.54573484069887
+Bidar,Mesta, 2010-11,Whole Year ,1464.0,1916,1.30874316939891
+Bidar,Mesta, 2011-12,Whole Year ,396.0,449,1.13383838383838
+Bidar,Mesta, 2012-13,Whole Year ,323.0,366,1.13312693498452
+Bidar,Mesta, 2013-14,Whole Year ,146.0,226,1.54794520547945
+Bidar,Mesta, 2014-15,Whole Year ,42.0,47,1.11904761904762
+Bidar,Mesta, 2015-16,Whole Year ,45.0,60,1.33333333333333
+Bidar,Mesta, 2016-17,Whole Year ,2.0,2,1
+Bidar,Mesta, 2018-19,Whole Year ,6.0,9,1.5
+Bidar,Moong(Green Gram), 1998-99,Kharif     ,40707.0,7657,0.188100326725133
+Bidar,Moong(Green Gram), 1999-00,Kharif     ,41064.0,7607,0.18524741866355
+Bidar,Moong(Green Gram), 2000-01,Kharif     ,43847.0,11038,0.251739001528041
+Bidar,Moong(Green Gram), 2001-02,Kharif     ,46928.0,14222,0.303060006818957
+Bidar,Moong(Green Gram), 2002-03,Kharif     ,47526.0,5328,0.112107057189749
+Bidar,Moong(Green Gram), 2003-04,Kharif     ,53135.0,11055,0.208054954361532
+Bidar,Moong(Green Gram), 2004-05,Kharif     ,49269.0,4025,0.0816943717144655
+Bidar,Moong(Green Gram), 2005-06,Kharif     ,49382.0,4644,0.0940423636142724
+Bidar,Moong(Green Gram), 2006-07,Kharif     ,50855.0,3817,0.0750565332808967
+Bidar,Moong(Green Gram), 2007-08,Kharif     ,53713.0,19697,0.366708245676093
+Bidar,Moong(Green Gram), 2008-09,Kharif     ,49123.0,4153,0.084542882152963
+Bidar,Moong(Green Gram), 2009-10,Kharif     ,42498.0,283,0.00665913690056003
+Bidar,Moong(Green Gram), 2010-11,Kharif     ,45325.0,13004,0.286905681191395
+Bidar,Moong(Green Gram), 2011-12,Kharif     ,27097.0,8057,0.297339188840093
+Bidar,Moong(Green Gram), 2012-13,Kharif     ,42864.0,26387,0.615598170959313
+Bidar,Moong(Green Gram), 2013-14,Kharif     ,35857.0,15295,0.426555484284798
+Bidar,Moong(Green Gram), 2014-15,Kharif     ,29743.0,5990,0.20139192415022
+Bidar,Moong(Green Gram), 2015-16,Kharif     ,29955.0,2675,0.0893006175930563
+Bidar,Moong(Green Gram), 2016-17,Kharif     ,37964.0,19187,0.505399852491834
+Bidar,Moong(Green Gram), 2017-18,Kharif     ,34524.0,26763,0.775199860966284
+Bidar,Moong(Green Gram), 2018-19,Kharif     ,26461.0,13298,0.50255092400136
+Bidar,Niger seed, 1998-99,Kharif     ,8792.0,1001,0.113853503184713
+Bidar,Niger seed, 1999-00,Kharif     ,13668.0,1556,0.113842551946152
+Bidar,Niger seed, 2000-01,Kharif     ,6730.0,766,0.113818722139673
+Bidar,Niger seed, 2001-02,Kharif     ,5805.0,661,0.113867355727821
+Bidar,Niger seed, 2002-03,Kharif     ,6024.0,686,0.113877822045153
+Bidar,Niger seed, 2003-04,Kharif     ,6281.0,715,0.113835376532399
+Bidar,Niger seed, 2004-05,Kharif     ,6120.0,697,0.113888888888889
+Bidar,Niger seed, 2005-06,Kharif     ,5785.0,659,0.113915298184961
+Bidar,Niger seed, 2006-07,Kharif     ,4963.0,565,0.113842434011686
+Bidar,Niger seed, 2007-08,Kharif     ,4494.0,1691,0.376279483756119
+Bidar,Niger seed, 2008-09,Kharif     ,4039.0,976,0.24164397128002
+Bidar,Niger seed, 2009-10,Kharif     ,3296.0,904,0.274271844660194
+Bidar,Niger seed, 2010-11,Kharif     ,2883.0,642,0.222684703433923
+Bidar,Niger seed, 2011-12,Kharif     ,2698.0,644,0.238695329873981
+Bidar,Niger seed, 2012-13,Kharif     ,2003.0,478,0.238642036944583
+Bidar,Niger seed, 2013-14,Kharif     ,1179.0,281,0.238337574215437
+Bidar,Niger seed, 2014-15,Kharif     ,1120.0,357,0.31875
+Bidar,Niger seed, 2015-16,Kharif     ,277.0,96,0.346570397111913
+Bidar,Niger seed, 2016-17,Kharif     ,700.0,155,0.221428571428571
+Bidar,Niger seed, 2017-18,Kharif     ,424.0,102,0.240566037735849
+Bidar,Niger seed, 2018-19,Kharif     ,301.0,66,0.219269102990033
+Bidar,Onion, 1998-99,Kharif     ,28.0,127,4.53571428571429
+Bidar,Onion, 1998-99,Rabi       ,303.0,2303,7.6006600660066
+Bidar,Onion, 1999-00,Whole Year ,317.0,6198,19.5520504731861
+Bidar,Onion, 2000-01,Whole Year ,420.0,2438,5.8047619047619
+Bidar,Onion, 2001-02,Whole Year ,568.0,6961,12.2552816901408
+Bidar,Onion, 2002-03,Whole Year ,545.0,6454,11.8422018348624
+Bidar,Onion, 2003-04,Whole Year ,464.0,4272,9.20689655172414
+Bidar,Onion, 2004-05,Whole Year ,441.0,3836,8.6984126984127
+Bidar,Onion, 2005-06,Kharif     ,91.0,507,5.57142857142857
+Bidar,Onion, 2005-06,Rabi       ,415.0,4302,10.366265060241
+Bidar,Onion, 2005-06,Summer     ,22.0,360,16.3636363636364
+Bidar,Onion, 2006-07,Whole Year ,474.0,2923,6.16666666666667
+Bidar,Onion, 2007-08,Kharif     ,91.0,542,5.95604395604396
+Bidar,Onion, 2007-08,Rabi       ,394.0,5448,13.8274111675127
+Bidar,Onion, 2007-08,Summer     ,31.0,262,8.45161290322581
+Bidar,Onion, 2008-09,Kharif     ,114.0,591,5.18421052631579
+Bidar,Onion, 2008-09,Rabi       ,341.0,1311,3.84457478005865
+Bidar,Onion, 2008-09,Summer     ,28.0,153,5.46428571428571
+Bidar,Onion, 2009-10,Kharif     ,93.0,328,3.52688172043011
+Bidar,Onion, 2009-10,Rabi       ,438.0,7057,16.1118721461187
+Bidar,Onion, 2009-10,Summer     ,39.0,298,7.64102564102564
+Bidar,Onion, 2010-11,Kharif     ,88.0,549,6.23863636363636
+Bidar,Onion, 2010-11,Rabi       ,585.0,4006,6.84786324786325
+Bidar,Onion, 2010-11,Summer     ,24.0,255,10.625
+Bidar,Onion, 2011-12,Kharif     ,350.0,1728,4.93714285714286
+Bidar,Onion, 2011-12,Rabi       ,691.0,12143,17.5730824891462
+Bidar,Onion, 2011-12,Summer     ,28.0,172,6.14285714285714
+Bidar,Onion, 2012-13,Kharif     ,289.0,1534,5.30795847750865
+Bidar,Onion, 2012-13,Rabi       ,570.0,4148,7.27719298245614
+Bidar,Onion, 2012-13,Summer     ,20.0,113,5.65
+Bidar,Onion, 2013-14,Kharif     ,343.0,2269,6.61516034985423
+Bidar,Onion, 2013-14,Rabi       ,455.0,5443,11.9626373626374
+Bidar,Onion, 2013-14,Summer     ,123.0,966,7.85365853658537
+Bidar,Onion, 2014-15,Kharif     ,170.0,873,5.13529411764706
+Bidar,Onion, 2014-15,Rabi       ,389.0,4510,11.5938303341902
+Bidar,Onion, 2014-15,Summer     ,43.0,211,4.90697674418605
+Bidar,Onion, 2015-16,Kharif     ,258.0,1127,4.36821705426357
+Bidar,Onion, 2015-16,Rabi       ,476.0,2694,5.65966386554622
+Bidar,Onion, 2015-16,Summer     ,19.0,82,4.31578947368421
+Bidar,Onion, 2016-17,Kharif     ,203.0,1458,7.18226600985222
+Bidar,Onion, 2016-17,Rabi       ,519.0,7433,14.3217726396917
+Bidar,Onion, 2016-17,Summer     ,15.0,221,14.7333333333333
+Bidar,Onion, 2017-18,Kharif     ,259.0,2859,11.03861003861
+Bidar,Onion, 2017-18,Rabi       ,209.0,2963,14.177033492823
+Bidar,Onion, 2017-18,Summer     ,8.0,97,12.125
+Bidar,Onion, 2018-19,Kharif     ,573.0,4337,7.56893542757417
+Bidar,Onion, 2018-19,Rabi       ,150.0,1989,13.26
+Bidar,Onion, 2018-19,Summer     ,10.0,106,10.6
+Bidar,Other  Rabi pulses, 1999-00,Rabi       ,1473.0,160,0.108621860149355
+Bidar,Other  Rabi pulses, 2000-01,Rabi       ,1363.0,148,0.108584005869406
+Bidar,Other  Rabi pulses, 2001-02,Rabi       ,1672.0,182,0.108851674641148
+Bidar,Other  Rabi pulses, 2002-03,Rabi       ,1379.0,150,0.108774474256708
+Bidar,Other  Rabi pulses, 2003-04,Rabi       ,1176.0,128,0.108843537414966
+Bidar,Other  Rabi pulses, 2004-05,Rabi       ,1100.0,120,0.109090909090909
+Bidar,Other  Rabi pulses, 2005-06,Rabi       ,1178.0,127,0.107809847198642
+Bidar,Other  Rabi pulses, 2006-07,Rabi       ,1332.0,158,0.118618618618619
+Bidar,Other  Rabi pulses, 2007-08,Rabi       ,1180.0,141,0.119491525423729
+Bidar,Other  Rabi pulses, 2008-09,Rabi       ,187.0,78,0.417112299465241
+Bidar,Other  Rabi pulses, 2009-10,Rabi       ,589.0,220,0.373514431239389
+Bidar,Other  Rabi pulses, 2010-11,Rabi       ,960.0,296,0.308333333333333
+Bidar,Other  Rabi pulses, 2011-12,Rabi       ,839.0,347,0.413587604290822
+Bidar,Other  Rabi pulses, 2012-13,Rabi       ,116.0,53,0.456896551724138
+Bidar,Other  Rabi pulses, 2013-14,Rabi       ,434.0,156,0.359447004608295
+Bidar,Other  Rabi pulses, 2014-15,Rabi       ,188.0,72,0.382978723404255
+Bidar,Other  Rabi pulses, 2015-16,Rabi       ,578.0,203,0.35121107266436
+Bidar,Other  Rabi pulses, 2016-17,Rabi       ,747.0,238,0.318607764390897
+Bidar,Other  Rabi pulses, 2017-18,Rabi       ,417.0,145,0.347721822541966
+Bidar,Other  Rabi pulses, 2018-19,Rabi       ,243.0,90,0.37037037037037
+Bidar,Other Kharif pulses, 1999-00,Kharif     ,866.0,89,0.102771362586605
+Bidar,Other Kharif pulses, 2000-01,Kharif     ,853.0,88,0.1031652989449
+Bidar,Other Kharif pulses, 2001-02,Kharif     ,771.0,80,0.103761348897536
+Bidar,Other Kharif pulses, 2002-03,Kharif     ,963.0,98,0.101765316718588
+Bidar,Other Kharif pulses, 2003-04,Kharif     ,1054.0,109,0.103415559772296
+Bidar,Other Kharif pulses, 2004-05,Kharif     ,866.0,86.6,0.1
+Bidar,Other Kharif pulses, 2005-06,Kharif     ,825.0,84,0.101818181818182
+Bidar,Other Kharif pulses, 2006-07,Kharif     ,822.0,851,1.0352798053528
+Bidar,Other Kharif pulses, 2007-08,Kharif     ,722.0,679,0.940443213296399
+Bidar,Other Kharif pulses, 2008-09,Kharif     ,1489.0,1429,0.959704499664204
+Bidar,Other Kharif pulses, 2009-10,Kharif     ,1319.0,643,0.487490523123578
+Bidar,Other Kharif pulses, 2010-11,Kharif     ,662.0,593,0.895770392749245
+Bidar,Other Kharif pulses, 2011-12,Kharif     ,819.0,879,1.07326007326007
+Bidar,Other Kharif pulses, 2012-13,Kharif     ,2083.0,1270,0.609697551608257
+Bidar,Other Kharif pulses, 2013-14,Kharif     ,1028.0,859,0.835603112840467
+Bidar,Other Kharif pulses, 2014-15,Kharif     ,401.0,341,0.850374064837905
+Bidar,Other Kharif pulses, 2015-16,Kharif     ,614.0,844,1.37459283387622
+Bidar,Other Kharif pulses, 2016-17,Kharif     ,324.0,121,0.373456790123457
+Bidar,Other Kharif pulses, 2017-18,Kharif     ,413.0,409,0.990314769975787
+Bidar,Other Kharif pulses, 2018-19,Kharif     ,333.0,204,0.612612612612613
+Bidar,Peas & beans (Pulses), 1998-99,Kharif     ,2.0,18,9
+Bidar,Peas & beans (Pulses), 1998-99,Rabi       ,2.0,20,10
+Bidar,Peas & beans (Pulses), 2001-02,Whole Year ,22.0,151,6.86363636363636
+Bidar,Peas & beans (Pulses), 2005-06,Kharif     ,7.0,43,6.14285714285714
+Bidar,Peas & beans (Pulses), 2005-06,Rabi       ,2.0,14,7
+Bidar,Peas & beans (Pulses), 2005-06,Summer     ,1.0,5,5
+Bidar,Peas & beans (Pulses), 2010-11,Kharif     ,4.0,36,9
+Bidar,Peas & beans (Pulses), 2010-11,Rabi       ,13.0,92,7.07692307692308
+Bidar,Peas & beans (Pulses), 2010-11,Summer     ,4.0,34,8.5
+Bidar,Peas & beans (Pulses), 2011-12,Kharif     ,3.0,27,9
+Bidar,Peas & beans (Pulses), 2011-12,Rabi       ,9.0,66,7.33333333333333
+Bidar,Potato, 1998-99,Kharif     ,9.0,99,11
+Bidar,Potato, 1998-99,Rabi       ,10.0,197,19.7
+Bidar,Potato, 1999-00,Whole Year ,27.0,520,19.2592592592593
+Bidar,Potato, 2000-01,Whole Year ,24.0,321,13.375
+Bidar,Potato, 2001-02,Whole Year ,58.0,1122,19.3448275862069
+Bidar,Potato, 2002-03,Whole Year ,67.0,707,10.5522388059701
+Bidar,Potato, 2003-04,Whole Year ,50.0,550,11
+Bidar,Potato, 2004-05,Whole Year ,47.0,727,15.468085106383
+Bidar,Potato, 2005-06,Kharif     ,4.0,13,3.25
+Bidar,Potato, 2005-06,Rabi       ,39.0,705,18.0769230769231
+Bidar,Potato, 2006-07,Whole Year ,73.0,1726,23.6438356164384
+Bidar,Potato, 2007-08,Kharif     ,36.0,119,3.30555555555556
+Bidar,Potato, 2007-08,Rabi       ,41.0,504,12.2926829268293
+Bidar,Potato, 2008-09,Kharif     ,36.0,68,1.88888888888889
+Bidar,Potato, 2008-09,Rabi       ,64.0,920,14.375
+Bidar,Potato, 2009-10,Kharif     ,31.0,192,6.19354838709677
+Bidar,Potato, 2009-10,Rabi       ,85.0,1255,14.7647058823529
+Bidar,Potato, 2010-11,Kharif     ,26.0,198,7.61538461538462
+Bidar,Potato, 2010-11,Rabi       ,61.0,710,11.6393442622951
+Bidar,Potato, 2010-11,Summer     ,1.0,15,15
+Bidar,Potato, 2011-12,Kharif     ,60.0,496,8.26666666666667
+Bidar,Potato, 2011-12,Rabi       ,116.0,1409,12.1465517241379
+Bidar,Potato, 2011-12,Summer     ,4.0,58,14.5
+Bidar,Potato, 2012-13,Kharif     ,66.0,421,6.37878787878788
+Bidar,Potato, 2012-13,Rabi       ,92.0,1562,16.9782608695652
+Bidar,Potato, 2012-13,Summer     ,4.0,87,21.75
+Bidar,Potato, 2013-14,Kharif     ,49.0,322,6.57142857142857
+Bidar,Potato, 2013-14,Rabi       ,130.0,1978,15.2153846153846
+Bidar,Potato, 2013-14,Summer     ,26.0,365,14.0384615384615
+Bidar,Potato, 2014-15,Kharif     ,66.0,406,6.15151515151515
+Bidar,Potato, 2014-15,Rabi       ,53.0,816,15.3962264150943
+Bidar,Potato, 2014-15,Summer     ,2.0,27,13.5
+Bidar,Potato, 2015-16,Kharif     ,46.0,185,4.02173913043478
+Bidar,Potato, 2015-16,Rabi       ,42.0,632,15.047619047619
+Bidar,Potato, 2016-17,Kharif     ,18.0,177,9.83333333333333
+Bidar,Potato, 2016-17,Rabi       ,121.0,1674,13.8347107438017
+Bidar,Potato, 2016-17,Summer     ,9.0,139,15.4444444444444
+Bidar,Potato, 2017-18,Kharif     ,33.0,318,9.63636363636364
+Bidar,Potato, 2017-18,Rabi       ,31.0,580,18.7096774193548
+Bidar,Potato, 2017-18,Summer     ,13.0,190,14.6153846153846
+Bidar,Potato, 2018-19,Kharif     ,53.0,420,7.92452830188679
+Bidar,Potato, 2018-19,Rabi       ,21.0,318,15.1428571428571
+Bidar,Potato, 2018-19,Summer     ,11.0,165,15
+Bidar,Ragi, 2018-19,Kharif     ,12.0,14,1.16666666666667
+Bidar,Rapeseed &Mustard, 1998-99,Kharif     ,24.0,2,0.0833333333333333
+Bidar,Rapeseed &Mustard, 1999-00,Rabi       ,27.0,2,0.0740740740740741
+Bidar,Rapeseed &Mustard, 2000-01,Rabi       ,18.0,1,0.0555555555555556
+Bidar,Rapeseed &Mustard, 2001-02,Rabi       ,17.0,1,0.0588235294117647
+Bidar,Rapeseed &Mustard, 2002-03,Rabi       ,22.0,2,0.0909090909090909
+Bidar,Rapeseed &Mustard, 2003-04,Rabi       ,14.0,1,0.0714285714285714
+Bidar,Rapeseed &Mustard, 2004-05,Rabi       ,10.0,1,0.1
+Bidar,Rapeseed &Mustard, 2005-06,Rabi       ,14.0,1,0.0714285714285714
+Bidar,Rapeseed &Mustard, 2006-07,Kharif     ,22.0,2,0.0909090909090909
+Bidar,Rapeseed &Mustard, 2007-08,Kharif     ,37.0,13,0.351351351351351
+Bidar,Rapeseed &Mustard, 2008-09,Rabi       ,31.0,12,0.387096774193548
+Bidar,Rapeseed &Mustard, 2009-10,Rabi       ,20.0,6,0.3
+Bidar,Rapeseed &Mustard, 2010-11,Rabi       ,21.0,7,0.333333333333333
+Bidar,Rapeseed &Mustard, 2011-12,Rabi       ,65.0,19,0.292307692307692
+Bidar,Rapeseed &Mustard, 2013-14,Kharif     ,159.0,45,0.283018867924528
+Bidar,Rapeseed &Mustard, 2014-15,Kharif     ,50.0,11,0.22
+Bidar,Rapeseed &Mustard, 2015-16,Kharif     ,10.0,2,0.2
+Bidar,Rapeseed &Mustard, 2016-17,Kharif     ,217.0,40,0.184331797235023
+Bidar,Rapeseed &Mustard, 2017-18,Kharif     ,75.0,13,0.173333333333333
+Bidar,Rapeseed &Mustard, 2018-19,Kharif     ,16.0,3,0.1875
+Bidar,Rice, 1997-98,Kharif     ,9385.0,6109,0.650932338838572
+Bidar,Rice, 1997-98,Rabi       ,2.0,3,1.5
+Bidar,Rice, 1998-99,Kharif     ,9587.0,5825,0.607593616355481
+Bidar,Rice, 1999-00,Kharif     ,10023.0,8373,0.835378629152948
+Bidar,Rice, 1999-00,Summer     ,5.0,7,1.4
+Bidar,Rice, 2000-01,Kharif     ,11483.0,10428,0.908125054428285
+Bidar,Rice, 2000-01,Rabi       ,34.0,49,1.44117647058824
+Bidar,Rice, 2001-02,Kharif     ,11224.0,9048,0.806129722024234
+Bidar,Rice, 2001-02,Rabi       ,30.0,45,1.5
+Bidar,Rice, 2002-03,Kharif     ,10083.0,5672,0.562530992760091
+Bidar,Rice, 2002-03,Rabi       ,25.0,40,1.6
+Bidar,Rice, 2003-04,Kharif     ,8768.0,3536,0.403284671532847
+Bidar,Rice, 2004-05,Kharif     ,7999.0,3495.563,0.437
+Bidar,Rice, 2005-06,Kharif     ,7436.0,4059,0.54585798816568
+Bidar,Rice, 2005-06,Rabi       ,112.0,180,1.60714285714286
+Bidar,Rice, 2006-07,Kharif     ,7077.0,4449,0.628656210258584
+Bidar,Rice, 2006-07,Rabi       ,64.0,110,1.71875
+Bidar,Rice, 2007-08,Kharif     ,6812.0,4223,0.619935408103347
+Bidar,Rice, 2007-08,Rabi       ,26.0,45,1.73076923076923
+Bidar,Rice, 2008-09,Kharif     ,5503.0,4077.723,0.741
+Bidar,Rice, 2009-10,Kharif     ,5039.0,3877.5105,0.7695
+Bidar,Rice, 2010-11,Kharif     ,4927.0,4816,0.97747107773493
+Bidar,Rice, 2011-12,Kharif     ,6489.0,5830,0.898443519802743
+Bidar,Rice, 2012-13,Kharif     ,4939.0,4880,0.988054261996355
+Bidar,Rice, 2013-14,Kharif     ,3572.0,5541,1.55123180291153
+Bidar,Rice, 2014-15,Kharif     ,2063.0,1989,0.964129907901115
+Bidar,Rice, 2015-16,Kharif     ,1549.0,1317,0.850225952227243
+Bidar,Rice, 2016-17,Kharif     ,525.0,629,1.19809523809524
+Bidar,Rice, 2017-18,Kharif     ,1018.0,1898,1.86444007858546
+Bidar,Rice, 2018-19,Kharif     ,617.0,444,0.719611021069692
+Bidar,Safflower, 1998-99,Rabi       ,9470.0,9140,0.965153115100317
+Bidar,Safflower, 1999-00,Rabi       ,7938.0,9585,1.20748299319728
+Bidar,Safflower, 2000-01,Rabi       ,9473.0,10025,1.05827087511876
+Bidar,Safflower, 2001-02,Rabi       ,11239.0,16272,1.44781564196103
+Bidar,Safflower, 2002-03,Rabi       ,10898.0,14173,1.30051385575335
+Bidar,Safflower, 2003-04,Rabi       ,11053.0,14511,1.3128562381254
+Bidar,Safflower, 2004-05,Rabi       ,12160.0,9819,0.807483552631579
+Bidar,Safflower, 2005-06,Rabi       ,12705.0,15908,1.25210547028729
+Bidar,Safflower, 2006-07,Rabi       ,11744.0,16021,1.36418596730245
+Bidar,Safflower, 2007-08,Rabi       ,9989.0,14566,1.45820402442687
+Bidar,Safflower, 2008-09,Rabi       ,10804.0,13394,1.23972602739726
+Bidar,Safflower, 2009-10,Rabi       ,11412.0,15408,1.35015772870662
+Bidar,Safflower, 2010-11,Rabi       ,11398.0,14548,1.27636427443411
+Bidar,Safflower, 2011-12,Rabi       ,9423.0,11637,1.23495702005731
+Bidar,Safflower, 2012-13,Rabi       ,11441.0,11162,0.975614019753518
+Bidar,Safflower, 2013-14,Rabi       ,11513.0,11725,1.01841396682012
+Bidar,Safflower, 2014-15,Rabi       ,6851.0,6886,1.00510874324916
+Bidar,Safflower, 2015-16,Rabi       ,12041.0,10947,0.909143758824018
+Bidar,Safflower, 2016-17,Rabi       ,17031.0,16309,0.957606717162821
+Bidar,Safflower, 2017-18,Rabi       ,13337.0,17371,1.30246682162405
+Bidar,Safflower, 2018-19,Rabi       ,4797.0,4548,0.948092557848655
+Bidar,Sannhamp, 1999-00,Whole Year ,256.0,64,0.25
+Bidar,Sannhamp, 2000-01,Whole Year ,268.0,67,0.25
+Bidar,Sannhamp, 2001-02,Whole Year ,329.0,82,0.249240121580547
+Bidar,Sannhamp, 2002-03,Whole Year ,337.0,84,0.249258160237389
+Bidar,Sannhamp, 2003-04,Whole Year ,423.0,106,0.250591016548463
+Bidar,Sannhamp, 2007-08,Whole Year ,306.0,76,0.248366013071895
+Bidar,Sannhamp, 2008-09,Whole Year ,249.0,62,0.248995983935743
+Bidar,Sannhamp, 2009-10,Whole Year ,264.0,66,0.25
+Bidar,Sannhamp, 2010-11,Whole Year ,308.0,77,0.25
+Bidar,Sannhamp, 2011-12,Whole Year ,32.0,8,0.25
+Bidar,Sannhamp, 2012-13,Whole Year ,97.0,24,0.247422680412371
+Bidar,Sannhamp, 2013-14,Whole Year ,120.0,30,0.25
+Bidar,Sannhamp, 2014-15,Whole Year ,26.0,6,0.230769230769231
+Bidar,Sannhamp, 2015-16,Whole Year ,18.0,4,0.222222222222222
+Bidar,Sannhamp, 2016-17,Whole Year ,6.0,1,0.166666666666667
+Bidar,Sannhamp, 2017-18,Whole Year ,313.0,78,0.249201277955272
+Bidar,Sannhamp, 2018-19,Whole Year ,10.0,2,0.2
+Bidar,Sesamum, 1998-99,Kharif     ,14250.0,7148,0.501614035087719
+Bidar,Sesamum, 1999-00,Kharif     ,12316.0,9091,0.738145501786294
+Bidar,Sesamum, 2000-01,Kharif     ,11851.0,4481,0.378111551767783
+Bidar,Sesamum, 2001-02,Kharif     ,9479.0,2215,0.233674438231881
+Bidar,Sesamum, 2002-03,Kharif     ,9255.0,5170,0.55861696380335
+Bidar,Sesamum, 2003-04,Kharif     ,9678.0,5516,0.569952469518496
+Bidar,Sesamum, 2004-05,Kharif     ,8161.0,3745,0.458889841931136
+Bidar,Sesamum, 2005-06,Kharif     ,7699.0,2889,0.375243538121834
+Bidar,Sesamum, 2006-07,Kharif     ,7714.0,3877,0.502592688618097
+Bidar,Sesamum, 2007-08,Kharif     ,6754.0,3413,0.505330174711282
+Bidar,Sesamum, 2008-09,Kharif     ,5704.0,2205,0.386570827489481
+Bidar,Sesamum, 2009-10,Kharif     ,5919.0,1012,0.170974826828856
+Bidar,Sesamum, 2010-11,Kharif     ,5090.0,2224,0.436935166994106
+Bidar,Sesamum, 2011-12,Kharif     ,3552.0,1336,0.376126126126126
+Bidar,Sesamum, 2012-13,Kharif     ,3086.0,1686,0.546338302009073
+Bidar,Sesamum, 2013-14,Kharif     ,2546.0,1171,0.459937156323645
+Bidar,Sesamum, 2014-15,Kharif     ,2054.0,507,0.246835443037975
+Bidar,Sesamum, 2015-16,Kharif     ,5716.0,1455,0.254548635409377
+Bidar,Sesamum, 2016-17,Kharif     ,2324.0,1623,0.698364888123924
+Bidar,Sesamum, 2017-18,Kharif     ,1050.0,1208,1.15047619047619
+Bidar,Sesamum, 2018-19,Kharif     ,898.0,621,0.691536748329621
+Bidar,Small millets, 1999-00,Kharif     ,782.0,481,0.615089514066496
+Bidar,Small millets, 2000-01,Kharif     ,557.0,442,0.793536804308797
+Bidar,Small millets, 2001-02,Kharif     ,521.0,375,0.719769673704415
+Bidar,Small millets, 2002-03,Kharif     ,489.0,299,0.611451942740286
+Bidar,Small millets, 2003-04,Kharif     ,401.0,219,0.546134663341646
+Bidar,Small millets, 2004-05,Kharif     ,369.0,234,0.634146341463415
+Bidar,Small millets, 2005-06,Kharif     ,257.0,161,0.626459143968872
+Bidar,Small millets, 2006-07,Kharif     ,195.0,112,0.574358974358974
+Bidar,Small millets, 2007-08,Kharif     ,126.0,64,0.507936507936508
+Bidar,Small millets, 2009-10,Kharif     ,99.0,53,0.535353535353535
+Bidar,Small millets, 2010-11,Kharif     ,49.0,23,0.469387755102041
+Bidar,Small millets, 2011-12,Kharif     ,48.0,21,0.4375
+Bidar,Small millets, 2012-13,Kharif     ,31.0,10,0.32258064516129
+Bidar,Small millets, 2013-14,Kharif     ,29.0,11,0.379310344827586
+Bidar,Small millets, 2014-15,Kharif     ,20.0,7,0.35
+Bidar,Small millets, 2016-17,Kharif     ,7.0,3,0.428571428571429
+Bidar,Small millets, 2017-18,Kharif     ,19.0,19,1
+Bidar,Small millets, 2018-19,Kharif     ,124.0,108,0.870967741935484
+Bidar,Soyabean, 1998-99,Kharif     ,217.0,234,1.07834101382488
+Bidar,Soyabean, 1999-00,Kharif     ,120.0,110,0.916666666666667
+Bidar,Soyabean, 2000-01,Kharif     ,132.0,138,1.04545454545455
+Bidar,Soyabean, 2001-02,Kharif     ,125.0,104,0.832
+Bidar,Soyabean, 2002-03,Kharif     ,382.0,317,0.829842931937173
+Bidar,Soyabean, 2003-04,Kharif     ,12325.0,5936,0.481622718052738
+Bidar,Soyabean, 2004-05,Kharif     ,28175.0,17639,0.626051464063886
+Bidar,Soyabean, 2005-06,Kharif     ,31876.0,21652,0.679257121345213
+Bidar,Soyabean, 2006-07,Kharif     ,20838.0,17460,0.837892312122085
+Bidar,Soyabean, 2007-08,Kharif     ,14782.0,15237,1.03078067920444
+Bidar,Soyabean, 2008-09,Kharif     ,23924.0,16091,0.672588195953854
+Bidar,Soyabean, 2009-10,Kharif     ,33508.0,7894,0.235585531813298
+Bidar,Soyabean, 2010-11,Kharif     ,47434.0,46009,0.969958257789771
+Bidar,Soyabean, 2011-12,Kharif     ,81066.0,87640,1.08109441689488
+Bidar,Soyabean, 2012-13,Kharif     ,77187.0,115271,1.49339914752484
+Bidar,Soyabean, 2013-14,Kharif     ,109391.0,174900,1.59885182510444
+Bidar,Soyabean, 2014-15,Kharif     ,120020.0,68525,0.570946508915181
+Bidar,Soyabean, 2015-16,Kharif     ,111318.0,72863,0.654548231193518
+Bidar,Soyabean, 2016-17,Kharif     ,151867.0,56555,0.372398216860806
+Bidar,Soyabean, 2017-18,Kharif     ,149031.0,270841,1.81734672651999
+Bidar,Soyabean, 2018-19,Kharif     ,125173.0,102980,0.822701381288297
+Bidar,Sugarcane, 1997-98,Whole Year ,22571.0,1543856,68.3999822781445
+Bidar,Sugarcane, 1999-00,Whole Year ,26826.0,2140715,79.8000074554537
+Bidar,Sugarcane, 2000-01,Whole Year ,30929.0,2086161,67.4499983833942
+Bidar,Sugarcane, 2001-02,Whole Year ,29225.0,1415951,48.4499914456801
+Bidar,Sugarcane, 2002-03,Whole Year ,30943.0,2234085,72.2000129269948
+Bidar,Sugarcane, 2003-04,Whole Year ,23197.0,1476489,63.6499978445489
+Bidar,Sugarcane, 2005-06,Whole Year ,23366.0,1531641,65.549987160832
+Bidar,Sugarcane, 2006-07,Whole Year ,26114.0,1885431,72.2000076587271
+Bidar,Sugarcane, 2007-08,Whole Year ,27086.0,1852682,68.3999852322233
+Bidar,Sugarcane, 2008-09,Whole Year ,24616.0,1426497,57.9499918752031
+Bidar,Sugarcane, 2009-10,Whole Year ,25686.0,1805726,70.3000077863428
+Bidar,Sugarcane, 2010-11,Whole Year ,31299.0,2200320,70.3000095849708
+Bidar,Sugarcane, 2011-12,Whole Year ,25507.0,1744679,68.4000078409848
+Bidar,Sugarcane, 2012-13,Whole Year ,31522.0,2186051,69.3500095171626
+Bidar,Sugarcane, 2013-14,Whole Year ,26490.0,1937744,73.1500188750472
+Bidar,Sugarcane, 2014-15,Whole Year ,28867.0,1892232,65.5500051962449
+Bidar,Sugarcane, 2015-16,Whole Year ,19418.0,848567,43.7000205994438
+Bidar,Sugarcane, 2016-17,Whole Year ,17712.0,959105,54.1500112917796
+Bidar,Sugarcane, 2017-18,Whole Year ,15523.0,1150254,74.0999806738388
+Bidar,Sugarcane, 2018-19,Whole Year ,13037.0,730724,56.0500115057145
+Bidar,Sunflower, 1998-99,Kharif     ,7880.0,1442,0.182994923857868
+Bidar,Sunflower, 1998-99,Rabi       ,6059.0,1787,0.294933157286681
+Bidar,Sunflower, 1998-99,Summer     ,265.0,149,0.562264150943396
+Bidar,Sunflower, 1999-00,Kharif     ,6201.0,1593,0.25689404934688
+Bidar,Sunflower, 1999-00,Rabi       ,4514.0,1619,0.358661940629154
+Bidar,Sunflower, 1999-00,Summer     ,165.0,93,0.563636363636364
+Bidar,Sunflower, 2000-01,Kharif     ,3277.0,1167,0.356118400976503
+Bidar,Sunflower, 2000-01,Rabi       ,3420.0,1223,0.357602339181286
+Bidar,Sunflower, 2000-01,Summer     ,100.0,72,0.72
+Bidar,Sunflower, 2001-02,Kharif     ,4122.0,1119,0.271470160116448
+Bidar,Sunflower, 2001-02,Rabi       ,4489.0,1817,0.404767208732457
+Bidar,Sunflower, 2001-02,Summer     ,202.0,165,0.816831683168317
+Bidar,Sunflower, 2002-03,Kharif     ,4461.0,1551,0.347679892400807
+Bidar,Sunflower, 2002-03,Rabi       ,4671.0,2482,0.531363733675872
+Bidar,Sunflower, 2002-03,Summer     ,83.0,50,0.602409638554217
+Bidar,Sunflower, 2003-04,Kharif     ,5560.0,2501,0.449820143884892
+Bidar,Sunflower, 2003-04,Rabi       ,5052.0,2838,0.561757719714964
+Bidar,Sunflower, 2003-04,Summer     ,39.0,21,0.538461538461538
+Bidar,Sunflower, 2004-05,Kharif     ,6765.0,2201,0.325351071692535
+Bidar,Sunflower, 2004-05,Rabi       ,5348.0,3004,0.56170531039641
+Bidar,Sunflower, 2004-05,Summer     ,169.0,110,0.650887573964497
+Bidar,Sunflower, 2005-06,Kharif     ,9459.0,3219,0.340310815096733
+Bidar,Sunflower, 2005-06,Rabi       ,5502.0,3124,0.567793529625591
+Bidar,Sunflower, 2005-06,Summer     ,77.0,60,0.779220779220779
+Bidar,Sunflower, 2006-07,Kharif     ,9442.0,3717,0.393666596060157
+Bidar,Sunflower, 2006-07,Rabi       ,5261.0,2573,0.489070518912754
+Bidar,Sunflower, 2006-07,Summer     ,63.0,50,0.793650793650794
+Bidar,Sunflower, 2007-08,Kharif     ,7658.0,3358,0.438495690780883
+Bidar,Sunflower, 2007-08,Rabi       ,5444.0,2817,0.517450404114622
+Bidar,Sunflower, 2007-08,Summer     ,94.0,96,1.02127659574468
+Bidar,Sunflower, 2008-09,Kharif     ,8157.0,3056,0.374647541988476
+Bidar,Sunflower, 2008-09,Rabi       ,5405.0,2586,0.478445883441258
+Bidar,Sunflower, 2008-09,Summer     ,226.0,180,0.79646017699115
+Bidar,Sunflower, 2009-10,Kharif     ,5912.0,1805,0.305311231393775
+Bidar,Sunflower, 2009-10,Rabi       ,3306.0,1621,0.490320629159105
+Bidar,Sunflower, 2009-10,Summer     ,191.0,164,0.858638743455497
+Bidar,Sunflower, 2010-11,Kharif     ,2884.0,961,0.333217753120666
+Bidar,Sunflower, 2010-11,Rabi       ,3062.0,1327,0.433376877857609
+Bidar,Sunflower, 2010-11,Summer     ,236.0,239,1.01271186440678
+Bidar,Sunflower, 2011-12,Kharif     ,2749.0,997,0.362677337213532
+Bidar,Sunflower, 2011-12,Rabi       ,2682.0,1043,0.388888888888889
+Bidar,Sunflower, 2011-12,Summer     ,201.0,205,1.01990049751244
+Bidar,Sunflower, 2012-13,Kharif     ,2514.0,1364,0.542561654733493
+Bidar,Sunflower, 2012-13,Rabi       ,1874.0,1004,0.535752401280683
+Bidar,Sunflower, 2012-13,Summer     ,294.0,294,1
+Bidar,Sunflower, 2013-14,Kharif     ,1780.0,834,0.468539325842697
+Bidar,Sunflower, 2013-14,Rabi       ,2262.0,810,0.358090185676393
+Bidar,Sunflower, 2013-14,Summer     ,247.0,246,0.995951417004049
+Bidar,Sunflower, 2014-15,Kharif     ,1014.0,412,0.406311637080868
+Bidar,Sunflower, 2014-15,Rabi       ,960.0,378,0.39375
+Bidar,Sunflower, 2014-15,Summer     ,10.0,9,0.9
+Bidar,Sunflower, 2015-16,Kharif     ,527.0,45,0.0853889943074004
+Bidar,Sunflower, 2015-16,Rabi       ,614.0,180,0.293159609120521
+Bidar,Sunflower, 2016-17,Kharif     ,17.0,7,0.411764705882353
+Bidar,Sunflower, 2016-17,Rabi       ,4.0,2,0.5
+Bidar,Sunflower, 2017-18,Kharif     ,11.0,5,0.454545454545455
+Bidar,Sunflower, 2018-19,Kharif     ,23.0,2,0.0869565217391304
+Bidar,Sweet potato, 2002-03,Whole Year ,2.0,15,7.5
+Bidar,Sweet potato, 2003-04,Whole Year ,1.0,8,8
+Bidar,Sweet potato, 2018-19,Whole Year ,1.0,15,15
+Bidar,Tapioca, 2018-19,Whole Year ,6.0,80,13.3333333333333
+Bidar,Tobacco, 2018-19,Whole Year ,2.0,2,1
+Bidar,Turmeric, 1997-98,Whole Year ,107.0,109,1.01869158878505
+Bidar,Turmeric, 1998-99,Whole Year ,70.0,144,2.05714285714286
+Bidar,Turmeric, 1999-00,Whole Year ,146.0,498,3.41095890410959
+Bidar,Turmeric, 2000-01,Whole Year ,293.0,1218,4.15699658703072
+Bidar,Turmeric, 2001-02,Whole Year ,163.0,660,4.04907975460123
+Bidar,Turmeric, 2002-03,Whole Year ,151.0,517,3.42384105960265
+Bidar,Turmeric, 2003-04,Whole Year ,55.0,99,1.8
+Bidar,Turmeric, 2004-05,Whole Year ,24.0,90,3.75
+Bidar,Turmeric, 2005-06,Whole Year ,51.0,272,5.33333333333333
+Bidar,Turmeric, 2006-07,Whole Year ,57.0,288,5.05263157894737
+Bidar,Turmeric, 2007-08,Whole Year ,68.0,529,7.77941176470588
+Bidar,Turmeric, 2008-09,Whole Year ,82.0,390,4.75609756097561
+Bidar,Turmeric, 2009-10,Whole Year ,47.0,177,3.76595744680851
+Bidar,Turmeric, 2010-11,Whole Year ,67.0,284,4.23880597014925
+Bidar,Turmeric, 2011-12,Whole Year ,156.0,638,4.08974358974359
+Bidar,Turmeric, 2012-13,Whole Year ,130.0,610,4.69230769230769
+Bidar,Turmeric, 2013-14,Whole Year ,79.0,185,2.34177215189873
+Bidar,Turmeric, 2014-15,Whole Year ,59.0,114,1.93220338983051
+Bidar,Turmeric, 2015-16,Whole Year ,35.0,68,1.94285714285714
+Bidar,Turmeric, 2016-17,Whole Year ,42.0,249,5.92857142857143
+Bidar,Turmeric, 2017-18,Whole Year ,71.0,451,6.35211267605634
+Bidar,Turmeric, 2018-19,Whole Year ,323.0,1869,5.78637770897833
+Bidar,Urad, 1999-00,Kharif     ,78045.0,18091,0.231802165417387
+Bidar,Urad, 2000-01,Kharif     ,84597.0,27727,0.327753939264986
+Bidar,Urad, 2001-02,Kharif     ,86581.0,35780,0.413254640163546
+Bidar,Urad, 2002-03,Kharif     ,83943.0,10207,0.121594415257973
+Bidar,Urad, 2003-04,Kharif     ,69566.0,16125,0.231794267314493
+Bidar,Urad, 2004-05,Kharif     ,57157.0,3964,0.0693528351732946
+Bidar,Urad, 2005-06,Kharif     ,51823.0,5662,0.109256507728229
+Bidar,Urad, 2006-07,Kharif     ,60364.0,4416,0.0731561858061096
+Bidar,Urad, 2007-08,Kharif     ,56276.0,25234,0.448397185301016
+Bidar,Urad, 2008-09,Kharif     ,48568.0,5444,0.11209026519519
+Bidar,Urad, 2009-10,Kharif     ,44525.0,465,0.0104435710275126
+Bidar,Urad, 2010-11,Kharif     ,44916.0,14252,0.317303410811292
+Bidar,Urad, 2011-12,Kharif     ,29580.0,9751,0.329648411088573
+Bidar,Urad, 2012-13,Kharif     ,44231.0,28489,0.644095769935113
+Bidar,Urad, 2013-14,Kharif     ,32928.0,16266,0.493986880466472
+Bidar,Urad, 2014-15,Kharif     ,23718.0,5250,0.22135087275487
+Bidar,Urad, 2015-16,Kharif     ,25483.0,2324,0.0911980536043637
+Bidar,Urad, 2016-17,Kharif     ,30384.0,18358,0.604199578725645
+Bidar,Urad, 2017-18,Kharif     ,31615.0,21294,0.673541040645263
+Bidar,Urad, 2018-19,Kharif     ,27518.0,12966,0.471182498728105
+Bidar,Wheat, 1997-98,Rabi       ,7110.0,1585,0.222925457102672
+Bidar,Wheat, 1998-99,Rabi       ,8128.0,7040,0.866141732283464
+Bidar,Wheat, 1999-00,Rabi       ,7367.0,7407,1.0054296185693
+Bidar,Wheat, 2000-01,Rabi       ,9457.0,9376,0.991434915935286
+Bidar,Wheat, 2001-02,Rabi       ,10101.0,8188,0.810612810612811
+Bidar,Wheat, 2002-03,Rabi       ,8840.0,5975,0.675904977375566
+Bidar,Wheat, 2003-04,Rabi       ,7887.0,4620,0.585774058577406
+Bidar,Wheat, 2004-05,Rabi       ,7373.0,4546,0.61657398616574
+Bidar,Wheat, 2005-06,Rabi       ,7746.0,4710,0.608055770720372
+Bidar,Wheat, 2006-07,Rabi       ,7339.0,5444,0.741790434664123
+Bidar,Wheat, 2007-08,Rabi       ,6893.0,8333,1.20890758740751
+Bidar,Wheat, 2008-09,Rabi       ,7030.0,8445,1.20128022759602
+Bidar,Wheat, 2009-10,Rabi       ,6387.0,8518,1.33364646939095
+Bidar,Wheat, 2010-11,Rabi       ,7876.0,10271,1.30408836973083
+Bidar,Wheat, 2011-12,Rabi       ,6908.0,7810,1.13057324840764
+Bidar,Wheat, 2012-13,Rabi       ,6878.0,9422,1.36987496365222
+Bidar,Wheat, 2013-14,Rabi       ,6656.0,8498,1.27674278846154
+Bidar,Wheat, 2014-15,Rabi       ,4340.0,5385,1.24078341013825
+Bidar,Wheat, 2015-16,Rabi       ,3842.0,4281,1.11426340447684
+Bidar,Wheat, 2016-17,Rabi       ,4708.0,6311,1.34048428207307
+Bidar,Wheat, 2017-18,Rabi       ,4657.0,6234,1.33863001932575
+Bidar,Wheat, 2018-19,Rabi       ,2927.0,2764,0.944311581824394

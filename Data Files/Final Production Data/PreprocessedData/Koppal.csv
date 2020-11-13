@@ -1,0 +1,839 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Koppal,Arhar/Tur, 1998-99,Kharif     ,13481.0,2818,0.209034938060975
+Koppal,Arhar/Tur, 1999-00,Kharif     ,13009.0,3745,0.28787762318395
+Koppal,Arhar/Tur, 2000-01,Kharif     ,12649.0,4230,0.334413787651198
+Koppal,Arhar/Tur, 2001-02,Kharif     ,7572.0,1806,0.23851030110935
+Koppal,Arhar/Tur, 2002-03,Kharif     ,11252.0,2159,0.191876999644508
+Koppal,Arhar/Tur, 2003-04,Kharif     ,11083.0,1727,0.155824235315348
+Koppal,Arhar/Tur, 2004-05,Kharif     ,11807.0,2490,0.210891843821462
+Koppal,Arhar/Tur, 2005-06,Kharif     ,12798.0,5860,0.457884044381935
+Koppal,Arhar/Tur, 2006-07,Kharif     ,10810.0,2003,0.185291396854764
+Koppal,Arhar/Tur, 2007-08,Kharif     ,9449.0,5081,0.537728860196846
+Koppal,Arhar/Tur, 2008-09,Kharif     ,9479.0,4151,0.437915391918979
+Koppal,Arhar/Tur, 2009-10,Kharif     ,11005.0,2415,0.219445706497047
+Koppal,Arhar/Tur, 2010-11,Kharif     ,12677.0,5757,0.454129525913071
+Koppal,Arhar/Tur, 2011-12,Kharif     ,10684.0,3136,0.293523025084238
+Koppal,Arhar/Tur, 2012-13,Kharif     ,7769.0,3366,0.433260393873085
+Koppal,Arhar/Tur, 2013-14,Kharif     ,10186.0,4809,0.472118594148832
+Koppal,Arhar/Tur, 2014-15,Kharif     ,14572.0,8472,0.581388965138622
+Koppal,Arhar/Tur, 2015-16,Kharif     ,11637.0,3969,0.341067285382831
+Koppal,Arhar/Tur, 2016-17,Kharif     ,25501.0,12428,0.487353437120113
+Koppal,Arhar/Tur, 2017-18,Kharif     ,17255.0,9819,0.569052448565633
+Koppal,Arhar/Tur, 2018-19,Kharif     ,24740.0,6722,0.271705739692805
+Koppal,Bajra, 1998-99,Kharif     ,54118.0,26932,0.497653276174286
+Koppal,Bajra, 1999-00,Kharif     ,50498.0,28131,0.55707156719078
+Koppal,Bajra, 2000-01,Kharif     ,59035.0,35279,0.597594647243161
+Koppal,Bajra, 2001-02,Kharif     ,38041.0,15489,0.407165952524907
+Koppal,Bajra, 2001-02,Rabi       ,235.0,116,0.493617021276596
+Koppal,Bajra, 2002-03,Kharif     ,50604.0,5960,0.117777250810213
+Koppal,Bajra, 2002-03,Summer     ,65.0,59,0.907692307692308
+Koppal,Bajra, 2003-04,Kharif     ,76296.0,48590,0.636861696550278
+Koppal,Bajra, 2003-04,Summer     ,2.0,2,1
+Koppal,Bajra, 2004-05,Kharif     ,73307.0,33517,0.457214181456068
+Koppal,Bajra, 2005-06,Kharif     ,94687.0,101389,1.0707805717786
+Koppal,Bajra, 2006-07,Kharif     ,69097.0,16612,0.240415647567912
+Koppal,Bajra, 2007-08,Kharif     ,72360.0,61349,0.847830292979547
+Koppal,Bajra, 2008-09,Kharif     ,64697.0,35840,0.553966953645455
+Koppal,Bajra, 2009-10,Kharif     ,56210.0,18512,0.32933641700765
+Koppal,Bajra, 2010-11,Kharif     ,66897.0,82512,1.23341853894793
+Koppal,Bajra, 2011-12,Kharif     ,65874.0,75586,1.14743297810972
+Koppal,Bajra, 2012-13,Kharif     ,71347.0,97196,1.36229974631029
+Koppal,Bajra, 2013-14,Kharif     ,59563.0,99363,1.66820005708242
+Koppal,Bajra, 2014-15,Kharif     ,51338.0,88910,1.73185554559975
+Koppal,Bajra, 2015-16,Kharif     ,44190.0,31569,0.71439239646979
+Koppal,Bajra, 2016-17,Kharif     ,56139.0,37599,0.669748303318549
+Koppal,Bajra, 2017-18,Kharif     ,79206.0,144472,1.82400323207838
+Koppal,Bajra, 2018-19,Kharif     ,67048.0,45096,0.672592769359265
+Koppal,Banana, 1999-00,Whole Year ,570.0,13374,23.4631578947368
+Koppal,Banana, 2000-01,Whole Year ,650.0,11949,18.3830769230769
+Koppal,Banana, 2002-03,Whole Year ,497.0,8510,17.1227364185111
+Koppal,Banana, 2003-04,Whole Year ,363.0,271,0.746556473829201
+Koppal,Banana, 2004-05,Whole Year ,3657.0,12445,3.40306261963358
+Koppal,Banana, 2005-06,Whole Year ,376.0,4119,10.9547872340426
+Koppal,Banana, 2006-07,Whole Year ,368.0,15238,41.4076086956522
+Koppal,Banana, 2007-08,Whole Year ,870.0,37339,42.9183908045977
+Koppal,Banana, 2008-09,Whole Year ,1281.0,23577,18.4051522248244
+Koppal,Banana, 2009-10,Whole Year ,1183.0,50410,42.6120033812342
+Koppal,Banana, 2010-11,Whole Year ,1279.0,75163,58.7670054730258
+Koppal,Banana, 2011-12,Whole Year ,1425.0,97498,68.419649122807
+Koppal,Cashewnut, 2018-19,Whole Year ,19.0,23,1.21052631578947
+Koppal,Castor seed, 1998-99,Kharif     ,2437.0,2375,0.974558883873615
+Koppal,Castor seed, 1999-00,Kharif     ,1476.0,1139,0.771680216802168
+Koppal,Castor seed, 2000-01,Kharif     ,1966.0,3076,1.5645981688708
+Koppal,Castor seed, 2001-02,Kharif     ,1180.0,444,0.376271186440678
+Koppal,Castor seed, 2002-03,Kharif     ,1238.0,582,0.470113085621971
+Koppal,Castor seed, 2003-04,Kharif     ,1430.0,1027,0.718181818181818
+Koppal,Castor seed, 2004-05,Kharif     ,1392.0,581,0.417385057471264
+Koppal,Castor seed, 2005-06,Kharif     ,1532.0,2225,1.4523498694517
+Koppal,Castor seed, 2006-07,Kharif     ,1278.0,1958,1.5320813771518
+Koppal,Castor seed, 2007-08,Kharif     ,1112.0,637,0.572841726618705
+Koppal,Castor seed, 2008-09,Kharif     ,1206.0,1028,0.85240464344942
+Koppal,Castor seed, 2009-10,Kharif     ,1513.0,614,0.405816259087905
+Koppal,Castor seed, 2010-11,Kharif     ,922.0,1359,1.47396963123644
+Koppal,Castor seed, 2011-12,Kharif     ,717.0,1008,1.40585774058577
+Koppal,Castor seed, 2012-13,Kharif     ,332.0,457,1.37650602409639
+Koppal,Castor seed, 2013-14,Kharif     ,324.0,560,1.7283950617284
+Koppal,Castor seed, 2014-15,Kharif     ,1050.0,659,0.627619047619048
+Koppal,Castor seed, 2015-16,Kharif     ,928.0,247,0.266163793103448
+Koppal,Castor seed, 2016-17,Kharif     ,1414.0,701,0.495756718528996
+Koppal,Castor seed, 2017-18,Kharif     ,308.0,173,0.561688311688312
+Koppal,Castor seed, 2018-19,Kharif     ,164.0,94,0.573170731707317
+Koppal,Coconut , 1998-99,Whole Year ,254.0,1211000,4767.71653543307
+Koppal,Coconut , 1999-00,Whole Year ,623.0,2971000,4768.86035313002
+Koppal,Coconut , 2000-01,Whole Year ,672.0,3205000,4769.34523809524
+Koppal,Coconut , 2001-02,Whole Year ,1098.0,5236000,4768.67030965392
+Koppal,Coconut , 2002-03,Whole Year ,492.0,2346000,4768.29268292683
+Koppal,Coconut , 2003-04,Whole Year ,204.0,973000,4769.60784313726
+Koppal,Coconut , 2004-05,Whole Year ,344.0,1640000,4767.44186046512
+Koppal,Coconut , 2005-06,Whole Year ,980.0,4673000,4768.36734693878
+Koppal,Coconut , 2006-07,Whole Year ,628.0,2995000,4769.10828025478
+Koppal,Coconut , 2007-08,Whole Year ,585.0,2979000,5092.30769230769
+Koppal,Coconut , 2008-09,Whole Year ,595.0,4076000,6850.42016806723
+Koppal,Coconut , 2009-10,Whole Year ,618.0,4394000,7110.03236245955
+Koppal,Coconut , 2010-11,Whole Year ,629.0,6013000,9559.61844197138
+Koppal,Coconut , 2011-12,Whole Year ,652.0,6482000,9941.71779141104
+Koppal,Coconut , 2012-13,Whole Year ,652.0,6419000,9845.09202453988
+Koppal,Coconut , 2013-14,Whole Year ,696.0,5522000,7933.90804597701
+Koppal,Coconut , 2014-15,Whole Year ,812.0,7246000,8923.64532019704
+Koppal,Coconut , 2015-16,Whole Year ,813.0,6799000,8362.85362853629
+Koppal,Coconut , 2016-17,Whole Year ,1023.0,7998000,7818.18181818182
+Koppal,Coconut , 2017-18,Whole Year ,1111.0,8785000,7907.29072907291
+Koppal,Coconut , 2018-19,Whole Year ,142.0,1006000,7084.50704225352
+Koppal,Coriander, 1998-99,Whole Year ,413.0,72,0.174334140435835
+Koppal,Coriander, 1999-00,Whole Year ,355.0,62,0.174647887323944
+Koppal,Coriander, 2000-01,Whole Year ,463.0,81,0.174946004319654
+Koppal,Coriander, 2001-02,Whole Year ,170.0,30,0.176470588235294
+Koppal,Coriander, 2002-03,Whole Year ,150.0,26,0.173333333333333
+Koppal,Coriander, 2003-04,Whole Year ,388.0,68,0.175257731958763
+Koppal,Coriander, 2004-05,Whole Year ,824.0,144,0.174757281553398
+Koppal,Coriander, 2005-06,Whole Year ,812.0,141,0.173645320197044
+Koppal,Coriander, 2007-08,Whole Year ,174.0,61,0.350574712643678
+Koppal,Coriander, 2008-09,Whole Year ,452.0,244,0.539823008849557
+Koppal,Coriander, 2014-15,Whole Year ,1225.0,415,0.338775510204082
+Koppal,Coriander, 2015-16,Whole Year ,118.0,46,0.389830508474576
+Koppal,Coriander, 2018-19,Whole Year ,84.0,75,0.892857142857143
+Koppal,Cotton(lint), 1998-99,Kharif     ,19182.0,18430,0.960796580127203
+Koppal,Cotton(lint), 1999-00,Kharif     ,19037.0,14362,0.754425592267689
+Koppal,Cotton(lint), 2000-01,Kharif     ,25417.0,20690,0.814022111185427
+Koppal,Cotton(lint), 2001-02,Kharif     ,35991.0,38735,1.07624128254286
+Koppal,Cotton(lint), 2002-03,Kharif     ,4684.0,4337,0.925918018787361
+Koppal,Cotton(lint), 2003-04,Kharif     ,12569.0,5093,0.405203277905959
+Koppal,Cotton(lint), 2004-05,Kharif     ,29156.0,26932,0.923720674989711
+Koppal,Cotton(lint), 2005-06,Whole Year ,11560.0,4788,0.414186851211073
+Koppal,Cotton(lint), 2006-07,Whole Year ,3779.0,1940,0.51336332363059
+Koppal,Cotton(lint), 2007-08,Whole Year ,12819.0,9164,0.714876355409938
+Koppal,Cotton(lint), 2008-09,Whole Year ,10878.0,15302,1.40669240669241
+Koppal,Cotton(lint), 2009-10,Whole Year ,17514.0,7430,0.424232042937079
+Koppal,Cotton(lint), 2010-11,Kharif     ,2575.0,5108,1.98368932038835
+Koppal,Cotton(lint), 2010-11,Rabi       ,18792.0,23661,1.25909961685824
+Koppal,Cotton(lint), 2011-12,Kharif     ,4252.0,10621,2.49788334901223
+Koppal,Cotton(lint), 2011-12,Rabi       ,6910.0,3128,0.452677279305355
+Koppal,Cotton(lint), 2012-13,Kharif     ,4919.0,15393,3.12929457206749
+Koppal,Cotton(lint), 2012-13,Rabi       ,4310.0,2071,0.480510440835267
+Koppal,Cotton(lint), 2013-14,Kharif     ,4447.0,12077,2.71576343602429
+Koppal,Cotton(lint), 2013-14,Rabi       ,7653.0,14112,1.84398275186202
+Koppal,Cotton(lint), 2014-15,Kharif     ,12128.0,36529,3.01195580474934
+Koppal,Cotton(lint), 2014-15,Rabi       ,10772.0,13182,1.22372818418121
+Koppal,Cotton(lint), 2015-16,Kharif     ,17294.0,11113,0.642592806753788
+Koppal,Cotton(lint), 2015-16,Rabi       ,10471.0,11702,1.11756279247445
+Koppal,Cotton(lint), 2016-17,Kharif     ,1598.0,2411,1.50876095118899
+Koppal,Cotton(lint), 2016-17,Rabi       ,1451.0,300,0.206753962784287
+Koppal,Cotton(lint), 2017-18,Kharif     ,3364.0,10301,3.06212841854935
+Koppal,Cotton(lint), 2017-18,Rabi       ,3242.0,2446,0.754472547809994
+Koppal,Cotton(lint), 2018-19,Kharif     ,6574.0,12453,1.8942804989352
+Koppal,Cotton(lint), 2018-19,Rabi       ,536.0,258,0.48134328358209
+Koppal,Cowpea(Lobia), 2010-11,Kharif     ,3541.0,3021,0.853148828014685
+Koppal,Cowpea(Lobia), 2010-11,Rabi       ,3751.0,991,0.264196214342842
+Koppal,Cowpea(Lobia), 2011-12,Kharif     ,1795.0,694,0.386629526462396
+Koppal,Cowpea(Lobia), 2011-12,Rabi       ,2106.0,744,0.353276353276353
+Koppal,Cowpea(Lobia), 2012-13,Kharif     ,1118.0,300,0.268336314847943
+Koppal,Cowpea(Lobia), 2012-13,Summer     ,1619.0,578,0.357010500308833
+Koppal,Cowpea(Lobia), 2013-14,Kharif     ,1044.0,494,0.473180076628352
+Koppal,Cowpea(Lobia), 2013-14,Summer     ,2956.0,1059,0.358254397834912
+Koppal,Cowpea(Lobia), 2014-15,Kharif     ,2005.0,733,0.365586034912718
+Koppal,Cowpea(Lobia), 2014-15,Summer     ,2467.0,705,0.285772192946899
+Koppal,Cowpea(Lobia), 2015-16,Kharif     ,1086.0,218,0.20073664825046
+Koppal,Cowpea(Lobia), 2015-16,Summer     ,1840.0,434,0.235869565217391
+Koppal,Cowpea(Lobia), 2016-17,Kharif     ,2183.0,1672,0.765918460833715
+Koppal,Cowpea(Lobia), 2016-17,Summer     ,2445.0,406,0.166053169734151
+Koppal,Cowpea(Lobia), 2017-18,Kharif     ,1182.0,266,0.225042301184433
+Koppal,Cowpea(Lobia), 2017-18,Summer     ,1577.0,470,0.298034242232086
+Koppal,Cowpea(Lobia), 2018-19,Kharif     ,1058.0,497,0.469754253308129
+Koppal,Cowpea(Lobia), 2018-19,Summer     ,1308.0,170,0.129969418960245
+Koppal,Dry chillies, 1998-99,Whole Year ,156.0,134,0.858974358974359
+Koppal,Dry chillies, 1999-00,Whole Year ,519.0,627,1.20809248554913
+Koppal,Dry chillies, 2000-01,Whole Year ,715.0,842,1.17762237762238
+Koppal,Dry chillies, 2001-02,Whole Year ,521.0,260,0.499040307101727
+Koppal,Dry chillies, 2002-03,Whole Year ,515.0,251,0.487378640776699
+Koppal,Dry chillies, 2003-04,Whole Year ,1574.0,2575,1.63595933926302
+Koppal,Dry chillies, 2004-05,Whole Year ,561.0,550,0.980392156862745
+Koppal,Dry chillies, 2005-06,Kharif     ,500.0,364,0.728
+Koppal,Dry chillies, 2005-06,Rabi       ,167.0,271,1.62275449101796
+Koppal,Dry chillies, 2005-06,Summer     ,240.0,633,2.6375
+Koppal,Dry chillies, 2006-07,Whole Year ,840.0,1664,1.98095238095238
+Koppal,Dry chillies, 2007-08,Kharif     ,712.0,641,0.900280898876405
+Koppal,Dry chillies, 2007-08,Rabi       ,533.0,930,1.74484052532833
+Koppal,Dry chillies, 2007-08,Summer     ,203.0,687,3.38423645320197
+Koppal,Dry chillies, 2008-09,Kharif     ,730.0,678,0.928767123287671
+Koppal,Dry chillies, 2008-09,Rabi       ,738.0,1251,1.69512195121951
+Koppal,Dry chillies, 2008-09,Summer     ,166.0,545,3.28313253012048
+Koppal,Dry chillies, 2009-10,Rabi       ,767.0,2573,3.35462842242503
+Koppal,Dry chillies, 2009-10,Summer     ,158.0,728,4.60759493670886
+Koppal,Dry chillies, 2010-11,Kharif     ,770.0,1997,2.59350649350649
+Koppal,Dry chillies, 2010-11,Rabi       ,760.0,3430,4.51315789473684
+Koppal,Dry chillies, 2010-11,Summer     ,166.0,505,3.0421686746988
+Koppal,Dry chillies, 2011-12,Kharif     ,774.0,625,0.80749354005168
+Koppal,Dry chillies, 2011-12,Rabi       ,650.0,1659,2.55230769230769
+Koppal,Dry chillies, 2011-12,Summer     ,222.0,777,3.5
+Koppal,Dry chillies, 2012-13,Kharif     ,790.0,724,0.916455696202532
+Koppal,Dry chillies, 2012-13,Rabi       ,655.0,1623,2.47786259541985
+Koppal,Dry chillies, 2012-13,Summer     ,166.0,469,2.82530120481928
+Koppal,Dry chillies, 2013-14,Kharif     ,811.0,899,1.10850801479655
+Koppal,Dry chillies, 2013-14,Rabi       ,713.0,1351,1.89481065918654
+Koppal,Dry chillies, 2013-14,Summer     ,191.0,508,2.65968586387435
+Koppal,Dry chillies, 2014-15,Kharif     ,3999.0,4525,1.13153288322081
+Koppal,Dry chillies, 2014-15,Rabi       ,591.0,1109,1.87648054145516
+Koppal,Dry chillies, 2014-15,Summer     ,204.0,393,1.92647058823529
+Koppal,Dry chillies, 2015-16,Kharif     ,1146.0,994,0.867364746945899
+Koppal,Dry chillies, 2015-16,Rabi       ,277.0,699,2.52346570397112
+Koppal,Dry chillies, 2015-16,Summer     ,804.0,1473,1.83208955223881
+Koppal,Dry chillies, 2016-17,Kharif     ,1126.0,2268,2.01420959147425
+Koppal,Dry chillies, 2016-17,Rabi       ,1199.0,3038,2.53377814845705
+Koppal,Dry chillies, 2016-17,Summer     ,627.0,1418,2.2615629984051
+Koppal,Dry chillies, 2017-18,Kharif     ,1655.0,3113,1.8809667673716
+Koppal,Dry chillies, 2017-18,Rabi       ,357.0,825,2.3109243697479
+Koppal,Dry chillies, 2017-18,Summer     ,222.0,445,2.0045045045045
+Koppal,Dry chillies, 2018-19,Kharif     ,2199.0,2728,1.24056389267849
+Koppal,Garlic, 2018-19,Whole Year ,1.0,7,7
+Koppal,Ginger, 2015-16,Whole Year ,24.0,896,37.3333333333333
+Koppal,Ginger, 2018-19,Whole Year ,1.0,15.4,15.4
+Koppal,Gram, 1998-99,Rabi       ,11179.0,5352,0.478754808122372
+Koppal,Gram, 1999-00,Rabi       ,9148.0,3465,0.378771316134674
+Koppal,Gram, 2000-01,Rabi       ,11735.0,6517,0.555347251810822
+Koppal,Gram, 2001-02,Rabi       ,21333.0,7805,0.365865091642057
+Koppal,Gram, 2002-03,Rabi       ,20762.0,2515,0.121134765436856
+Koppal,Gram, 2003-04,Rabi       ,17881.0,1696,0.0948492813601029
+Koppal,Gram, 2004-05,Rabi       ,4117.0,3723,0.904299247024532
+Koppal,Gram, 2005-06,Rabi       ,16611.0,6486,0.390464150261875
+Koppal,Gram, 2006-07,Kharif     ,4.0,1,0.25
+Koppal,Gram, 2006-07,Rabi       ,17526.0,2288,0.130548898778957
+Koppal,Gram, 2007-08,Rabi       ,17926.0,9311,0.519413142920897
+Koppal,Gram, 2008-09,Rabi       ,24391.0,9162,0.375630355458981
+Koppal,Gram, 2009-10,Kharif     ,6518.0,1319,0.202362687941086
+Koppal,Gram, 2009-10,Rabi       ,4576.0,843,0.184222027972028
+Koppal,Gram, 2010-11,Rabi       ,41074.0,25045,0.609753128499781
+Koppal,Gram, 2011-12,Rabi       ,33152.0,6299,0.19000361969112
+Koppal,Gram, 2012-13,Rabi       ,63187.0,37397,0.591846424106224
+Koppal,Gram, 2013-14,Rabi       ,56132.0,32528,0.579491199315898
+Koppal,Gram, 2014-15,Rabi       ,52053.0,31352,0.602309184869268
+Koppal,Gram, 2015-16,Rabi       ,89794.0,27895,0.310655500367508
+Koppal,Gram, 2016-17,Rabi       ,43728.0,22225,0.508255579948774
+Koppal,Gram, 2017-18,Rabi       ,70673.0,31287,0.442700890014574
+Koppal,Gram, 2018-19,Rabi       ,63150.0,18958,0.300205859065717
+Koppal,Groundnut, 1998-99,Kharif     ,33546.0,13592,0.405174983604603
+Koppal,Groundnut, 1998-99,Rabi       ,19845.0,17929,0.903451751070799
+Koppal,Groundnut, 1999-00,Kharif     ,40810.0,22826,0.559323695172752
+Koppal,Groundnut, 1999-00,Rabi       ,20484.0,19907,0.971831673501269
+Koppal,Groundnut, 2000-01,Kharif     ,34526.0,22654,0.656143196431675
+Koppal,Groundnut, 2000-01,Rabi       ,21225.0,23430,1.10388692579505
+Koppal,Groundnut, 2001-02,Kharif     ,47029.0,43902,0.933509111399349
+Koppal,Groundnut, 2002-03,Kharif     ,30680.0,10837,0.353226857887875
+Koppal,Groundnut, 2002-03,Rabi       ,14398.0,12721,0.883525489651341
+Koppal,Groundnut, 2003-04,Kharif     ,26530.0,13614,0.513154918959668
+Koppal,Groundnut, 2003-04,Rabi       ,16907.0,15082,0.892056544626486
+Koppal,Groundnut, 2004-05,Kharif     ,25682.0,13677,0.532551981932871
+Koppal,Groundnut, 2004-05,Rabi       ,16148.0,8821,0.546259598711915
+Koppal,Groundnut, 2005-06,Kharif     ,29315.0,14847,0.506464267439877
+Koppal,Groundnut, 2005-06,Rabi       ,15624.0,10553,0.675435227854583
+Koppal,Groundnut, 2006-07,Kharif     ,19135.0,2786,0.14559707342566
+Koppal,Groundnut, 2006-07,Rabi       ,13175.0,8198,0.622239089184061
+Koppal,Groundnut, 2007-08,Kharif     ,18185.0,11649,0.640582897992851
+Koppal,Groundnut, 2007-08,Rabi       ,13716.0,11844,0.863517060367454
+Koppal,Groundnut, 2008-09,Kharif     ,23118.0,12154,0.52573752054676
+Koppal,Groundnut, 2008-09,Rabi       ,18791.0,13424,0.714384545793199
+Koppal,Groundnut, 2009-10,Kharif     ,22986.0,7712,0.335508570434177
+Koppal,Groundnut, 2009-10,Rabi       ,25107.0,18032,0.718206077986219
+Koppal,Groundnut, 2010-11,Kharif     ,22818.0,18681,0.818695766500131
+Koppal,Groundnut, 2010-11,Rabi       ,24183.0,22836,0.944299714675599
+Koppal,Groundnut, 2011-12,Kharif     ,18007.0,15435,0.857166657411007
+Koppal,Groundnut, 2011-12,Rabi       ,23893.0,18022,0.75427949608672
+Koppal,Groundnut, 2012-13,Kharif     ,10639.0,6559,0.616505310649497
+Koppal,Groundnut, 2012-13,Summer     ,21722.0,10937,0.503498757020532
+Koppal,Groundnut, 2013-14,Kharif     ,13048.0,11627,0.891094420600858
+Koppal,Groundnut, 2013-14,Summer     ,20324.0,17396,0.85593387128518
+Koppal,Groundnut, 2014-15,Kharif     ,13360.0,10750,0.804640718562874
+Koppal,Groundnut, 2014-15,Summer     ,21705.0,19197,0.884450587422253
+Koppal,Groundnut, 2015-16,Kharif     ,9300.0,5354,0.575698924731183
+Koppal,Groundnut, 2015-16,Summer     ,12974.0,11845,0.912979805765377
+Koppal,Groundnut, 2016-17,Kharif     ,20085.0,10113,0.503510082150859
+Koppal,Groundnut, 2016-17,Summer     ,13541.0,7873,0.58141939295473
+Koppal,Groundnut, 2017-18,Kharif     ,12639.0,15489,1.22549252314265
+Koppal,Groundnut, 2017-18,Summer     ,21555.0,25207,1.16942704708884
+Koppal,Groundnut, 2018-19,Kharif     ,11973.0,5972,0.498788941785684
+Koppal,Groundnut, 2018-19,Summer     ,18825.0,15380,0.816998671978752
+Koppal,Horse-gram, 1998-99,Kharif     ,14113.0,3674,0.260327357755261
+Koppal,Horse-gram, 1998-99,Rabi       ,844.0,389,0.460900473933649
+Koppal,Horse-gram, 1999-00,Kharif     ,10729.0,2273,0.211855718147078
+Koppal,Horse-gram, 1999-00,Rabi       ,3330.0,1433,0.43033033033033
+Koppal,Horse-gram, 2000-01,Kharif     ,10295.0,6445,0.626032054395338
+Koppal,Horse-gram, 2000-01,Rabi       ,1371.0,663,0.483588621444201
+Koppal,Horse-gram, 2001-02,Kharif     ,14561.0,2656,0.182405054597898
+Koppal,Horse-gram, 2001-02,Rabi       ,8324.0,1313,0.157736665064873
+Koppal,Horse-gram, 2002-03,Kharif     ,4295.0,653,0.152037252619325
+Koppal,Horse-gram, 2002-03,Rabi       ,3337.0,694,0.20797123164519
+Koppal,Horse-gram, 2003-04,Kharif     ,10418.0,3563,0.342004223459397
+Koppal,Horse-gram, 2003-04,Rabi       ,462.0,43,0.0930735930735931
+Koppal,Horse-gram, 2004-05,Kharif     ,11050.0,3265,0.295475113122172
+Koppal,Horse-gram, 2004-05,Rabi       ,1404.0,261,0.185897435897436
+Koppal,Horse-gram, 2005-06,Kharif     ,9489.0,3516,0.370534302877015
+Koppal,Horse-gram, 2005-06,Rabi       ,473.0,135,0.285412262156448
+Koppal,Horse-gram, 2006-07,Kharif     ,4958.0,480,0.0968132311415894
+Koppal,Horse-gram, 2006-07,Rabi       ,1317.0,249,0.189066059225513
+Koppal,Horse-gram, 2007-08,Kharif     ,6741.0,2184,0.32398753894081
+Koppal,Horse-gram, 2007-08,Rabi       ,2413.0,656,0.271860754247824
+Koppal,Horse-gram, 2008-09,Kharif     ,5417.0,1441,0.266014399113901
+Koppal,Horse-gram, 2008-09,Rabi       ,5431.0,1171,0.215614067390904
+Koppal,Horse-gram, 2009-10,Kharif     ,6518.0,1319,0.202362687941086
+Koppal,Horse-gram, 2009-10,Rabi       ,4576.0,843,0.184222027972028
+Koppal,Horse-gram, 2010-11,Kharif     ,5462.0,1904,0.34859025997803
+Koppal,Horse-gram, 2010-11,Rabi       ,5285.0,2771,0.524314096499527
+Koppal,Horse-gram, 2011-12,Kharif     ,2072.0,435,0.209942084942085
+Koppal,Horse-gram, 2011-12,Rabi       ,3180.0,214,0.0672955974842767
+Koppal,Horse-gram, 2012-13,Kharif     ,2304.0,703,0.305121527777778
+Koppal,Horse-gram, 2012-13,Rabi       ,4377.0,919,0.209961160612292
+Koppal,Horse-gram, 2013-14,Kharif     ,2129.0,631,0.296383278534523
+Koppal,Horse-gram, 2013-14,Rabi       ,6466.0,1849,0.285957315187133
+Koppal,Horse-gram, 2014-15,Kharif     ,4600.0,1814,0.394347826086956
+Koppal,Horse-gram, 2014-15,Rabi       ,9093.0,4570,0.502584405586715
+Koppal,Horse-gram, 2015-16,Kharif     ,7678.0,2400,0.312581401406616
+Koppal,Horse-gram, 2015-16,Rabi       ,8047.0,1728,0.214738411830496
+Koppal,Horse-gram, 2016-17,Kharif     ,5478.0,1962,0.35815991237678
+Koppal,Horse-gram, 2016-17,Rabi       ,2490.0,248,0.0995983935742972
+Koppal,Horse-gram, 2017-18,Kharif     ,2832.0,1768,0.624293785310734
+Koppal,Horse-gram, 2017-18,Rabi       ,4637.0,2088,0.450291136510675
+Koppal,Horse-gram, 2018-19,Kharif     ,2996.0,1161,0.387516688918558
+Koppal,Horse-gram, 2018-19,Rabi       ,4948.0,1984,0.400970088924818
+Koppal,Jowar, 1998-99,Kharif     ,21650.0,17921,0.827759815242494
+Koppal,Jowar, 1998-99,Rabi       ,39997.0,23824,0.595644673350501
+Koppal,Jowar, 1998-99,Summer     ,1062.0,2817,2.65254237288136
+Koppal,Jowar, 1999-00,Kharif     ,33803.0,31105,0.920184599000089
+Koppal,Jowar, 1999-00,Rabi       ,49096.0,32013,0.652049046765521
+Koppal,Jowar, 1999-00,Summer     ,741.0,1703,2.29824561403509
+Koppal,Jowar, 2000-01,Kharif     ,30061.0,32764,1.0899171684242
+Koppal,Jowar, 2000-01,Rabi       ,39296.0,20578,0.523666530944625
+Koppal,Jowar, 2000-01,Summer     ,612.0,1242,2.02941176470588
+Koppal,Jowar, 2001-02,Kharif     ,8568.0,13610,1.58846872082166
+Koppal,Jowar, 2001-02,Rabi       ,41606.0,18787,0.451545450175455
+Koppal,Jowar, 2001-02,Summer     ,453.0,889,1.96247240618102
+Koppal,Jowar, 2002-03,Kharif     ,23368.0,14414,0.616826429305033
+Koppal,Jowar, 2002-03,Rabi       ,45155.0,6645,0.147159782969771
+Koppal,Jowar, 2002-03,Summer     ,608.0,1005,1.65296052631579
+Koppal,Jowar, 2003-04,Kharif     ,8981.0,6022,0.670526667408975
+Koppal,Jowar, 2003-04,Rabi       ,44476.0,6741,0.15156488892886
+Koppal,Jowar, 2003-04,Summer     ,439.0,1168,2.66059225512528
+Koppal,Jowar, 2004-05,Kharif     ,24020.0,17851,0.743172356369692
+Koppal,Jowar, 2004-05,Rabi       ,36252.0,13485,0.371979476994373
+Koppal,Jowar, 2004-05,Summer     ,3657.0,2904,0.794093519278097
+Koppal,Jowar, 2005-06,Kharif     ,16182.0,22990,1.4207143739958
+Koppal,Jowar, 2005-06,Rabi       ,34012.0,19205,0.564653651652358
+Koppal,Jowar, 2005-06,Summer     ,126.0,138,1.0952380952381
+Koppal,Jowar, 2006-07,Kharif     ,15937.0,10329,0.648114450649432
+Koppal,Jowar, 2006-07,Rabi       ,32385.0,3232,0.099799289794658
+Koppal,Jowar, 2006-07,Summer     ,285.0,298,1.04561403508772
+Koppal,Jowar, 2007-08,Kharif     ,23805.0,26647,1.11938668346986
+Koppal,Jowar, 2007-08,Rabi       ,44010.0,50603,1.1498068620768
+Koppal,Jowar, 2007-08,Summer     ,382.0,899,2.35340314136126
+Koppal,Jowar, 2008-09,Kharif     ,11105.0,10755,0.968482665466006
+Koppal,Jowar, 2008-09,Rabi       ,45576.0,26763,0.587216956292786
+Koppal,Jowar, 2008-09,Summer     ,622.0,769,1.23633440514469
+Koppal,Jowar, 2009-10,Kharif     ,12583.0,8992,0.714614956687594
+Koppal,Jowar, 2009-10,Rabi       ,43766.0,22063,0.504112781611296
+Koppal,Jowar, 2009-10,Summer     ,1527.0,1693,1.1087098886706
+Koppal,Jowar, 2010-11,Kharif     ,11143.0,18498,1.6600556403123
+Koppal,Jowar, 2010-11,Rabi       ,48522.0,32396,0.667655908659989
+Koppal,Jowar, 2010-11,Summer     ,1413.0,1756,1.24274593064402
+Koppal,Jowar, 2011-12,Kharif     ,7293.0,9105,1.24845742492801
+Koppal,Jowar, 2011-12,Rabi       ,23217.0,5545,0.238833613300599
+Koppal,Jowar, 2011-12,Summer     ,1053.0,1590,1.50997150997151
+Koppal,Jowar, 2012-13,Kharif     ,3067.0,4443,1.44864688620802
+Koppal,Jowar, 2012-13,Rabi       ,52338.0,50666,0.968053804119378
+Koppal,Jowar, 2012-13,Summer     ,2226.0,2789,1.2529200359389
+Koppal,Jowar, 2013-14,Kharif     ,3807.0,8767,2.30286314683478
+Koppal,Jowar, 2013-14,Rabi       ,31314.0,25822,0.824615188094782
+Koppal,Jowar, 2013-14,Summer     ,490.0,1001,2.04285714285714
+Koppal,Jowar, 2014-15,Kharif     ,2385.0,4420,1.85324947589099
+Koppal,Jowar, 2014-15,Rabi       ,33480.0,43161,1.28915770609319
+Koppal,Jowar, 2014-15,Summer     ,472.0,998,2.11440677966102
+Koppal,Jowar, 2015-16,Kharif     ,1606.0,1669,1.03922789539228
+Koppal,Jowar, 2015-16,Rabi       ,24077.0,11437,0.475017651700793
+Koppal,Jowar, 2015-16,Summer     ,592.0,746,1.26013513513514
+Koppal,Jowar, 2016-17,Kharif     ,1873.0,1779,0.94981313400961
+Koppal,Jowar, 2016-17,Rabi       ,27294.0,6586,0.241298453872646
+Koppal,Jowar, 2016-17,Summer     ,525.0,561,1.06857142857143
+Koppal,Jowar, 2017-18,Kharif     ,1501.0,3469,2.31112591605596
+Koppal,Jowar, 2017-18,Rabi       ,45345.0,26924,0.59375895909141
+Koppal,Jowar, 2017-18,Summer     ,415.0,861,2.07469879518072
+Koppal,Jowar, 2018-19,Kharif     ,2417.0,3913,1.61894911046752
+Koppal,Jowar, 2018-19,Rabi       ,37078.0,15745,0.42464534225147
+Koppal,Jowar, 2018-19,Summer     ,702.0,1030,1.46723646723647
+Koppal,Linseed, 1998-99,Rabi       ,1424.0,257,0.180477528089888
+Koppal,Linseed, 1999-00,Rabi       ,1470.0,434,0.295238095238095
+Koppal,Linseed, 2000-01,Rabi       ,1674.0,617,0.36857825567503
+Koppal,Linseed, 2001-02,Rabi       ,1389.0,586,0.421886249100072
+Koppal,Linseed, 2002-03,Rabi       ,2013.0,618,0.307004470938897
+Koppal,Linseed, 2003-04,Rabi       ,1784.0,139,0.077914798206278
+Koppal,Linseed, 2004-05,Rabi       ,2070.0,376,0.181642512077295
+Koppal,Linseed, 2005-06,Rabi       ,1724.0,599,0.347447795823666
+Koppal,Linseed, 2006-07,Rabi       ,1406.0,151,0.107396870554765
+Koppal,Linseed, 2007-08,Rabi       ,1473.0,469,0.318397827562797
+Koppal,Linseed, 2008-09,Rabi       ,1546.0,548,0.354463130659767
+Koppal,Linseed, 2009-10,Rabi       ,1952.0,571,0.292520491803279
+Koppal,Linseed, 2010-11,Rabi       ,1660.0,489,0.294578313253012
+Koppal,Linseed, 2011-12,Rabi       ,580.0,74,0.127586206896552
+Koppal,Linseed, 2012-13,Rabi       ,777.0,215,0.276705276705277
+Koppal,Linseed, 2013-14,Rabi       ,1018.0,358,0.351669941060904
+Koppal,Linseed, 2014-15,Rabi       ,780.0,455,0.583333333333333
+Koppal,Linseed, 2015-16,Rabi       ,582.0,88,0.151202749140893
+Koppal,Linseed, 2016-17,Rabi       ,135.0,6,0.0444444444444444
+Koppal,Linseed, 2017-18,Rabi       ,362.0,133,0.367403314917127
+Koppal,Linseed, 2018-19,Rabi       ,121.0,33,0.272727272727273
+Koppal,Maize, 1998-99,Kharif     ,14984.0,54206,3.61759209823812
+Koppal,Maize, 1998-99,Rabi       ,285.0,583,2.04561403508772
+Koppal,Maize, 1998-99,Summer     ,395.0,898,2.27341772151899
+Koppal,Maize, 1999-00,Kharif     ,10064.0,28185,2.80057631160572
+Koppal,Maize, 1999-00,Rabi       ,755.0,1848,2.4476821192053
+Koppal,Maize, 1999-00,Summer     ,647.0,1183,1.82843894899536
+Koppal,Maize, 2000-01,Kharif     ,10493.0,42904,4.08882111884113
+Koppal,Maize, 2000-01,Rabi       ,942.0,2373,2.51910828025478
+Koppal,Maize, 2000-01,Summer     ,294.0,827,2.81292517006803
+Koppal,Maize, 2001-02,Kharif     ,9936.0,32259,3.24667874396135
+Koppal,Maize, 2001-02,Rabi       ,617.0,1520,2.46353322528363
+Koppal,Maize, 2001-02,Summer     ,128.0,337,2.6328125
+Koppal,Maize, 2002-03,Kharif     ,9853.0,21330,2.16482289657972
+Koppal,Maize, 2002-03,Rabi       ,934.0,2387,2.55567451820128
+Koppal,Maize, 2002-03,Summer     ,699.0,1786,2.55507868383405
+Koppal,Maize, 2003-04,Kharif     ,14670.0,36123,2.46237218813906
+Koppal,Maize, 2003-04,Rabi       ,414.0,908,2.19323671497585
+Koppal,Maize, 2003-04,Summer     ,550.0,1385,2.51818181818182
+Koppal,Maize, 2004-05,Kharif     ,15929.0,43116,2.70676125306046
+Koppal,Maize, 2004-05,Rabi       ,437.0,1323,3.02745995423341
+Koppal,Maize, 2004-05,Summer     ,217.0,664,3.05990783410138
+Koppal,Maize, 2005-06,Kharif     ,14497.0,30297,2.08988066496516
+Koppal,Maize, 2005-06,Rabi       ,1420.0,5075,3.57394366197183
+Koppal,Maize, 2005-06,Summer     ,415.0,887,2.13734939759036
+Koppal,Maize, 2006-07,Kharif     ,15344.0,26306,1.71441605839416
+Koppal,Maize, 2006-07,Rabi       ,1928.0,5115,2.65300829875519
+Koppal,Maize, 2006-07,Summer     ,256.0,820,3.203125
+Koppal,Maize, 2007-08,Kharif     ,24263.0,70315,2.89803404360549
+Koppal,Maize, 2007-08,Rabi       ,2365.0,7582,3.20591966173362
+Koppal,Maize, 2007-08,Summer     ,544.0,1756,3.22794117647059
+Koppal,Maize, 2008-09,Kharif     ,23591.0,64894,2.75079479462507
+Koppal,Maize, 2008-09,Rabi       ,3263.0,8790,2.69384002451732
+Koppal,Maize, 2008-09,Summer     ,636.0,1839,2.89150943396226
+Koppal,Maize, 2009-10,Kharif     ,34283.0,44074,1.28559344281422
+Koppal,Maize, 2009-10,Rabi       ,4604.0,10475,2.2751954821894
+Koppal,Maize, 2009-10,Summer     ,2169.0,7222,3.32964499769479
+Koppal,Maize, 2010-11,Kharif     ,39768.0,109285,2.74806376986522
+Koppal,Maize, 2010-11,Rabi       ,5985.0,18457,3.08387635756057
+Koppal,Maize, 2010-11,Summer     ,2434.0,8706,3.57682826622843
+Koppal,Maize, 2011-12,Kharif     ,46264.0,127395,2.75365294829673
+Koppal,Maize, 2011-12,Rabi       ,4077.0,10864,2.66470443953888
+Koppal,Maize, 2011-12,Summer     ,2775.0,9077,3.27099099099099
+Koppal,Maize, 2012-13,Kharif     ,49098.0,132187,2.69230925903295
+Koppal,Maize, 2012-13,Rabi       ,3777.0,11701,3.09796134498279
+Koppal,Maize, 2012-13,Summer     ,3034.0,10079,3.32201713909031
+Koppal,Maize, 2013-14,Kharif     ,59167.0,212637,3.59384454172089
+Koppal,Maize, 2013-14,Rabi       ,6948.0,17808,2.56303972366149
+Koppal,Maize, 2013-14,Summer     ,1725.0,5192,3.00985507246377
+Koppal,Maize, 2014-15,Kharif     ,56712.0,172189,3.03620045140358
+Koppal,Maize, 2014-15,Rabi       ,5486.0,16948,3.08931826467371
+Koppal,Maize, 2014-15,Summer     ,1740.0,4324,2.48505747126437
+Koppal,Maize, 2015-16,Kharif     ,38602.0,43933,1.13810165276411
+Koppal,Maize, 2015-16,Rabi       ,8212.0,13902,1.69288845591817
+Koppal,Maize, 2015-16,Summer     ,1396.0,2606,1.86676217765043
+Koppal,Maize, 2016-17,Kharif     ,55795.0,70073,1.2559010664038
+Koppal,Maize, 2016-17,Rabi       ,3024.0,4186,1.38425925925926
+Koppal,Maize, 2016-17,Summer     ,1523.0,4563,2.99606040709127
+Koppal,Maize, 2017-18,Kharif     ,59661.0,217360,3.6432510350145
+Koppal,Maize, 2017-18,Rabi       ,2770.0,7971,2.87761732851986
+Koppal,Maize, 2017-18,Summer     ,1313.0,4928,3.75323686214775
+Koppal,Maize, 2018-19,Kharif     ,67180.0,88839,1.32240250074427
+Koppal,Maize, 2018-19,Rabi       ,5496.0,12186,2.21724890829694
+Koppal,Maize, 2018-19,Summer     ,614.0,2116,3.44625407166124
+Koppal,Mesta, 2005-06,Whole Year ,40.0,51,1.275
+Koppal,Mesta, 2018-19,Whole Year ,9.0,13,1.44444444444444
+Koppal,Moong(Green Gram), 1998-99,Kharif     ,5849.0,1267,0.216618225337665
+Koppal,Moong(Green Gram), 1999-00,Kharif     ,9101.0,1184,0.130095593890781
+Koppal,Moong(Green Gram), 1999-00,Rabi       ,15.0,4,0.266666666666667
+Koppal,Moong(Green Gram), 2000-01,Kharif     ,9842.0,6059,0.615626905100589
+Koppal,Moong(Green Gram), 2001-02,Kharif     ,3808.0,488,0.128151260504202
+Koppal,Moong(Green Gram), 2002-03,Kharif     ,12527.0,1904,0.151991697932466
+Koppal,Moong(Green Gram), 2002-03,Rabi       ,436.0,76,0.174311926605505
+Koppal,Moong(Green Gram), 2003-04,Kharif     ,5256.0,729,0.138698630136986
+Koppal,Moong(Green Gram), 2003-04,Rabi       ,41.0,12,0.292682926829268
+Koppal,Moong(Green Gram), 2004-05,Kharif     ,19516.0,1316,0.0674318507890961
+Koppal,Moong(Green Gram), 2004-05,Rabi       ,70.0,17,0.242857142857143
+Koppal,Moong(Green Gram), 2005-06,Kharif     ,18108.0,13590,0.750497017892644
+Koppal,Moong(Green Gram), 2006-07,Kharif     ,14479.0,619,0.0427515712411078
+Koppal,Moong(Green Gram), 2007-08,Kharif     ,31503.0,4489,0.142494365615973
+Koppal,Moong(Green Gram), 2008-09,Kharif     ,13398.0,2317,0.172936259143156
+Koppal,Moong(Green Gram), 2009-10,Kharif     ,10235.0,885,0.0864680019540791
+Koppal,Moong(Green Gram), 2010-11,Kharif     ,12049.0,2232,0.185243588679558
+Koppal,Moong(Green Gram), 2011-12,Kharif     ,17867.0,3072,0.171937090725919
+Koppal,Moong(Green Gram), 2012-13,Kharif     ,2163.0,279,0.128987517337032
+Koppal,Moong(Green Gram), 2013-14,Kharif     ,20960.0,3923,0.187166030534351
+Koppal,Moong(Green Gram), 2014-15,Kharif     ,16571.0,2204,0.133003439744131
+Koppal,Moong(Green Gram), 2015-16,Kharif     ,18323.0,783,0.042733176881515
+Koppal,Moong(Green Gram), 2015-16,Summer     ,456.0,144,0.31578947368421
+Koppal,Moong(Green Gram), 2016-17,Kharif     ,27213.0,2016,0.0740822401058318
+Koppal,Moong(Green Gram), 2017-18,Kharif     ,27537.0,5624,0.204234302937865
+Koppal,Moong(Green Gram), 2017-18,Summer     ,69.0,22,0.318840579710145
+Koppal,Moong(Green Gram), 2018-19,Kharif     ,22568.0,4202,0.186192839418646
+Koppal,Niger seed, 1998-99,Kharif     ,1467.0,192,0.130879345603272
+Koppal,Niger seed, 1999-00,Kharif     ,1510.0,197,0.13046357615894
+Koppal,Niger seed, 2000-01,Kharif     ,1761.0,230,0.13060760931289
+Koppal,Niger seed, 2001-02,Kharif     ,2095.0,274,0.130787589498807
+Koppal,Niger seed, 2002-03,Kharif     ,1289.0,168,0.13033359193173
+Koppal,Niger seed, 2003-04,Kharif     ,1130.0,148,0.130973451327434
+Koppal,Niger seed, 2004-05,Kharif     ,1452.0,190,0.130853994490358
+Koppal,Niger seed, 2005-06,Kharif     ,1667.0,218,0.130773845230954
+Koppal,Niger seed, 2006-07,Kharif     ,1406.0,184,0.130867709815078
+Koppal,Niger seed, 2007-08,Kharif     ,1374.0,182,0.132459970887919
+Koppal,Niger seed, 2008-09,Kharif     ,690.0,236,0.342028985507246
+Koppal,Niger seed, 2009-10,Kharif     ,1590.0,491,0.308805031446541
+Koppal,Niger seed, 2010-11,Kharif     ,1320.0,350,0.265151515151515
+Koppal,Niger seed, 2011-12,Kharif     ,808.0,208,0.257425742574257
+Koppal,Niger seed, 2012-13,Kharif     ,548.0,141,0.257299270072993
+Koppal,Niger seed, 2013-14,Kharif     ,395.0,102,0.258227848101266
+Koppal,Niger seed, 2014-15,Kharif     ,1011.0,267,0.264094955489614
+Koppal,Niger seed, 2015-16,Kharif     ,542.0,145,0.267527675276753
+Koppal,Niger seed, 2016-17,Kharif     ,1142.0,204,0.178633975481611
+Koppal,Niger seed, 2017-18,Kharif     ,492.0,106,0.215447154471545
+Koppal,Niger seed, 2018-19,Kharif     ,87.0,20,0.229885057471264
+Koppal,Onion, 1998-99,Kharif     ,416.0,1884,4.52884615384615
+Koppal,Onion, 1998-99,Rabi       ,15.0,154,10.2666666666667
+Koppal,Onion, 1998-99,Summer     ,3.0,35,11.6666666666667
+Koppal,Onion, 1999-00,Whole Year ,1177.0,8912,7.57179269328802
+Koppal,Onion, 2000-01,Whole Year ,939.0,5726,6.09797657082002
+Koppal,Onion, 2001-02,Whole Year ,598.0,5212,8.71571906354515
+Koppal,Onion, 2002-03,Whole Year ,488.0,3461,7.0922131147541
+Koppal,Onion, 2003-04,Whole Year ,593.0,4323,7.29005059021922
+Koppal,Onion, 2004-05,Whole Year ,960.0,7733,8.05520833333333
+Koppal,Onion, 2005-06,Kharif     ,675.0,3761,5.57185185185185
+Koppal,Onion, 2005-06,Rabi       ,690.0,7153,10.3666666666667
+Koppal,Onion, 2005-06,Summer     ,229.0,3916,17.1004366812227
+Koppal,Onion, 2006-07,Whole Year ,1028.0,6512,6.33463035019455
+Koppal,Onion, 2007-08,Kharif     ,3257.0,19416,5.96131409272337
+Koppal,Onion, 2007-08,Rabi       ,2317.0,19509,8.41993957703927
+Koppal,Onion, 2007-08,Summer     ,375.0,3168,8.448
+Koppal,Onion, 2008-09,Kharif     ,919.0,3477,3.78346028291621
+Koppal,Onion, 2008-09,Rabi       ,925.0,6177,6.67783783783784
+Koppal,Onion, 2008-09,Summer     ,189.0,806,4.26455026455026
+Koppal,Onion, 2009-10,Kharif     ,843.0,2977,3.53143534994069
+Koppal,Onion, 2009-10,Rabi       ,1014.0,5723,5.6439842209073
+Koppal,Onion, 2009-10,Summer     ,201.0,1534,7.6318407960199
+Koppal,Onion, 2010-11,Kharif     ,948.0,5306,5.59704641350211
+Koppal,Onion, 2010-11,Rabi       ,982.0,5578,5.68024439918534
+Koppal,Onion, 2010-11,Summer     ,242.0,2575,10.6404958677686
+Koppal,Onion, 2011-12,Kharif     ,3821.0,14861,3.88929599581261
+Koppal,Onion, 2011-12,Rabi       ,863.0,3616,4.19003476245655
+Koppal,Onion, 2011-12,Summer     ,225.0,1386,6.16
+Koppal,Onion, 2012-13,Kharif     ,3821.0,25141,6.57969118031929
+Koppal,Onion, 2012-13,Rabi       ,863.0,4542,5.2630359212051
+Koppal,Onion, 2012-13,Summer     ,242.0,1373,5.67355371900826
+Koppal,Onion, 2013-14,Kharif     ,3906.0,38224,9.78597030209934
+Koppal,Onion, 2013-14,Rabi       ,910.0,6020,6.61538461538462
+Koppal,Onion, 2013-14,Summer     ,237.0,1861,7.85232067510549
+Koppal,Onion, 2014-15,Kharif     ,4178.0,45458,10.8803255146003
+Koppal,Onion, 2014-15,Rabi       ,257.0,1409,5.48249027237354
+Koppal,Onion, 2014-15,Summer     ,215.0,1055,4.90697674418605
+Koppal,Onion, 2015-16,Kharif     ,6695.0,35268,5.26781179985063
+Koppal,Onion, 2015-16,Rabi       ,268.0,1517,5.66044776119403
+Koppal,Onion, 2015-16,Summer     ,292.0,1262,4.32191780821918
+Koppal,Onion, 2016-17,Kharif     ,7536.0,47630,6.32032908704883
+Koppal,Onion, 2016-17,Rabi       ,91.0,1303,14.3186813186813
+Koppal,Onion, 2016-17,Summer     ,289.0,4254,14.719723183391
+Koppal,Onion, 2017-18,Kharif     ,3263.0,36777,11.2709163346614
+Koppal,Onion, 2017-18,Rabi       ,233.0,3304,14.1802575107296
+Koppal,Onion, 2017-18,Summer     ,225.0,2714,12.0622222222222
+Koppal,Onion, 2018-19,Kharif     ,21478.0,123118,5.73228419778378
+Koppal,Onion, 2018-19,Rabi       ,355.0,4707,13.2591549295775
+Koppal,Onion, 2018-19,Summer     ,127.0,1340,10.5511811023622
+Koppal,Other  Rabi pulses, 1999-00,Rabi       ,5215.0,589,0.11294343240652
+Koppal,Other  Rabi pulses, 2000-01,Rabi       ,3040.0,343,0.112828947368421
+Koppal,Other  Rabi pulses, 2001-02,Rabi       ,4306.0,486,0.112865768694844
+Koppal,Other  Rabi pulses, 2002-03,Rabi       ,2132.0,241,0.113039399624765
+Koppal,Other  Rabi pulses, 2003-04,Rabi       ,1468.0,166,0.113079019073569
+Koppal,Other  Rabi pulses, 2004-05,Rabi       ,1461.0,165,0.112936344969199
+Koppal,Other  Rabi pulses, 2005-06,Rabi       ,1249.0,141,0.1128903122498
+Koppal,Other  Rabi pulses, 2006-07,Rabi       ,1815.0,431,0.237465564738292
+Koppal,Other  Rabi pulses, 2007-08,Rabi       ,1751.0,432,0.246716162193033
+Koppal,Other  Rabi pulses, 2008-09,Rabi       ,2355.0,765,0.32484076433121
+Koppal,Other  Rabi pulses, 2009-10,Rabi       ,3241.0,874,0.26966985498303
+Koppal,Other Kharif pulses, 1999-00,Kharif     ,5098.0,627,0.122989407610828
+Koppal,Other Kharif pulses, 2000-01,Kharif     ,5770.0,709,0.122876949740035
+Koppal,Other Kharif pulses, 2001-02,Kharif     ,3955.0,485,0.122629582806574
+Koppal,Other Kharif pulses, 2002-03,Kharif     ,5445.0,672,0.123415977961433
+Koppal,Other Kharif pulses, 2003-04,Kharif     ,2563.0,315,0.122902848224737
+Koppal,Other Kharif pulses, 2004-05,Kharif     ,4758.0,578,0.121479613282892
+Koppal,Other Kharif pulses, 2005-06,Kharif     ,3346.0,405,0.121040047818291
+Koppal,Other Kharif pulses, 2006-07,Kharif     ,3471.0,808,0.232785940651109
+Koppal,Other Kharif pulses, 2007-08,Kharif     ,4089.0,1558,0.381022254830032
+Koppal,Other Kharif pulses, 2008-09,Kharif     ,3165.0,2610,0.824644549763033
+Koppal,Other Kharif pulses, 2009-10,Kharif     ,5160.0,2650,0.513565891472868
+Koppal,Other Kharif pulses, 2010-11,Kharif     ,2170.0,749,0.345161290322581
+Koppal,Other Kharif pulses, 2011-12,Kharif     ,2034.0,634,0.311701081612586
+Koppal,Other Kharif pulses, 2012-13,Kharif     ,830.0,373,0.449397590361446
+Koppal,Other Kharif pulses, 2013-14,Kharif     ,1189.0,487,0.409587888982338
+Koppal,Other Kharif pulses, 2014-15,Kharif     ,1778.0,443,0.249156355455568
+Koppal,Other Kharif pulses, 2015-16,Kharif     ,814.0,585,0.718673218673219
+Koppal,Other Kharif pulses, 2016-17,Kharif     ,2153.0,721,0.334881560613098
+Koppal,Other Kharif pulses, 2017-18,Kharif     ,1297.0,719,0.554356206630686
+Koppal,Other Kharif pulses, 2018-19,Kharif     ,772.0,278,0.360103626943005
+Koppal,Peas & beans (Pulses), 2005-06,Kharif     ,238.0,1455,6.11344537815126
+Koppal,Peas & beans (Pulses), 2005-06,Summer     ,80.0,405,5.0625
+Koppal,Potato, 2004-05,Whole Year ,3.0,50,16.6666666666667
+Koppal,Potato, 2018-19,Kharif     ,4.0,32,8
+Koppal,Ragi, 2018-19,Kharif     ,69.0,83,1.20289855072464
+Koppal,Rapeseed &Mustard, 2004-05,Rabi       ,175.0,49,0.28
+Koppal,Rapeseed &Mustard, 2017-18,Kharif     ,487.0,81,0.166324435318275
+Koppal,Rapeseed &Mustard, 2018-19,Kharif     ,2061.0,410,0.19893255701116
+Koppal,Rice, 1998-99,Kharif     ,35128.0,119948,3.41459804144842
+Koppal,Rice, 1998-99,Summer     ,33719.0,113461,3.3648981286515
+Koppal,Rice, 1999-00,Kharif     ,36461.0,131751,3.61347741422342
+Koppal,Rice, 1999-00,Summer     ,37115.0,128590,3.46463693924289
+Koppal,Rice, 2000-01,Kharif     ,37081.0,124532,3.35837760578194
+Koppal,Rice, 2000-01,Summer     ,36327.0,129035,3.55204118149035
+Koppal,Rice, 2001-02,Kharif     ,37599.0,135034,3.59142530386446
+Koppal,Rice, 2001-02,Summer     ,37126.0,117413,3.16255454398535
+Koppal,Rice, 2002-03,Kharif     ,38244.0,154793,4.04751072063592
+Koppal,Rice, 2002-03,Rabi       ,8.0,13,1.625
+Koppal,Rice, 2002-03,Summer     ,4185.0,13687,3.27048984468339
+Koppal,Rice, 2003-04,Kharif     ,37303.0,153179,4.10634533415543
+Koppal,Rice, 2003-04,Summer     ,5930.0,26966,4.54738617200675
+Koppal,Rice, 2004-05,Kharif     ,40357.0,125369.0205,3.1065
+Koppal,Rice, 2004-05,Summer     ,22100.0,114229,5.16873303167421
+Koppal,Rice, 2005-06,Kharif     ,41650.0,134083,3.21927971188475
+Koppal,Rice, 2005-06,Summer     ,37213.0,135541,3.64230242119689
+Koppal,Rice, 2006-07,Kharif     ,39882.0,141720,3.55348277418384
+Koppal,Rice, 2006-07,Summer     ,36314.0,98424,2.71035964090984
+Koppal,Rice, 2007-08,Kharif     ,38476.0,145069,3.77037633849672
+Koppal,Rice, 2007-08,Summer     ,36714.0,136130,3.70784986653593
+Koppal,Rice, 2008-09,Kharif     ,40332.0,149430.06,3.705
+Koppal,Rice, 2008-09,Summer     ,34891.0,114654,3.28606230833166
+Koppal,Rice, 2009-10,Kharif     ,37107.0,114920.379,3.097
+Koppal,Rice, 2009-10,Summer     ,36848.0,130501,3.54160334346505
+Koppal,Rice, 2010-11,Kharif     ,41275.0,170981,4.14248334342823
+Koppal,Rice, 2010-11,Summer     ,36859.0,152810,4.14579885509645
+Koppal,Rice, 2011-12,Kharif     ,42421.0,161960,3.81792036962825
+Koppal,Rice, 2011-12,Summer     ,33652.0,115410,3.42951384761678
+Koppal,Rice, 2012-13,Kharif     ,41047.0,131451,3.20245084902673
+Koppal,Rice, 2012-13,Summer     ,35833.0,133102,3.71450897217649
+Koppal,Rice, 2013-14,Kharif     ,39740.0,134099,3.37440865626573
+Koppal,Rice, 2013-14,Summer     ,36137.0,128944,3.56819879901486
+Koppal,Rice, 2014-15,Kharif     ,39439.0,145559,3.6907375947666
+Koppal,Rice, 2014-15,Summer     ,35716.0,95208,2.66569604658976
+Koppal,Rice, 2015-16,Kharif     ,40917.0,145767,3.56250458244739
+Koppal,Rice, 2015-16,Summer     ,9836.0,30883,3.13979259861732
+Koppal,Rice, 2016-17,Kharif     ,36777.0,132066,3.59099437148218
+Koppal,Rice, 2016-17,Summer     ,5834.0,10015,1.71666095303394
+Koppal,Rice, 2017-18,Kharif     ,36285.0,171009,4.71293923108723
+Koppal,Rice, 2017-18,Summer     ,17654.0,59689,3.38104678826328
+Koppal,Rice, 2018-19,Kharif     ,60971.0,202555,3.3221531547785
+Koppal,Rice, 2018-19,Summer     ,14214.0,32138,2.26101027156325
+Koppal,Safflower, 1998-99,Rabi       ,7073.0,3454,0.488335925349922
+Koppal,Safflower, 1999-00,Rabi       ,5387.0,4294,0.797104139595322
+Koppal,Safflower, 2000-01,Rabi       ,6708.0,4901,0.73062015503876
+Koppal,Safflower, 2001-02,Rabi       ,7564.0,5957,0.787546271813855
+Koppal,Safflower, 2002-03,Rabi       ,6390.0,2143,0.335367762128326
+Koppal,Safflower, 2003-04,Rabi       ,7480.0,1720,0.229946524064171
+Koppal,Safflower, 2004-05,Rabi       ,7295.0,2772,0.379986291980809
+Koppal,Safflower, 2005-06,Rabi       ,5660.0,2468,0.436042402826855
+Koppal,Safflower, 2006-07,Rabi       ,4231.0,1021,0.241314110139447
+Koppal,Safflower, 2007-08,Rabi       ,6801.0,4161,0.611821790913101
+Koppal,Safflower, 2008-09,Rabi       ,3771.0,1974,0.523468575974543
+Koppal,Safflower, 2009-10,Rabi       ,4326.0,1763,0.407535829865927
+Koppal,Safflower, 2010-11,Rabi       ,4675.0,3700,0.79144385026738
+Koppal,Safflower, 2011-12,Rabi       ,1063.0,616,0.579492003762935
+Koppal,Safflower, 2012-13,Rabi       ,1208.0,831,0.687913907284768
+Koppal,Safflower, 2013-14,Rabi       ,4582.0,4409,0.962243561763422
+Koppal,Safflower, 2014-15,Rabi       ,4308.0,5439,1.2625348189415
+Koppal,Safflower, 2015-16,Rabi       ,1083.0,249,0.229916897506925
+Koppal,Safflower, 2016-17,Rabi       ,805.0,53,0.0658385093167702
+Koppal,Safflower, 2017-18,Rabi       ,1328.0,732,0.551204819277108
+Koppal,Safflower, 2018-19,Rabi       ,551.0,173,0.313974591651543
+Koppal,Sannhamp, 2005-06,Whole Year ,86.0,19,0.22093023255814
+Koppal,Sannhamp, 2018-19,Whole Year ,56.0,14,0.25
+Koppal,Sesamum, 1998-99,Kharif     ,16759.0,2977,0.1776358971299
+Koppal,Sesamum, 1999-00,Kharif     ,8810.0,5047,0.572871736662883
+Koppal,Sesamum, 2000-01,Kharif     ,8461.0,3617,0.427490840326203
+Koppal,Sesamum, 2001-02,Kharif     ,13671.0,5143,0.376197790944335
+Koppal,Sesamum, 2002-03,Kharif     ,6504.0,1427,0.21940344403444
+Koppal,Sesamum, 2003-04,Kharif     ,10867.0,5131,0.472163430569614
+Koppal,Sesamum, 2004-05,Kharif     ,14641.0,5244,0.358172255993443
+Koppal,Sesamum, 2005-06,Kharif     ,13848.0,11827,0.854058347775852
+Koppal,Sesamum, 2006-07,Kharif     ,7724.0,2084,0.269808389435526
+Koppal,Sesamum, 2007-08,Kharif     ,12029.0,5291,0.439853686923269
+Koppal,Sesamum, 2008-09,Kharif     ,4741.0,2247,0.473950643324193
+Koppal,Sesamum, 2009-10,Kharif     ,9123.0,1508,0.165296503343199
+Koppal,Sesamum, 2010-11,Kharif     ,7077.0,3812,0.538646319061749
+Koppal,Sesamum, 2011-12,Kharif     ,5245.0,2322,0.442707340324118
+Koppal,Sesamum, 2012-13,Kharif     ,3402.0,2230,0.655496766607878
+Koppal,Sesamum, 2013-14,Kharif     ,4103.0,5063,1.23397514014136
+Koppal,Sesamum, 2014-15,Kharif     ,10077.0,6902,0.684926069266647
+Koppal,Sesamum, 2015-16,Kharif     ,8197.0,1114,0.135903379285104
+Koppal,Sesamum, 2016-17,Kharif     ,9278.0,4548,0.490191851692175
+Koppal,Sesamum, 2017-18,Kharif     ,4740.0,5602,1.18185654008439
+Koppal,Sesamum, 2018-19,Kharif     ,9022.0,3231,0.358124584349368
+Koppal,Small millets, 1999-00,Kharif     ,5985.0,1561,0.260818713450292
+Koppal,Small millets, 2000-01,Kharif     ,7581.0,3810,0.502572220023744
+Koppal,Small millets, 2001-02,Kharif     ,13683.0,3107,0.227070086969232
+Koppal,Small millets, 2002-03,Kharif     ,2568.0,173,0.0673676012461059
+Koppal,Small millets, 2003-04,Kharif     ,7487.0,9887,1.32055562975825
+Koppal,Small millets, 2004-05,Kharif     ,7425.0,1446,0.194747474747475
+Koppal,Small millets, 2005-06,Kharif     ,6980.0,2235,0.320200573065903
+Koppal,Small millets, 2006-07,Kharif     ,3147.0,466,0.148077534159517
+Koppal,Small millets, 2007-08,Kharif     ,5207.0,1970,0.378336854234684
+Koppal,Small millets, 2009-10,Kharif     ,3472.0,643,0.185195852534562
+Koppal,Small millets, 2010-11,Kharif     ,2885.0,1307,0.453032928942808
+Koppal,Small millets, 2011-12,Kharif     ,2759.0,1035,0.375135918811163
+Koppal,Small millets, 2012-13,Kharif     ,2963.0,1030,0.347620654741816
+Koppal,Small millets, 2013-14,Kharif     ,2533.0,1239,0.489143308330043
+Koppal,Small millets, 2014-15,Kharif     ,2859.0,1019,0.356418328086744
+Koppal,Small millets, 2015-16,Kharif     ,7395.0,941,0.127248140635565
+Koppal,Small millets, 2016-17,Kharif     ,4462.0,971,0.217615419094576
+Koppal,Small millets, 2017-18,Kharif     ,4654.0,2586,0.555651052857757
+Koppal,Small millets, 2018-19,Kharif     ,2291.0,745,0.325185508511567
+Koppal,Soyabean, 2018-19,Kharif     ,14.0,14,1
+Koppal,Sugarcane, 1999-00,Whole Year ,2194.0,220936,100.700091157703
+Koppal,Sugarcane, 2000-01,Whole Year ,1714.0,154688,90.2497082847141
+Koppal,Sugarcane, 2001-02,Whole Year ,1418.0,111809,78.8497884344147
+Koppal,Sugarcane, 2002-03,Whole Year ,668.0,41884,62.7005988023952
+Koppal,Sugarcane, 2007-08,Whole Year ,916.0,77448,84.5502183406114
+Koppal,Sugarcane, 2008-09,Whole Year ,417.0,36050,86.4508393285372
+Koppal,Sugarcane, 2009-10,Whole Year ,334.0,32047,95.9491017964072
+Koppal,Sugarcane, 2010-11,Whole Year ,403.0,39051,96.9007444168735
+Koppal,Sugarcane, 2011-12,Whole Year ,1225.0,111720,91.2
+Koppal,Sugarcane, 2012-13,Whole Year ,2100.0,175560,83.6
+Koppal,Sugarcane, 2013-14,Whole Year ,2593.0,231555,89.3000385653683
+Koppal,Sugarcane, 2014-15,Whole Year ,2383.0,217330,91.2001678556441
+Koppal,Sugarcane, 2015-16,Whole Year ,1789.0,144462,80.7501397428731
+Koppal,Sugarcane, 2016-17,Whole Year ,310.0,21498,69.3483870967742
+Koppal,Sugarcane, 2017-18,Whole Year ,1291.0,121419,94.0503485670023
+Koppal,Sugarcane, 2018-19,Whole Year ,2378.0,203319,85.5
+Koppal,Sunflower, 1998-99,Kharif     ,18863.0,3828,0.202936966548269
+Koppal,Sunflower, 1998-99,Rabi       ,20124.0,5323,0.264510037765852
+Koppal,Sunflower, 1998-99,Summer     ,4030.0,2504,0.621339950372208
+Koppal,Sunflower, 1999-00,Kharif     ,15109.0,6252,0.413793103448276
+Koppal,Sunflower, 1999-00,Rabi       ,19845.0,5439,0.274074074074074
+Koppal,Sunflower, 1999-00,Summer     ,4475.0,2389,0.533854748603352
+Koppal,Sunflower, 2000-01,Kharif     ,7888.0,3938,0.499239350912779
+Koppal,Sunflower, 2000-01,Rabi       ,20169.0,6181,0.306460409539392
+Koppal,Sunflower, 2000-01,Summer     ,4471.0,2752,0.615522254529188
+Koppal,Sunflower, 2001-02,Kharif     ,19687.0,8610,0.437344440493727
+Koppal,Sunflower, 2001-02,Rabi       ,25441.0,8532,0.33536417593648
+Koppal,Sunflower, 2001-02,Summer     ,6801.0,5679,0.835024261138068
+Koppal,Sunflower, 2002-03,Kharif     ,20409.0,8667,0.424665588710863
+Koppal,Sunflower, 2002-03,Rabi       ,39605.0,5729,0.144653452846863
+Koppal,Sunflower, 2002-03,Summer     ,8102.0,4711,0.581461367563565
+Koppal,Sunflower, 2003-04,Kharif     ,27093.0,10489,0.387147971800834
+Koppal,Sunflower, 2003-04,Rabi       ,48159.0,6843,0.142091820843456
+Koppal,Sunflower, 2003-04,Summer     ,7073.0,2862,0.404637353315425
+Koppal,Sunflower, 2004-05,Kharif     ,40378.0,15821,0.391822279459111
+Koppal,Sunflower, 2004-05,Rabi       ,42462.0,12243,0.288328387734916
+Koppal,Sunflower, 2004-05,Summer     ,10667.0,6779,0.635511390269054
+Koppal,Sunflower, 2005-06,Kharif     ,45323.0,18648,0.411446726827439
+Koppal,Sunflower, 2005-06,Rabi       ,62097.0,22727,0.365991915873553
+Koppal,Sunflower, 2005-06,Summer     ,5744.0,4065,0.707694986072423
+Koppal,Sunflower, 2006-07,Kharif     ,62202.0,10211,0.164158708723192
+Koppal,Sunflower, 2006-07,Rabi       ,33711.0,3599,0.106760404615704
+Koppal,Sunflower, 2006-07,Summer     ,6229.0,3349,0.537646492213839
+Koppal,Sunflower, 2007-08,Kharif     ,45873.0,18176,0.396224358555141
+Koppal,Sunflower, 2007-08,Rabi       ,40024.0,10300,0.257345592644413
+Koppal,Sunflower, 2007-08,Summer     ,8670.0,7298,0.841753171856978
+Koppal,Sunflower, 2008-09,Kharif     ,41009.0,14360,0.350167036504182
+Koppal,Sunflower, 2008-09,Rabi       ,42604.0,9216,0.216317716646324
+Koppal,Sunflower, 2008-09,Summer     ,7565.0,5052,0.667812293456709
+Koppal,Sunflower, 2009-10,Kharif     ,35390.0,7901,0.223255156823962
+Koppal,Sunflower, 2009-10,Rabi       ,45771.0,9192,0.200825850429311
+Koppal,Sunflower, 2009-10,Summer     ,2273.0,1885,0.829300483941927
+Koppal,Sunflower, 2010-11,Kharif     ,18208.0,9291,0.510270210896309
+Koppal,Sunflower, 2010-11,Rabi       ,18185.0,7119,0.391476491613968
+Koppal,Sunflower, 2010-11,Summer     ,3558.0,4009,1.12675660483418
+Koppal,Sunflower, 2011-12,Kharif     ,22484.0,11655,0.518368617683686
+Koppal,Sunflower, 2011-12,Rabi       ,10287.0,2499,0.242927967337416
+Koppal,Sunflower, 2011-12,Summer     ,4566.0,4585,1.00416119141481
+Koppal,Sunflower, 2012-13,Kharif     ,20085.0,16829,0.837888971869554
+Koppal,Sunflower, 2012-13,Rabi       ,29673.0,20945,0.705860546624878
+Koppal,Sunflower, 2012-13,Summer     ,3940.0,3814,0.968020304568528
+Koppal,Sunflower, 2013-14,Kharif     ,20508.0,19132,0.932904232494636
+Koppal,Sunflower, 2013-14,Rabi       ,31118.0,21758,0.69920946076226
+Koppal,Sunflower, 2013-14,Summer     ,6182.0,5691,0.920575865415723
+Koppal,Sunflower, 2014-15,Kharif     ,16994.0,12286,0.722961045074732
+Koppal,Sunflower, 2014-15,Rabi       ,26542.0,19516,0.735287468917188
+Koppal,Sunflower, 2014-15,Summer     ,5353.0,5075,0.948066504763684
+Koppal,Sunflower, 2015-16,Kharif     ,15215.0,6851,0.450279329608939
+Koppal,Sunflower, 2015-16,Rabi       ,29759.0,10630,0.357202862999429
+Koppal,Sunflower, 2015-16,Summer     ,4077.0,3370,0.826588177581555
+Koppal,Sunflower, 2016-17,Kharif     ,14314.0,5507,0.384728238088585
+Koppal,Sunflower, 2016-17,Rabi       ,18259.0,1804,0.0988005914891287
+Koppal,Sunflower, 2016-17,Summer     ,1654.0,50,0.030229746070133
+Koppal,Sunflower, 2017-18,Kharif     ,11627.0,11708,1.00696654339038
+Koppal,Sunflower, 2017-18,Rabi       ,14695.0,8683,0.590881252126574
+Koppal,Sunflower, 2017-18,Summer     ,2000.0,2654,1.327
+Koppal,Sunflower, 2018-19,Kharif     ,11784.0,7288,0.61846571622539
+Koppal,Sunflower, 2018-19,Rabi       ,15131.0,4873,0.322054061198863
+Koppal,Sunflower, 2018-19,Summer     ,847.0,413,0.487603305785124
+Koppal,Sweet potato, 1999-00,Whole Year ,10.0,74,7.4
+Koppal,Tobacco, 2018-19,Whole Year ,14.0,12,0.857142857142857
+Koppal,Turmeric, 2005-06,Whole Year ,6.0,32,5.33333333333333
+Koppal,Urad, 1999-00,Kharif     ,45.0,15,0.333333333333333
+Koppal,Urad, 1999-00,Rabi       ,25.0,9,0.36
+Koppal,Urad, 2000-01,Kharif     ,53.0,20,0.377358490566038
+Koppal,Urad, 2000-01,Rabi       ,129.0,45,0.348837209302326
+Koppal,Urad, 2001-02,Kharif     ,3.0,1,0.333333333333333
+Koppal,Urad, 2002-03,Kharif     ,106.0,15,0.141509433962264
+Koppal,Urad, 2002-03,Rabi       ,970.0,114,0.117525773195876
+Koppal,Urad, 2003-04,Kharif     ,34.0,9,0.264705882352941
+Koppal,Urad, 2003-04,Rabi       ,194.0,102,0.525773195876289
+Koppal,Urad, 2004-05,Rabi       ,80.0,28,0.35
+Koppal,Urad, 2006-07,Kharif     ,4.0,1,0.25
+Koppal,Urad, 2006-07,Rabi       ,75.0,39,0.52
+Koppal,Urad, 2007-08,Kharif     ,5.0,5,1
+Koppal,Urad, 2007-08,Rabi       ,100.0,39,0.39
+Koppal,Urad, 2008-09,Kharif     ,20.0,5,0.25
+Koppal,Urad, 2008-09,Rabi       ,121.0,53,0.43801652892562
+Koppal,Urad, 2009-10,Kharif     ,20.0,2,0.1
+Koppal,Urad, 2009-10,Rabi       ,274.0,107,0.390510948905109
+Koppal,Urad, 2010-11,Kharif     ,12.0,4,0.333333333333333
+Koppal,Urad, 2010-11,Rabi       ,239.0,112,0.468619246861925
+Koppal,Urad, 2011-12,Kharif     ,8.0,3,0.375
+Koppal,Urad, 2011-12,Rabi       ,153.0,78,0.509803921568627
+Koppal,Urad, 2013-14,Rabi       ,214.0,122,0.570093457943925
+Koppal,Urad, 2014-15,Rabi       ,208.0,95,0.456730769230769
+Koppal,Urad, 2015-16,Summer     ,1077.0,539,0.500464252553389
+Koppal,Urad, 2016-17,Summer     ,846.0,454,0.536643026004728
+Koppal,Urad, 2017-18,Summer     ,166.0,83,0.5
+Koppal,Urad, 2018-19,Kharif     ,6.0,3,0.5
+Koppal,Urad, 2018-19,Summer     ,722.0,370,0.512465373961219
+Koppal,Wheat, 1998-99,Rabi       ,11287.0,4097,0.362983963852219
+Koppal,Wheat, 1999-00,Rabi       ,10564.0,4909,0.46469140477092
+Koppal,Wheat, 2000-01,Rabi       ,11009.0,5448,0.494867835407394
+Koppal,Wheat, 2001-02,Rabi       ,8872.0,2513,0.283250676284941
+Koppal,Wheat, 2002-03,Rabi       ,12264.0,1899,0.154843444227006
+Koppal,Wheat, 2003-04,Rabi       ,8578.0,920,0.107251107484262
+Koppal,Wheat, 2004-05,Rabi       ,9762.0,4371,0.447756607252612
+Koppal,Wheat, 2005-06,Rabi       ,7681.0,3445,0.448509308683765
+Koppal,Wheat, 2006-07,Rabi       ,4923.0,764,0.155189924842576
+Koppal,Wheat, 2007-08,Rabi       ,8876.0,4599,0.51813880126183
+Koppal,Wheat, 2008-09,Rabi       ,8193.0,3785,0.461979738801416
+Koppal,Wheat, 2009-10,Rabi       ,11267.0,5324,0.47253039850892
+Koppal,Wheat, 2010-11,Rabi       ,9156.0,5958,0.650720838794233
+Koppal,Wheat, 2011-12,Rabi       ,4424.0,1621,0.366410488245931
+Koppal,Wheat, 2012-13,Rabi       ,6540.0,3945,0.603211009174312
+Koppal,Wheat, 2013-14,Rabi       ,6985.0,5932,0.84924838940587
+Koppal,Wheat, 2014-15,Rabi       ,6356.0,8164,1.28445563247325
+Koppal,Wheat, 2015-16,Rabi       ,2757.0,1016,0.368516503445774
+Koppal,Wheat, 2016-17,Rabi       ,2522.0,659,0.261300555114988
+Koppal,Wheat, 2017-18,Rabi       ,6536.0,3508,0.53671970624235
+Koppal,Wheat, 2018-19,Rabi       ,4351.0,2943,0.676396230751551

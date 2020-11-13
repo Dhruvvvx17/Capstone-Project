@@ -1,0 +1,842 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Bijapur,Arecanut, 2018-19,Whole Year ,3.0,27,9
+Bijapur,Arhar/Tur, 1997-98,Kharif     ,20286.0,2428,0.119688455092182
+Bijapur,Arhar/Tur, 1998-99,Kharif     ,14304.0,5191,0.36290548098434
+Bijapur,Arhar/Tur, 1999-00,Kharif     ,20462.0,11197,0.547209461440719
+Bijapur,Arhar/Tur, 2000-01,Kharif     ,30781.0,18013,0.585198661511972
+Bijapur,Arhar/Tur, 2001-02,Kharif     ,11863.0,4339,0.365759082862682
+Bijapur,Arhar/Tur, 2002-03,Kharif     ,18001.0,6037,0.335370257207933
+Bijapur,Arhar/Tur, 2003-04,Kharif     ,21604.0,5418,0.250786891316423
+Bijapur,Arhar/Tur, 2004-05,Kharif     ,36948.0,7055,0.19094402944679
+Bijapur,Arhar/Tur, 2005-06,Kharif     ,38153.0,15404,0.403742824941682
+Bijapur,Arhar/Tur, 2006-07,Kharif     ,48162.0,20818,0.432249491300195
+Bijapur,Arhar/Tur, 2007-08,Kharif     ,78533.0,34394,0.437956018489043
+Bijapur,Arhar/Tur, 2008-09,Kharif     ,48686.0,19287,0.396150844185187
+Bijapur,Arhar/Tur, 2009-10,Kharif     ,104091.0,31050,0.298296682710321
+Bijapur,Arhar/Tur, 2010-11,Kharif     ,189677.0,107215,0.565250399363128
+Bijapur,Arhar/Tur, 2011-12,Kharif     ,102093.0,38601,0.378096441479827
+Bijapur,Arhar/Tur, 2012-13,Kharif     ,86199.0,50689,0.588046265037877
+Bijapur,Arhar/Tur, 2013-14,Kharif     ,180625.0,170564,0.944298961937716
+Bijapur,Arhar/Tur, 2014-15,Kharif     ,187324.0,114783,0.612751169097393
+Bijapur,Arhar/Tur, 2015-16,Kharif     ,135696.0,39576,0.291651927838698
+Bijapur,Arhar/Tur, 2016-17,Kharif     ,388932.0,330320,0.849300134727922
+Bijapur,Arhar/Tur, 2017-18,Kharif     ,262563.0,159638,0.607998842182638
+Bijapur,Arhar/Tur, 2018-19,Kharif     ,520937.0,167273,0.321100248206597
+Bijapur,Bajra, 1997-98,Kharif     ,94756.0,40777,0.430336865211702
+Bijapur,Bajra, 1998-99,Kharif     ,88693.0,64614,0.728512960436562
+Bijapur,Bajra, 1999-00,Kharif     ,114012.0,73692,0.646353015472056
+Bijapur,Bajra, 2000-01,Kharif     ,111741.0,89582,0.801693201242158
+Bijapur,Bajra, 2001-02,Kharif     ,10298.0,5437,0.527966595455428
+Bijapur,Bajra, 2002-03,Kharif     ,55607.0,22679,0.40784433614473
+Bijapur,Bajra, 2003-04,Kharif     ,36571.0,21145,0.578190369418392
+Bijapur,Bajra, 2004-05,Kharif     ,97629.0,64623,0.661924223335279
+Bijapur,Bajra, 2005-06,Kharif     ,83066.0,52471,0.631678424385428
+Bijapur,Bajra, 2006-07,Kharif     ,95656.0,44250,0.462595132558334
+Bijapur,Bajra, 2007-08,Kharif     ,116368.0,74324,0.638697923827857
+Bijapur,Bajra, 2008-09,Kharif     ,33180.0,18521,0.558197709463532
+Bijapur,Bajra, 2009-10,Kharif     ,62057.0,28246,0.455162189599884
+Bijapur,Bajra, 2010-11,Kharif     ,65452.0,45773,0.699336918657948
+Bijapur,Bajra, 2011-12,Kharif     ,60052.0,45322,0.754712582428562
+Bijapur,Bajra, 2012-13,Kharif     ,55438.0,51981,0.937642050579025
+Bijapur,Bajra, 2013-14,Kharif     ,69832.0,75694,1.0839443235193
+Bijapur,Bajra, 2014-15,Kharif     ,48810.0,37281,0.76379840196681
+Bijapur,Bajra, 2015-16,Kharif     ,20156.0,5725,0.284034530660845
+Bijapur,Bajra, 2016-17,Kharif     ,43145.0,49185,1.13999304670298
+Bijapur,Bajra, 2017-18,Kharif     ,25751.0,23216,0.901557221078793
+Bijapur,Bajra, 2018-19,Kharif     ,19373.0,14576,0.752387343209622
+Bijapur,Banana, 1999-00,Whole Year ,1289.0,25517,19.7959658650116
+Bijapur,Banana, 2000-01,Whole Year ,1542.0,29889,19.3832684824903
+Bijapur,Banana, 2002-03,Whole Year ,1512.0,28318,18.728835978836
+Bijapur,Banana, 2003-04,Whole Year ,1868.0,30768,16.4710920770878
+Bijapur,Banana, 2004-05,Whole Year ,520.0,10514,20.2192307692308
+Bijapur,Banana, 2005-06,Whole Year ,582.0,6559,11.2697594501718
+Bijapur,Banana, 2006-07,Whole Year ,1406.0,38697,27.522759601707
+Bijapur,Banana, 2007-08,Whole Year ,1696.0,38201,22.5241745283019
+Bijapur,Banana, 2008-09,Whole Year ,1684.0,41037,24.3687648456057
+Bijapur,Banana, 2009-10,Whole Year ,1932.0,64878,33.5807453416149
+Bijapur,Banana, 2010-11,Whole Year ,1933.0,64912,33.5809622348681
+Bijapur,Banana, 2011-12,Whole Year ,1855.0,64548,34.7967654986523
+Bijapur,Castor seed, 1998-99,Kharif     ,157.0,134,0.853503184713376
+Bijapur,Castor seed, 1999-00,Kharif     ,33.0,25,0.757575757575758
+Bijapur,Castor seed, 2000-01,Kharif     ,45.0,58,1.28888888888889
+Bijapur,Castor seed, 2002-03,Kharif     ,24.0,22,0.916666666666667
+Bijapur,Castor seed, 2003-04,Kharif     ,6.0,5,0.833333333333333
+Bijapur,Castor seed, 2005-06,Kharif     ,8.0,8,1
+Bijapur,Castor seed, 2006-07,Kharif     ,77.0,62,0.805194805194805
+Bijapur,Castor seed, 2007-08,Kharif     ,104.0,70,0.673076923076923
+Bijapur,Castor seed, 2008-09,Kharif     ,104.0,99,0.951923076923077
+Bijapur,Castor seed, 2009-10,Kharif     ,24.0,16,0.666666666666667
+Bijapur,Castor seed, 2010-11,Kharif     ,2.0,2,1
+Bijapur,Castor seed, 2011-12,Kharif     ,5.0,4,0.8
+Bijapur,Coconut , 1998-99,Whole Year ,150.0,717000,4780
+Bijapur,Coconut , 1999-00,Whole Year ,162.0,774000,4777.77777777778
+Bijapur,Coconut , 2000-01,Whole Year ,158.0,755000,4778.48101265823
+Bijapur,Coconut , 2001-02,Whole Year ,413.0,1973000,4777.2397094431
+Bijapur,Coconut , 2002-03,Whole Year ,175.0,836000,4777.14285714286
+Bijapur,Coconut , 2003-04,Whole Year ,206.0,984000,4776.69902912621
+Bijapur,Coconut , 2004-05,Whole Year ,178.0,850000,4775.28089887641
+Bijapur,Coconut , 2005-06,Whole Year ,178.0,850000,4775.28089887641
+Bijapur,Coconut , 2006-07,Whole Year ,189.0,903000,4777.77777777778
+Bijapur,Coconut , 2007-08,Whole Year ,192.0,978000,5093.75
+Bijapur,Coconut , 2008-09,Whole Year ,213.0,1459000,6849.76525821596
+Bijapur,Coconut , 2009-10,Whole Year ,268.0,1906000,7111.94029850746
+Bijapur,Coconut , 2010-11,Whole Year ,281.0,2686000,9558.71886120996
+Bijapur,Coconut , 2011-12,Whole Year ,288.0,2863000,9940.97222222222
+Bijapur,Coconut , 2012-13,Whole Year ,284.0,2796000,9845.07042253521
+Bijapur,Coconut , 2013-14,Whole Year ,293.0,2325000,7935.15358361775
+Bijapur,Coconut , 2014-15,Whole Year ,296.0,2641000,8922.2972972973
+Bijapur,Coconut , 2015-16,Whole Year ,374.0,3128000,8363.63636363636
+Bijapur,Coconut , 2016-17,Whole Year ,366.0,2861000,7816.93989071038
+Bijapur,Coconut , 2017-18,Whole Year ,393.0,3108000,7908.39694656489
+Bijapur,Coconut , 2018-19,Whole Year ,80.0,567000,7087.5
+Bijapur,Coriander, 1997-98,Whole Year ,400.0,38,0.095
+Bijapur,Coriander, 1998-99,Whole Year ,381.0,36,0.0944881889763779
+Bijapur,Coriander, 1999-00,Whole Year ,362.0,34,0.0939226519337016
+Bijapur,Coriander, 2000-01,Whole Year ,506.0,48,0.0948616600790514
+Bijapur,Coriander, 2001-02,Whole Year ,130.0,12,0.0923076923076923
+Bijapur,Coriander, 2002-03,Whole Year ,325.0,31,0.0953846153846154
+Bijapur,Coriander, 2003-04,Whole Year ,26.0,2,0.0769230769230769
+Bijapur,Coriander, 2004-05,Whole Year ,130.0,12,0.0923076923076923
+Bijapur,Coriander, 2005-06,Whole Year ,74.0,7,0.0945945945945946
+Bijapur,Coriander, 2006-07,Whole Year ,88.0,8,0.0909090909090909
+Bijapur,Coriander, 2007-08,Whole Year ,80.0,28,0.35
+Bijapur,Coriander, 2008-09,Whole Year ,75.0,40,0.533333333333333
+Bijapur,Coriander, 2009-10,Whole Year ,199.0,98,0.492462311557789
+Bijapur,Coriander, 2010-11,Whole Year ,226.0,82,0.36283185840708
+Bijapur,Coriander, 2011-12,Whole Year ,101.0,27,0.267326732673267
+Bijapur,Coriander, 2012-13,Whole Year ,99.0,26,0.262626262626263
+Bijapur,Coriander, 2013-14,Whole Year ,58.0,18,0.310344827586207
+Bijapur,Coriander, 2014-15,Whole Year ,112.0,38,0.339285714285714
+Bijapur,Coriander, 2015-16,Whole Year ,151.0,65,0.43046357615894
+Bijapur,Coriander, 2018-19,Whole Year ,123.0,110,0.894308943089431
+Bijapur,Cotton(lint), 1998-99,Kharif     ,8727.0,12667,1.45147244184714
+Bijapur,Cotton(lint), 1999-00,Kharif     ,7198.0,12749,1.77118644067797
+Bijapur,Cotton(lint), 2000-01,Kharif     ,14718.0,27539,1.87111020519092
+Bijapur,Cotton(lint), 2001-02,Kharif     ,11094.0,14634,1.31909140075717
+Bijapur,Cotton(lint), 2002-03,Kharif     ,2851.0,3673,1.28831988775868
+Bijapur,Cotton(lint), 2003-04,Kharif     ,1226.0,1753,1.42985318107667
+Bijapur,Cotton(lint), 2004-05,Kharif     ,3043.0,7663,2.51823858034834
+Bijapur,Cotton(lint), 2005-06,Whole Year ,1863.0,5568,2.98872785829308
+Bijapur,Cotton(lint), 2006-07,Whole Year ,1746.0,3317,1.89977090492554
+Bijapur,Cotton(lint), 2007-08,Whole Year ,4100.0,10326,2.51853658536585
+Bijapur,Cotton(lint), 2008-09,Whole Year ,5553.0,12932,2.32883126238069
+Bijapur,Cotton(lint), 2009-10,Whole Year ,3669.0,7636,2.08122104115563
+Bijapur,Cotton(lint), 2010-11,Kharif     ,9599.0,26525,2.76330867798729
+Bijapur,Cotton(lint), 2010-11,Rabi       ,925.0,1882,2.03459459459459
+Bijapur,Cotton(lint), 2011-12,Kharif     ,11130.0,29346,2.6366576819407
+Bijapur,Cotton(lint), 2011-12,Rabi       ,691.0,672,0.972503617945007
+Bijapur,Cotton(lint), 2012-13,Kharif     ,11247.0,25893,2.30221392371299
+Bijapur,Cotton(lint), 2012-13,Rabi       ,1492.0,1843,1.23525469168901
+Bijapur,Cotton(lint), 2012-13,Summer     ,208.0,577,2.77403846153846
+Bijapur,Cotton(lint), 2013-14,Kharif     ,9881.0,23301,2.35816212933914
+Bijapur,Cotton(lint), 2013-14,Rabi       ,446.0,1201,2.69282511210762
+Bijapur,Cotton(lint), 2013-14,Summer     ,92.0,332,3.60869565217391
+Bijapur,Cotton(lint), 2014-15,Kharif     ,14303.0,32450,2.26875480668391
+Bijapur,Cotton(lint), 2014-15,Rabi       ,224.0,357,1.59375
+Bijapur,Cotton(lint), 2014-15,Summer     ,37.0,70,1.89189189189189
+Bijapur,Cotton(lint), 2015-16,Kharif     ,7578.0,11264,1.48640802322513
+Bijapur,Cotton(lint), 2015-16,Rabi       ,130.0,155,1.19230769230769
+Bijapur,Cotton(lint), 2015-16,Summer     ,9.0,19,2.11111111111111
+Bijapur,Cotton(lint), 2016-17,Kharif     ,10272.0,27322,2.65985202492212
+Bijapur,Cotton(lint), 2016-17,Rabi       ,46.0,15,0.326086956521739
+Bijapur,Cotton(lint), 2017-18,Kharif     ,12003.0,32262,2.68782804298925
+Bijapur,Cotton(lint), 2017-18,Rabi       ,117.0,88,0.752136752136752
+Bijapur,Cotton(lint), 2018-19,Kharif     ,34297.0,59029,1.72111263375805
+Bijapur,Cotton(lint), 2018-19,Rabi       ,272.0,131,0.481617647058824
+Bijapur,Cowpea(Lobia), 2010-11,Kharif     ,878.0,275,0.313211845102506
+Bijapur,Cowpea(Lobia), 2010-11,Rabi       ,335.0,88,0.262686567164179
+Bijapur,Cowpea(Lobia), 2011-12,Kharif     ,735.0,156,0.212244897959184
+Bijapur,Cowpea(Lobia), 2011-12,Rabi       ,196.0,69,0.352040816326531
+Bijapur,Cowpea(Lobia), 2012-13,Kharif     ,252.0,76,0.301587301587302
+Bijapur,Cowpea(Lobia), 2012-13,Rabi       ,206.0,69,0.33495145631068
+Bijapur,Cowpea(Lobia), 2012-13,Summer     ,154.0,55,0.357142857142857
+Bijapur,Cowpea(Lobia), 2013-14,Kharif     ,249.0,58,0.232931726907631
+Bijapur,Cowpea(Lobia), 2013-14,Rabi       ,14.0,6,0.428571428571429
+Bijapur,Cowpea(Lobia), 2013-14,Summer     ,181.0,71,0.392265193370166
+Bijapur,Cowpea(Lobia), 2014-15,Kharif     ,285.0,32,0.112280701754386
+Bijapur,Cowpea(Lobia), 2014-15,Summer     ,152.0,56,0.368421052631579
+Bijapur,Cowpea(Lobia), 2015-16,Kharif     ,142.0,7,0.0492957746478873
+Bijapur,Cowpea(Lobia), 2015-16,Summer     ,216.0,65,0.300925925925926
+Bijapur,Cowpea(Lobia), 2016-17,Kharif     ,274.0,210,0.766423357664234
+Bijapur,Cowpea(Lobia), 2017-18,Kharif     ,89.0,20,0.224719101123595
+Bijapur,Cowpea(Lobia), 2017-18,Summer     ,56.0,17,0.303571428571429
+Bijapur,Cowpea(Lobia), 2018-19,Kharif     ,12.0,5,0.416666666666667
+Bijapur,Cowpea(Lobia), 2018-19,Rabi       ,220.0,62,0.281818181818182
+Bijapur,Cowpea(Lobia), 2018-19,Summer     ,33.0,4,0.121212121212121
+Bijapur,Dry chillies, 1997-98,Kharif     ,2131.0,2996,1.40591271703426
+Bijapur,Dry chillies, 1997-98,Rabi       ,300.0,1364,4.54666666666667
+Bijapur,Dry chillies, 1998-99,Whole Year ,2276.0,1637,0.719244288224956
+Bijapur,Dry chillies, 1999-00,Whole Year ,1793.0,2158,1.20356943669827
+Bijapur,Dry chillies, 2000-01,Whole Year ,2163.0,2447,1.13129912159038
+Bijapur,Dry chillies, 2001-02,Whole Year ,1894.0,2641,1.39440337909187
+Bijapur,Dry chillies, 2002-03,Whole Year ,1362.0,927,0.680616740088106
+Bijapur,Dry chillies, 2003-04,Whole Year ,533.0,483,0.906191369606004
+Bijapur,Dry chillies, 2004-05,Whole Year ,1479.0,1467,0.991886409736308
+Bijapur,Dry chillies, 2005-06,Kharif     ,937.0,681,0.726787620064034
+Bijapur,Dry chillies, 2005-06,Rabi       ,227.0,300,1.3215859030837
+Bijapur,Dry chillies, 2005-06,Summer     ,121.0,319,2.63636363636364
+Bijapur,Dry chillies, 2006-07,Whole Year ,1002.0,2179,2.17465069860279
+Bijapur,Dry chillies, 2007-08,Kharif     ,795.0,1130,1.42138364779874
+Bijapur,Dry chillies, 2007-08,Rabi       ,492.0,735,1.49390243902439
+Bijapur,Dry chillies, 2007-08,Summer     ,350.0,1185,3.38571428571429
+Bijapur,Dry chillies, 2008-09,Kharif     ,592.0,1013,1.71114864864865
+Bijapur,Dry chillies, 2008-09,Rabi       ,552.0,686,1.24275362318841
+Bijapur,Dry chillies, 2008-09,Summer     ,161.0,528,3.27950310559006
+Bijapur,Dry chillies, 2009-10,Rabi       ,613.0,975,1.5905383360522
+Bijapur,Dry chillies, 2009-10,Summer     ,208.0,958,4.60576923076923
+Bijapur,Dry chillies, 2010-11,Kharif     ,1117.0,2159,1.93285586392122
+Bijapur,Dry chillies, 2010-11,Rabi       ,483.0,1066,2.20703933747412
+Bijapur,Dry chillies, 2010-11,Summer     ,231.0,703,3.04329004329004
+Bijapur,Dry chillies, 2011-12,Kharif     ,1048.0,1212,1.15648854961832
+Bijapur,Dry chillies, 2011-12,Rabi       ,248.0,315,1.27016129032258
+Bijapur,Dry chillies, 2011-12,Summer     ,145.0,508,3.50344827586207
+Bijapur,Dry chillies, 2012-13,Kharif     ,941.0,646,0.686503719447396
+Bijapur,Dry chillies, 2012-13,Rabi       ,349.0,465,1.3323782234957
+Bijapur,Dry chillies, 2012-13,Summer     ,131.0,370,2.82442748091603
+Bijapur,Dry chillies, 2013-14,Kharif     ,947.0,723,0.763463569165787
+Bijapur,Dry chillies, 2013-14,Rabi       ,535.0,454,0.848598130841121
+Bijapur,Dry chillies, 2013-14,Summer     ,386.0,1026,2.6580310880829
+Bijapur,Dry chillies, 2014-15,Kharif     ,1003.0,899,0.896311066799601
+Bijapur,Dry chillies, 2014-15,Rabi       ,636.0,517,0.812893081761006
+Bijapur,Dry chillies, 2014-15,Summer     ,418.0,805,1.92583732057416
+Bijapur,Dry chillies, 2015-16,Kharif     ,1137.0,1848,1.62532981530343
+Bijapur,Dry chillies, 2015-16,Rabi       ,743.0,918,1.23553162853297
+Bijapur,Dry chillies, 2015-16,Summer     ,230.0,178,0.773913043478261
+Bijapur,Dry chillies, 2016-17,Kharif     ,829.0,2082,2.51145958986731
+Bijapur,Dry chillies, 2016-17,Rabi       ,525.0,656,1.24952380952381
+Bijapur,Dry chillies, 2016-17,Summer     ,138.0,264,1.91304347826087
+Bijapur,Dry chillies, 2017-18,Kharif     ,769.0,1430,1.85955786736021
+Bijapur,Dry chillies, 2017-18,Rabi       ,557.0,612,1.09874326750449
+Bijapur,Dry chillies, 2017-18,Summer     ,129.0,198,1.53488372093023
+Bijapur,Dry chillies, 2018-19,Kharif     ,1879.0,5867,3.12240553485897
+Bijapur,Garlic, 1997-98,Whole Year ,152.0,126,0.828947368421053
+Bijapur,Garlic, 1998-99,Whole Year ,136.0,113,0.830882352941176
+Bijapur,Garlic, 1999-00,Whole Year ,182.0,151,0.82967032967033
+Bijapur,Garlic, 2000-01,Whole Year ,387.0,321,0.829457364341085
+Bijapur,Garlic, 2002-03,Whole Year ,582.0,482,0.828178694158076
+Bijapur,Garlic, 2003-04,Whole Year ,200.0,166,0.83
+Bijapur,Garlic, 2004-05,Whole Year ,209.0,173,0.827751196172249
+Bijapur,Garlic, 2005-06,Whole Year ,243.0,201,0.82716049382716
+Bijapur,Garlic, 2006-07,Whole Year ,316.0,262,0.829113924050633
+Bijapur,Garlic, 2007-08,Whole Year ,405.0,1392,3.43703703703704
+Bijapur,Garlic, 2008-09,Whole Year ,464.0,1021,2.20043103448276
+Bijapur,Garlic, 2009-10,Whole Year ,563.0,1604,2.84902309058615
+Bijapur,Garlic, 2010-11,Whole Year ,260.0,797,3.06538461538462
+Bijapur,Garlic, 2011-12,Whole Year ,409.0,1181,2.88753056234719
+Bijapur,Garlic, 2012-13,Whole Year ,682.0,1969,2.88709677419355
+Bijapur,Garlic, 2013-14,Whole Year ,471.0,1481,3.14437367303609
+Bijapur,Garlic, 2014-15,Whole Year ,448.0,1379,3.078125
+Bijapur,Garlic, 2015-16,Whole Year ,581.0,1745,3.00344234079174
+Bijapur,Garlic, 2016-17,Whole Year ,415.0,1108,2.66987951807229
+Bijapur,Garlic, 2017-18,Whole Year ,370.0,947,2.55945945945946
+Bijapur,Garlic, 2018-19,Whole Year ,294.0,1479,5.03061224489796
+Bijapur,Ginger, 2018-19,Whole Year ,6.0,92.3,15.3833333333333
+Bijapur,Gram, 1998-99,Rabi       ,48080.0,29390,0.611272878535774
+Bijapur,Gram, 1999-00,Rabi       ,39763.0,31992,0.80456705982949
+Bijapur,Gram, 2000-01,Rabi       ,35955.0,21932,0.609984703101099
+Bijapur,Gram, 2001-02,Rabi       ,55212.0,35884,0.649931174382381
+Bijapur,Gram, 2002-03,Rabi       ,62900.0,35391,0.562655007949126
+Bijapur,Gram, 2003-04,Rabi       ,62451.0,14071,0.225312645113769
+Bijapur,Gram, 2004-05,Rabi       ,49658.0,25453,0.512565951105562
+Bijapur,Gram, 2005-06,Rabi       ,52600.0,21590,0.410456273764259
+Bijapur,Gram, 2006-07,Rabi       ,129903.0,54110,0.416541573327791
+Bijapur,Gram, 2007-08,Rabi       ,101469.0,67976,0.669918891484099
+Bijapur,Gram, 2008-09,Rabi       ,129551.0,79653,0.614838943736444
+Bijapur,Gram, 2009-10,Kharif     ,7343.0,1207,0.16437423396432
+Bijapur,Gram, 2009-10,Rabi       ,1762.0,403,0.228717366628831
+Bijapur,Gram, 2010-11,Rabi       ,156207.0,106149,0.679540609575755
+Bijapur,Gram, 2011-12,Rabi       ,119379.0,34199,0.286474170498999
+Bijapur,Gram, 2012-13,Rabi       ,181651.0,112515,0.619402040175942
+Bijapur,Gram, 2013-14,Rabi       ,154574.0,104701,0.677351947934323
+Bijapur,Gram, 2014-15,Rabi       ,171009.0,115021,0.672602026793911
+Bijapur,Gram, 2015-16,Rabi       ,322020.0,77398,0.24035153096081
+Bijapur,Gram, 2016-17,Rabi       ,162683.0,91338,0.561447723486781
+Bijapur,Gram, 2017-18,Rabi       ,249354.0,183824,0.737200927195874
+Bijapur,Gram, 2018-19,Rabi       ,268725.0,123815,0.460749837194158
+Bijapur,Groundnut, 1997-98,Kharif     ,61771.0,18424,0.298262938919558
+Bijapur,Groundnut, 1997-98,Rabi       ,19465.0,15322,0.787156434626252
+Bijapur,Groundnut, 1998-99,Kharif     ,56125.0,14096,0.251153674832962
+Bijapur,Groundnut, 1998-99,Rabi       ,10311.0,10716,1.03927844050044
+Bijapur,Groundnut, 1999-00,Kharif     ,50061.0,23332,0.466071392900661
+Bijapur,Groundnut, 1999-00,Rabi       ,6738.0,4545,0.67453250222618
+Bijapur,Groundnut, 2000-01,Kharif     ,51040.0,22311,0.437127742946708
+Bijapur,Groundnut, 2000-01,Rabi       ,6293.0,4215,0.669791832194502
+Bijapur,Groundnut, 2001-02,Kharif     ,29243.0,23060,0.788564784734808
+Bijapur,Groundnut, 2002-03,Kharif     ,41506.0,14866,0.358165084566087
+Bijapur,Groundnut, 2002-03,Rabi       ,12470.0,10342,0.82935044105854
+Bijapur,Groundnut, 2003-04,Kharif     ,30537.0,9002,0.294789926973835
+Bijapur,Groundnut, 2003-04,Rabi       ,14450.0,8195,0.567128027681661
+Bijapur,Groundnut, 2004-05,Kharif     ,61493.0,18306,0.297692420275478
+Bijapur,Groundnut, 2004-05,Rabi       ,19959.0,12723,0.637456786412145
+Bijapur,Groundnut, 2005-06,Kharif     ,62927.0,26248,0.417118248128784
+Bijapur,Groundnut, 2005-06,Rabi       ,20471.0,11532,0.563333496165307
+Bijapur,Groundnut, 2006-07,Kharif     ,53744.0,17762,0.330492706162548
+Bijapur,Groundnut, 2006-07,Rabi       ,15928.0,8489,0.53296082370668
+Bijapur,Groundnut, 2007-08,Kharif     ,64522.0,25628,0.397197854995195
+Bijapur,Groundnut, 2007-08,Rabi       ,20458.0,17103,0.836005474630951
+Bijapur,Groundnut, 2008-09,Kharif     ,25669.0,13304,0.518290545015388
+Bijapur,Groundnut, 2008-09,Rabi       ,23796.0,13971,0.587115481593545
+Bijapur,Groundnut, 2009-10,Kharif     ,43260.0,14284,0.330189551548775
+Bijapur,Groundnut, 2009-10,Rabi       ,34355.0,23107,0.67259496434289
+Bijapur,Groundnut, 2010-11,Kharif     ,32521.0,13183,0.405368838596599
+Bijapur,Groundnut, 2010-11,Rabi       ,35970.0,24433,0.679260494856825
+Bijapur,Groundnut, 2011-12,Kharif     ,21544.0,6184,0.28704047530635
+Bijapur,Groundnut, 2011-12,Rabi       ,20206.0,10922,0.540532515094526
+Bijapur,Groundnut, 2012-13,Kharif     ,14208.0,8814,0.62035472972973
+Bijapur,Groundnut, 2012-13,Summer     ,25711.0,18002,0.700167243592237
+Bijapur,Groundnut, 2013-14,Kharif     ,17700.0,12763,0.721073446327684
+Bijapur,Groundnut, 2013-14,Summer     ,16606.0,12431,0.748584848849813
+Bijapur,Groundnut, 2014-15,Kharif     ,19413.0,12633,0.650749497759233
+Bijapur,Groundnut, 2014-15,Summer     ,22331.0,15168,0.679235143970266
+Bijapur,Groundnut, 2015-16,Kharif     ,9518.0,2667,0.280205925614625
+Bijapur,Groundnut, 2015-16,Summer     ,15261.0,6901,0.452198414258568
+Bijapur,Groundnut, 2016-17,Kharif     ,21470.0,15216,0.708709827666511
+Bijapur,Groundnut, 2016-17,Summer     ,22531.0,14897,0.66117793262616
+Bijapur,Groundnut, 2017-18,Kharif     ,22845.0,16972,0.742919676077916
+Bijapur,Groundnut, 2017-18,Summer     ,25029.0,20140,0.804666586759359
+Bijapur,Groundnut, 2018-19,Kharif     ,7437.0,3949,0.530993680247412
+Bijapur,Groundnut, 2018-19,Summer     ,6737.0,4423,0.656523675226362
+Bijapur,Horse-gram, 1997-98,Kharif     ,19447.0,3473,0.178587957011364
+Bijapur,Horse-gram, 1997-98,Rabi       ,7659.0,3143,0.410366888627758
+Bijapur,Horse-gram, 1998-99,Kharif     ,25876.0,8874,0.342943267893028
+Bijapur,Horse-gram, 1998-99,Rabi       ,2402.0,696,0.289758534554538
+Bijapur,Horse-gram, 1999-00,Kharif     ,21934.0,5209,0.237485182821191
+Bijapur,Horse-gram, 1999-00,Rabi       ,2306.0,335,0.145273200346921
+Bijapur,Horse-gram, 2000-01,Kharif     ,16226.0,6906,0.425613213361272
+Bijapur,Horse-gram, 2000-01,Rabi       ,1536.0,623,0.405598958333333
+Bijapur,Horse-gram, 2001-02,Kharif     ,5284.0,1742,0.329674489023467
+Bijapur,Horse-gram, 2001-02,Rabi       ,4423.0,1580,0.357223603888763
+Bijapur,Horse-gram, 2002-03,Kharif     ,9833.0,2242,0.228007729075562
+Bijapur,Horse-gram, 2002-03,Rabi       ,3001.0,2452,0.817060979673442
+Bijapur,Horse-gram, 2003-04,Kharif     ,6247.0,1056,0.169041139747079
+Bijapur,Horse-gram, 2003-04,Rabi       ,1704.0,100,0.0586854460093897
+Bijapur,Horse-gram, 2004-05,Kharif     ,19297.0,10174,0.527232212260973
+Bijapur,Horse-gram, 2004-05,Rabi       ,1356.0,528,0.389380530973451
+Bijapur,Horse-gram, 2005-06,Kharif     ,14983.0,6078,0.405659747714076
+Bijapur,Horse-gram, 2005-06,Rabi       ,1167.0,706,0.60497000856898
+Bijapur,Horse-gram, 2006-07,Kharif     ,14568.0,4055,0.278349807797913
+Bijapur,Horse-gram, 2006-07,Rabi       ,1595.0,947,0.593730407523511
+Bijapur,Horse-gram, 2007-08,Kharif     ,14767.0,5415,0.366696011376718
+Bijapur,Horse-gram, 2007-08,Rabi       ,713.0,166,0.232819074333801
+Bijapur,Horse-gram, 2008-09,Kharif     ,2780.0,932,0.335251798561151
+Bijapur,Horse-gram, 2008-09,Rabi       ,933.0,197,0.211146838156484
+Bijapur,Horse-gram, 2009-10,Kharif     ,7343.0,1207,0.16437423396432
+Bijapur,Horse-gram, 2009-10,Rabi       ,1762.0,403,0.228717366628831
+Bijapur,Horse-gram, 2010-11,Kharif     ,9294.0,2481,0.266946417043254
+Bijapur,Horse-gram, 2010-11,Rabi       ,618.0,223,0.36084142394822
+Bijapur,Horse-gram, 2011-12,Kharif     ,5565.0,1211,0.217610062893082
+Bijapur,Horse-gram, 2011-12,Rabi       ,300.0,48,0.16
+Bijapur,Horse-gram, 2012-13,Kharif     ,2825.0,499,0.176637168141593
+Bijapur,Horse-gram, 2012-13,Rabi       ,66.0,9,0.136363636363636
+Bijapur,Horse-gram, 2013-14,Kharif     ,3896.0,1081,0.277464065708419
+Bijapur,Horse-gram, 2013-14,Rabi       ,65.0,7,0.107692307692308
+Bijapur,Horse-gram, 2014-15,Kharif     ,3105.0,587,0.189049919484702
+Bijapur,Horse-gram, 2015-16,Kharif     ,513.0,38,0.0740740740740741
+Bijapur,Horse-gram, 2016-17,Kharif     ,151.0,51,0.337748344370861
+Bijapur,Horse-gram, 2017-18,Kharif     ,657.0,358,0.544901065449011
+Bijapur,Horse-gram, 2018-19,Kharif     ,198.0,64,0.323232323232323
+Bijapur,Jowar, 1997-98,Kharif     ,10562.0,16812,1.59174398788108
+Bijapur,Jowar, 1997-98,Rabi       ,510692.0,263237,0.515451583341819
+Bijapur,Jowar, 1997-98,Summer     ,29.0,72,2.48275862068966
+Bijapur,Jowar, 1998-99,Kharif     ,1374.0,2583,1.87991266375546
+Bijapur,Jowar, 1998-99,Rabi       ,293441.0,201599,0.687017151659107
+Bijapur,Jowar, 1998-99,Summer     ,190.0,504,2.65263157894737
+Bijapur,Jowar, 1999-00,Kharif     ,1420.0,3298,2.32253521126761
+Bijapur,Jowar, 1999-00,Rabi       ,333059.0,248024,0.744684875652662
+Bijapur,Jowar, 1999-00,Summer     ,107.0,246,2.29906542056075
+Bijapur,Jowar, 2000-01,Kharif     ,1046.0,2564,2.45124282982792
+Bijapur,Jowar, 2000-01,Rabi       ,324024.0,212993,0.657337110831296
+Bijapur,Jowar, 2000-01,Summer     ,22.0,45,2.04545454545455
+Bijapur,Jowar, 2001-02,Kharif     ,265.0,339,1.27924528301887
+Bijapur,Jowar, 2001-02,Rabi       ,321559.0,237752,0.73937286780964
+Bijapur,Jowar, 2001-02,Summer     ,104.0,204,1.96153846153846
+Bijapur,Jowar, 2002-03,Kharif     ,238.0,457,1.92016806722689
+Bijapur,Jowar, 2002-03,Rabi       ,344126.0,230764,0.670579961990666
+Bijapur,Jowar, 2002-03,Summer     ,2.0,3,1.5
+Bijapur,Jowar, 2003-04,Kharif     ,103.0,183,1.77669902912621
+Bijapur,Jowar, 2003-04,Rabi       ,228540.0,105257,0.460562702371576
+Bijapur,Jowar, 2003-04,Summer     ,16.0,43,2.6875
+Bijapur,Jowar, 2004-05,Kharif     ,246.0,495,2.01219512195122
+Bijapur,Jowar, 2004-05,Rabi       ,244191.0,146124,0.59840043244837
+Bijapur,Jowar, 2005-06,Kharif     ,146.0,264,1.80821917808219
+Bijapur,Jowar, 2005-06,Rabi       ,237840.0,201726,0.848158425832492
+Bijapur,Jowar, 2006-07,Kharif     ,58.0,134,2.31034482758621
+Bijapur,Jowar, 2006-07,Rabi       ,223328.0,193348,0.865757988250466
+Bijapur,Jowar, 2007-08,Kharif     ,487.0,995,2.04312114989733
+Bijapur,Jowar, 2007-08,Rabi       ,227144.0,259424,1.14211249251576
+Bijapur,Jowar, 2008-09,Kharif     ,343.0,715,2.08454810495627
+Bijapur,Jowar, 2008-09,Rabi       ,226381.0,234211,1.03458770833241
+Bijapur,Jowar, 2009-10,Kharif     ,43.0,45,1.04651162790698
+Bijapur,Jowar, 2009-10,Rabi       ,200679.0,162018,0.807349049975334
+Bijapur,Jowar, 2010-11,Rabi       ,190629.0,190910,1.0014740674294
+Bijapur,Jowar, 2011-12,Rabi       ,167299.0,100039,0.597965319577523
+Bijapur,Jowar, 2012-13,Rabi       ,232476.0,255747,1.10010065555154
+Bijapur,Jowar, 2013-14,Rabi       ,165998.0,198542,1.19605055482596
+Bijapur,Jowar, 2014-15,Rabi       ,144817.0,134137,0.926251752211412
+Bijapur,Jowar, 2015-16,Rabi       ,176980.0,97684,0.551949372810487
+Bijapur,Jowar, 2016-17,Rabi       ,95544.0,92038,0.963304864774345
+Bijapur,Jowar, 2017-18,Rabi       ,145997.0,140223,0.960451242148811
+Bijapur,Jowar, 2018-19,Rabi       ,149508.0,97718,0.653597131926051
+Bijapur,Linseed, 1998-99,Rabi       ,6394.0,2284,0.3572098842665
+Bijapur,Linseed, 1999-00,Rabi       ,7190.0,2910,0.404728789986092
+Bijapur,Linseed, 2000-01,Rabi       ,5337.0,2484,0.465430016863406
+Bijapur,Linseed, 2001-02,Rabi       ,6271.0,1829,0.291660022324988
+Bijapur,Linseed, 2002-03,Rabi       ,5006.0,1831,0.365761086695965
+Bijapur,Linseed, 2003-04,Rabi       ,3324.0,38,0.0114320096269555
+Bijapur,Linseed, 2004-05,Rabi       ,4338.0,1039,0.239511295527893
+Bijapur,Linseed, 2005-06,Rabi       ,4104.0,1622,0.395224171539961
+Bijapur,Linseed, 2006-07,Rabi       ,3572.0,1659,0.46444568868981
+Bijapur,Linseed, 2007-08,Rabi       ,5093.0,1727,0.339092872570194
+Bijapur,Linseed, 2008-09,Rabi       ,5898.0,1967,0.333502882332994
+Bijapur,Linseed, 2009-10,Rabi       ,4209.0,1196,0.284153005464481
+Bijapur,Linseed, 2010-11,Rabi       ,3209.0,1326,0.41321283889062
+Bijapur,Linseed, 2011-12,Rabi       ,3962.0,508,0.128218071680969
+Bijapur,Linseed, 2012-13,Rabi       ,1481.0,236,0.159351789331533
+Bijapur,Linseed, 2013-14,Rabi       ,1345.0,367,0.272862453531598
+Bijapur,Linseed, 2014-15,Rabi       ,864.0,177,0.204861111111111
+Bijapur,Linseed, 2015-16,Rabi       ,1065.0,81,0.076056338028169
+Bijapur,Linseed, 2016-17,Rabi       ,3.0,1,0.333333333333333
+Bijapur,Linseed, 2017-18,Rabi       ,261.0,90,0.344827586206897
+Bijapur,Linseed, 2018-19,Rabi       ,333.0,69,0.207207207207207
+Bijapur,Maize, 1997-98,Kharif     ,37593.0,132035,3.51222302024313
+Bijapur,Maize, 1997-98,Rabi       ,15892.0,35590,2.23949156808457
+Bijapur,Maize, 1997-98,Summer     ,2758.0,6624,2.40174039158811
+Bijapur,Maize, 1998-99,Kharif     ,5751.0,21373,3.71639714832203
+Bijapur,Maize, 1998-99,Rabi       ,4216.0,9629,2.28391840607211
+Bijapur,Maize, 1998-99,Summer     ,2203.0,4918,2.23241034952338
+Bijapur,Maize, 1999-00,Kharif     ,10145.0,25550,2.51848201084278
+Bijapur,Maize, 1999-00,Rabi       ,5473.0,14709,2.68755709848346
+Bijapur,Maize, 1999-00,Summer     ,1283.0,2345,1.82774746687451
+Bijapur,Maize, 2000-01,Kharif     ,9338.0,29016,3.10730349111159
+Bijapur,Maize, 2000-01,Rabi       ,5709.0,15652,2.74163601331231
+Bijapur,Maize, 2000-01,Summer     ,890.0,2503,2.8123595505618
+Bijapur,Maize, 2001-02,Kharif     ,3310.0,6986,2.11057401812689
+Bijapur,Maize, 2001-02,Rabi       ,5812.0,12641,2.17498279421886
+Bijapur,Maize, 2001-02,Summer     ,1260.0,3314,2.63015873015873
+Bijapur,Maize, 2002-03,Kharif     ,6193.0,13395,2.16292588406265
+Bijapur,Maize, 2002-03,Rabi       ,5606.0,13495,2.40724224045665
+Bijapur,Maize, 2002-03,Summer     ,1202.0,2855,2.37520798668885
+Bijapur,Maize, 2003-04,Kharif     ,4262.0,11570,2.7146879399343
+Bijapur,Maize, 2003-04,Rabi       ,4453.0,8706,1.95508645856726
+Bijapur,Maize, 2003-04,Summer     ,842.0,1880,2.23277909738717
+Bijapur,Maize, 2004-05,Kharif     ,13607.0,38971,2.86404056735504
+Bijapur,Maize, 2004-05,Rabi       ,4776.0,6547,1.37081239530988
+Bijapur,Maize, 2004-05,Summer     ,1053.0,1902,1.80626780626781
+Bijapur,Maize, 2005-06,Kharif     ,19434.0,53467,2.75120922095297
+Bijapur,Maize, 2005-06,Rabi       ,6588.0,13600,2.06435944140862
+Bijapur,Maize, 2005-06,Summer     ,1066.0,2076,1.94746716697936
+Bijapur,Maize, 2006-07,Kharif     ,22120.0,45226,2.04457504520796
+Bijapur,Maize, 2006-07,Rabi       ,6967.0,17519,2.51456868092436
+Bijapur,Maize, 2006-07,Summer     ,2251.0,5158,2.29142603287428
+Bijapur,Maize, 2007-08,Kharif     ,45259.0,134598,2.97394993261009
+Bijapur,Maize, 2007-08,Rabi       ,7451.0,21787,2.92403704200778
+Bijapur,Maize, 2007-08,Summer     ,3547.0,9506,2.68001127713561
+Bijapur,Maize, 2008-09,Kharif     ,27843.0,77229,2.77373127895701
+Bijapur,Maize, 2008-09,Rabi       ,13677.0,29871,2.18403158587409
+Bijapur,Maize, 2008-09,Summer     ,3591.0,8020,2.2333611807296
+Bijapur,Maize, 2009-10,Kharif     ,47123.0,63432,1.34609426394754
+Bijapur,Maize, 2009-10,Rabi       ,10641.0,19237,1.80781881402124
+Bijapur,Maize, 2009-10,Summer     ,6794.0,13573,1.99779216956138
+Bijapur,Maize, 2010-11,Kharif     ,58432.0,161639,2.76627532858708
+Bijapur,Maize, 2010-11,Rabi       ,11971.0,30069,2.51182023222788
+Bijapur,Maize, 2010-11,Summer     ,5593.0,13847,2.47577328803862
+Bijapur,Maize, 2011-12,Kharif     ,67424.0,239977,3.55922223540579
+Bijapur,Maize, 2011-12,Rabi       ,11094.0,38458,3.46655850009014
+Bijapur,Maize, 2011-12,Summer     ,3372.0,9046,2.68268090154211
+Bijapur,Maize, 2012-13,Kharif     ,53818.0,166214,3.08844624475083
+Bijapur,Maize, 2012-13,Rabi       ,14422.0,48392,3.35542920538067
+Bijapur,Maize, 2012-13,Summer     ,4006.0,13720,3.42486270594109
+Bijapur,Maize, 2013-14,Kharif     ,69222.0,249891,3.60999393256479
+Bijapur,Maize, 2013-14,Rabi       ,8703.0,27921,3.20820406756291
+Bijapur,Maize, 2013-14,Summer     ,3460.0,13848,4.00231213872832
+Bijapur,Maize, 2014-15,Kharif     ,54990.0,175215,3.18630660120022
+Bijapur,Maize, 2014-15,Rabi       ,7579.0,22824,3.01147908695079
+Bijapur,Maize, 2014-15,Summer     ,3445.0,10358,3.0066763425254
+Bijapur,Maize, 2015-16,Kharif     ,27783.0,46189,1.6624914516071
+Bijapur,Maize, 2015-16,Rabi       ,9884.0,17183,1.73846620801295
+Bijapur,Maize, 2015-16,Summer     ,2540.0,5084,2.00157480314961
+Bijapur,Maize, 2016-17,Kharif     ,56915.0,208221,3.65845559167179
+Bijapur,Maize, 2016-17,Rabi       ,3533.0,11385,3.22247381828474
+Bijapur,Maize, 2016-17,Summer     ,2371.0,5268,2.22184732180515
+Bijapur,Maize, 2017-18,Kharif     ,43347.0,160230,3.6964495812859
+Bijapur,Maize, 2017-18,Rabi       ,4719.0,15328,3.24814579360034
+Bijapur,Maize, 2017-18,Summer     ,2454.0,5889,2.39975550122249
+Bijapur,Maize, 2018-19,Kharif     ,44174.0,114649,2.59539548150496
+Bijapur,Maize, 2018-19,Rabi       ,1124.0,2142,1.90569395017794
+Bijapur,Maize, 2018-19,Summer     ,513.0,593,1.15594541910331
+Bijapur,Mesta, 2016-17,Whole Year ,32.0,37,1.15625
+Bijapur,Mesta, 2018-19,Whole Year ,5.0,7,1.4
+Bijapur,Moong(Green Gram), 1998-99,Kharif     ,20519.0,1696,0.0826551001510795
+Bijapur,Moong(Green Gram), 1998-99,Rabi       ,5.0,2,0.4
+Bijapur,Moong(Green Gram), 1999-00,Kharif     ,38888.0,13337,0.342959267640403
+Bijapur,Moong(Green Gram), 1999-00,Rabi       ,1.0,1,1
+Bijapur,Moong(Green Gram), 2000-01,Kharif     ,29794.0,10699,0.359099147479358
+Bijapur,Moong(Green Gram), 2001-02,Kharif     ,1515.0,245,0.161716171617162
+Bijapur,Moong(Green Gram), 2001-02,Rabi       ,4.0,1,0.25
+Bijapur,Moong(Green Gram), 2002-03,Kharif     ,20307.0,1485,0.0731274929827153
+Bijapur,Moong(Green Gram), 2003-04,Kharif     ,15239.0,709,0.0465253625565982
+Bijapur,Moong(Green Gram), 2004-05,Kharif     ,35543.0,5943,0.167205919590355
+Bijapur,Moong(Green Gram), 2005-06,Kharif     ,6905.0,840,0.121650977552498
+Bijapur,Moong(Green Gram), 2006-07,Kharif     ,26354.0,1402,0.0531987554071488
+Bijapur,Moong(Green Gram), 2007-08,Kharif     ,44707.0,7900,0.176706108663073
+Bijapur,Moong(Green Gram), 2008-09,Kharif     ,3598.0,34,0.009449694274597
+Bijapur,Moong(Green Gram), 2009-10,Kharif     ,24110.0,1328,0.0550808793031937
+Bijapur,Moong(Green Gram), 2010-11,Kharif     ,18761.0,2994,0.159586375992751
+Bijapur,Moong(Green Gram), 2011-12,Kharif     ,9241.0,1247,0.134942105832702
+Bijapur,Moong(Green Gram), 2012-13,Kharif     ,2269.0,75,0.0330542089026003
+Bijapur,Moong(Green Gram), 2013-14,Kharif     ,6811.0,1061,0.155777418881222
+Bijapur,Moong(Green Gram), 2014-15,Kharif     ,5197.0,523,0.100634981720223
+Bijapur,Moong(Green Gram), 2015-16,Kharif     ,4173.0,159,0.0381020848310568
+Bijapur,Moong(Green Gram), 2016-17,Kharif     ,12913.0,2981,0.230852629133431
+Bijapur,Moong(Green Gram), 2017-18,Kharif     ,8522.0,996,0.116873973245717
+Bijapur,Moong(Green Gram), 2018-19,Kharif     ,5691.0,735,0.129151291512915
+Bijapur,Niger seed, 1998-99,Kharif     ,450.0,68,0.151111111111111
+Bijapur,Niger seed, 1999-00,Kharif     ,742.0,112,0.150943396226415
+Bijapur,Niger seed, 2000-01,Kharif     ,897.0,136,0.151616499442586
+Bijapur,Niger seed, 2001-02,Kharif     ,218.0,33,0.151376146788991
+Bijapur,Niger seed, 2002-03,Kharif     ,421.0,64,0.152019002375297
+Bijapur,Niger seed, 2003-04,Kharif     ,129.0,20,0.155038759689922
+Bijapur,Niger seed, 2004-05,Kharif     ,836.0,127,0.151913875598086
+Bijapur,Niger seed, 2005-06,Kharif     ,252.0,38,0.150793650793651
+Bijapur,Niger seed, 2006-07,Kharif     ,1053.0,159,0.150997150997151
+Bijapur,Niger seed, 2007-08,Kharif     ,1257.0,236,0.187748607796341
+Bijapur,Niger seed, 2008-09,Kharif     ,137.0,26,0.18978102189781
+Bijapur,Niger seed, 2009-10,Kharif     ,870.0,215,0.247126436781609
+Bijapur,Niger seed, 2010-11,Kharif     ,1091.0,338,0.30980751604033
+Bijapur,Niger seed, 2011-12,Kharif     ,342.0,68,0.198830409356725
+Bijapur,Niger seed, 2012-13,Kharif     ,139.0,28,0.201438848920863
+Bijapur,Niger seed, 2013-14,Kharif     ,321.0,70,0.218068535825545
+Bijapur,Niger seed, 2014-15,Kharif     ,178.0,47,0.264044943820225
+Bijapur,Niger seed, 2015-16,Kharif     ,95.0,24,0.252631578947368
+Bijapur,Niger seed, 2016-17,Kharif     ,47.0,9,0.191489361702128
+Bijapur,Niger seed, 2018-19,Kharif     ,4.0,1,0.25
+Bijapur,Onion, 1998-99,Kharif     ,4970.0,13886,2.79396378269618
+Bijapur,Onion, 1998-99,Rabi       ,1859.0,19819,10.6611081226466
+Bijapur,Onion, 1998-99,Summer     ,281.0,1918,6.82562277580071
+Bijapur,Onion, 1999-00,Whole Year ,7341.0,78353,10.6733415066067
+Bijapur,Onion, 2000-01,Whole Year ,6059.0,34109,5.62947681135501
+Bijapur,Onion, 2001-02,Whole Year ,10862.0,133258,12.2682747192046
+Bijapur,Onion, 2002-03,Whole Year ,8982.0,100995,11.2441549766199
+Bijapur,Onion, 2003-04,Whole Year ,3923.0,23241,5.92429263318889
+Bijapur,Onion, 2004-05,Whole Year ,5436.0,52131,9.58995584988963
+Bijapur,Onion, 2005-06,Kharif     ,4631.0,35460,7.6570935003239
+Bijapur,Onion, 2005-06,Rabi       ,1925.0,11197,5.81662337662338
+Bijapur,Onion, 2005-06,Summer     ,734.0,13347,18.1839237057221
+Bijapur,Onion, 2006-07,Whole Year ,9176.0,52655,5.73833914559721
+Bijapur,Onion, 2007-08,Kharif     ,11900.0,65716,5.52235294117647
+Bijapur,Onion, 2007-08,Rabi       ,3473.0,23742,6.8361646991074
+Bijapur,Onion, 2007-08,Summer     ,1816.0,18204,10.0242290748899
+Bijapur,Onion, 2008-09,Kharif     ,4022.0,16193,4.02610641471905
+Bijapur,Onion, 2008-09,Rabi       ,4982.0,22907,4.59795262946608
+Bijapur,Onion, 2008-09,Summer     ,841.0,3443,4.09393579072533
+Bijapur,Onion, 2009-10,Kharif     ,10288.0,18140,1.76321928460342
+Bijapur,Onion, 2009-10,Rabi       ,4632.0,18020,3.89032815198618
+Bijapur,Onion, 2009-10,Summer     ,895.0,7231,8.07932960893855
+Bijapur,Onion, 2010-11,Kharif     ,8831.0,34925,3.95481825387838
+Bijapur,Onion, 2010-11,Rabi       ,5439.0,32382,5.95366795366795
+Bijapur,Onion, 2010-11,Summer     ,1116.0,11187,10.0241935483871
+Bijapur,Onion, 2011-12,Kharif     ,13439.0,50455,3.75437160503014
+Bijapur,Onion, 2011-12,Rabi       ,4624.0,25373,5.48724048442907
+Bijapur,Onion, 2011-12,Summer     ,1261.0,7486,5.93655828707375
+Bijapur,Onion, 2012-13,Kharif     ,12364.0,50472,4.0821740537043
+Bijapur,Onion, 2012-13,Rabi       ,3892.0,23586,6.0601233299075
+Bijapur,Onion, 2012-13,Summer     ,1566.0,9047,5.77713920817369
+Bijapur,Onion, 2013-14,Kharif     ,11224.0,75002,6.68228795438346
+Bijapur,Onion, 2013-14,Rabi       ,4276.0,27989,6.5456033676333
+Bijapur,Onion, 2013-14,Summer     ,2351.0,14433,6.13908974904296
+Bijapur,Onion, 2014-15,Kharif     ,8824.0,46298,5.24682683590209
+Bijapur,Onion, 2014-15,Rabi       ,5373.0,23781,4.42601898380793
+Bijapur,Onion, 2014-15,Summer     ,2471.0,9918,4.01375961149332
+Bijapur,Onion, 2015-16,Kharif     ,5709.0,13429,2.35225083201962
+Bijapur,Onion, 2015-16,Rabi       ,6333.0,16389,2.58787304594979
+Bijapur,Onion, 2015-16,Summer     ,1349.0,3825,2.83543365455893
+Bijapur,Onion, 2016-17,Kharif     ,3438.0,41708,12.131471785922
+Bijapur,Onion, 2016-17,Rabi       ,3398.0,61676,18.1506768687463
+Bijapur,Onion, 2016-17,Summer     ,1209.0,20888,17.277088502895
+Bijapur,Onion, 2017-18,Kharif     ,2651.0,31045,11.7106752168993
+Bijapur,Onion, 2017-18,Rabi       ,4402.0,60470,13.7369377555657
+Bijapur,Onion, 2017-18,Summer     ,855.0,12309,14.3964912280702
+Bijapur,Onion, 2018-19,Kharif     ,15665.0,178804,11.4142355569741
+Bijapur,Onion, 2018-19,Rabi       ,1645.0,20724,12.5981762917933
+Bijapur,Onion, 2018-19,Summer     ,655.0,7726,11.7954198473282
+Bijapur,Other  Rabi pulses, 1999-00,Rabi       ,220.0,29,0.131818181818182
+Bijapur,Other  Rabi pulses, 2000-01,Rabi       ,10.0,1,0.1
+Bijapur,Other  Rabi pulses, 2001-02,Rabi       ,7.0,1,0.142857142857143
+Bijapur,Other  Rabi pulses, 2002-03,Rabi       ,60.0,8,0.133333333333333
+Bijapur,Other  Rabi pulses, 2004-05,Rabi       ,92.0,12,0.130434782608696
+Bijapur,Other  Rabi pulses, 2005-06,Rabi       ,156.0,21,0.134615384615385
+Bijapur,Other  Rabi pulses, 2006-07,Rabi       ,8.0,2,0.25
+Bijapur,Other  Rabi pulses, 2007-08,Rabi       ,123.0,34,0.276422764227642
+Bijapur,Other  Rabi pulses, 2008-09,Rabi       ,894.0,347,0.388143176733781
+Bijapur,Other  Rabi pulses, 2009-10,Rabi       ,346.0,71,0.205202312138728
+Bijapur,Other  Rabi pulses, 2010-11,Rabi       ,18.0,7,0.388888888888889
+Bijapur,Other  Rabi pulses, 2013-14,Rabi       ,11.0,9,0.818181818181818
+Bijapur,Other  Rabi pulses, 2015-16,Rabi       ,1.0,1,1
+Bijapur,Other  Rabi pulses, 2018-19,Rabi       ,3.0,2,0.666666666666667
+Bijapur,Other Kharif pulses, 1999-00,Kharif     ,12168.0,4195,0.344756738987508
+Bijapur,Other Kharif pulses, 2000-01,Kharif     ,13405.0,4622,0.344796717642671
+Bijapur,Other Kharif pulses, 2001-02,Kharif     ,4208.0,1454,0.345532319391635
+Bijapur,Other Kharif pulses, 2002-03,Kharif     ,7620.0,2629,0.34501312335958
+Bijapur,Other Kharif pulses, 2003-04,Kharif     ,5492.0,1903,0.346504005826657
+Bijapur,Other Kharif pulses, 2004-05,Kharif     ,17278.0,5874.52,0.34
+Bijapur,Other Kharif pulses, 2005-06,Kharif     ,12677.0,4384,0.345823144277037
+Bijapur,Other Kharif pulses, 2006-07,Kharif     ,12006.0,4411,0.367399633516575
+Bijapur,Other Kharif pulses, 2007-08,Kharif     ,11820.0,4074,0.344670050761421
+Bijapur,Other Kharif pulses, 2008-09,Kharif     ,1003.0,884,0.88135593220339
+Bijapur,Other Kharif pulses, 2009-10,Kharif     ,6735.0,2151,0.319376391982183
+Bijapur,Other Kharif pulses, 2010-11,Kharif     ,5734.0,1726,0.301011510289501
+Bijapur,Other Kharif pulses, 2011-12,Kharif     ,4243.0,830,0.195616309215178
+Bijapur,Other Kharif pulses, 2012-13,Kharif     ,1370.0,294,0.214598540145985
+Bijapur,Other Kharif pulses, 2013-14,Kharif     ,2657.0,684,0.257433195333082
+Bijapur,Other Kharif pulses, 2014-15,Kharif     ,2828.0,482,0.17043847241867
+Bijapur,Other Kharif pulses, 2015-16,Kharif     ,368.0,80,0.217391304347826
+Bijapur,Other Kharif pulses, 2016-17,Kharif     ,754.0,101,0.13395225464191
+Bijapur,Other Kharif pulses, 2017-18,Kharif     ,324.0,72,0.222222222222222
+Bijapur,Other Kharif pulses, 2018-19,Kharif     ,348.0,148,0.425287356321839
+Bijapur,Peas & beans (Pulses), 1998-99,Kharif     ,28.0,257,9.17857142857143
+Bijapur,Peas & beans (Pulses), 2001-02,Whole Year ,26.0,170,6.53846153846154
+Bijapur,Peas & beans (Pulses), 2005-06,Kharif     ,20.0,122,6.1
+Bijapur,Peas & beans (Pulses), 2010-11,Kharif     ,34.0,303,8.91176470588235
+Bijapur,Peas & beans (Pulses), 2011-12,Kharif     ,28.0,250,8.92857142857143
+Bijapur,Potato, 2014-15,Rabi       ,2.0,31,15.5
+Bijapur,Potato, 2014-15,Summer     ,22.0,302,13.7272727272727
+Bijapur,Potato, 2015-16,Rabi       ,6.0,90,15
+Bijapur,Potato, 2018-19,Kharif     ,38.0,301,7.92105263157895
+Bijapur,Ragi, 2018-19,Kharif     ,76.0,91,1.19736842105263
+Bijapur,Rice, 1997-98,Kharif     ,450.0,635,1.41111111111111
+Bijapur,Rice, 1998-99,Kharif     ,394.0,541,1.37309644670051
+Bijapur,Rice, 1999-00,Kharif     ,365.0,506,1.38630136986301
+Bijapur,Rice, 2000-01,Kharif     ,341.0,529,1.55131964809384
+Bijapur,Rice, 2001-02,Kharif     ,4.0,6,1.5
+Bijapur,Rice, 2002-03,Kharif     ,15.0,16,1.06666666666667
+Bijapur,Rice, 2003-04,Kharif     ,28.0,31,1.10714285714286
+Bijapur,Rice, 2004-05,Kharif     ,29.0,47.1105,1.6245
+Bijapur,Rice, 2004-05,Rabi       ,1.0,2,2
+Bijapur,Rice, 2005-06,Kharif     ,77.0,137,1.77922077922078
+Bijapur,Rice, 2005-06,Rabi       ,14.0,23,1.64285714285714
+Bijapur,Rice, 2006-07,Kharif     ,34.0,73,2.14705882352941
+Bijapur,Rice, 2006-07,Rabi       ,10.0,17,1.7
+Bijapur,Rice, 2007-08,Kharif     ,20.0,45,2.25
+Bijapur,Rice, 2008-09,Kharif     ,12.0,37.05,3.0875
+Bijapur,Rice, 2009-10,Kharif     ,27.0,76.95,2.85
+Bijapur,Rice, 2010-11,Kharif     ,71.0,228,3.2112676056338
+Bijapur,Rice, 2011-12,Kharif     ,88.0,283,3.21590909090909
+Bijapur,Rice, 2012-13,Kharif     ,97.0,247,2.54639175257732
+Bijapur,Rice, 2013-14,Kharif     ,52.0,154,2.96153846153846
+Bijapur,Rice, 2014-15,Kharif     ,50.0,153,3.06
+Bijapur,Rice, 2015-16,Kharif     ,51.0,138,2.70588235294118
+Bijapur,Rice, 2016-17,Kharif     ,14.0,39,2.78571428571429
+Bijapur,Rice, 2017-18,Kharif     ,30.0,86,2.86666666666667
+Bijapur,Rice, 2018-19,Kharif     ,91.0,259,2.84615384615385
+Bijapur,Safflower, 1998-99,Rabi       ,11372.0,6266,0.55100246218783
+Bijapur,Safflower, 1999-00,Rabi       ,11719.0,8049,0.686833347555252
+Bijapur,Safflower, 2000-01,Rabi       ,11056.0,7121,0.644084659913169
+Bijapur,Safflower, 2001-02,Rabi       ,10368.0,6481,0.625096450617284
+Bijapur,Safflower, 2002-03,Rabi       ,9490.0,4931,0.519599578503688
+Bijapur,Safflower, 2003-04,Rabi       ,9079.0,1656,0.182398942614825
+Bijapur,Safflower, 2004-05,Rabi       ,5644.0,3217,0.569985825655563
+Bijapur,Safflower, 2005-06,Rabi       ,4690.0,1568,0.334328358208955
+Bijapur,Safflower, 2006-07,Rabi       ,8426.0,3442,0.408497507714218
+Bijapur,Safflower, 2007-08,Rabi       ,6885.0,1975,0.286855482933914
+Bijapur,Safflower, 2008-09,Rabi       ,10224.0,4983,0.487382629107981
+Bijapur,Safflower, 2009-10,Rabi       ,7410.0,3393,0.457894736842105
+Bijapur,Safflower, 2010-11,Rabi       ,5868.0,2581,0.439843217450579
+Bijapur,Safflower, 2011-12,Rabi       ,7976.0,1387,0.173896690070211
+Bijapur,Safflower, 2012-13,Rabi       ,3868.0,1121,0.289813857290589
+Bijapur,Safflower, 2013-14,Rabi       ,3257.0,959,0.29444273871661
+Bijapur,Safflower, 2014-15,Rabi       ,2631.0,980,0.372481946028126
+Bijapur,Safflower, 2015-16,Rabi       ,13809.0,1063,0.0769787819537982
+Bijapur,Safflower, 2016-17,Rabi       ,199.0,103,0.517587939698492
+Bijapur,Safflower, 2017-18,Rabi       ,907.0,394,0.434399117971334
+Bijapur,Safflower, 2018-19,Rabi       ,1702.0,692,0.406580493537015
+Bijapur,Sannhamp, 2018-19,Whole Year ,44.0,11,0.25
+Bijapur,Sesamum, 1998-99,Kharif     ,1469.0,575,0.39142273655548
+Bijapur,Sesamum, 1999-00,Kharif     ,1627.0,796,0.489244007375538
+Bijapur,Sesamum, 2000-01,Kharif     ,1741.0,852,0.48937392303274
+Bijapur,Sesamum, 2001-02,Kharif     ,339.0,65,0.191740412979351
+Bijapur,Sesamum, 2002-03,Kharif     ,696.0,268,0.385057471264368
+Bijapur,Sesamum, 2003-04,Kharif     ,114.0,50,0.43859649122807
+Bijapur,Sesamum, 2004-05,Kharif     ,912.0,491,0.538377192982456
+Bijapur,Sesamum, 2005-06,Kharif     ,526.0,456,0.866920152091255
+Bijapur,Sesamum, 2006-07,Kharif     ,946.0,556,0.587737843551797
+Bijapur,Sesamum, 2007-08,Kharif     ,1321.0,737,0.557910673732021
+Bijapur,Sesamum, 2008-09,Kharif     ,192.0,98,0.510416666666667
+Bijapur,Sesamum, 2009-10,Kharif     ,1130.0,459,0.406194690265487
+Bijapur,Sesamum, 2010-11,Kharif     ,624.0,216,0.346153846153846
+Bijapur,Sesamum, 2011-12,Kharif     ,1127.0,132,0.117125110913931
+Bijapur,Sesamum, 2012-13,Kharif     ,254.0,25,0.0984251968503937
+Bijapur,Sesamum, 2013-14,Kharif     ,395.0,67,0.169620253164557
+Bijapur,Sesamum, 2014-15,Kharif     ,302.0,32,0.105960264900662
+Bijapur,Sesamum, 2015-16,Kharif     ,107.0,52,0.485981308411215
+Bijapur,Sesamum, 2016-17,Kharif     ,203.0,146,0.719211822660099
+Bijapur,Sesamum, 2017-18,Kharif     ,91.0,68,0.747252747252747
+Bijapur,Sesamum, 2018-19,Kharif     ,83.0,53,0.63855421686747
+Bijapur,Small millets, 1999-00,Kharif     ,290.0,92,0.317241379310345
+Bijapur,Small millets, 2000-01,Kharif     ,786.0,463,0.589058524173028
+Bijapur,Small millets, 2001-02,Kharif     ,193.0,64,0.33160621761658
+Bijapur,Small millets, 2002-03,Kharif     ,336.0,75,0.223214285714286
+Bijapur,Small millets, 2003-04,Kharif     ,74.0,43,0.581081081081081
+Bijapur,Small millets, 2004-05,Kharif     ,394.0,141,0.357868020304569
+Bijapur,Small millets, 2007-08,Kharif     ,45.0,12,0.266666666666667
+Bijapur,Small millets, 2017-18,Kharif     ,21.0,11,0.523809523809524
+Bijapur,Small millets, 2018-19,Kharif     ,271.0,274,1.01107011070111
+Bijapur,Soyabean, 1998-99,Kharif     ,132.0,142,1.07575757575758
+Bijapur,Soyabean, 2000-01,Kharif     ,32.0,33,1.03125
+Bijapur,Soyabean, 2004-05,Kharif     ,40.0,25,0.625
+Bijapur,Soyabean, 2005-06,Kharif     ,9.0,5,0.555555555555556
+Bijapur,Soyabean, 2006-07,Kharif     ,10.0,7,0.7
+Bijapur,Soyabean, 2007-08,Kharif     ,10.0,8,0.8
+Bijapur,Soyabean, 2009-10,Kharif     ,4.0,2,0.5
+Bijapur,Soyabean, 2018-19,Kharif     ,30.0,29,0.966666666666667
+Bijapur,Sugarcane, 1997-98,Whole Year ,56484.0,5795258,102.599992918349
+Bijapur,Sugarcane, 1999-00,Whole Year ,15680.0,1787520,114
+Bijapur,Sugarcane, 2000-01,Whole Year ,20426.0,1727018,84.5499853128366
+Bijapur,Sugarcane, 2001-02,Whole Year ,20460.0,1069035,52.25
+Bijapur,Sugarcane, 2002-03,Whole Year ,18537.0,1355982,73.1500242757728
+Bijapur,Sugarcane, 2003-04,Whole Year ,8068.0,505864,62.7000495785821
+Bijapur,Sugarcane, 2005-06,Whole Year ,11364.0,863664,76
+Bijapur,Sugarcane, 2006-07,Whole Year ,22734.0,1447019,63.649995601302
+Bijapur,Sugarcane, 2007-08,Whole Year ,29191.0,1608424,55.0999965742866
+Bijapur,Sugarcane, 2008-09,Whole Year ,20604.0,1096133,53.200009706853
+Bijapur,Sugarcane, 2009-10,Whole Year ,27663.0,1892149,68.3999927701262
+Bijapur,Sugarcane, 2010-11,Whole Year ,41377.0,3459117,83.5999951663968
+Bijapur,Sugarcane, 2011-12,Whole Year ,44208.0,3233815,73.149995475932
+Bijapur,Sugarcane, 2012-13,Whole Year ,37382.0,2770006,74.0999946498315
+Bijapur,Sugarcane, 2013-14,Whole Year ,44914.0,3456132,76.9499933205682
+Bijapur,Sugarcane, 2014-15,Whole Year ,49050.0,3914190,79.8
+Bijapur,Sugarcane, 2015-16,Whole Year ,43846.0,2207646,50.3499977192903
+Bijapur,Sugarcane, 2016-17,Whole Year ,35226.0,2409458,68.399988644751
+Bijapur,Sugarcane, 2017-18,Whole Year ,20777.0,1835648,88.3500024065072
+Bijapur,Sugarcane, 2018-19,Whole Year ,53010.0,4280558,80.7500094321826
+Bijapur,Sunflower, 1998-99,Kharif     ,68412.0,15600,0.228030170145588
+Bijapur,Sunflower, 1998-99,Rabi       ,91855.0,24446,0.266136846116161
+Bijapur,Sunflower, 1998-99,Summer     ,2749.0,1452,0.528192069843579
+Bijapur,Sunflower, 1999-00,Kharif     ,32220.0,12648,0.392551210428305
+Bijapur,Sunflower, 1999-00,Rabi       ,45721.0,18278,0.399772533409156
+Bijapur,Sunflower, 1999-00,Summer     ,1908.0,1330,0.69706498951782
+Bijapur,Sunflower, 2000-01,Kharif     ,29059.0,14149,0.486905949963867
+Bijapur,Sunflower, 2000-01,Rabi       ,62338.0,26988,0.432930154961661
+Bijapur,Sunflower, 2000-01,Summer     ,819.0,611,0.746031746031746
+Bijapur,Sunflower, 2001-02,Kharif     ,13307.0,6112,0.45930713158488
+Bijapur,Sunflower, 2001-02,Rabi       ,148524.0,55310,0.372397726966685
+Bijapur,Sunflower, 2001-02,Summer     ,1706.0,942,0.552168815943728
+Bijapur,Sunflower, 2002-03,Kharif     ,40590.0,16724,0.412022665681202
+Bijapur,Sunflower, 2002-03,Rabi       ,156710.0,64332,0.410516240188884
+Bijapur,Sunflower, 2002-03,Summer     ,2130.0,1295,0.607981220657277
+Bijapur,Sunflower, 2003-04,Kharif     ,48810.0,23928,0.490227412415489
+Bijapur,Sunflower, 2003-04,Rabi       ,213421.0,30700,0.143847137816803
+Bijapur,Sunflower, 2003-04,Summer     ,3133.0,1432,0.457069901053304
+Bijapur,Sunflower, 2004-05,Kharif     ,119295.0,41441,0.347382539083784
+Bijapur,Sunflower, 2004-05,Rabi       ,186167.0,53765,0.28879984100297
+Bijapur,Sunflower, 2004-05,Summer     ,2212.0,862,0.389692585895117
+Bijapur,Sunflower, 2005-06,Kharif     ,127248.0,37382,0.293772790142085
+Bijapur,Sunflower, 2005-06,Rabi       ,214078.0,98845,0.461724231354927
+Bijapur,Sunflower, 2005-06,Summer     ,1625.0,786,0.483692307692308
+Bijapur,Sunflower, 2006-07,Kharif     ,117758.0,20809,0.176709862599569
+Bijapur,Sunflower, 2006-07,Rabi       ,125478.0,30931,0.246505363490014
+Bijapur,Sunflower, 2006-07,Summer     ,3854.0,1930,0.50077841203944
+Bijapur,Sunflower, 2007-08,Kharif     ,58479.0,22743,0.388908839070436
+Bijapur,Sunflower, 2007-08,Rabi       ,87034.0,30627,0.35189695980881
+Bijapur,Sunflower, 2007-08,Summer     ,4212.0,2993,0.710588793922127
+Bijapur,Sunflower, 2008-09,Kharif     ,44342.0,16658,0.375670921473998
+Bijapur,Sunflower, 2008-09,Rabi       ,93866.0,22056,0.234973259753265
+Bijapur,Sunflower, 2008-09,Summer     ,4593.0,2635,0.573699107337252
+Bijapur,Sunflower, 2009-10,Kharif     ,47917.0,12729,0.265646847674103
+Bijapur,Sunflower, 2009-10,Rabi       ,67856.0,12075,0.17795036547984
+Bijapur,Sunflower, 2009-10,Summer     ,3749.0,1710,0.456121632435316
+Bijapur,Sunflower, 2010-11,Kharif     ,21566.0,7156,0.331818603357136
+Bijapur,Sunflower, 2010-11,Rabi       ,35133.0,12115,0.344832493666923
+Bijapur,Sunflower, 2010-11,Summer     ,2899.0,1820,0.62780269058296
+Bijapur,Sunflower, 2011-12,Kharif     ,25394.0,7778,0.30629282507679
+Bijapur,Sunflower, 2011-12,Rabi       ,33202.0,6549,0.197247153785917
+Bijapur,Sunflower, 2011-12,Summer     ,1555.0,703,0.452090032154341
+Bijapur,Sunflower, 2012-13,Kharif     ,23679.0,11090,0.46834748089024
+Bijapur,Sunflower, 2012-13,Rabi       ,49119.0,20065,0.408497730002647
+Bijapur,Sunflower, 2012-13,Summer     ,1383.0,838,0.605929139551699
+Bijapur,Sunflower, 2013-14,Kharif     ,23887.0,12390,0.518692175660401
+Bijapur,Sunflower, 2013-14,Rabi       ,33664.0,17749,0.527239781368821
+Bijapur,Sunflower, 2013-14,Summer     ,1401.0,966,0.689507494646681
+Bijapur,Sunflower, 2014-15,Kharif     ,30515.0,15132,0.495887268556448
+Bijapur,Sunflower, 2014-15,Rabi       ,27262.0,11240,0.412295502897806
+Bijapur,Sunflower, 2014-15,Summer     ,1183.0,691,0.584108199492815
+Bijapur,Sunflower, 2015-16,Kharif     ,9267.0,2712,0.292651343476853
+Bijapur,Sunflower, 2015-16,Rabi       ,35288.0,7744,0.219451371571072
+Bijapur,Sunflower, 2015-16,Summer     ,780.0,239,0.306410256410256
+Bijapur,Sunflower, 2016-17,Kharif     ,17783.0,15373,0.864477309790249
+Bijapur,Sunflower, 2016-17,Rabi       ,3496.0,1737,0.496853546910755
+Bijapur,Sunflower, 2016-17,Summer     ,166.0,116,0.698795180722892
+Bijapur,Sunflower, 2017-18,Kharif     ,16331.0,14816,0.907231645337089
+Bijapur,Sunflower, 2017-18,Rabi       ,72.0,31,0.430555555555556
+Bijapur,Sunflower, 2018-19,Kharif     ,7034.0,4130,0.587148137617287
+Bijapur,Sunflower, 2018-19,Rabi       ,1960.0,626,0.319387755102041
+Bijapur,Sweet potato, 1999-00,Whole Year ,227.0,719,3.16740088105727
+Bijapur,Sweet potato, 2000-01,Whole Year ,275.0,871,3.16727272727273
+Bijapur,Sweet potato, 2002-03,Whole Year ,8.0,25,3.125
+Bijapur,Sweet potato, 2003-04,Whole Year ,3.0,10,3.33333333333333
+Bijapur,Sweet potato, 2004-05,Whole Year ,5.0,16,3.2
+Bijapur,Sweet potato, 2005-06,Whole Year ,5.0,16,3.2
+Bijapur,Sweet potato, 2006-07,Whole Year ,7.0,22,3.14285714285714
+Bijapur,Sweet potato, 2007-08,Whole Year ,19.0,60,3.15789473684211
+Bijapur,Sweet potato, 2008-09,Whole Year ,4.0,40,10
+Bijapur,Sweet potato, 2009-10,Whole Year ,5.0,33,6.6
+Bijapur,Sweet potato, 2010-11,Whole Year ,7.0,58,8.28571428571429
+Bijapur,Sweet potato, 2016-17,Whole Year ,4.0,48,12
+Bijapur,Sweet potato, 2017-18,Whole Year ,61.0,792,12.9836065573771
+Bijapur,Sweet potato, 2018-19,Whole Year ,11.0,160,14.5454545454545
+Bijapur,Tobacco, 2018-19,Whole Year ,2.0,2,1
+Bijapur,Turmeric, 1997-98,Whole Year ,375.0,2468,6.58133333333333
+Bijapur,Turmeric, 1998-99,Whole Year ,74.0,375,5.06756756756757
+Bijapur,Turmeric, 1999-00,Whole Year ,83.0,296,3.56626506024096
+Bijapur,Turmeric, 2000-01,Whole Year ,83.0,296,3.56626506024096
+Bijapur,Turmeric, 2001-02,Whole Year ,145.0,550,3.79310344827586
+Bijapur,Turmeric, 2002-03,Whole Year ,148.0,195,1.31756756756757
+Bijapur,Turmeric, 2003-04,Whole Year ,8.0,0,0
+Bijapur,Turmeric, 2004-05,Whole Year ,15.0,1,0.0666666666666667
+Bijapur,Turmeric, 2005-06,Whole Year ,6.0,32,5.33333333333333
+Bijapur,Turmeric, 2006-07,Whole Year ,6.0,30,5
+Bijapur,Turmeric, 2007-08,Whole Year ,8.0,62,7.75
+Bijapur,Turmeric, 2008-09,Whole Year ,4.0,19,4.75
+Bijapur,Turmeric, 2009-10,Whole Year ,65.0,327,5.03076923076923
+Bijapur,Turmeric, 2010-11,Whole Year ,1.0,5,5
+Bijapur,Turmeric, 2011-12,Whole Year ,66.0,137,2.07575757575758
+Bijapur,Turmeric, 2012-13,Whole Year ,62.0,113,1.82258064516129
+Bijapur,Turmeric, 2013-14,Whole Year ,44.0,210,4.77272727272727
+Bijapur,Turmeric, 2014-15,Whole Year ,63.0,377,5.98412698412698
+Bijapur,Turmeric, 2015-16,Whole Year ,53.0,270,5.09433962264151
+Bijapur,Turmeric, 2016-17,Whole Year ,24.0,142,5.91666666666667
+Bijapur,Turmeric, 2017-18,Whole Year ,11.0,70,6.36363636363636
+Bijapur,Turmeric, 2018-19,Whole Year ,172.0,995,5.78488372093023
+Bijapur,Urad, 1999-00,Rabi       ,124.0,46,0.370967741935484
+Bijapur,Urad, 2007-08,Kharif     ,447.0,193,0.431767337807606
+Bijapur,Urad, 2008-09,Kharif     ,21.0,6,0.285714285714286
+Bijapur,Urad, 2009-10,Kharif     ,154.0,13,0.0844155844155844
+Bijapur,Urad, 2010-11,Kharif     ,102.0,37,0.362745098039216
+Bijapur,Urad, 2011-12,Kharif     ,140.0,51,0.364285714285714
+Bijapur,Urad, 2013-14,Kharif     ,192.0,92,0.479166666666667
+Bijapur,Urad, 2014-15,Kharif     ,306.0,85,0.277777777777778
+Bijapur,Urad, 2015-16,Kharif     ,5.0,1,0.2
+Bijapur,Urad, 2016-17,Kharif     ,693.0,134,0.193362193362193
+Bijapur,Urad, 2017-18,Kharif     ,13174.0,1164,0.0883558524366176
+Bijapur,Urad, 2018-19,Kharif     ,821.0,132,0.160779537149817
+Bijapur,Wheat, 1997-98,Rabi       ,60800.0,29117,0.478898026315789
+Bijapur,Wheat, 1998-99,Rabi       ,62688.0,45667,0.728480729964268
+Bijapur,Wheat, 1999-00,Rabi       ,54047.0,44261,0.818935371065924
+Bijapur,Wheat, 2000-01,Rabi       ,51283.0,48031,0.936587173137297
+Bijapur,Wheat, 2001-02,Rabi       ,57398.0,53458,0.931356493257605
+Bijapur,Wheat, 2002-03,Rabi       ,50163.0,38109,0.759703367023503
+Bijapur,Wheat, 2003-04,Rabi       ,34432.0,17796,0.516844795539033
+Bijapur,Wheat, 2004-05,Rabi       ,49116.0,44599,0.908034041860086
+Bijapur,Wheat, 2005-06,Rabi       ,51103.0,42121,0.824237324618907
+Bijapur,Wheat, 2006-07,Rabi       ,63201.0,38539,0.609784655306087
+Bijapur,Wheat, 2007-08,Rabi       ,71151.0,71114,0.999479979199168
+Bijapur,Wheat, 2008-09,Rabi       ,65369.0,52919,0.80954274962138
+Bijapur,Wheat, 2009-10,Rabi       ,81437.0,77309,0.949310509964758
+Bijapur,Wheat, 2010-11,Rabi       ,63974.0,68354,1.06846531403383
+Bijapur,Wheat, 2011-12,Rabi       ,45949.0,33346,0.725717643474287
+Bijapur,Wheat, 2012-13,Rabi       ,52074.0,44375,0.852152705764873
+Bijapur,Wheat, 2013-14,Rabi       ,57511.0,55182,0.95950339934969
+Bijapur,Wheat, 2014-15,Rabi       ,53709.0,55207,1.0278910424696
+Bijapur,Wheat, 2015-16,Rabi       ,53842.0,28746,0.533895471936406
+Bijapur,Wheat, 2016-17,Rabi       ,34031.0,31521,0.926243718962123
+Bijapur,Wheat, 2017-18,Rabi       ,46022.0,45251,0.983247142670897
+Bijapur,Wheat, 2018-19,Rabi       ,35336.0,24539,0.694447588861218

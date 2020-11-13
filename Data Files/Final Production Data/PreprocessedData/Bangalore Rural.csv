@@ -1,0 +1,950 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Bangalore Rural,Arecanut, 1998-99,Whole Year ,479.0,3226,6.73486430062631
+Bangalore Rural,Arecanut, 2000-01,Whole Year ,514.0,719,1.3988326848249
+Bangalore Rural,Arecanut, 2001-02,Whole Year ,1828.0,2557,1.39879649890591
+Bangalore Rural,Arecanut, 2003-04,Whole Year ,1998.0,2795,1.3988988988989
+Bangalore Rural,Arecanut, 2004-05,Whole Year ,1975.0,2763,1.39898734177215
+Bangalore Rural,Arecanut, 2005-06,Whole Year ,2099.0,14137,6.73511195807527
+Bangalore Rural,Arecanut, 2006-07,Whole Year ,2257.0,3157,1.39875941515286
+Bangalore Rural,Arecanut, 2007-08,Whole Year ,1377.0,9274,6.73493100944081
+Bangalore Rural,Arecanut, 2008-09,Whole Year ,1338.0,9011,6.73467862481315
+Bangalore Rural,Arecanut, 2009-10,Whole Year ,1100.0,7408,6.73454545454545
+Bangalore Rural,Arecanut, 2010-11,Whole Year ,1213.0,13116,10.8128606760099
+Bangalore Rural,Arecanut, 2011-12,Whole Year ,1615.0,13079,8.0984520123839
+Bangalore Rural,Arecanut, 2012-13,Whole Year ,1380.0,11076,8.02608695652174
+Bangalore Rural,Arecanut, 2013-14,Whole Year ,1695.0,18880,11.1386430678466
+Bangalore Rural,Arecanut, 2014-15,Whole Year ,1519.0,14055,9.25279789335089
+Bangalore Rural,Arecanut, 2015-16,Whole Year ,1569.0,15379,9.80178457616316
+Bangalore Rural,Arecanut, 2016-17,Whole Year ,2322.0,23588,10.1584840654608
+Bangalore Rural,Arecanut, 2017-18,Whole Year ,1911.0,20726,10.8456305599163
+Bangalore Rural,Arecanut, 2018-19,Whole Year ,2924.0,26108,8.92886456908345
+Bangalore Rural,Arhar/Tur, 1998-99,Kharif     ,5522.0,2151,0.389532777978993
+Bangalore Rural,Arhar/Tur, 1999-00,Kharif     ,5556.0,3473,0.625089992800576
+Bangalore Rural,Arhar/Tur, 2000-01,Kharif     ,4725.0,3407,0.721058201058201
+Bangalore Rural,Arhar/Tur, 2001-02,Kharif     ,4503.0,2798,0.621363535420831
+Bangalore Rural,Arhar/Tur, 2002-03,Kharif     ,3136.0,1278,0.407525510204082
+Bangalore Rural,Arhar/Tur, 2003-04,Kharif     ,4572.0,1842,0.402887139107612
+Bangalore Rural,Arhar/Tur, 2004-05,Kharif     ,5331.0,4269,0.800787844682048
+Bangalore Rural,Arhar/Tur, 2005-06,Kharif     ,4557.0,3429,0.752468729427255
+Bangalore Rural,Arhar/Tur, 2006-07,Kharif     ,4160.0,1715,0.412259615384615
+Bangalore Rural,Arhar/Tur, 2007-08,Kharif     ,1296.0,1069,0.824845679012346
+Bangalore Rural,Arhar/Tur, 2008-09,Kharif     ,1340.0,1419,1.0589552238806
+Bangalore Rural,Arhar/Tur, 2009-10,Kharif     ,1306.0,1069,0.818529862174579
+Bangalore Rural,Arhar/Tur, 2010-11,Kharif     ,1640.0,1806,1.10121951219512
+Bangalore Rural,Arhar/Tur, 2011-12,Kharif     ,1650.0,1014,0.614545454545454
+Bangalore Rural,Arhar/Tur, 2012-13,Kharif     ,1197.0,729,0.609022556390977
+Bangalore Rural,Arhar/Tur, 2013-14,Kharif     ,1274.0,815,0.639717425431711
+Bangalore Rural,Arhar/Tur, 2014-15,Kharif     ,1554.0,1736,1.11711711711712
+Bangalore Rural,Arhar/Tur, 2015-16,Kharif     ,1416.0,527,0.372175141242938
+Bangalore Rural,Arhar/Tur, 2016-17,Kharif     ,1274.0,2301,1.80612244897959
+Bangalore Rural,Arhar/Tur, 2017-18,Kharif     ,1347.0,1144,0.849294729027469
+Bangalore Rural,Arhar/Tur, 2018-19,Kharif     ,815.0,782,0.959509202453988
+Bangalore Rural,Bajra, 2005-06,Kharif     ,33.0,19,0.575757575757576
+Bangalore Rural,Bajra, 2006-07,Kharif     ,6.0,3,0.5
+Bangalore Rural,Bajra, 2007-08,Kharif     ,4.0,3,0.75
+Bangalore Rural,Bajra, 2008-09,Kharif     ,4.0,2,0.5
+Bangalore Rural,Bajra, 2009-10,Kharif     ,4.0,2,0.5
+Bangalore Rural,Bajra, 2010-11,Kharif     ,4.0,4,1
+Bangalore Rural,Bajra, 2011-12,Kharif     ,4.0,3,0.75
+Bangalore Rural,Bajra, 2012-13,Kharif     ,5.0,5,1
+Bangalore Rural,Bajra, 2015-16,Kharif     ,7.0,5,0.714285714285714
+Bangalore Rural,Bajra, 2016-17,Kharif     ,5.0,5,1
+Bangalore Rural,Bajra, 2017-18,Kharif     ,1.0,2,2
+Bangalore Rural,Bajra, 2018-19,Kharif     ,11.0,10,0.909090909090909
+Bangalore Rural,Banana, 1999-00,Whole Year ,2467.0,46158,18.7101743007702
+Bangalore Rural,Banana, 2000-01,Whole Year ,2320.0,31503,13.5788793103448
+Bangalore Rural,Banana, 2002-03,Whole Year ,2046.0,25082,12.2590420332356
+Bangalore Rural,Banana, 2003-04,Whole Year ,1910.0,21873,11.451832460733
+Bangalore Rural,Banana, 2004-05,Whole Year ,3128.0,53351,17.0559462915601
+Bangalore Rural,Banana, 2005-06,Whole Year ,3407.0,48182,14.1420604637511
+Bangalore Rural,Banana, 2006-07,Whole Year ,3317.0,264763,79.8200180886343
+Bangalore Rural,Banana, 2007-08,Whole Year ,1173.0,34141,29.1057118499574
+Bangalore Rural,Banana, 2008-09,Whole Year ,1054.0,26183,24.8415559772296
+Bangalore Rural,Banana, 2009-10,Whole Year ,1172.0,39752,33.9180887372014
+Bangalore Rural,Banana, 2010-11,Whole Year ,1288.0,46157,35.8361801242236
+Bangalore Rural,Banana, 2011-12,Whole Year ,875.0,31914,36.4731428571429
+Bangalore Rural,Black pepper, 1999-00,Whole Year ,5.0,12,2.4
+Bangalore Rural,Black pepper, 2000-01,Whole Year ,8.0,19,2.375
+Bangalore Rural,Black pepper, 2001-02,Whole Year ,5.0,12,2.4
+Bangalore Rural,Black pepper, 2002-03,Whole Year ,2.0,5,2.5
+Bangalore Rural,Black pepper, 2003-04,Whole Year ,3.0,7,2.33333333333333
+Bangalore Rural,Black pepper, 2004-05,Whole Year ,26.0,63,2.42307692307692
+Bangalore Rural,Black pepper, 2005-06,Whole Year ,1.0,2,2
+Bangalore Rural,Black pepper, 2007-08,Whole Year ,1.0,3,3
+Bangalore Rural,Black pepper, 2008-09,Whole Year ,1.0,4,4
+Bangalore Rural,Black pepper, 2009-10,Whole Year ,1.0,4,4
+Bangalore Rural,Black pepper, 2010-11,Whole Year ,1.0,0.6,0.6
+Bangalore Rural,Black pepper, 2012-13,Whole Year ,1.0,3,3
+Bangalore Rural,Black pepper, 2013-14,Whole Year ,1.0,2,2
+Bangalore Rural,Black pepper, 2014-15,Whole Year ,1.0,0.6,0.6
+Bangalore Rural,Black pepper, 2015-16,Whole Year ,2.0,1.5,0.75
+Bangalore Rural,Cardamom, 2005-06,Whole Year ,1.0,nan,0
+Bangalore Rural,Cardamom, 2008-09,Whole Year ,1.0,nan,0
+Bangalore Rural,Cardamom, 2010-11,Whole Year ,1.0,nan,0
+Bangalore Rural,Cardamom, 2018-19,Whole Year ,2.0,0.2,0.1
+Bangalore Rural,Cashewnut, 2008-09,Whole Year ,44.0,27.05076,0.61479
+Bangalore Rural,Cashewnut, 2009-10,Whole Year ,159.0,121,0.761006289308176
+Bangalore Rural,Cashewnut, 2010-11,Whole Year ,159.0,117,0.735849056603773
+Bangalore Rural,Cashewnut, 2011-12,Whole Year ,16.0,13,0.8125
+Bangalore Rural,Cashewnut, 2012-13,Whole Year ,21.0,17,0.80952380952381
+Bangalore Rural,Cashewnut, 2013-14,Whole Year ,23.0,21,0.91304347826087
+Bangalore Rural,Cashewnut, 2014-15,Whole Year ,24.0,18,0.75
+Bangalore Rural,Cashewnut, 2015-16,Whole Year ,30.0,19,0.633333333333333
+Bangalore Rural,Cashewnut, 2016-17,Whole Year ,15.0,8,0.533333333333333
+Bangalore Rural,Cashewnut, 2017-18,Whole Year ,20.0,15,0.75
+Bangalore Rural,Cashewnut, 2018-19,Whole Year ,49.0,59,1.20408163265306
+Bangalore Rural,Castor seed, 1998-99,Kharif     ,3417.0,3840,1.12379280070237
+Bangalore Rural,Castor seed, 1999-00,Kharif     ,3659.0,3434,0.938507789013392
+Bangalore Rural,Castor seed, 2000-01,Kharif     ,3701.0,5974,1.61415833558498
+Bangalore Rural,Castor seed, 2001-02,Kharif     ,2931.0,4967,1.69464346639372
+Bangalore Rural,Castor seed, 2002-03,Kharif     ,1622.0,4364,2.6905055487053
+Bangalore Rural,Castor seed, 2003-04,Kharif     ,2049.0,6813,3.32503660322108
+Bangalore Rural,Castor seed, 2004-05,Kharif     ,1568.0,2640,1.68367346938776
+Bangalore Rural,Castor seed, 2005-06,Kharif     ,2137.0,7396,3.46092653252223
+Bangalore Rural,Castor seed, 2006-07,Kharif     ,1568.0,2990,1.90688775510204
+Bangalore Rural,Castor seed, 2007-08,Kharif     ,382.0,256,0.670157068062827
+Bangalore Rural,Castor seed, 2008-09,Kharif     ,340.0,322,0.947058823529412
+Bangalore Rural,Castor seed, 2009-10,Kharif     ,303.0,196,0.646864686468647
+Bangalore Rural,Castor seed, 2010-11,Kharif     ,315.0,264,0.838095238095238
+Bangalore Rural,Castor seed, 2011-12,Kharif     ,203.0,170,0.83743842364532
+Bangalore Rural,Castor seed, 2012-13,Kharif     ,162.0,101,0.623456790123457
+Bangalore Rural,Castor seed, 2013-14,Kharif     ,167.0,149,0.892215568862275
+Bangalore Rural,Castor seed, 2014-15,Kharif     ,233.0,142,0.609442060085837
+Bangalore Rural,Castor seed, 2015-16,Kharif     ,106.0,56,0.528301886792453
+Bangalore Rural,Castor seed, 2016-17,Kharif     ,77.0,38,0.493506493506493
+Bangalore Rural,Castor seed, 2017-18,Kharif     ,97.0,62,0.639175257731959
+Bangalore Rural,Castor seed, 2018-19,Kharif     ,12.0,7,0.583333333333333
+Bangalore Rural,Coconut , 1998-99,Whole Year ,14114.0,67405000,4775.75456993057
+Bangalore Rural,Coconut , 1999-00,Whole Year ,14705.0,70228000,4775.79054743285
+Bangalore Rural,Coconut , 2000-01,Whole Year ,15076.0,71999000,4775.73626956753
+Bangalore Rural,Coconut , 2001-02,Whole Year ,21948.0,78614000,3581.82977947877
+Bangalore Rural,Coconut , 2002-03,Whole Year ,21426.0,76744000,3581.81648464482
+Bangalore Rural,Coconut , 2003-04,Whole Year ,20131.0,72106000,3581.83895484576
+Bangalore Rural,Coconut , 2004-05,Whole Year ,19789.0,70881000,3581.83839506797
+Bangalore Rural,Coconut , 2005-06,Whole Year ,19251.0,68954000,3581.83990442055
+Bangalore Rural,Coconut , 2006-07,Whole Year ,19357.0,69333000,3581.80503177145
+Bangalore Rural,Coconut , 2007-08,Whole Year ,3965.0,20188000,5091.55107187894
+Bangalore Rural,Coconut , 2008-09,Whole Year ,4027.0,27588000,6850.75738763347
+Bangalore Rural,Coconut , 2009-10,Whole Year ,4504.0,32024000,7110.1243339254
+Bangalore Rural,Coconut , 2010-11,Whole Year ,4503.0,43046000,9559.40484121697
+Bangalore Rural,Coconut , 2011-12,Whole Year ,4039.0,40154000,9941.56969546918
+Bangalore Rural,Coconut , 2012-13,Whole Year ,3448.0,33947000,9845.41763341067
+Bangalore Rural,Coconut , 2013-14,Whole Year ,2782.0,22072000,7933.86053199137
+Bangalore Rural,Coconut , 2014-15,Whole Year ,2255.0,20123000,8923.72505543237
+Bangalore Rural,Coconut , 2015-16,Whole Year ,2827.0,23641000,8362.57516802264
+Bangalore Rural,Coconut , 2016-17,Whole Year ,2904.0,22704000,7818.18181818182
+Bangalore Rural,Coconut , 2017-18,Whole Year ,2719.0,21499000,7906.95108495771
+Bangalore Rural,Coconut , 2018-19,Whole Year ,3116.0,22069000,7082.47753530167
+Bangalore Rural,Coriander, 1998-99,Whole Year ,129.0,14,0.108527131782946
+Bangalore Rural,Coriander, 1999-00,Whole Year ,143.0,15,0.104895104895105
+Bangalore Rural,Coriander, 2000-01,Whole Year ,133.0,14,0.105263157894737
+Bangalore Rural,Coriander, 2001-02,Whole Year ,7.0,1,0.142857142857143
+Bangalore Rural,Coriander, 2005-06,Whole Year ,86.0,13,0.151162790697674
+Bangalore Rural,Coriander, 2006-07,Whole Year ,69.0,11,0.159420289855072
+Bangalore Rural,Coriander, 2007-08,Whole Year ,94.0,33,0.351063829787234
+Bangalore Rural,Coriander, 2008-09,Whole Year ,55.0,30,0.545454545454545
+Bangalore Rural,Coriander, 2009-10,Whole Year ,68.0,33,0.485294117647059
+Bangalore Rural,Coriander, 2010-11,Whole Year ,81.0,30,0.37037037037037
+Bangalore Rural,Coriander, 2011-12,Whole Year ,70.0,28,0.4
+Bangalore Rural,Coriander, 2012-13,Whole Year ,47.0,19,0.404255319148936
+Bangalore Rural,Coriander, 2013-14,Whole Year ,40.0,12,0.3
+Bangalore Rural,Coriander, 2014-15,Whole Year ,37.0,13,0.351351351351351
+Bangalore Rural,Coriander, 2015-16,Whole Year ,93.0,40,0.43010752688172
+Bangalore Rural,Coriander, 2016-17,Whole Year ,41.0,18,0.439024390243902
+Bangalore Rural,Coriander, 2017-18,Whole Year ,1.0,nan,0
+Bangalore Rural,Coriander, 2018-19,Whole Year ,145.0,130,0.896551724137931
+Bangalore Rural,Cotton(lint), 2013-14,Kharif     ,2.0,6,3
+Bangalore Rural,Cotton(lint), 2015-16,Kharif     ,2.0,4,2
+Bangalore Rural,Cotton(lint), 2018-19,Kharif     ,3.0,6,2
+Bangalore Rural,Cowpea(Lobia), 2010-11,Kharif     ,996.0,999,1.00301204819277
+Bangalore Rural,Cowpea(Lobia), 2010-11,Rabi       ,3.0,1,0.333333333333333
+Bangalore Rural,Cowpea(Lobia), 2011-12,Kharif     ,845.0,621,0.73491124260355
+Bangalore Rural,Cowpea(Lobia), 2011-12,Rabi       ,22.0,8,0.363636363636364
+Bangalore Rural,Cowpea(Lobia), 2012-13,Kharif     ,747.0,136,0.182061579651941
+Bangalore Rural,Cowpea(Lobia), 2012-13,Rabi       ,36.0,12,0.333333333333333
+Bangalore Rural,Cowpea(Lobia), 2012-13,Summer     ,2.0,1,0.5
+Bangalore Rural,Cowpea(Lobia), 2013-14,Kharif     ,920.0,404,0.439130434782609
+Bangalore Rural,Cowpea(Lobia), 2013-14,Rabi       ,16.0,7,0.4375
+Bangalore Rural,Cowpea(Lobia), 2014-15,Kharif     ,591.0,881,1.4906937394247
+Bangalore Rural,Cowpea(Lobia), 2014-15,Rabi       ,29.0,11,0.379310344827586
+Bangalore Rural,Cowpea(Lobia), 2014-15,Summer     ,1.0,nan,0
+Bangalore Rural,Cowpea(Lobia), 2015-16,Kharif     ,636.0,317,0.498427672955975
+Bangalore Rural,Cowpea(Lobia), 2015-16,Rabi       ,22.0,10,0.454545454545455
+Bangalore Rural,Cowpea(Lobia), 2015-16,Summer     ,2.0,1,0.5
+Bangalore Rural,Cowpea(Lobia), 2016-17,Kharif     ,654.0,501,0.76605504587156
+Bangalore Rural,Cowpea(Lobia), 2016-17,Summer     ,2.0,nan,0
+Bangalore Rural,Cowpea(Lobia), 2017-18,Kharif     ,593.0,135,0.227655986509275
+Bangalore Rural,Cowpea(Lobia), 2017-18,Rabi       ,13.0,5,0.384615384615385
+Bangalore Rural,Cowpea(Lobia), 2018-19,Kharif     ,51.0,19,0.372549019607843
+Bangalore Rural,Dry chillies, 1998-99,Whole Year ,1652.0,627,0.37953995157385
+Bangalore Rural,Dry chillies, 1999-00,Whole Year ,641.0,655,1.02184087363495
+Bangalore Rural,Dry chillies, 2000-01,Whole Year ,741.0,597,0.805668016194332
+Bangalore Rural,Dry chillies, 2001-02,Whole Year ,1578.0,1226,0.776932826362484
+Bangalore Rural,Dry chillies, 2002-03,Whole Year ,722.0,336,0.465373961218837
+Bangalore Rural,Dry chillies, 2003-04,Whole Year ,230.0,270,1.17391304347826
+Bangalore Rural,Dry chillies, 2004-05,Whole Year ,940.0,625,0.664893617021277
+Bangalore Rural,Dry chillies, 2005-06,Kharif     ,1032.0,750,0.726744186046512
+Bangalore Rural,Dry chillies, 2005-06,Rabi       ,35.0,57,1.62857142857143
+Bangalore Rural,Dry chillies, 2005-06,Summer     ,7.0,18,2.57142857142857
+Bangalore Rural,Dry chillies, 2006-07,Whole Year ,915.0,757,0.827322404371585
+Bangalore Rural,Dry chillies, 2007-08,Kharif     ,336.0,303,0.901785714285714
+Bangalore Rural,Dry chillies, 2007-08,Rabi       ,6.0,10,1.66666666666667
+Bangalore Rural,Dry chillies, 2007-08,Summer     ,10.0,34,3.4
+Bangalore Rural,Dry chillies, 2008-09,Kharif     ,283.0,263,0.929328621908127
+Bangalore Rural,Dry chillies, 2008-09,Rabi       ,21.0,36,1.71428571428571
+Bangalore Rural,Dry chillies, 2008-09,Summer     ,16.0,52,3.25
+Bangalore Rural,Dry chillies, 2009-10,Rabi       ,21.0,63,3
+Bangalore Rural,Dry chillies, 2009-10,Summer     ,16.0,74,4.625
+Bangalore Rural,Dry chillies, 2010-11,Kharif     ,232.0,191,0.823275862068966
+Bangalore Rural,Dry chillies, 2010-11,Rabi       ,39.0,106,2.71794871794872
+Bangalore Rural,Dry chillies, 2010-11,Summer     ,29.0,88,3.03448275862069
+Bangalore Rural,Dry chillies, 2011-12,Kharif     ,303.0,245,0.808580858085809
+Bangalore Rural,Dry chillies, 2011-12,Rabi       ,39.0,92,2.35897435897436
+Bangalore Rural,Dry chillies, 2011-12,Summer     ,22.0,77,3.5
+Bangalore Rural,Dry chillies, 2012-13,Kharif     ,260.0,238,0.915384615384615
+Bangalore Rural,Dry chillies, 2012-13,Summer     ,11.0,31,2.81818181818182
+Bangalore Rural,Dry chillies, 2013-14,Kharif     ,464.0,514,1.10775862068966
+Bangalore Rural,Dry chillies, 2013-14,Rabi       ,9.0,17,1.88888888888889
+Bangalore Rural,Dry chillies, 2013-14,Summer     ,2.0,5,2.5
+Bangalore Rural,Dry chillies, 2014-15,Kharif     ,366.0,414,1.13114754098361
+Bangalore Rural,Dry chillies, 2014-15,Rabi       ,24.0,45,1.875
+Bangalore Rural,Dry chillies, 2014-15,Summer     ,9.0,17,1.88888888888889
+Bangalore Rural,Dry chillies, 2015-16,Kharif     ,332.0,288,0.867469879518072
+Bangalore Rural,Dry chillies, 2015-16,Rabi       ,67.0,135,2.01492537313433
+Bangalore Rural,Dry chillies, 2015-16,Summer     ,8.0,15,1.875
+Bangalore Rural,Dry chillies, 2016-17,Kharif     ,321.0,646,2.01246105919003
+Bangalore Rural,Dry chillies, 2016-17,Rabi       ,21.0,45,2.14285714285714
+Bangalore Rural,Dry chillies, 2016-17,Summer     ,14.0,32,2.28571428571429
+Bangalore Rural,Dry chillies, 2017-18,Kharif     ,292.0,549,1.88013698630137
+Bangalore Rural,Dry chillies, 2017-18,Rabi       ,4.0,8,2
+Bangalore Rural,Garlic, 1998-99,Whole Year ,29.0,33,1.13793103448276
+Bangalore Rural,Garlic, 1999-00,Whole Year ,19.0,21,1.10526315789474
+Bangalore Rural,Garlic, 2000-01,Whole Year ,3.0,3,1
+Bangalore Rural,Garlic, 2005-06,Whole Year ,8.0,9,1.125
+Bangalore Rural,Garlic, 2006-07,Whole Year ,4.0,5,1.25
+Bangalore Rural,Garlic, 2007-08,Whole Year ,4.0,4,1
+Bangalore Rural,Garlic, 2008-09,Whole Year ,3.0,7,2.33333333333333
+Bangalore Rural,Garlic, 2009-10,Whole Year ,6.0,8,1.33333333333333
+Bangalore Rural,Garlic, 2010-11,Whole Year ,9.0,12,1.33333333333333
+Bangalore Rural,Garlic, 2011-12,Whole Year ,9.0,11,1.22222222222222
+Bangalore Rural,Garlic, 2012-13,Whole Year ,1.0,1,1
+Bangalore Rural,Garlic, 2013-14,Whole Year ,1.0,1,1
+Bangalore Rural,Garlic, 2014-15,Whole Year ,3.0,3,1
+Bangalore Rural,Garlic, 2015-16,Whole Year ,4.0,5,1.25
+Bangalore Rural,Garlic, 2017-18,Whole Year ,1.0,1,1
+Bangalore Rural,Garlic, 2018-19,Whole Year ,4.0,27,6.75
+Bangalore Rural,Ginger, 1998-99,Kharif     ,34.0,397,11.6764705882353
+Bangalore Rural,Ginger, 1999-00,Kharif     ,32.0,374,11.6875
+Bangalore Rural,Ginger, 2000-01,Kharif     ,37.0,432,11.6756756756757
+Bangalore Rural,Ginger, 2001-02,Kharif     ,59.0,689,11.6779661016949
+Bangalore Rural,Ginger, 2002-03,Kharif     ,30.0,350,11.6666666666667
+Bangalore Rural,Ginger, 2003-04,Kharif     ,46.0,537,11.6739130434783
+Bangalore Rural,Ginger, 2004-05,Kharif     ,51.0,595,11.6666666666667
+Bangalore Rural,Ginger, 2005-06,Whole Year ,70.0,817,11.6714285714286
+Bangalore Rural,Ginger, 2006-07,Whole Year ,85.0,992,11.6705882352941
+Bangalore Rural,Ginger, 2007-08,Whole Year ,67.0,1375,20.5223880597015
+Bangalore Rural,Ginger, 2008-09,Whole Year ,57.0,1816,31.859649122807
+Bangalore Rural,Ginger, 2009-10,Whole Year ,69.0,2173,31.4927536231884
+Bangalore Rural,Ginger, 2010-11,Whole Year ,71.0,256.9,3.61830985915493
+Bangalore Rural,Ginger, 2011-12,Whole Year ,54.0,171.8,3.18148148148148
+Bangalore Rural,Ginger, 2012-13,Whole Year ,34.0,1083,31.8529411764706
+Bangalore Rural,Ginger, 2013-14,Whole Year ,9.0,249,27.6666666666667
+Bangalore Rural,Ginger, 2014-15,Whole Year ,11.0,320,29.0909090909091
+Bangalore Rural,Ginger, 2015-16,Whole Year ,42.0,1568,37.3333333333333
+Bangalore Rural,Ginger, 2016-17,Whole Year ,41.0,1037,25.2926829268293
+Bangalore Rural,Ginger, 2017-18,Whole Year ,41.0,1059,25.8292682926829
+Bangalore Rural,Ginger, 2018-19,Whole Year ,111.0,1708.3,15.3900900900901
+Bangalore Rural,Gram, 1998-99,Rabi       ,50.0,35,0.7
+Bangalore Rural,Gram, 1999-00,Rabi       ,36.0,22,0.611111111111111
+Bangalore Rural,Gram, 2000-01,Rabi       ,20.0,13,0.65
+Bangalore Rural,Gram, 2001-02,Rabi       ,12.0,7,0.583333333333333
+Bangalore Rural,Gram, 2003-04,Rabi       ,67.0,22,0.328358208955224
+Bangalore Rural,Gram, 2004-05,Rabi       ,142.0,73,0.514084507042254
+Bangalore Rural,Gram, 2005-06,Rabi       ,100.0,55,0.55
+Bangalore Rural,Gram, 2006-07,Kharif     ,45.0,6,0.133333333333333
+Bangalore Rural,Gram, 2006-07,Rabi       ,23.0,17,0.739130434782609
+Bangalore Rural,Gram, 2007-08,Rabi       ,94.0,56,0.595744680851064
+Bangalore Rural,Gram, 2008-09,Rabi       ,82.0,44,0.536585365853659
+Bangalore Rural,Gram, 2009-10,Kharif     ,1553.0,1217,0.783644558918223
+Bangalore Rural,Gram, 2009-10,Rabi       ,1678.0,786,0.468414779499404
+Bangalore Rural,Gram, 2010-11,Rabi       ,315.0,193,0.612698412698413
+Bangalore Rural,Gram, 2011-12,Rabi       ,305.0,123,0.40327868852459
+Bangalore Rural,Gram, 2012-13,Rabi       ,39.0,25,0.641025641025641
+Bangalore Rural,Gram, 2013-14,Rabi       ,229.0,173,0.755458515283843
+Bangalore Rural,Gram, 2014-15,Rabi       ,270.0,194,0.718518518518519
+Bangalore Rural,Gram, 2015-16,Rabi       ,87.0,34,0.390804597701149
+Bangalore Rural,Gram, 2016-17,Rabi       ,214.0,126,0.588785046728972
+Bangalore Rural,Gram, 2017-18,Rabi       ,135.0,104,0.77037037037037
+Bangalore Rural,Gram, 2018-19,Rabi       ,81.0,39,0.481481481481481
+Bangalore Rural,Groundnut, 1998-99,Kharif     ,23543.0,24490,1.0402242704838
+Bangalore Rural,Groundnut, 1998-99,Rabi       ,1113.0,1319,1.18508535489668
+Bangalore Rural,Groundnut, 1999-00,Kharif     ,18643.0,14273,0.765595665933594
+Bangalore Rural,Groundnut, 1999-00,Rabi       ,488.0,536,1.09836065573771
+Bangalore Rural,Groundnut, 2000-01,Kharif     ,17892.0,16596,0.927565392354125
+Bangalore Rural,Groundnut, 2000-01,Rabi       ,1039.0,1055,1.01539942252166
+Bangalore Rural,Groundnut, 2001-02,Kharif     ,12305.0,14116,1.14717594473791
+Bangalore Rural,Groundnut, 2002-03,Kharif     ,10732.0,10261,0.95611256056653
+Bangalore Rural,Groundnut, 2002-03,Rabi       ,56.0,63,1.125
+Bangalore Rural,Groundnut, 2003-04,Kharif     ,10930.0,9735,0.890667886550778
+Bangalore Rural,Groundnut, 2003-04,Rabi       ,422.0,410,0.971563981042654
+Bangalore Rural,Groundnut, 2004-05,Kharif     ,16645.0,22683,1.36275157705017
+Bangalore Rural,Groundnut, 2004-05,Rabi       ,467.0,425,0.910064239828694
+Bangalore Rural,Groundnut, 2005-06,Kharif     ,14516.0,10850,0.74745108845412
+Bangalore Rural,Groundnut, 2005-06,Rabi       ,119.0,101,0.848739495798319
+Bangalore Rural,Groundnut, 2006-07,Kharif     ,7884.0,4094,0.519279553526129
+Bangalore Rural,Groundnut, 2006-07,Rabi       ,27.0,20,0.740740740740741
+Bangalore Rural,Groundnut, 2007-08,Kharif     ,635.0,617,0.971653543307087
+Bangalore Rural,Groundnut, 2007-08,Rabi       ,56.0,48,0.857142857142857
+Bangalore Rural,Groundnut, 2008-09,Kharif     ,693.0,699,1.00865800865801
+Bangalore Rural,Groundnut, 2008-09,Rabi       ,22.0,17,0.772727272727273
+Bangalore Rural,Groundnut, 2009-10,Kharif     ,450.0,297,0.66
+Bangalore Rural,Groundnut, 2009-10,Rabi       ,35.0,27,0.771428571428571
+Bangalore Rural,Groundnut, 2010-11,Kharif     ,475.0,503,1.05894736842105
+Bangalore Rural,Groundnut, 2010-11,Rabi       ,66.0,58,0.878787878787879
+Bangalore Rural,Groundnut, 2011-12,Kharif     ,410.0,540,1.31707317073171
+Bangalore Rural,Groundnut, 2011-12,Rabi       ,28.0,23,0.821428571428571
+Bangalore Rural,Groundnut, 2012-13,Kharif     ,475.0,254,0.534736842105263
+Bangalore Rural,Groundnut, 2012-13,Rabi       ,58.0,98,1.68965517241379
+Bangalore Rural,Groundnut, 2013-14,Kharif     ,228.0,103,0.451754385964912
+Bangalore Rural,Groundnut, 2013-14,Summer     ,41.0,37,0.902439024390244
+Bangalore Rural,Groundnut, 2014-15,Kharif     ,275.0,155,0.563636363636364
+Bangalore Rural,Groundnut, 2014-15,Summer     ,23.0,20,0.869565217391304
+Bangalore Rural,Groundnut, 2015-16,Kharif     ,169.0,212,1.25443786982249
+Bangalore Rural,Groundnut, 2015-16,Summer     ,6.0,4,0.666666666666667
+Bangalore Rural,Groundnut, 2016-17,Kharif     ,123.0,39,0.317073170731707
+Bangalore Rural,Groundnut, 2016-17,Summer     ,2.0,2,1
+Bangalore Rural,Groundnut, 2017-18,Kharif     ,112.0,97,0.866071428571429
+Bangalore Rural,Groundnut, 2017-18,Summer     ,3.0,3,1
+Bangalore Rural,Groundnut, 2018-19,Kharif     ,158.0,103,0.651898734177215
+Bangalore Rural,Groundnut, 2018-19,Summer     ,4.0,3,0.75
+Bangalore Rural,Horse-gram, 1998-99,Kharif     ,6374.0,2695,0.422811421399435
+Bangalore Rural,Horse-gram, 1998-99,Rabi       ,3654.0,2236,0.611932129173508
+Bangalore Rural,Horse-gram, 1999-00,Kharif     ,6337.0,3395,0.535742464888749
+Bangalore Rural,Horse-gram, 1999-00,Rabi       ,7009.0,4148,0.591810529319446
+Bangalore Rural,Horse-gram, 2000-01,Kharif     ,7290.0,6517,0.893964334705075
+Bangalore Rural,Horse-gram, 2000-01,Rabi       ,3597.0,994,0.276341395607451
+Bangalore Rural,Horse-gram, 2001-02,Kharif     ,7256.0,4701,0.647877618522602
+Bangalore Rural,Horse-gram, 2001-02,Rabi       ,2652.0,2363,0.891025641025641
+Bangalore Rural,Horse-gram, 2002-03,Kharif     ,11091.0,6828,0.615634298079524
+Bangalore Rural,Horse-gram, 2002-03,Rabi       ,3456.0,1395,0.403645833333333
+Bangalore Rural,Horse-gram, 2003-04,Kharif     ,9223.0,6606,0.716252846145506
+Bangalore Rural,Horse-gram, 2003-04,Rabi       ,4369.0,2810,0.643167772945754
+Bangalore Rural,Horse-gram, 2004-05,Kharif     ,7914.0,6270,0.79226686884003
+Bangalore Rural,Horse-gram, 2004-05,Rabi       ,2853.0,1876,0.657553452506134
+Bangalore Rural,Horse-gram, 2005-06,Kharif     ,5715.0,4371,0.764829396325459
+Bangalore Rural,Horse-gram, 2005-06,Rabi       ,3567.0,2104,0.589851415755537
+Bangalore Rural,Horse-gram, 2006-07,Kharif     ,4588.0,1539,0.335440278988666
+Bangalore Rural,Horse-gram, 2006-07,Rabi       ,4779.0,2347,0.491106926135175
+Bangalore Rural,Horse-gram, 2007-08,Kharif     ,1338.0,933,0.697309417040359
+Bangalore Rural,Horse-gram, 2007-08,Rabi       ,1081.0,510,0.471785383903793
+Bangalore Rural,Horse-gram, 2008-09,Kharif     ,1208.0,1353,1.12003311258278
+Bangalore Rural,Horse-gram, 2008-09,Rabi       ,1147.0,425,0.370531822144725
+Bangalore Rural,Horse-gram, 2009-10,Kharif     ,1553.0,1217,0.783644558918223
+Bangalore Rural,Horse-gram, 2009-10,Rabi       ,1678.0,786,0.468414779499404
+Bangalore Rural,Horse-gram, 2010-11,Kharif     ,1065.0,1015,0.953051643192488
+Bangalore Rural,Horse-gram, 2010-11,Rabi       ,803.0,486,0.605230386052304
+Bangalore Rural,Horse-gram, 2011-12,Kharif     ,938.0,791,0.843283582089552
+Bangalore Rural,Horse-gram, 2011-12,Rabi       ,456.0,230,0.504385964912281
+Bangalore Rural,Horse-gram, 2012-13,Kharif     ,1224.0,667,0.544934640522876
+Bangalore Rural,Horse-gram, 2012-13,Rabi       ,361.0,138,0.382271468144044
+Bangalore Rural,Horse-gram, 2013-14,Kharif     ,1387.0,910,0.656092285508291
+Bangalore Rural,Horse-gram, 2013-14,Rabi       ,397.0,203,0.511335012594458
+Bangalore Rural,Horse-gram, 2014-15,Kharif     ,1223.0,754,0.616516762060507
+Bangalore Rural,Horse-gram, 2014-15,Rabi       ,452.0,222,0.491150442477876
+Bangalore Rural,Horse-gram, 2015-16,Kharif     ,1320.0,814,0.616666666666667
+Bangalore Rural,Horse-gram, 2015-16,Rabi       ,410.0,198,0.482926829268293
+Bangalore Rural,Horse-gram, 2016-17,Kharif     ,941.0,389,0.413390010626993
+Bangalore Rural,Horse-gram, 2016-17,Rabi       ,273.0,18,0.0659340659340659
+Bangalore Rural,Horse-gram, 2017-18,Kharif     ,988.0,853,0.86336032388664
+Bangalore Rural,Horse-gram, 2017-18,Rabi       ,404.0,255,0.631188118811881
+Bangalore Rural,Horse-gram, 2018-19,Kharif     ,1081.0,602,0.556891766882516
+Bangalore Rural,Horse-gram, 2018-19,Rabi       ,998.0,502,0.503006012024048
+Bangalore Rural,Jowar, 2016-17,Kharif     ,2.0,2,1
+Bangalore Rural,Jowar, 2018-19,Kharif     ,546.0,749,1.37179487179487
+Bangalore Rural,Linseed, 2018-19,Rabi       ,2.0,nan,0
+Bangalore Rural,Maize, 1998-99,Kharif     ,4870.0,15072,3.09486652977413
+Bangalore Rural,Maize, 1998-99,Rabi       ,68.0,139,2.04411764705882
+Bangalore Rural,Maize, 1998-99,Summer     ,430.0,978,2.27441860465116
+Bangalore Rural,Maize, 1999-00,Kharif     ,5099.0,15076,2.95665816826829
+Bangalore Rural,Maize, 1999-00,Rabi       ,61.0,149,2.44262295081967
+Bangalore Rural,Maize, 1999-00,Summer     ,193.0,353,1.82901554404145
+Bangalore Rural,Maize, 2000-01,Kharif     ,4941.0,15845,3.20684072050192
+Bangalore Rural,Maize, 2000-01,Rabi       ,21.0,53,2.52380952380952
+Bangalore Rural,Maize, 2000-01,Summer     ,283.0,796,2.81272084805654
+Bangalore Rural,Maize, 2001-02,Kharif     ,5658.0,23718,4.19194061505833
+Bangalore Rural,Maize, 2001-02,Rabi       ,37.0,91,2.45945945945946
+Bangalore Rural,Maize, 2001-02,Summer     ,417.0,1097,2.63069544364508
+Bangalore Rural,Maize, 2002-03,Kharif     ,4479.0,14820,3.30877427997321
+Bangalore Rural,Maize, 2002-03,Rabi       ,196.0,502,2.56122448979592
+Bangalore Rural,Maize, 2002-03,Summer     ,105.0,268,2.55238095238095
+Bangalore Rural,Maize, 2003-04,Kharif     ,6968.0,32208,4.62227324913892
+Bangalore Rural,Maize, 2003-04,Rabi       ,100.0,230,2.3
+Bangalore Rural,Maize, 2003-04,Summer     ,103.0,259,2.51456310679612
+Bangalore Rural,Maize, 2004-05,Kharif     ,7584.0,24105,3.17840189873418
+Bangalore Rural,Maize, 2004-05,Rabi       ,72.0,219,3.04166666666667
+Bangalore Rural,Maize, 2004-05,Summer     ,201.0,615,3.05970149253731
+Bangalore Rural,Maize, 2005-06,Kharif     ,8544.0,37685,4.41069756554307
+Bangalore Rural,Maize, 2005-06,Rabi       ,139.0,497,3.57553956834532
+Bangalore Rural,Maize, 2005-06,Summer     ,370.0,1144,3.09189189189189
+Bangalore Rural,Maize, 2006-07,Kharif     ,6861.0,23981,3.4952630811835
+Bangalore Rural,Maize, 2006-07,Rabi       ,160.0,504,3.15
+Bangalore Rural,Maize, 2006-07,Summer     ,103.0,330,3.20388349514563
+Bangalore Rural,Maize, 2007-08,Kharif     ,8270.0,38651,4.67363966142684
+Bangalore Rural,Maize, 2007-08,Rabi       ,110.0,393,3.57272727272727
+Bangalore Rural,Maize, 2007-08,Summer     ,85.0,274,3.22352941176471
+Bangalore Rural,Maize, 2008-09,Kharif     ,10115.0,48324,4.77745921898171
+Bangalore Rural,Maize, 2008-09,Rabi       ,85.0,268,3.15294117647059
+Bangalore Rural,Maize, 2008-09,Summer     ,152.0,478,3.14473684210526
+Bangalore Rural,Maize, 2009-10,Kharif     ,10788.0,50013,4.63598442714127
+Bangalore Rural,Maize, 2009-10,Rabi       ,37.0,98,2.64864864864865
+Bangalore Rural,Maize, 2009-10,Summer     ,110.0,301,2.73636363636364
+Bangalore Rural,Maize, 2010-11,Kharif     ,10109.0,53329,5.2753981600554
+Bangalore Rural,Maize, 2010-11,Rabi       ,124.0,365,2.94354838709677
+Bangalore Rural,Maize, 2010-11,Summer     ,105.0,357,3.4
+Bangalore Rural,Maize, 2011-12,Kharif     ,14355.0,66335,4.62103796586555
+Bangalore Rural,Maize, 2011-12,Rabi       ,100.0,323,3.23
+Bangalore Rural,Maize, 2011-12,Summer     ,96.0,327,3.40625
+Bangalore Rural,Maize, 2012-13,Kharif     ,10363.0,33207,3.20438097076136
+Bangalore Rural,Maize, 2012-13,Rabi       ,82.0,248,3.02439024390244
+Bangalore Rural,Maize, 2012-13,Summer     ,66.0,227,3.43939393939394
+Bangalore Rural,Maize, 2013-14,Kharif     ,10622.0,28931,2.72368668800603
+Bangalore Rural,Maize, 2013-14,Rabi       ,112.0,343,3.0625
+Bangalore Rural,Maize, 2013-14,Summer     ,78.0,253,3.24358974358974
+Bangalore Rural,Maize, 2014-15,Kharif     ,14334.0,44066,3.07422910562299
+Bangalore Rural,Maize, 2014-15,Rabi       ,127.0,429,3.37795275590551
+Bangalore Rural,Maize, 2014-15,Summer     ,99.0,323,3.26262626262626
+Bangalore Rural,Maize, 2015-16,Kharif     ,14695.0,41769,2.84239537257571
+Bangalore Rural,Maize, 2015-16,Rabi       ,82.0,204,2.48780487804878
+Bangalore Rural,Maize, 2015-16,Summer     ,89.0,250,2.80898876404494
+Bangalore Rural,Maize, 2016-17,Kharif     ,10638.0,19757,1.85721000188005
+Bangalore Rural,Maize, 2016-17,Rabi       ,95.0,286,3.01052631578947
+Bangalore Rural,Maize, 2016-17,Summer     ,79.0,245,3.10126582278481
+Bangalore Rural,Maize, 2017-18,Kharif     ,9339.0,46800,5.01124317378734
+Bangalore Rural,Maize, 2017-18,Rabi       ,87.0,323,3.71264367816092
+Bangalore Rural,Maize, 2017-18,Summer     ,23.0,86,3.73913043478261
+Bangalore Rural,Maize, 2018-19,Kharif     ,10411.0,32965,3.16636250120065
+Bangalore Rural,Maize, 2018-19,Rabi       ,68.0,231,3.39705882352941
+Bangalore Rural,Maize, 2018-19,Summer     ,25.0,86,3.44
+Bangalore Rural,Mesta, 2018-19,Whole Year ,1.0,1,1
+Bangalore Rural,Moong(Green Gram), 1998-99,Kharif     ,335.0,66,0.197014925373134
+Bangalore Rural,Moong(Green Gram), 1999-00,Kharif     ,316.0,109,0.344936708860759
+Bangalore Rural,Moong(Green Gram), 1999-00,Rabi       ,38.0,9,0.236842105263158
+Bangalore Rural,Moong(Green Gram), 2000-01,Kharif     ,363.0,151,0.415977961432507
+Bangalore Rural,Moong(Green Gram), 2000-01,Rabi       ,8.0,2,0.25
+Bangalore Rural,Moong(Green Gram), 2001-02,Kharif     ,93.0,24,0.258064516129032
+Bangalore Rural,Moong(Green Gram), 2001-02,Rabi       ,4.0,1,0.25
+Bangalore Rural,Moong(Green Gram), 2002-03,Kharif     ,22.0,1,0.0454545454545455
+Bangalore Rural,Moong(Green Gram), 2003-04,Kharif     ,20.0,3,0.15
+Bangalore Rural,Moong(Green Gram), 2004-05,Kharif     ,64.0,10,0.15625
+Bangalore Rural,Moong(Green Gram), 2005-06,Kharif     ,29.0,7,0.241379310344828
+Bangalore Rural,Moong(Green Gram), 2006-07,Kharif     ,66.0,8,0.121212121212121
+Bangalore Rural,Moong(Green Gram), 2007-08,Kharif     ,6.0,1,0.166666666666667
+Bangalore Rural,Moong(Green Gram), 2008-09,Kharif     ,14.0,2,0.142857142857143
+Bangalore Rural,Moong(Green Gram), 2009-10,Kharif     ,6.0,1,0.166666666666667
+Bangalore Rural,Moong(Green Gram), 2010-11,Kharif     ,23.0,6,0.260869565217391
+Bangalore Rural,Moong(Green Gram), 2011-12,Kharif     ,10.0,3,0.3
+Bangalore Rural,Moong(Green Gram), 2012-13,Kharif     ,5.0,2,0.4
+Bangalore Rural,Moong(Green Gram), 2013-14,Kharif     ,11.0,3,0.272727272727273
+Bangalore Rural,Moong(Green Gram), 2014-15,Kharif     ,7.0,1,0.142857142857143
+Bangalore Rural,Moong(Green Gram), 2015-16,Kharif     ,3.0,nan,0
+Bangalore Rural,Moong(Green Gram), 2016-17,Kharif     ,11.0,3,0.272727272727273
+Bangalore Rural,Moong(Green Gram), 2018-19,Kharif     ,7.0,2,0.285714285714286
+Bangalore Rural,Niger seed, 1998-99,Kharif     ,2606.0,642,0.246354566385265
+Bangalore Rural,Niger seed, 1999-00,Kharif     ,3099.0,764,0.246531139077122
+Bangalore Rural,Niger seed, 2000-01,Kharif     ,2948.0,727,0.246607869742198
+Bangalore Rural,Niger seed, 2001-02,Kharif     ,2600.0,641,0.246538461538461
+Bangalore Rural,Niger seed, 2002-03,Kharif     ,1493.0,368,0.246483590087073
+Bangalore Rural,Niger seed, 2003-04,Kharif     ,1628.0,401,0.246314496314496
+Bangalore Rural,Niger seed, 2004-05,Kharif     ,1640.0,404,0.246341463414634
+Bangalore Rural,Niger seed, 2005-06,Kharif     ,2157.0,532,0.246638850254984
+Bangalore Rural,Niger seed, 2006-07,Kharif     ,1375.0,339,0.246545454545455
+Bangalore Rural,Niger seed, 2007-08,Kharif     ,727.0,275,0.378266850068776
+Bangalore Rural,Niger seed, 2008-09,Kharif     ,641.0,220,0.343213728549142
+Bangalore Rural,Niger seed, 2009-10,Kharif     ,2626.0,920,0.35034272658035
+Bangalore Rural,Niger seed, 2010-11,Kharif     ,559.0,168,0.300536672629696
+Bangalore Rural,Niger seed, 2011-12,Kharif     ,449.0,122,0.271714922048998
+Bangalore Rural,Niger seed, 2012-13,Kharif     ,316.0,76,0.240506329113924
+Bangalore Rural,Niger seed, 2013-14,Kharif     ,404.0,88,0.217821782178218
+Bangalore Rural,Niger seed, 2014-15,Kharif     ,208.0,55,0.264423076923077
+Bangalore Rural,Niger seed, 2015-16,Kharif     ,116.0,30,0.258620689655172
+Bangalore Rural,Niger seed, 2016-17,Kharif     ,91.0,17,0.186813186813187
+Bangalore Rural,Niger seed, 2017-18,Kharif     ,101.0,22,0.217821782178218
+Bangalore Rural,Niger seed, 2018-19,Kharif     ,7.0,1,0.142857142857143
+Bangalore Rural,Onion, 1998-99,Kharif     ,71.0,322,4.53521126760563
+Bangalore Rural,Onion, 1998-99,Summer     ,150.0,1861,12.4066666666667
+Bangalore Rural,Onion, 1999-00,Whole Year ,51.0,399,7.82352941176471
+Bangalore Rural,Onion, 2000-01,Whole Year ,50.0,288,5.76
+Bangalore Rural,Onion, 2001-02,Whole Year ,50.0,463,9.26
+Bangalore Rural,Onion, 2002-03,Whole Year ,15.0,60,4
+Bangalore Rural,Onion, 2003-04,Whole Year ,19.0,49,2.57894736842105
+Bangalore Rural,Onion, 2004-05,Whole Year ,48.0,319,6.64583333333333
+Bangalore Rural,Onion, 2005-06,Kharif     ,75.0,418,5.57333333333333
+Bangalore Rural,Onion, 2005-06,Rabi       ,16.0,166,10.375
+Bangalore Rural,Onion, 2005-06,Summer     ,5.0,83,16.6
+Bangalore Rural,Onion, 2006-07,Whole Year ,59.0,346,5.86440677966102
+Bangalore Rural,Onion, 2007-08,Kharif     ,50.0,298,5.96
+Bangalore Rural,Onion, 2007-08,Rabi       ,8.0,67,8.375
+Bangalore Rural,Onion, 2007-08,Summer     ,3.0,25,8.33333333333333
+Bangalore Rural,Onion, 2008-09,Kharif     ,66.0,342,5.18181818181818
+Bangalore Rural,Onion, 2008-09,Rabi       ,19.0,127,6.68421052631579
+Bangalore Rural,Onion, 2008-09,Summer     ,17.0,93,5.47058823529412
+Bangalore Rural,Onion, 2009-10,Kharif     ,77.0,272,3.53246753246753
+Bangalore Rural,Onion, 2009-10,Rabi       ,22.0,130,5.90909090909091
+Bangalore Rural,Onion, 2009-10,Summer     ,9.0,69,7.66666666666667
+Bangalore Rural,Onion, 2010-11,Kharif     ,74.0,462,6.24324324324324
+Bangalore Rural,Onion, 2010-11,Rabi       ,44.0,301,6.84090909090909
+Bangalore Rural,Onion, 2010-11,Summer     ,4.0,43,10.75
+Bangalore Rural,Onion, 2011-12,Kharif     ,54.0,267,4.94444444444444
+Bangalore Rural,Onion, 2011-12,Rabi       ,42.0,334,7.95238095238095
+Bangalore Rural,Onion, 2011-12,Summer     ,4.0,25,6.25
+Bangalore Rural,Onion, 2012-13,Kharif     ,42.0,223,5.30952380952381
+Bangalore Rural,Onion, 2012-13,Rabi       ,7.0,46,6.57142857142857
+Bangalore Rural,Onion, 2012-13,Summer     ,10.0,57,5.7
+Bangalore Rural,Onion, 2013-14,Kharif     ,30.0,198,6.6
+Bangalore Rural,Onion, 2013-14,Rabi       ,15.0,105,7
+Bangalore Rural,Onion, 2013-14,Summer     ,182.0,1429,7.85164835164835
+Bangalore Rural,Onion, 2014-15,Kharif     ,69.0,354,5.1304347826087
+Bangalore Rural,Onion, 2014-15,Rabi       ,11.0,73,6.63636363636364
+Bangalore Rural,Onion, 2014-15,Summer     ,6.0,29,4.83333333333333
+Bangalore Rural,Onion, 2015-16,Kharif     ,23.0,100,4.34782608695652
+Bangalore Rural,Onion, 2015-16,Rabi       ,12.0,68,5.66666666666667
+Bangalore Rural,Onion, 2016-17,Kharif     ,15.0,108,7.2
+Bangalore Rural,Onion, 2016-17,Rabi       ,1.0,14,14
+Bangalore Rural,Onion, 2016-17,Summer     ,29.0,427,14.7241379310345
+Bangalore Rural,Onion, 2017-18,Kharif     ,20.0,221,11.05
+Bangalore Rural,Onion, 2017-18,Rabi       ,22.0,312,14.1818181818182
+Bangalore Rural,Onion, 2017-18,Summer     ,1.0,12,12
+Bangalore Rural,Onion, 2018-19,Kharif     ,32.0,242,7.5625
+Bangalore Rural,Onion, 2018-19,Rabi       ,19.0,252,13.2631578947368
+Bangalore Rural,Other  Rabi pulses, 1999-00,Rabi       ,669.0,78,0.116591928251121
+Bangalore Rural,Other  Rabi pulses, 2000-01,Rabi       ,337.0,41,0.121661721068249
+Bangalore Rural,Other  Rabi pulses, 2001-02,Rabi       ,208.0,26,0.125
+Bangalore Rural,Other  Rabi pulses, 2002-03,Rabi       ,78.0,9,0.115384615384615
+Bangalore Rural,Other  Rabi pulses, 2003-04,Rabi       ,170.0,21,0.123529411764706
+Bangalore Rural,Other  Rabi pulses, 2004-05,Rabi       ,243.0,30,0.123456790123457
+Bangalore Rural,Other  Rabi pulses, 2005-06,Rabi       ,191.0,24,0.12565445026178
+Bangalore Rural,Other  Rabi pulses, 2006-07,Rabi       ,141.0,57,0.404255319148936
+Bangalore Rural,Other  Rabi pulses, 2007-08,Rabi       ,72.0,25,0.347222222222222
+Bangalore Rural,Other  Rabi pulses, 2008-09,Rabi       ,79.0,30,0.379746835443038
+Bangalore Rural,Other  Rabi pulses, 2009-10,Rabi       ,75.0,27,0.36
+Bangalore Rural,Other  Rabi pulses, 2010-11,Rabi       ,13.0,6,0.461538461538462
+Bangalore Rural,Other  Rabi pulses, 2011-12,Rabi       ,21.0,20,0.952380952380952
+Bangalore Rural,Other  Rabi pulses, 2012-13,Rabi       ,57.0,26,0.456140350877193
+Bangalore Rural,Other  Rabi pulses, 2013-14,Rabi       ,93.0,74,0.795698924731183
+Bangalore Rural,Other  Rabi pulses, 2014-15,Rabi       ,33.0,25,0.757575757575758
+Bangalore Rural,Other  Rabi pulses, 2015-16,Rabi       ,39.0,26,0.666666666666667
+Bangalore Rural,Other  Rabi pulses, 2016-17,Rabi       ,4.0,nan,0
+Bangalore Rural,Other  Rabi pulses, 2017-18,Rabi       ,38.0,30,0.789473684210526
+Bangalore Rural,Other  Rabi pulses, 2018-19,Rabi       ,25.0,19,0.76
+Bangalore Rural,Other Kharif pulses, 1999-00,Kharif     ,5446.0,946,0.173705471905986
+Bangalore Rural,Other Kharif pulses, 2000-01,Kharif     ,21463.0,3766,0.17546475329637
+Bangalore Rural,Other Kharif pulses, 2001-02,Kharif     ,15964.0,2793,0.174956151340516
+Bangalore Rural,Other Kharif pulses, 2002-03,Kharif     ,3095.0,520,0.168012924071082
+Bangalore Rural,Other Kharif pulses, 2003-04,Kharif     ,11805.0,2090,0.17704362558238
+Bangalore Rural,Other Kharif pulses, 2004-05,Kharif     ,14176.0,2551.68,0.18
+Bangalore Rural,Other Kharif pulses, 2005-06,Kharif     ,12750.0,2178,0.170823529411765
+Bangalore Rural,Other Kharif pulses, 2006-07,Kharif     ,8572.0,14192,1.65562295846944
+Bangalore Rural,Other Kharif pulses, 2007-08,Kharif     ,4258.0,4476,1.05119774542039
+Bangalore Rural,Other Kharif pulses, 2008-09,Kharif     ,4446.0,3906,0.878542510121457
+Bangalore Rural,Other Kharif pulses, 2009-10,Kharif     ,4131.0,3219,0.77923021060276
+Bangalore Rural,Other Kharif pulses, 2010-11,Kharif     ,3383.0,4480,1.32426840082767
+Bangalore Rural,Other Kharif pulses, 2011-12,Kharif     ,2957.0,3427,1.15894487656409
+Bangalore Rural,Other Kharif pulses, 2012-13,Kharif     ,2805.0,1799,0.641354723707665
+Bangalore Rural,Other Kharif pulses, 2013-14,Kharif     ,1755.0,1142,0.650712250712251
+Bangalore Rural,Other Kharif pulses, 2014-15,Kharif     ,1825.0,2677,1.46684931506849
+Bangalore Rural,Other Kharif pulses, 2015-16,Kharif     ,1684.0,3610,2.1437054631829
+Bangalore Rural,Other Kharif pulses, 2016-17,Kharif     ,1133.0,508,0.448367166813769
+Bangalore Rural,Other Kharif pulses, 2017-18,Kharif     ,1573.0,1182,0.751430387794024
+Bangalore Rural,Other Kharif pulses, 2018-19,Kharif     ,447.0,279,0.624161073825503
+Bangalore Rural,Peas & beans (Pulses), 1998-99,Kharif     ,185.0,2514,13.5891891891892
+Bangalore Rural,Peas & beans (Pulses), 1998-99,Rabi       ,27.0,272,10.0740740740741
+Bangalore Rural,Peas & beans (Pulses), 1998-99,Summer     ,237.0,2386,10.0675105485232
+Bangalore Rural,Peas & beans (Pulses), 2001-02,Whole Year ,675.0,4498,6.6637037037037
+Bangalore Rural,Peas & beans (Pulses), 2005-06,Kharif     ,100.0,974,9.74
+Bangalore Rural,Peas & beans (Pulses), 2005-06,Rabi       ,95.0,1179,12.4105263157895
+Bangalore Rural,Peas & beans (Pulses), 2005-06,Summer     ,41.0,207,5.04878048780488
+Bangalore Rural,Peas & beans (Pulses), 2010-11,Kharif     ,466.0,4909,10.5343347639485
+Bangalore Rural,Peas & beans (Pulses), 2010-11,Rabi       ,104.0,739,7.10576923076923
+Bangalore Rural,Peas & beans (Pulses), 2010-11,Summer     ,60.0,514,8.56666666666667
+Bangalore Rural,Peas & beans (Pulses), 2011-12,Kharif     ,407.0,2155,5.2948402948403
+Bangalore Rural,Peas & beans (Pulses), 2011-12,Rabi       ,98.0,329,3.35714285714286
+Bangalore Rural,Peas & beans (Pulses), 2011-12,Summer     ,107.0,1245,11.6355140186916
+Bangalore Rural,Potato, 1998-99,Kharif     ,835.0,9203,11.0215568862275
+Bangalore Rural,Potato, 1998-99,Rabi       ,212.0,4672,22.0377358490566
+Bangalore Rural,Potato, 1998-99,Summer     ,629.0,10664,16.9538950715421
+Bangalore Rural,Potato, 1999-00,Whole Year ,691.0,14644,21.192474674385
+Bangalore Rural,Potato, 2000-01,Whole Year ,1870.0,29280,15.6577540106952
+Bangalore Rural,Potato, 2001-02,Whole Year ,1636.0,27066,16.5440097799511
+Bangalore Rural,Potato, 2002-03,Whole Year ,923.0,5258,5.69664138678223
+Bangalore Rural,Potato, 2003-04,Whole Year ,1467.0,20886,14.2372188139059
+Bangalore Rural,Potato, 2004-05,Whole Year ,1660.0,22458,13.5289156626506
+Bangalore Rural,Potato, 2005-06,Kharif     ,392.0,1312,3.3469387755102
+Bangalore Rural,Potato, 2005-06,Rabi       ,1194.0,17452,14.6164154103853
+Bangalore Rural,Potato, 2005-06,Summer     ,83.0,1389,16.7349397590361
+Bangalore Rural,Potato, 2006-07,Whole Year ,1802.0,41882,23.2419533851276
+Bangalore Rural,Potato, 2007-08,Kharif     ,230.0,758,3.29565217391304
+Bangalore Rural,Potato, 2007-08,Rabi       ,1050.0,12920,12.3047619047619
+Bangalore Rural,Potato, 2007-08,Summer     ,157.0,2668,16.9936305732484
+Bangalore Rural,Potato, 2008-09,Kharif     ,191.0,362,1.89528795811518
+Bangalore Rural,Potato, 2008-09,Rabi       ,902.0,16522,18.3170731707317
+Bangalore Rural,Potato, 2008-09,Summer     ,160.0,2708,16.925
+Bangalore Rural,Potato, 2009-10,Kharif     ,105.0,649,6.18095238095238
+Bangalore Rural,Potato, 2009-10,Rabi       ,889.0,13373,15.0427446569179
+Bangalore Rural,Potato, 2009-10,Summer     ,160.0,2718,16.9875
+Bangalore Rural,Potato, 2010-11,Kharif     ,114.0,866,7.59649122807018
+Bangalore Rural,Potato, 2010-11,Rabi       ,927.0,27142,29.2793959007551
+Bangalore Rural,Potato, 2010-11,Summer     ,135.0,2076,15.3777777777778
+Bangalore Rural,Potato, 2011-12,Kharif     ,181.0,1496,8.26519337016575
+Bangalore Rural,Potato, 2011-12,Rabi       ,912.0,18141,19.8914473684211
+Bangalore Rural,Potato, 2011-12,Summer     ,150.0,2164,14.4266666666667
+Bangalore Rural,Potato, 2012-13,Kharif     ,207.0,1322,6.38647342995169
+Bangalore Rural,Potato, 2012-13,Rabi       ,497.0,7366,14.8209255533199
+Bangalore Rural,Potato, 2012-13,Summer     ,156.0,3401,21.801282051282
+Bangalore Rural,Potato, 2013-14,Kharif     ,959.0,6309,6.57872784150156
+Bangalore Rural,Potato, 2013-14,Rabi       ,362.0,5810,16.0497237569061
+Bangalore Rural,Potato, 2013-14,Summer     ,23.0,323,14.0434782608696
+Bangalore Rural,Potato, 2014-15,Kharif     ,439.0,2702,6.15489749430524
+Bangalore Rural,Potato, 2014-15,Rabi       ,356.0,6630,18.623595505618
+Bangalore Rural,Potato, 2014-15,Summer     ,65.0,891,13.7076923076923
+Bangalore Rural,Potato, 2015-16,Kharif     ,384.0,1542,4.015625
+Bangalore Rural,Potato, 2015-16,Rabi       ,100.0,1506,15.06
+Bangalore Rural,Potato, 2015-16,Summer     ,4.0,66,16.5
+Bangalore Rural,Potato, 2016-17,Kharif     ,125.0,1228,9.824
+Bangalore Rural,Potato, 2016-17,Rabi       ,152.0,2102,13.8289473684211
+Bangalore Rural,Potato, 2016-17,Summer     ,43.0,680,15.8139534883721
+Bangalore Rural,Potato, 2017-18,Kharif     ,90.0,868,9.64444444444444
+Bangalore Rural,Potato, 2017-18,Rabi       ,110.0,2058,18.7090909090909
+Bangalore Rural,Potato, 2017-18,Summer     ,3.0,46,15.3333333333333
+Bangalore Rural,Potato, 2018-19,Kharif     ,194.0,1536,7.91752577319588
+Bangalore Rural,Potato, 2018-19,Rabi       ,43.0,652,15.1627906976744
+Bangalore Rural,Potato, 2018-19,Summer     ,31.0,504,16.258064516129
+Bangalore Rural,Ragi, 1998-99,Kharif     ,145038.0,242901,1.67474041285732
+Bangalore Rural,Ragi, 1998-99,Rabi       ,216.0,314,1.4537037037037
+Bangalore Rural,Ragi, 1998-99,Summer     ,1754.0,3946,2.2497149372862
+Bangalore Rural,Ragi, 1999-00,Kharif     ,147095.0,302839,2.05879873551106
+Bangalore Rural,Ragi, 1999-00,Rabi       ,432.0,560,1.2962962962963
+Bangalore Rural,Ragi, 1999-00,Summer     ,2431.0,4859,1.99876593994241
+Bangalore Rural,Ragi, 2000-01,Kharif     ,145995.0,301161,2.0628172197678
+Bangalore Rural,Ragi, 2000-01,Rabi       ,282.0,438,1.5531914893617
+Bangalore Rural,Ragi, 2000-01,Summer     ,1469.0,2853,1.94213750850919
+Bangalore Rural,Ragi, 2001-02,Kharif     ,146131.0,283423,1.93951317653338
+Bangalore Rural,Ragi, 2001-02,Rabi       ,168.0,230,1.36904761904762
+Bangalore Rural,Ragi, 2001-02,Summer     ,645.0,1137,1.76279069767442
+Bangalore Rural,Ragi, 2002-03,Kharif     ,105139.0,97923,0.931367047432447
+Bangalore Rural,Ragi, 2002-03,Rabi       ,427.0,671,1.57142857142857
+Bangalore Rural,Ragi, 2002-03,Summer     ,426.0,489,1.14788732394366
+Bangalore Rural,Ragi, 2003-04,Kharif     ,134499.0,253694,1.88621476739604
+Bangalore Rural,Ragi, 2003-04,Rabi       ,245.0,225,0.918367346938775
+Bangalore Rural,Ragi, 2003-04,Summer     ,449.0,534,1.18930957683742
+Bangalore Rural,Ragi, 2004-05,Kharif     ,135894.0,346941,2.553026623692
+Bangalore Rural,Ragi, 2004-05,Rabi       ,145.0,238,1.64137931034483
+Bangalore Rural,Ragi, 2004-05,Summer     ,521.0,830,1.59309021113244
+Bangalore Rural,Ragi, 2005-06,Kharif     ,138892.0,287063,2.0668073035164
+Bangalore Rural,Ragi, 2005-06,Rabi       ,150.0,436,2.90666666666667
+Bangalore Rural,Ragi, 2005-06,Summer     ,508.0,1109,2.18307086614173
+Bangalore Rural,Ragi, 2006-07,Kharif     ,89257.0,101013,1.13170955779379
+Bangalore Rural,Ragi, 2006-07,Rabi       ,257.0,513,1.99610894941634
+Bangalore Rural,Ragi, 2006-07,Summer     ,255.0,542,2.12549019607843
+Bangalore Rural,Ragi, 2007-08,Kharif     ,47641.0,110869,2.32717617178481
+Bangalore Rural,Ragi, 2007-08,Rabi       ,108.0,234,2.16666666666667
+Bangalore Rural,Ragi, 2007-08,Summer     ,139.0,289,2.07913669064748
+Bangalore Rural,Ragi, 2008-09,Kharif     ,43788.0,100903,2.30435279071892
+Bangalore Rural,Ragi, 2008-09,Rabi       ,211.0,441,2.09004739336493
+Bangalore Rural,Ragi, 2008-09,Summer     ,217.0,432,1.99078341013825
+Bangalore Rural,Ragi, 2009-10,Kharif     ,41469.0,91892,2.21592032602667
+Bangalore Rural,Ragi, 2009-10,Rabi       ,143.0,335,2.34265734265734
+Bangalore Rural,Ragi, 2009-10,Summer     ,143.0,268,1.87412587412587
+Bangalore Rural,Ragi, 2010-11,Kharif     ,43927.0,115210,2.6227604889931
+Bangalore Rural,Ragi, 2010-11,Rabi       ,203.0,421,2.07389162561576
+Bangalore Rural,Ragi, 2010-11,Summer     ,117.0,229,1.95726495726496
+Bangalore Rural,Ragi, 2011-12,Kharif     ,42716.0,100336,2.34890907388332
+Bangalore Rural,Ragi, 2011-12,Rabi       ,155.0,312,2.01290322580645
+Bangalore Rural,Ragi, 2011-12,Summer     ,103.0,198,1.92233009708738
+Bangalore Rural,Ragi, 2012-13,Kharif     ,39812.0,92776,2.3303526574902
+Bangalore Rural,Ragi, 2012-13,Rabi       ,123.0,177,1.4390243902439
+Bangalore Rural,Ragi, 2012-13,Summer     ,91.0,136,1.49450549450549
+Bangalore Rural,Ragi, 2013-14,Kharif     ,40329.0,103750,2.57259044360138
+Bangalore Rural,Ragi, 2013-14,Rabi       ,177.0,258,1.45762711864407
+Bangalore Rural,Ragi, 2013-14,Summer     ,36.0,71,1.97222222222222
+Bangalore Rural,Ragi, 2014-15,Kharif     ,35844.0,91940,2.56500390581408
+Bangalore Rural,Ragi, 2014-15,Rabi       ,76.0,123,1.61842105263158
+Bangalore Rural,Ragi, 2014-15,Summer     ,42.0,75,1.78571428571429
+Bangalore Rural,Ragi, 2015-16,Kharif     ,38725.0,78838,2.03584247901872
+Bangalore Rural,Ragi, 2015-16,Rabi       ,111.0,187,1.68468468468468
+Bangalore Rural,Ragi, 2015-16,Summer     ,48.0,82,1.70833333333333
+Bangalore Rural,Ragi, 2016-17,Kharif     ,36115.0,43573,1.20650699155476
+Bangalore Rural,Ragi, 2016-17,Rabi       ,188.0,195,1.03723404255319
+Bangalore Rural,Ragi, 2016-17,Summer     ,160.0,289,1.80625
+Bangalore Rural,Ragi, 2017-18,Kharif     ,37019.0,93125,2.51560009724736
+Bangalore Rural,Ragi, 2017-18,Rabi       ,105.0,168,1.6
+Bangalore Rural,Ragi, 2017-18,Summer     ,39.0,68,1.74358974358974
+Bangalore Rural,Ragi, 2018-19,Kharif     ,42163.0,69255,1.64255389796741
+Bangalore Rural,Ragi, 2018-19,Rabi       ,141.0,196,1.39007092198582
+Bangalore Rural,Ragi, 2018-19,Summer     ,40.0,72,1.8
+Bangalore Rural,Rapeseed &Mustard, 1998-99,Kharif     ,1270.0,412,0.324409448818898
+Bangalore Rural,Rapeseed &Mustard, 1999-00,Rabi       ,1402.0,455,0.32453637660485
+Bangalore Rural,Rapeseed &Mustard, 2000-01,Rabi       ,1475.0,479,0.324745762711864
+Bangalore Rural,Rapeseed &Mustard, 2001-02,Rabi       ,1766.0,573,0.324462061155153
+Bangalore Rural,Rapeseed &Mustard, 2002-03,Rabi       ,957.0,311,0.324973876698015
+Bangalore Rural,Rapeseed &Mustard, 2003-04,Rabi       ,1377.0,447,0.324618736383442
+Bangalore Rural,Rapeseed &Mustard, 2004-05,Rabi       ,1405.0,456,0.324555160142349
+Bangalore Rural,Rapeseed &Mustard, 2005-06,Rabi       ,1566.0,509,0.325031928480204
+Bangalore Rural,Rapeseed &Mustard, 2006-07,Kharif     ,1129.0,367,0.325066430469442
+Bangalore Rural,Rapeseed &Mustard, 2007-08,Kharif     ,567.0,268,0.472663139329806
+Bangalore Rural,Rapeseed &Mustard, 2008-09,Rabi       ,690.0,327,0.473913043478261
+Bangalore Rural,Rapeseed &Mustard, 2009-10,Rabi       ,645.0,188,0.291472868217054
+Bangalore Rural,Rapeseed &Mustard, 2010-11,Rabi       ,630.0,229,0.363492063492063
+Bangalore Rural,Rapeseed &Mustard, 2011-12,Rabi       ,609.0,237,0.389162561576355
+Bangalore Rural,Rapeseed &Mustard, 2012-13,Kharif     ,425.0,165,0.388235294117647
+Bangalore Rural,Rapeseed &Mustard, 2013-14,Kharif     ,554.0,225,0.406137184115523
+Bangalore Rural,Rapeseed &Mustard, 2014-15,Kharif     ,311.0,52,0.167202572347267
+Bangalore Rural,Rapeseed &Mustard, 2015-16,Kharif     ,240.0,47,0.195833333333333
+Bangalore Rural,Rapeseed &Mustard, 2016-17,Kharif     ,179.0,28,0.156424581005587
+Bangalore Rural,Rapeseed &Mustard, 2017-18,Kharif     ,225.0,32,0.142222222222222
+Bangalore Rural,Rice, 1997-98,Kharif     ,11240.0,26256,2.33594306049822
+Bangalore Rural,Rice, 1997-98,Rabi       ,195.0,422,2.16410256410256
+Bangalore Rural,Rice, 1997-98,Summer     ,4350.0,12398,2.85011494252874
+Bangalore Rural,Rice, 1998-99,Kharif     ,14305.0,39567,2.76595595945474
+Bangalore Rural,Rice, 1998-99,Summer     ,6662.0,21506,3.22815971179826
+Bangalore Rural,Rice, 1999-00,Kharif     ,11541.0,32410,2.80824885191924
+Bangalore Rural,Rice, 1999-00,Rabi       ,812.0,1729,2.12931034482759
+Bangalore Rural,Rice, 1999-00,Summer     ,7949.0,21764,2.73795445968046
+Bangalore Rural,Rice, 2000-01,Kharif     ,14828.0,37089,2.50128135958996
+Bangalore Rural,Rice, 2000-01,Rabi       ,715.0,1532,2.14265734265734
+Bangalore Rural,Rice, 2000-01,Summer     ,6887.0,18490,2.68476840423987
+Bangalore Rural,Rice, 2001-02,Kharif     ,11067.0,28322,2.55913978494624
+Bangalore Rural,Rice, 2001-02,Rabi       ,169.0,324,1.91715976331361
+Bangalore Rural,Rice, 2001-02,Summer     ,3073.0,7891,2.56784900748454
+Bangalore Rural,Rice, 2002-03,Kharif     ,5722.0,12953,2.26371897937784
+Bangalore Rural,Rice, 2002-03,Rabi       ,32.0,67,2.09375
+Bangalore Rural,Rice, 2002-03,Summer     ,431.0,1192,2.76566125290023
+Bangalore Rural,Rice, 2003-04,Kharif     ,5850.0,13878,2.37230769230769
+Bangalore Rural,Rice, 2003-04,Rabi       ,240.0,711,2.9625
+Bangalore Rural,Rice, 2003-04,Summer     ,481.0,1920,3.99168399168399
+Bangalore Rural,Rice, 2004-05,Kharif     ,8568.0,23767.632,2.774
+Bangalore Rural,Rice, 2004-05,Rabi       ,5.0,17,3.4
+Bangalore Rural,Rice, 2004-05,Summer     ,800.0,3579,4.47375
+Bangalore Rural,Rice, 2005-06,Kharif     ,9729.0,22181,2.27988488025491
+Bangalore Rural,Rice, 2005-06,Rabi       ,18.0,40,2.22222222222222
+Bangalore Rural,Rice, 2005-06,Summer     ,2094.0,6511,3.10936007640879
+Bangalore Rural,Rice, 2006-07,Kharif     ,7340.0,14919,2.03256130790191
+Bangalore Rural,Rice, 2006-07,Rabi       ,13.0,30,2.30769230769231
+Bangalore Rural,Rice, 2006-07,Summer     ,706.0,545,0.771954674220963
+Bangalore Rural,Rice, 2007-08,Kharif     ,1990.0,5928,2.97889447236181
+Bangalore Rural,Rice, 2007-08,Rabi       ,16.0,35,2.1875
+Bangalore Rural,Rice, 2007-08,Summer     ,100.0,305,3.05
+Bangalore Rural,Rice, 2008-09,Kharif     ,1782.0,7753.482,4.351
+Bangalore Rural,Rice, 2008-09,Rabi       ,12.0,26,2.16666666666667
+Bangalore Rural,Rice, 2008-09,Summer     ,439.0,1326,3.02050113895216
+Bangalore Rural,Rice, 2009-10,Kharif     ,1525.0,6751.175,4.427
+Bangalore Rural,Rice, 2009-10,Rabi       ,3.0,7,2.33333333333333
+Bangalore Rural,Rice, 2009-10,Summer     ,139.0,425,3.05755395683453
+Bangalore Rural,Rice, 2010-11,Kharif     ,1531.0,4486,2.9301110385369
+Bangalore Rural,Rice, 2010-11,Summer     ,155.0,501,3.23225806451613
+Bangalore Rural,Rice, 2011-12,Kharif     ,1460.0,4836,3.31232876712329
+Bangalore Rural,Rice, 2011-12,Summer     ,153.0,521,3.40522875816993
+Bangalore Rural,Rice, 2012-13,Kharif     ,963.0,2796,2.90342679127726
+Bangalore Rural,Rice, 2012-13,Rabi       ,1.0,2,2
+Bangalore Rural,Rice, 2012-13,Summer     ,13.0,41,3.15384615384615
+Bangalore Rural,Rice, 2013-14,Kharif     ,685.0,2197,3.20729927007299
+Bangalore Rural,Rice, 2013-14,Summer     ,137.0,463,3.37956204379562
+Bangalore Rural,Rice, 2014-15,Kharif     ,598.0,2093,3.5
+Bangalore Rural,Rice, 2014-15,Summer     ,49.0,150,3.06122448979592
+Bangalore Rural,Rice, 2015-16,Kharif     ,704.0,1853,2.63210227272727
+Bangalore Rural,Rice, 2015-16,Summer     ,32.0,95,2.96875
+Bangalore Rural,Rice, 2016-17,Kharif     ,540.0,1413,2.61666666666667
+Bangalore Rural,Rice, 2016-17,Rabi       ,1.0,3,3
+Bangalore Rural,Rice, 2016-17,Summer     ,48.0,138,2.875
+Bangalore Rural,Rice, 2017-18,Kharif     ,532.0,1510,2.83834586466165
+Bangalore Rural,Rice, 2017-18,Summer     ,144.0,450,3.125
+Bangalore Rural,Rice, 2018-19,Kharif     ,186.0,553,2.97311827956989
+Bangalore Rural,Rice, 2018-19,Summer     ,79.0,253,3.20253164556962
+Bangalore Rural,Safflower, 2018-19,Rabi       ,1.0,1,1
+Bangalore Rural,Sesamum, 1998-99,Kharif     ,1245.0,504,0.404819277108434
+Bangalore Rural,Sesamum, 1999-00,Kharif     ,2576.0,1451,0.563276397515528
+Bangalore Rural,Sesamum, 2000-01,Kharif     ,2154.0,1441,0.668987929433612
+Bangalore Rural,Sesamum, 2001-02,Kharif     ,2668.0,986,0.369565217391304
+Bangalore Rural,Sesamum, 2002-03,Kharif     ,139.0,46,0.330935251798561
+Bangalore Rural,Sesamum, 2003-04,Kharif     ,400.0,204,0.51
+Bangalore Rural,Sesamum, 2004-05,Kharif     ,1475.0,795,0.538983050847458
+Bangalore Rural,Sesamum, 2005-06,Kharif     ,3165.0,2742,0.866350710900474
+Bangalore Rural,Sesamum, 2006-07,Kharif     ,1250.0,632,0.5056
+Bangalore Rural,Sesamum, 2007-08,Kharif     ,12.0,7,0.583333333333333
+Bangalore Rural,Sesamum, 2008-09,Kharif     ,2.0,1,0.5
+Bangalore Rural,Sesamum, 2009-10,Kharif     ,5.0,2,0.4
+Bangalore Rural,Sesamum, 2010-11,Kharif     ,31.0,18,0.580645161290323
+Bangalore Rural,Sesamum, 2011-12,Kharif     ,24.0,12,0.5
+Bangalore Rural,Sesamum, 2012-13,Kharif     ,23.0,7,0.304347826086957
+Bangalore Rural,Sesamum, 2013-14,Kharif     ,15.0,9,0.6
+Bangalore Rural,Sesamum, 2014-15,Kharif     ,8.0,4,0.5
+Bangalore Rural,Sesamum, 2015-16,Kharif     ,14.0,7,0.5
+Bangalore Rural,Sesamum, 2016-17,Kharif     ,9.0,6,0.666666666666667
+Bangalore Rural,Sesamum, 2017-18,Kharif     ,2.0,2,1
+Bangalore Rural,Sesamum, 2018-19,Kharif     ,1.0,1,1
+Bangalore Rural,Small millets, 1999-00,Kharif     ,482.0,210,0.435684647302905
+Bangalore Rural,Small millets, 2000-01,Kharif     ,456.0,243,0.532894736842105
+Bangalore Rural,Small millets, 2001-02,Kharif     ,445.0,383,0.860674157303371
+Bangalore Rural,Small millets, 2005-06,Kharif     ,183.0,136,0.743169398907104
+Bangalore Rural,Small millets, 2006-07,Kharif     ,33.0,21,0.636363636363636
+Bangalore Rural,Small millets, 2007-08,Kharif     ,12.0,6,0.5
+Bangalore Rural,Small millets, 2009-10,Kharif     ,8.0,4,0.5
+Bangalore Rural,Small millets, 2010-11,Kharif     ,15.0,7,0.466666666666667
+Bangalore Rural,Small millets, 2011-12,Kharif     ,11.0,5,0.454545454545455
+Bangalore Rural,Small millets, 2012-13,Kharif     ,9.0,4,0.444444444444444
+Bangalore Rural,Small millets, 2013-14,Kharif     ,11.0,7,0.636363636363636
+Bangalore Rural,Small millets, 2014-15,Kharif     ,17.0,11,0.647058823529412
+Bangalore Rural,Small millets, 2015-16,Kharif     ,70.0,22,0.314285714285714
+Bangalore Rural,Small millets, 2017-18,Kharif     ,23.0,13,0.565217391304348
+Bangalore Rural,Small millets, 2018-19,Kharif     ,3.0,3,1
+Bangalore Rural,Soyabean, 1998-99,Kharif     ,49.0,53,1.08163265306122
+Bangalore Rural,Soyabean, 1999-00,Kharif     ,19.0,17,0.894736842105263
+Bangalore Rural,Soyabean, 2000-01,Kharif     ,14.0,15,1.07142857142857
+Bangalore Rural,Sugarcane, 1999-00,Whole Year ,1484.0,149439,100.700134770889
+Bangalore Rural,Sugarcane, 2000-01,Whole Year ,1548.0,158825,102.600129198966
+Bangalore Rural,Sugarcane, 2001-02,Whole Year ,1608.0,129846,80.75
+Bangalore Rural,Sugarcane, 2002-03,Whole Year ,1959.0,180522,92.1500765696784
+Bangalore Rural,Sugarcane, 2003-04,Whole Year ,589.0,39728,67.4499151103565
+Bangalore Rural,Sugarcane, 2005-06,Whole Year ,331.0,29244,88.3504531722054
+Bangalore Rural,Sugarcane, 2006-07,Whole Year ,1753.0,169866,96.9001711351968
+Bangalore Rural,Sugarcane, 2007-08,Whole Year ,8.0,676,84.5
+Bangalore Rural,Sugarcane, 2008-09,Whole Year ,93.0,8040,86.4516129032258
+Bangalore Rural,Sugarcane, 2010-11,Whole Year ,8.0,775,96.875
+Bangalore Rural,Sugarcane, 2012-13,Whole Year ,3.0,251,83.6666666666667
+Bangalore Rural,Sugarcane, 2013-14,Whole Year ,1.0,89,89
+Bangalore Rural,Sugarcane, 2015-16,Whole Year ,6.0,484,80.6666666666667
+Bangalore Rural,Sugarcane, 2018-19,Whole Year ,59.0,5044,85.4915254237288
+Bangalore Rural,Sunflower, 1998-99,Kharif     ,133.0,43,0.323308270676692
+Bangalore Rural,Sunflower, 1998-99,Rabi       ,30.0,17,0.566666666666667
+Bangalore Rural,Sunflower, 1998-99,Summer     ,68.0,38,0.558823529411765
+Bangalore Rural,Sunflower, 1999-00,Kharif     ,95.0,49,0.515789473684211
+Bangalore Rural,Sunflower, 1999-00,Rabi       ,107.0,77,0.719626168224299
+Bangalore Rural,Sunflower, 1999-00,Summer     ,28.0,16,0.571428571428571
+Bangalore Rural,Sunflower, 2000-01,Kharif     ,43.0,27,0.627906976744186
+Bangalore Rural,Sunflower, 2000-01,Rabi       ,16.0,12,0.75
+Bangalore Rural,Sunflower, 2000-01,Summer     ,102.0,73,0.715686274509804
+Bangalore Rural,Sunflower, 2001-02,Kharif     ,49.0,32,0.653061224489796
+Bangalore Rural,Sunflower, 2001-02,Rabi       ,2.0,2,1
+Bangalore Rural,Sunflower, 2001-02,Summer     ,41.0,33,0.804878048780488
+Bangalore Rural,Sunflower, 2002-03,Kharif     ,8.0,6,0.75
+Bangalore Rural,Sunflower, 2002-03,Rabi       ,10.0,7,0.7
+Bangalore Rural,Sunflower, 2002-03,Summer     ,4.0,2,0.5
+Bangalore Rural,Sunflower, 2003-04,Kharif     ,3.0,2,0.666666666666667
+Bangalore Rural,Sunflower, 2003-04,Rabi       ,129.0,99,0.767441860465116
+Bangalore Rural,Sunflower, 2003-04,Summer     ,412.0,218,0.529126213592233
+Bangalore Rural,Sunflower, 2004-05,Kharif     ,80.0,40,0.5
+Bangalore Rural,Sunflower, 2004-05,Rabi       ,134.0,121,0.902985074626866
+Bangalore Rural,Sunflower, 2004-05,Summer     ,454.0,295,0.649779735682819
+Bangalore Rural,Sunflower, 2005-06,Kharif     ,100.0,73,0.73
+Bangalore Rural,Sunflower, 2005-06,Rabi       ,4.0,4,1
+Bangalore Rural,Sunflower, 2005-06,Summer     ,387.0,300,0.775193798449612
+Bangalore Rural,Sunflower, 2006-07,Kharif     ,104.0,60,0.576923076923077
+Bangalore Rural,Sunflower, 2006-07,Rabi       ,10.0,8,0.8
+Bangalore Rural,Sunflower, 2006-07,Summer     ,75.0,59,0.786666666666667
+Bangalore Rural,Sunflower, 2007-08,Kharif     ,62.0,25,0.403225806451613
+Bangalore Rural,Sunflower, 2007-08,Rabi       ,78.0,68,0.871794871794872
+Bangalore Rural,Sunflower, 2007-08,Summer     ,65.0,66,1.01538461538462
+Bangalore Rural,Sunflower, 2008-09,Kharif     ,32.0,11,0.34375
+Bangalore Rural,Sunflower, 2008-09,Rabi       ,96.0,75,0.78125
+Bangalore Rural,Sunflower, 2008-09,Summer     ,250.0,200,0.8
+Bangalore Rural,Sunflower, 2009-10,Kharif     ,12.0,3,0.25
+Bangalore Rural,Sunflower, 2009-10,Rabi       ,89.0,56,0.629213483146067
+Bangalore Rural,Sunflower, 2009-10,Summer     ,91.0,78,0.857142857142857
+Bangalore Rural,Sunflower, 2010-11,Kharif     ,13.0,9,0.692307692307692
+Bangalore Rural,Sunflower, 2010-11,Rabi       ,15.0,13,0.866666666666667
+Bangalore Rural,Sunflower, 2010-11,Summer     ,12.0,12,1
+Bangalore Rural,Sunflower, 2011-12,Kharif     ,3.0,1,0.333333333333333
+Bangalore Rural,Sunflower, 2011-12,Rabi       ,5.0,4,0.8
+Bangalore Rural,Sunflower, 2011-12,Summer     ,13.0,13,1
+Bangalore Rural,Sunflower, 2012-13,Kharif     ,7.0,4,0.571428571428571
+Bangalore Rural,Sunflower, 2012-13,Summer     ,1.0,1,1
+Bangalore Rural,Sunflower, 2013-14,Kharif     ,13.0,8,0.615384615384615
+Bangalore Rural,Sunflower, 2013-14,Summer     ,2.0,2,1
+Bangalore Rural,Sunflower, 2014-15,Kharif     ,18.0,10,0.555555555555556
+Bangalore Rural,Sunflower, 2014-15,Rabi       ,1.0,1,1
+Bangalore Rural,Sunflower, 2014-15,Summer     ,1.0,1,1
+Bangalore Rural,Sunflower, 2015-16,Kharif     ,4.0,2,0.5
+Bangalore Rural,Sunflower, 2018-19,Kharif     ,1.0,1,1
+Bangalore Rural,Sweet potato, 1999-00,Whole Year ,43.0,273,6.34883720930233
+Bangalore Rural,Sweet potato, 2000-01,Whole Year ,47.0,298,6.34042553191489
+Bangalore Rural,Sweet potato, 2002-03,Whole Year ,16.0,101,6.3125
+Bangalore Rural,Sweet potato, 2003-04,Whole Year ,14.0,89,6.35714285714286
+Bangalore Rural,Sweet potato, 2004-05,Whole Year ,20.0,127,6.35
+Bangalore Rural,Sweet potato, 2005-06,Whole Year ,22.0,139,6.31818181818182
+Bangalore Rural,Sweet potato, 2006-07,Whole Year ,18.0,114,6.33333333333333
+Bangalore Rural,Sweet potato, 2007-08,Whole Year ,5.0,32,6.4
+Bangalore Rural,Sweet potato, 2008-09,Whole Year ,9.0,91,10.1111111111111
+Bangalore Rural,Sweet potato, 2009-10,Whole Year ,8.0,53,6.625
+Bangalore Rural,Sweet potato, 2010-11,Whole Year ,5.0,41,8.2
+Bangalore Rural,Sweet potato, 2011-12,Whole Year ,10.0,146,14.6
+Bangalore Rural,Sweet potato, 2012-13,Whole Year ,13.0,202,15.5384615384615
+Bangalore Rural,Sweet potato, 2013-14,Whole Year ,18.0,264,14.6666666666667
+Bangalore Rural,Sweet potato, 2014-15,Whole Year ,19.0,322,16.9473684210526
+Bangalore Rural,Sweet potato, 2015-16,Whole Year ,16.0,254,15.875
+Bangalore Rural,Sweet potato, 2016-17,Whole Year ,7.0,84,12
+Bangalore Rural,Sweet potato, 2017-18,Whole Year ,3.0,39,13
+Bangalore Rural,Sweet potato, 2018-19,Whole Year ,23.0,334,14.5217391304348
+Bangalore Rural,Tapioca, 1999-00,Whole Year ,168.0,1254,7.46428571428571
+Bangalore Rural,Tapioca, 2000-01,Whole Year ,173.0,1260,7.28323699421965
+Bangalore Rural,Tapioca, 2002-03,Whole Year ,245.0,1804,7.36326530612245
+Bangalore Rural,Tapioca, 2003-04,Whole Year ,207.0,1518,7.33333333333333
+Bangalore Rural,Tapioca, 2004-05,Whole Year ,215.0,1579,7.34418604651163
+Bangalore Rural,Tapioca, 2005-06,Whole Year ,10.0,73,7.3
+Bangalore Rural,Tapioca, 2006-07,Whole Year ,3.0,22,7.33333333333333
+Bangalore Rural,Tapioca, 2007-08,Whole Year ,6.0,44,7.33333333333333
+Bangalore Rural,Tapioca, 2008-09,Whole Year ,3.0,29,9.66666666666667
+Bangalore Rural,Tapioca, 2009-10,Whole Year ,5.0,46,9.2
+Bangalore Rural,Tapioca, 2010-11,Whole Year ,5.0,55,11
+Bangalore Rural,Tapioca, 2011-12,Whole Year ,9.0,95,10.5555555555556
+Bangalore Rural,Tapioca, 2012-13,Whole Year ,2.0,21,10.5
+Bangalore Rural,Tapioca, 2013-14,Whole Year ,4.0,35,8.75
+Bangalore Rural,Tapioca, 2014-15,Whole Year ,6.0,54,9
+Bangalore Rural,Tapioca, 2015-16,Whole Year ,10.0,75,7.5
+Bangalore Rural,Tapioca, 2016-17,Whole Year ,19.0,115,6.05263157894737
+Bangalore Rural,Tapioca, 2017-18,Whole Year ,29.0,243,8.37931034482759
+Bangalore Rural,Tapioca, 2018-19,Whole Year ,4.0,53,13.25
+Bangalore Rural,Tobacco, 2013-14,Whole Year ,48.0,39,0.8125
+Bangalore Rural,Tobacco, 2018-19,Whole Year ,3.0,2,0.666666666666667
+Bangalore Rural,Turmeric, 1998-99,Whole Year ,55.0,197,3.58181818181818
+Bangalore Rural,Turmeric, 1999-00,Whole Year ,51.0,212,4.15686274509804
+Bangalore Rural,Turmeric, 2000-01,Whole Year ,151.0,678,4.49006622516556
+Bangalore Rural,Turmeric, 2001-02,Whole Year ,38.0,203,5.3421052631579
+Bangalore Rural,Turmeric, 2002-03,Whole Year ,21.0,113,5.38095238095238
+Bangalore Rural,Turmeric, 2003-04,Whole Year ,233.0,1392,5.97424892703863
+Bangalore Rural,Turmeric, 2004-05,Whole Year ,12.0,57,4.75
+Bangalore Rural,Turmeric, 2005-06,Whole Year ,18.0,96,5.33333333333333
+Bangalore Rural,Turmeric, 2006-07,Whole Year ,24.0,121,5.04166666666667
+Bangalore Rural,Turmeric, 2007-08,Whole Year ,8.0,62,7.75
+Bangalore Rural,Turmeric, 2008-09,Whole Year ,6.0,29,4.83333333333333
+Bangalore Rural,Turmeric, 2009-10,Whole Year ,3.0,15,5
+Bangalore Rural,Turmeric, 2011-12,Whole Year ,3.0,15,5
+Bangalore Rural,Turmeric, 2012-13,Whole Year ,2.0,9,4.5
+Bangalore Rural,Turmeric, 2013-14,Whole Year ,1.0,5,5
+Bangalore Rural,Turmeric, 2014-15,Whole Year ,1.0,6,6
+Bangalore Rural,Turmeric, 2015-16,Whole Year ,5.0,26,5.2
+Bangalore Rural,Turmeric, 2018-19,Whole Year ,5.0,29,5.8
+Bangalore Rural,Urad, 1999-00,Kharif     ,296.0,96,0.324324324324324
+Bangalore Rural,Urad, 1999-00,Rabi       ,2.0,1,0.5
+Bangalore Rural,Urad, 2000-01,Kharif     ,286.0,111,0.388111888111888
+Bangalore Rural,Urad, 2000-01,Rabi       ,5.0,2,0.4
+Bangalore Rural,Urad, 2001-02,Kharif     ,81.0,30,0.37037037037037
+Bangalore Rural,Urad, 2001-02,Rabi       ,1.0,0.1,0.1
+Bangalore Rural,Urad, 2002-03,Kharif     ,25.0,4,0.16
+Bangalore Rural,Urad, 2003-04,Kharif     ,104.0,26,0.25
+Bangalore Rural,Urad, 2004-05,Kharif     ,75.0,9,0.12
+Bangalore Rural,Urad, 2005-06,Kharif     ,24.0,5,0.208333333333333
+Bangalore Rural,Urad, 2006-07,Kharif     ,45.0,6,0.133333333333333
+Bangalore Rural,Urad, 2007-08,Kharif     ,4.0,2,0.5
+Bangalore Rural,Urad, 2008-09,Kharif     ,32.0,9,0.28125
+Bangalore Rural,Urad, 2009-10,Kharif     ,6.0,1,0.166666666666667
+Bangalore Rural,Urad, 2010-11,Kharif     ,25.0,9,0.36
+Bangalore Rural,Urad, 2011-12,Kharif     ,8.0,3,0.375
+Bangalore Rural,Urad, 2012-13,Kharif     ,10.0,5,0.5
+Bangalore Rural,Urad, 2013-14,Kharif     ,5.0,2,0.4
+Bangalore Rural,Urad, 2014-15,Kharif     ,3.0,1,0.333333333333333
+Bangalore Rural,Urad, 2015-16,Kharif     ,10.0,3,0.3
+Bangalore Rural,Urad, 2016-17,Kharif     ,2.0,1,0.5
+Bangalore Rural,Urad, 2018-19,Kharif     ,11.0,5,0.454545454545455
+Bangalore Rural,Wheat, 1999-00,Rabi       ,4.0,5,1.25
+Bangalore Rural,Wheat, 2010-11,Rabi       ,9.0,14,1.55555555555556
+Bangalore Rural,Wheat, 2011-12,Rabi       ,6.0,7,1.16666666666667
+Bangalore Rural,Wheat, 2018-19,Rabi       ,1.0,1,1

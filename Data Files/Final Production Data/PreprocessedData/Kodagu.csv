@@ -1,0 +1,487 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Kodagu,Arecanut, 1997-98,Whole Year ,959.0,1342,1.39937434827946
+Kodagu,Arecanut, 1998-99,Whole Year ,1097.0,7388,6.73473108477666
+Kodagu,Arecanut, 2000-01,Whole Year ,1198.0,1676,1.39899833055092
+Kodagu,Arecanut, 2001-02,Whole Year ,1230.0,1721,1.39918699186992
+Kodagu,Arecanut, 2003-04,Whole Year ,1344.0,1880,1.39880952380952
+Kodagu,Arecanut, 2004-05,Whole Year ,1386.0,1939,1.3989898989899
+Kodagu,Arecanut, 2005-06,Whole Year ,1423.0,9582,6.73366127898805
+Kodagu,Arecanut, 2006-07,Whole Year ,2298.0,3215,1.39904264577894
+Kodagu,Arecanut, 2007-08,Whole Year ,2851.0,19199,6.73412837600842
+Kodagu,Arecanut, 2008-09,Whole Year ,2994.0,20162,6.73413493653975
+Kodagu,Arecanut, 2009-10,Whole Year ,3067.0,20653,6.73394196283013
+Kodagu,Arecanut, 2010-11,Whole Year ,3612.0,39056,10.81284606866
+Kodagu,Arecanut, 2011-12,Whole Year ,3838.0,31081,8.09822824387702
+Kodagu,Arecanut, 2012-13,Whole Year ,3877.0,31117,8.02605107041527
+Kodagu,Arecanut, 2013-14,Whole Year ,3894.0,43373,11.138418079096
+Kodagu,Arecanut, 2014-15,Whole Year ,4613.0,42682,9.2525471493605
+Kodagu,Arecanut, 2015-16,Whole Year ,4584.0,44932,9.80191972076789
+Kodagu,Arecanut, 2016-17,Whole Year ,4588.0,46607,10.1584568439407
+Kodagu,Arecanut, 2017-18,Whole Year ,4513.0,48946,10.8455572789719
+Kodagu,Arecanut, 2018-19,Whole Year ,7714.0,68877,8.92883069743324
+Kodagu,Arhar/Tur, 2005-06,Kharif     ,15.0,10,0.666666666666667
+Kodagu,Arhar/Tur, 2006-07,Kharif     ,15.0,7,0.466666666666667
+Kodagu,Banana, 1999-00,Whole Year ,171.0,4012,23.4619883040936
+Kodagu,Banana, 2000-01,Whole Year ,195.0,3585,18.3846153846154
+Kodagu,Banana, 2002-03,Whole Year ,613.0,8188,13.3572593800979
+Kodagu,Banana, 2003-04,Whole Year ,164.0,510,3.10975609756098
+Kodagu,Banana, 2004-05,Whole Year ,547.0,9767,17.8555758683729
+Kodagu,Banana, 2005-06,Whole Year ,563.0,7440,13.214920071048
+Kodagu,Banana, 2006-07,Whole Year ,499.0,2376,4.76152304609219
+Kodagu,Banana, 2007-08,Whole Year ,1564.0,8940,5.71611253196931
+Kodagu,Banana, 2008-09,Whole Year ,1541.0,9973,6.47177157689812
+Kodagu,Banana, 2009-10,Whole Year ,1392.0,4325,3.10704022988506
+Kodagu,Banana, 2010-11,Whole Year ,1976.0,10145,5.13410931174089
+Kodagu,Banana, 2011-12,Whole Year ,1941.0,13760,7.08912931478619
+Kodagu,Black pepper, 1997-98,Kharif     ,1385.0,393,0.283754512635379
+Kodagu,Black pepper, 1998-99,Whole Year ,1580.0,4489,2.84113924050633
+Kodagu,Black pepper, 1999-00,Whole Year ,3547.0,10078,2.84127431632365
+Kodagu,Black pepper, 2000-01,Whole Year ,3752.0,10661,2.84141791044776
+Kodagu,Black pepper, 2001-02,Whole Year ,4112.0,11683,2.84119649805447
+Kodagu,Black pepper, 2002-03,Whole Year ,4167.0,11840,2.84137269018478
+Kodagu,Black pepper, 2003-04,Whole Year ,4210.0,11962,2.84133016627078
+Kodagu,Black pepper, 2004-05,Whole Year ,5403.0,15352,2.84138441606515
+Kodagu,Black pepper, 2005-06,Whole Year ,6733.0,19130,2.8412297638497
+Kodagu,Black pepper, 2006-07,Whole Year ,5464.0,15525,2.84132503660322
+Kodagu,Black pepper, 2007-08,Whole Year ,7945.0,24855,3.12838263058527
+Kodagu,Black pepper, 2008-09,Whole Year ,8880.0,39385,4.43524774774775
+Kodagu,Black pepper, 2009-10,Whole Year ,9409.0,35210,3.74216176001701
+Kodagu,Black pepper, 2010-11,Whole Year ,10321.0,6038.7,0.585088654200174
+Kodagu,Black pepper, 2011-12,Whole Year ,10643.0,2497.2,0.234633092173259
+Kodagu,Black pepper, 2012-13,Whole Year ,10797.0,25333,2.34629989811985
+Kodagu,Black pepper, 2013-14,Whole Year ,11002.0,25814,2.34630067260498
+Kodagu,Black pepper, 2014-15,Whole Year ,14934.0,6653.1,0.445500200883889
+Kodagu,Black pepper, 2015-16,Whole Year ,15096.0,6635.6,0.439560148383678
+Kodagu,Black pepper, 2016-17,Whole Year ,15219.0,6222.6,0.408870490833826
+Kodagu,Black pepper, 2017-18,Whole Year ,15875.0,6915.2,0.435603149606299
+Kodagu,Black pepper, 2018-19,Whole Year ,65605.0,27148.7,0.413820592942611
+Kodagu,Cardamom, 1997-98,Whole Year ,9800.0,611,0.0623469387755102
+Kodagu,Cardamom, 1998-99,Whole Year ,9325.0,582,0.0624128686327078
+Kodagu,Cardamom, 1999-00,Whole Year ,8950.0,558,0.0623463687150838
+Kodagu,Cardamom, 2000-01,Whole Year ,8943.0,558,0.0623951694062395
+Kodagu,Cardamom, 2002-03,Whole Year ,8170.0,510,0.0624235006119951
+Kodagu,Cardamom, 2003-04,Whole Year ,8165.0,509,0.0623392529087569
+Kodagu,Cardamom, 2004-05,Whole Year ,8267.0,516,0.0624168380307246
+Kodagu,Cardamom, 2005-06,Whole Year ,8811.0,550,0.0624219725343321
+Kodagu,Cardamom, 2006-07,Whole Year ,12682.0,791,0.062371865636335
+Kodagu,Cardamom, 2007-08,Whole Year ,10411.0,1340,0.128710018249928
+Kodagu,Cardamom, 2008-09,Whole Year ,9043.0,1164,0.128718345681743
+Kodagu,Cardamom, 2009-10,Whole Year ,8289.0,443,0.05344432380263
+Kodagu,Cardamom, 2010-11,Whole Year ,8073.0,615,0.0761798587885544
+Kodagu,Cardamom, 2011-12,Whole Year ,8376.0,481,0.0574259789875836
+Kodagu,Cardamom, 2012-13,Whole Year ,8326.0,478,0.0574105212587077
+Kodagu,Cardamom, 2013-14,Whole Year ,8330.0,635,0.0762304921968787
+Kodagu,Cardamom, 2014-15,Whole Year ,7748.0,568,0.073309241094476
+Kodagu,Cardamom, 2015-16,Whole Year ,7647.0,568,0.0742774944422649
+Kodagu,Cardamom, 2016-17,Whole Year ,7647.0,643,0.0840852621943246
+Kodagu,Cardamom, 2017-18,Whole Year ,7065.0,881,0.124699221514508
+Kodagu,Cardamom, 2018-19,Whole Year ,618.0,37,0.0598705501618123
+Kodagu,Cashewnut, 2008-09,Whole Year ,2344.0,1519.9668,0.64845
+Kodagu,Cashewnut, 2009-10,Whole Year ,2272.0,1354,0.595950704225352
+Kodagu,Cashewnut, 2010-11,Whole Year ,2045.0,2306,1.12762836185819
+Kodagu,Cashewnut, 2011-12,Whole Year ,1993.0,2151,1.07927747114902
+Kodagu,Cashewnut, 2012-13,Whole Year ,1975.0,2131,1.07898734177215
+Kodagu,Cashewnut, 2013-14,Whole Year ,1982.0,2229,1.12462159434914
+Kodagu,Cashewnut, 2014-15,Whole Year ,1964.0,2275,1.15835030549898
+Kodagu,Cashewnut, 2015-16,Whole Year ,1989.0,3334,1.67621920563097
+Kodagu,Cashewnut, 2016-17,Whole Year ,2062.0,2311,1.12075654704171
+Kodagu,Cashewnut, 2017-18,Whole Year ,2132.0,2681,1.25750469043152
+Kodagu,Cashewnut, 2018-19,Whole Year ,305.0,410,1.34426229508197
+Kodagu,Castor seed, 2005-06,Kharif     ,125.0,130,1.04
+Kodagu,Castor seed, 2006-07,Kharif     ,125.0,100,0.8
+Kodagu,Castor seed, 2007-08,Kharif     ,108.0,72,0.666666666666667
+Kodagu,Castor seed, 2008-09,Kharif     ,78.0,74,0.948717948717949
+Kodagu,Coconut , 1998-99,Whole Year ,776.0,3708000,4778.35051546392
+Kodagu,Coconut , 1999-00,Whole Year ,1038.0,4959000,4777.45664739885
+Kodagu,Coconut , 2000-01,Whole Year ,1055.0,5041000,4778.1990521327
+Kodagu,Coconut , 2001-02,Whole Year ,1338.0,6393000,4778.0269058296
+Kodagu,Coconut , 2002-03,Whole Year ,1285.0,6139000,4777.43190661479
+Kodagu,Coconut , 2003-04,Whole Year ,1292.0,6173000,4777.86377708978
+Kodagu,Coconut , 2004-05,Whole Year ,1331.0,6359000,4777.61081893313
+Kodagu,Coconut , 2005-06,Whole Year ,1386.0,6622000,4777.77777777778
+Kodagu,Coconut , 2006-07,Whole Year ,2076.0,9919000,4777.93834296724
+Kodagu,Coconut , 2007-08,Whole Year ,1872.0,9531000,5091.34615384615
+Kodagu,Coconut , 2008-09,Whole Year ,1879.0,12873000,6850.98456625865
+Kodagu,Coconut , 2009-10,Whole Year ,1750.0,12443000,7110.28571428571
+Kodagu,Coconut , 2010-11,Whole Year ,1544.0,14760000,9559.58549222798
+Kodagu,Coconut , 2011-12,Whole Year ,1617.0,16076000,9941.86765615337
+Kodagu,Coconut , 2012-13,Whole Year ,1602.0,15773000,9845.8177278402
+Kodagu,Coconut , 2013-14,Whole Year ,1605.0,12734000,7933.95638629284
+Kodagu,Coconut , 2014-15,Whole Year ,1586.0,14153000,8923.70744010088
+Kodagu,Coconut , 2015-16,Whole Year ,1605.0,13422000,8362.61682242991
+Kodagu,Coconut , 2016-17,Whole Year ,1583.0,12376000,7818.06696146557
+Kodagu,Coconut , 2017-18,Whole Year ,1583.0,12517000,7907.13834491472
+Kodagu,Coconut , 2018-19,Whole Year ,1082.0,7663000,7082.2550831793
+Kodagu,Coriander, 2018-19,Whole Year ,1.0,1,1
+Kodagu,Cotton(lint), 1998-99,Kharif     ,2.0,3,1.5
+Kodagu,Cowpea(Lobia), 2010-11,Rabi       ,280.0,74,0.264285714285714
+Kodagu,Cowpea(Lobia), 2011-12,Rabi       ,36.0,13,0.361111111111111
+Kodagu,Cowpea(Lobia), 2012-13,Kharif     ,6.0,2,0.333333333333333
+Kodagu,Cowpea(Lobia), 2012-13,Summer     ,35.0,13,0.371428571428571
+Kodagu,Cowpea(Lobia), 2013-14,Kharif     ,10.0,4,0.4
+Kodagu,Cowpea(Lobia), 2013-14,Summer     ,28.0,11,0.392857142857143
+Kodagu,Cowpea(Lobia), 2014-15,Summer     ,12.0,4,0.333333333333333
+Kodagu,Cowpea(Lobia), 2015-16,Summer     ,12.0,4,0.333333333333333
+Kodagu,Cowpea(Lobia), 2016-17,Summer     ,15.0,3,0.2
+Kodagu,Cowpea(Lobia), 2017-18,Summer     ,8.0,2,0.25
+Kodagu,Cowpea(Lobia), 2018-19,Kharif     ,6.0,2,0.333333333333333
+Kodagu,Cowpea(Lobia), 2018-19,Summer     ,2.0,nan,0
+Kodagu,Dry chillies, 1997-98,Rabi       ,449.0,777,1.73051224944321
+Kodagu,Dry chillies, 1998-99,Whole Year ,256.0,1363,5.32421875
+Kodagu,Dry chillies, 1999-00,Whole Year ,595.0,1164,1.9563025210084
+Kodagu,Dry chillies, 2000-01,Whole Year ,334.0,841,2.51796407185629
+Kodagu,Dry chillies, 2001-02,Whole Year ,202.0,235,1.16336633663366
+Kodagu,Dry chillies, 2002-03,Whole Year ,423.0,1959,4.63120567375887
+Kodagu,Dry chillies, 2003-04,Whole Year ,180.0,984,5.46666666666667
+Kodagu,Dry chillies, 2004-05,Whole Year ,224.0,1121,5.00446428571429
+Kodagu,Dry chillies, 2005-06,Summer     ,419.0,2815,6.71837708830549
+Kodagu,Dry chillies, 2006-07,Whole Year ,260.0,1078,4.14615384615385
+Kodagu,Dry chillies, 2007-08,Summer     ,300.0,1015,3.38333333333333
+Kodagu,Dry chillies, 2008-09,Kharif     ,36.0,33,0.916666666666667
+Kodagu,Dry chillies, 2008-09,Summer     ,395.0,1296,3.28101265822785
+Kodagu,Dry chillies, 2009-10,Summer     ,340.0,1689,4.96764705882353
+Kodagu,Dry chillies, 2010-11,Kharif     ,14.0,12,0.857142857142857
+Kodagu,Dry chillies, 2010-11,Summer     ,325.0,1224,3.76615384615385
+Kodagu,Dry chillies, 2011-12,Kharif     ,7.0,6,0.857142857142857
+Kodagu,Dry chillies, 2011-12,Summer     ,185.0,648,3.5027027027027
+Kodagu,Dry chillies, 2012-13,Summer     ,184.0,520,2.82608695652174
+Kodagu,Dry chillies, 2013-14,Kharif     ,5.0,6,1.2
+Kodagu,Dry chillies, 2013-14,Summer     ,149.0,396,2.65771812080537
+Kodagu,Dry chillies, 2014-15,Kharif     ,42.0,48,1.14285714285714
+Kodagu,Dry chillies, 2015-16,Kharif     ,79.0,69,0.873417721518987
+Kodagu,Dry chillies, 2015-16,Summer     ,85.0,156,1.83529411764706
+Kodagu,Dry chillies, 2016-17,Kharif     ,81.0,163,2.01234567901235
+Kodagu,Dry chillies, 2016-17,Summer     ,85.0,217,2.55294117647059
+Kodagu,Dry chillies, 2017-18,Kharif     ,81.0,152,1.87654320987654
+Kodagu,Dry chillies, 2017-18,Summer     ,88.0,193,2.19318181818182
+Kodagu,Ginger, 1997-98,Kharif     ,445.0,575,1.29213483146067
+Kodagu,Ginger, 1998-99,Kharif     ,651.0,8423,12.9385560675883
+Kodagu,Ginger, 1999-00,Kharif     ,3672.0,47513,12.9392701525054
+Kodagu,Ginger, 2000-01,Kharif     ,4200.0,54345,12.9392857142857
+Kodagu,Ginger, 2001-02,Kharif     ,3560.0,46064,12.9393258426966
+Kodagu,Ginger, 2002-03,Kharif     ,3665.0,47423,12.9394270122783
+Kodagu,Ginger, 2003-04,Kharif     ,3332.0,43114,12.9393757503001
+Kodagu,Ginger, 2004-05,Kharif     ,3643.0,47138,12.939335712325
+Kodagu,Ginger, 2005-06,Whole Year ,4630.0,59909,12.9393088552916
+Kodagu,Ginger, 2006-07,Whole Year ,3894.0,50386,12.9393939393939
+Kodagu,Ginger, 2007-08,Whole Year ,2346.0,48146,20.5225916453538
+Kodagu,Ginger, 2008-09,Whole Year ,2869.0,84158,29.3335657023353
+Kodagu,Ginger, 2009-10,Whole Year ,2354.0,89490,38.0161427357689
+Kodagu,Ginger, 2010-11,Whole Year ,2205.0,14643.2,6.64090702947846
+Kodagu,Ginger, 2011-12,Whole Year ,2047.0,5990.4,2.92642892037128
+Kodagu,Ginger, 2012-13,Whole Year ,1298.0,37985,29.2642526964561
+Kodagu,Ginger, 2013-14,Whole Year ,1190.0,32893,27.6411764705882
+Kodagu,Ginger, 2014-15,Whole Year ,1528.0,59692,39.065445026178
+Kodagu,Ginger, 2015-16,Whole Year ,1522.0,50537,33.2043363994744
+Kodagu,Ginger, 2016-17,Whole Year ,1645.0,54540,33.1550151975684
+Kodagu,Ginger, 2017-18,Whole Year ,1645.0,48515,29.4924012158055
+Kodagu,Ginger, 2018-19,Whole Year ,140.0,973.8,6.95571428571429
+Kodagu,Gram, 2003-04,Rabi       ,80.0,29,0.3625
+Kodagu,Gram, 2004-05,Rabi       ,25.0,13,0.52
+Kodagu,Gram, 2005-06,Rabi       ,10.0,5,0.5
+Kodagu,Gram, 2006-07,Rabi       ,5.0,4,0.8
+Kodagu,Gram, 2007-08,Rabi       ,15.0,9,0.6
+Kodagu,Gram, 2009-10,Rabi       ,120.0,56,0.466666666666667
+Kodagu,Groundnut, 2000-01,Rabi       ,5.0,5,1
+Kodagu,Groundnut, 2001-02,Kharif     ,2.0,1,0.5
+Kodagu,Groundnut, 2002-03,Kharif     ,3.0,2,0.666666666666667
+Kodagu,Groundnut, 2003-04,Kharif     ,2.0,1,0.5
+Kodagu,Groundnut, 2004-05,Kharif     ,3.0,2,0.666666666666667
+Kodagu,Groundnut, 2004-05,Rabi       ,40.0,36,0.9
+Kodagu,Groundnut, 2005-06,Kharif     ,10.0,5,0.5
+Kodagu,Groundnut, 2006-07,Kharif     ,10.0,3,0.3
+Kodagu,Groundnut, 2007-08,Kharif     ,12.0,9,0.75
+Kodagu,Groundnut, 2007-08,Rabi       ,5.0,4,0.8
+Kodagu,Groundnut, 2008-09,Kharif     ,10.0,4,0.4
+Kodagu,Groundnut, 2008-09,Rabi       ,28.0,21,0.75
+Kodagu,Groundnut, 2009-10,Rabi       ,33.0,26,0.787878787878788
+Kodagu,Groundnut, 2010-11,Rabi       ,23.0,20,0.869565217391304
+Kodagu,Groundnut, 2012-13,Kharif     ,1.0,1,1
+Kodagu,Groundnut, 2013-14,Kharif     ,7.0,6,0.857142857142857
+Kodagu,Groundnut, 2013-14,Summer     ,4.0,4,1
+Kodagu,Groundnut, 2014-15,Kharif     ,60.0,44,0.733333333333333
+Kodagu,Groundnut, 2014-15,Summer     ,11.0,9,0.818181818181818
+Kodagu,Groundnut, 2015-16,Kharif     ,56.0,38,0.678571428571429
+Kodagu,Groundnut, 2015-16,Summer     ,7.0,5,0.714285714285714
+Kodagu,Groundnut, 2016-17,Kharif     ,56.0,28,0.5
+Kodagu,Groundnut, 2017-18,Kharif     ,56.0,62,1.10714285714286
+Kodagu,Groundnut, 2017-18,Summer     ,7.0,8,1.14285714285714
+Kodagu,Groundnut, 2018-19,Summer     ,8.0,7,0.875
+Kodagu,Horse-gram, 2003-04,Rabi       ,166.0,39,0.234939759036145
+Kodagu,Horse-gram, 2004-05,Kharif     ,85.0,44,0.517647058823529
+Kodagu,Horse-gram, 2005-06,Rabi       ,5.0,2,0.4
+Kodagu,Horse-gram, 2006-07,Rabi       ,10.0,3,0.3
+Kodagu,Horse-gram, 2007-08,Kharif     ,7.0,4,0.571428571428571
+Kodagu,Horse-gram, 2007-08,Rabi       ,12.0,6,0.5
+Kodagu,Horse-gram, 2008-09,Rabi       ,106.0,39,0.367924528301887
+Kodagu,Horse-gram, 2009-10,Rabi       ,120.0,56,0.466666666666667
+Kodagu,Horse-gram, 2010-11,Rabi       ,135.0,82,0.607407407407407
+Kodagu,Horse-gram, 2018-19,Kharif     ,10.0,4,0.4
+Kodagu,Jowar, 2012-13,Kharif     ,1.0,1,1
+Kodagu,Maize, 1997-98,Kharif     ,1510.0,3295,2.18211920529801
+Kodagu,Maize, 1997-98,Summer     ,40.0,88,2.2
+Kodagu,Maize, 1998-99,Kharif     ,1495.0,5800,3.87959866220736
+Kodagu,Maize, 1999-00,Kharif     ,1506.0,3477,2.30876494023904
+Kodagu,Maize, 2000-01,Kharif     ,1640.0,5422,3.30609756097561
+Kodagu,Maize, 2000-01,Summer     ,5.0,14,2.8
+Kodagu,Maize, 2001-02,Kharif     ,2334.0,10018,4.29220222793488
+Kodagu,Maize, 2001-02,Summer     ,30.0,79,2.63333333333333
+Kodagu,Maize, 2002-03,Kharif     ,2430.0,9776,4.02304526748971
+Kodagu,Maize, 2002-03,Summer     ,36.0,91,2.52777777777778
+Kodagu,Maize, 2003-04,Kharif     ,2347.0,10551,4.49552620366425
+Kodagu,Maize, 2003-04,Summer     ,35.0,88,2.51428571428571
+Kodagu,Maize, 2004-05,Kharif     ,2700.0,11176,4.13925925925926
+Kodagu,Maize, 2004-05,Rabi       ,50.0,150,3
+Kodagu,Maize, 2004-05,Summer     ,125.0,382,3.056
+Kodagu,Maize, 2005-06,Kharif     ,1850.0,10172,5.49837837837838
+Kodagu,Maize, 2005-06,Summer     ,490.0,1515,3.09183673469388
+Kodagu,Maize, 2006-07,Kharif     ,2500.0,11428,4.5712
+Kodagu,Maize, 2006-07,Rabi       ,50.0,158,3.16
+Kodagu,Maize, 2006-07,Summer     ,100.0,320,3.2
+Kodagu,Maize, 2007-08,Kharif     ,2685.0,11389,4.24171322160149
+Kodagu,Maize, 2007-08,Rabi       ,45.0,161,3.57777777777778
+Kodagu,Maize, 2007-08,Summer     ,410.0,1324,3.22926829268293
+Kodagu,Maize, 2008-09,Kharif     ,3015.0,14351,4.75986733001658
+Kodagu,Maize, 2008-09,Rabi       ,146.0,460,3.15068493150685
+Kodagu,Maize, 2008-09,Summer     ,645.0,2029,3.14573643410853
+Kodagu,Maize, 2009-10,Kharif     ,3336.0,15753,4.72212230215827
+Kodagu,Maize, 2009-10,Rabi       ,120.0,316,2.63333333333333
+Kodagu,Maize, 2009-10,Summer     ,120.0,667,5.55833333333333
+Kodagu,Maize, 2010-11,Kharif     ,3110.0,15160,4.87459807073955
+Kodagu,Maize, 2010-11,Rabi       ,33.0,97,2.93939393939394
+Kodagu,Maize, 2010-11,Summer     ,130.0,442,3.4
+Kodagu,Maize, 2011-12,Kharif     ,3625.0,13792,3.80468965517241
+Kodagu,Maize, 2011-12,Rabi       ,35.0,113,3.22857142857143
+Kodagu,Maize, 2011-12,Summer     ,43.0,147,3.41860465116279
+Kodagu,Maize, 2012-13,Kharif     ,3880.0,17420,4.48969072164948
+Kodagu,Maize, 2012-13,Summer     ,25.0,86,3.44
+Kodagu,Maize, 2013-14,Kharif     ,2049.0,7936,3.87310883357735
+Kodagu,Maize, 2013-14,Summer     ,52.0,169,3.25
+Kodagu,Maize, 2014-15,Kharif     ,3467.0,17740,5.11681569079896
+Kodagu,Maize, 2014-15,Rabi       ,15.0,51,3.4
+Kodagu,Maize, 2014-15,Summer     ,38.0,124,3.26315789473684
+Kodagu,Maize, 2015-16,Kharif     ,3423.0,15401,4.49926964650891
+Kodagu,Maize, 2015-16,Rabi       ,10.0,25,2.5
+Kodagu,Maize, 2015-16,Summer     ,15.0,42,2.8
+Kodagu,Maize, 2016-17,Kharif     ,3844.0,21330,5.54890738813736
+Kodagu,Maize, 2016-17,Summer     ,18.0,56,3.11111111111111
+Kodagu,Maize, 2017-18,Kharif     ,3558.0,26743,7.51630129286116
+Kodagu,Maize, 2018-19,Kharif     ,2237.0,7030,3.14260169870362
+Kodagu,Moong(Green Gram), 2018-19,Kharif     ,6.0,2,0.333333333333333
+Kodagu,Niger seed, 2018-19,Kharif     ,1.0,nan,0
+Kodagu,Onion, 1999-00,Whole Year ,15.0,88,5.86666666666667
+Kodagu,Other  Rabi pulses, 2000-01,Rabi       ,731.0,79,0.108071135430917
+Kodagu,Other  Rabi pulses, 2001-02,Rabi       ,605.0,65,0.107438016528926
+Kodagu,Other  Rabi pulses, 2002-03,Rabi       ,76.0,8,0.105263157894737
+Kodagu,Other  Rabi pulses, 2003-04,Rabi       ,184.0,20,0.108695652173913
+Kodagu,Other  Rabi pulses, 2004-05,Rabi       ,175.0,19,0.108571428571429
+Kodagu,Other  Rabi pulses, 2005-06,Rabi       ,745.0,81,0.108724832214765
+Kodagu,Other  Rabi pulses, 2006-07,Rabi       ,350.0,83,0.237142857142857
+Kodagu,Other  Rabi pulses, 2007-08,Rabi       ,251.0,64,0.254980079681275
+Kodagu,Other  Rabi pulses, 2008-09,Rabi       ,265.0,66,0.249056603773585
+Kodagu,Other  Rabi pulses, 2009-10,Rabi       ,269.0,66,0.245353159851301
+Kodagu,Other  Rabi pulses, 2010-11,Rabi       ,50.0,14,0.28
+Kodagu,Other Kharif pulses, 1999-00,Kharif     ,10.0,4,0.4
+Kodagu,Other Kharif pulses, 2000-01,Kharif     ,127.0,45,0.354330708661417
+Kodagu,Other Kharif pulses, 2001-02,Kharif     ,315.0,111,0.352380952380952
+Kodagu,Other Kharif pulses, 2002-03,Kharif     ,290.0,102,0.351724137931034
+Kodagu,Other Kharif pulses, 2003-04,Kharif     ,55.0,19,0.345454545454545
+Kodagu,Other Kharif pulses, 2004-05,Kharif     ,585.0,187,0.31965811965812
+Kodagu,Other Kharif pulses, 2005-06,Kharif     ,680.0,239,0.351470588235294
+Kodagu,Other Kharif pulses, 2006-07,Kharif     ,620.0,384,0.619354838709677
+Kodagu,Other Kharif pulses, 2007-08,Kharif     ,409.0,258,0.63080684596577
+Kodagu,Other Kharif pulses, 2008-09,Kharif     ,161.0,88,0.546583850931677
+Kodagu,Other Kharif pulses, 2018-19,Kharif     ,18.0,13,0.722222222222222
+Kodagu,Peas & beans (Pulses), 2005-06,Kharif     ,42.0,257,6.11904761904762
+Kodagu,Peas & beans (Pulses), 2005-06,Summer     ,4.0,20,5
+Kodagu,Peas & beans (Pulses), 2010-11,Rabi       ,29.0,205,7.06896551724138
+Kodagu,Peas & beans (Pulses), 2010-11,Summer     ,5.0,42,8.4
+Kodagu,Peas & beans (Pulses), 2011-12,Kharif     ,33.0,294,8.90909090909091
+Kodagu,Potato, 2005-06,Kharif     ,135.0,452,3.34814814814815
+Kodagu,Potato, 2006-07,Whole Year ,123.0,787,6.39837398373984
+Kodagu,Potato, 2007-08,Kharif     ,85.0,280,3.29411764705882
+Kodagu,Potato, 2008-09,Kharif     ,85.0,161,1.89411764705882
+Kodagu,Potato, 2008-09,Summer     ,5.0,80,16
+Kodagu,Potato, 2009-10,Kharif     ,76.0,470,6.18421052631579
+Kodagu,Potato, 2009-10,Summer     ,5.0,80,16
+Kodagu,Potato, 2010-11,Kharif     ,18.0,137,7.61111111111111
+Kodagu,Potato, 2010-11,Summer     ,5.0,77,15.4
+Kodagu,Potato, 2011-12,Kharif     ,16.0,132,8.25
+Kodagu,Potato, 2012-13,Kharif     ,7.0,45,6.42857142857143
+Kodagu,Potato, 2013-14,Kharif     ,7.0,46,6.57142857142857
+Kodagu,Potato, 2014-15,Kharif     ,18.0,111,6.16666666666667
+Kodagu,Potato, 2015-16,Kharif     ,15.0,60,4
+Kodagu,Potato, 2016-17,Kharif     ,15.0,147,9.8
+Kodagu,Potato, 2017-18,Kharif     ,15.0,145,9.66666666666667
+Kodagu,Potato, 2018-19,Kharif     ,1.0,8,8
+Kodagu,Ragi, 1997-98,Kharif     ,360.0,470,1.30555555555556
+Kodagu,Ragi, 1997-98,Summer     ,20.0,37,1.85
+Kodagu,Ragi, 1998-99,Kharif     ,425.0,460,1.08235294117647
+Kodagu,Ragi, 1999-00,Kharif     ,203.0,263,1.29556650246305
+Kodagu,Ragi, 2000-01,Kharif     ,787.0,1333,1.69377382465057
+Kodagu,Ragi, 2000-01,Rabi       ,146.0,113,0.773972602739726
+Kodagu,Ragi, 2000-01,Summer     ,12.0,24,2
+Kodagu,Ragi, 2001-02,Kharif     ,575.0,866,1.50608695652174
+Kodagu,Ragi, 2001-02,Summer     ,75.0,115,1.53333333333333
+Kodagu,Ragi, 2002-03,Kharif     ,365.0,307,0.841095890410959
+Kodagu,Ragi, 2003-04,Kharif     ,450.0,514,1.14222222222222
+Kodagu,Ragi, 2004-05,Kharif     ,357.0,607,1.70028011204482
+Kodagu,Ragi, 2004-05,Rabi       ,80.0,39,0.4875
+Kodagu,Ragi, 2004-05,Summer     ,25.0,39,1.56
+Kodagu,Ragi, 2005-06,Kharif     ,380.0,646,1.7
+Kodagu,Ragi, 2005-06,Rabi       ,200.0,338,1.69
+Kodagu,Ragi, 2005-06,Summer     ,150.0,328,2.18666666666667
+Kodagu,Ragi, 2006-07,Kharif     ,435.0,450,1.03448275862069
+Kodagu,Ragi, 2006-07,Rabi       ,150.0,264,1.76
+Kodagu,Ragi, 2006-07,Summer     ,150.0,171,1.14
+Kodagu,Ragi, 2007-08,Kharif     ,274.0,432,1.57664233576642
+Kodagu,Ragi, 2007-08,Rabi       ,20.0,30,1.5
+Kodagu,Ragi, 2007-08,Summer     ,60.0,122,2.03333333333333
+Kodagu,Ragi, 2008-09,Kharif     ,205.0,252,1.22926829268293
+Kodagu,Ragi, 2008-09,Rabi       ,106.0,125,1.17924528301887
+Kodagu,Ragi, 2008-09,Summer     ,84.0,130,1.54761904761905
+Kodagu,Ragi, 2009-10,Kharif     ,204.0,227,1.11274509803922
+Kodagu,Ragi, 2009-10,Rabi       ,5.0,7,1.4
+Kodagu,Ragi, 2009-10,Summer     ,60.0,93,1.55
+Kodagu,Ragi, 2010-11,Kharif     ,228.0,434,1.90350877192982
+Kodagu,Ragi, 2010-11,Rabi       ,110.0,176,1.6
+Kodagu,Ragi, 2011-12,Kharif     ,229.0,385,1.68122270742358
+Kodagu,Ragi, 2011-12,Rabi       ,20.0,33,1.65
+Kodagu,Ragi, 2012-13,Kharif     ,12.0,10,0.833333333333333
+Kodagu,Ragi, 2018-19,Kharif     ,62.0,75,1.20967741935484
+Kodagu,Rice, 1997-98,Kharif     ,39414.0,87476,2.21941442127163
+Kodagu,Rice, 1997-98,Rabi       ,83.0,180,2.16867469879518
+Kodagu,Rice, 1997-98,Summer     ,835.0,2380,2.8502994011976
+Kodagu,Rice, 1998-99,Kharif     ,40092.0,83315,2.07809538062456
+Kodagu,Rice, 1998-99,Rabi       ,24.0,52,2.16666666666667
+Kodagu,Rice, 1998-99,Summer     ,550.0,1775,3.22727272727273
+Kodagu,Rice, 1999-00,Kharif     ,36166.0,83189,2.30019908201073
+Kodagu,Rice, 1999-00,Rabi       ,25.0,53,2.12
+Kodagu,Rice, 1999-00,Summer     ,250.0,750,3
+Kodagu,Rice, 2000-01,Kharif     ,36441.0,83597,2.29403693641777
+Kodagu,Rice, 2000-01,Rabi       ,5.0,11,2.2
+Kodagu,Rice, 2000-01,Summer     ,509.0,1449,2.8467583497053
+Kodagu,Rice, 2001-02,Kharif     ,35742.0,89223,2.49630686587208
+Kodagu,Rice, 2001-02,Rabi       ,11.0,21,1.90909090909091
+Kodagu,Rice, 2001-02,Summer     ,511.0,1288,2.52054794520548
+Kodagu,Rice, 2002-03,Kharif     ,35248.0,69729,1.97823990013618
+Kodagu,Rice, 2002-03,Rabi       ,9.0,19,2.11111111111111
+Kodagu,Rice, 2002-03,Summer     ,90.0,226,2.51111111111111
+Kodagu,Rice, 2003-04,Kharif     ,35917.0,71460,1.98958710359997
+Kodagu,Rice, 2003-04,Rabi       ,12.0,36,3
+Kodagu,Rice, 2003-04,Summer     ,177.0,679,3.8361581920904
+Kodagu,Rice, 2004-05,Kharif     ,36049.0,84246.513,2.337
+Kodagu,Rice, 2004-05,Rabi       ,25.0,84,3.36
+Kodagu,Rice, 2004-05,Summer     ,1154.0,4989,4.32322357019064
+Kodagu,Rice, 2005-06,Kharif     ,34276.0,78998,2.3047613490489
+Kodagu,Rice, 2005-06,Rabi       ,65.0,144,2.21538461538462
+Kodagu,Rice, 2005-06,Summer     ,965.0,2074,2.14922279792746
+Kodagu,Rice, 2006-07,Kharif     ,34298.0,84576,2.46591637996385
+Kodagu,Rice, 2006-07,Rabi       ,15.0,34,2.26666666666667
+Kodagu,Rice, 2006-07,Summer     ,307.0,707,2.30293159609121
+Kodagu,Rice, 2007-08,Kharif     ,36752.0,94257,2.56467675228559
+Kodagu,Rice, 2007-08,Rabi       ,25.0,54,2.16
+Kodagu,Rice, 2007-08,Summer     ,421.0,1165,2.76722090261283
+Kodagu,Rice, 2008-09,Kharif     ,34881.0,83505.114,2.394
+Kodagu,Rice, 2008-09,Rabi       ,20.0,44,2.2
+Kodagu,Rice, 2008-09,Summer     ,461.0,1162,2.52060737527115
+Kodagu,Rice, 2009-10,Kharif     ,34632.0,84554.028,2.4415
+Kodagu,Rice, 2009-10,Rabi       ,10.0,22,2.2
+Kodagu,Rice, 2009-10,Summer     ,202.0,536,2.65346534653465
+Kodagu,Rice, 2010-11,Kharif     ,35291.0,89155,2.52628148819812
+Kodagu,Rice, 2010-11,Rabi       ,5.0,12,2.4
+Kodagu,Rice, 2010-11,Summer     ,140.0,399,2.85
+Kodagu,Rice, 2011-12,Kharif     ,34065.0,88570,2.60002935564362
+Kodagu,Rice, 2011-12,Rabi       ,3.0,7,2.33333333333333
+Kodagu,Rice, 2011-12,Summer     ,147.0,450,3.06122448979592
+Kodagu,Rice, 2012-13,Kharif     ,31281.0,77621,2.48141044084268
+Kodagu,Rice, 2012-13,Summer     ,85.0,156,1.83529411764706
+Kodagu,Rice, 2013-14,Kharif     ,31917.0,91843,2.87755741454397
+Kodagu,Rice, 2013-14,Summer     ,110.0,366,3.32727272727273
+Kodagu,Rice, 2014-15,Kharif     ,30899.0,86741,2.80724295284637
+Kodagu,Rice, 2014-15,Rabi       ,5.0,12,2.4
+Kodagu,Rice, 2014-15,Summer     ,56.0,147,2.625
+Kodagu,Rice, 2015-16,Kharif     ,28285.0,76340,2.69895704436981
+Kodagu,Rice, 2015-16,Rabi       ,5.0,12,2.4
+Kodagu,Rice, 2015-16,Summer     ,46.0,137,2.97826086956522
+Kodagu,Rice, 2016-17,Kharif     ,27890.0,67828,2.4319827895303
+Kodagu,Rice, 2016-17,Rabi       ,4.0,11,2.75
+Kodagu,Rice, 2016-17,Summer     ,33.0,63,1.90909090909091
+Kodagu,Rice, 2017-18,Kharif     ,27154.0,64207,2.36455034249098
+Kodagu,Rice, 2017-18,Rabi       ,5.0,13,2.6
+Kodagu,Rice, 2017-18,Summer     ,12.0,38,3.16666666666667
+Kodagu,Rice, 2018-19,Kharif     ,19006.0,53228,2.80058928759339
+Kodagu,Rice, 2018-19,Rabi       ,5.0,12,2.4
+Kodagu,Rice, 2018-19,Summer     ,12.0,38,3.16666666666667
+Kodagu,Sesamum, 2005-06,Kharif     ,10.0,9,0.9
+Kodagu,Sesamum, 2006-07,Kharif     ,10.0,6,0.6
+Kodagu,Sesamum, 2007-08,Kharif     ,8.0,4,0.5
+Kodagu,Sesamum, 2008-09,Kharif     ,5.0,3,0.6
+Kodagu,Small millets, 2018-19,Kharif     ,10.0,11,1.1
+Kodagu,Sugarcane, 1997-98,Whole Year ,7.0,658,94
+Kodagu,Sunflower, 2012-13,Kharif     ,4.0,2,0.5
+Kodagu,Sweet potato, 1999-00,Whole Year ,15.0,94,6.26666666666667
+Kodagu,Sweet potato, 2000-01,Whole Year ,4.0,25,6.25
+Kodagu,Sweet potato, 2002-03,Whole Year ,10.0,62,6.2
+Kodagu,Sweet potato, 2003-04,Whole Year ,10.0,62,6.2
+Kodagu,Sweet potato, 2004-05,Whole Year ,12.0,75,6.25
+Kodagu,Sweet potato, 2005-06,Whole Year ,48.0,300,6.25
+Kodagu,Sweet potato, 2006-07,Whole Year ,43.0,269,6.25581395348837
+Kodagu,Sweet potato, 2007-08,Whole Year ,86.0,537,6.24418604651163
+Kodagu,Sweet potato, 2008-09,Whole Year ,128.0,1645,12.8515625
+Kodagu,Sweet potato, 2009-10,Whole Year ,80.0,974,12.175
+Kodagu,Sweet potato, 2010-11,Whole Year ,61.0,503,8.24590163934426
+Kodagu,Sweet potato, 2011-12,Whole Year ,53.0,772,14.5660377358491
+Kodagu,Sweet potato, 2012-13,Whole Year ,15.0,233,15.5333333333333
+Kodagu,Sweet potato, 2013-14,Whole Year ,16.0,235,14.6875
+Kodagu,Sweet potato, 2014-15,Whole Year ,24.0,407,16.9583333333333
+Kodagu,Sweet potato, 2015-16,Whole Year ,27.0,429,15.8888888888889
+Kodagu,Sweet potato, 2016-17,Whole Year ,27.0,324,12
+Kodagu,Sweet potato, 2017-18,Whole Year ,32.0,415,12.96875
+Kodagu,Sweet potato, 2018-19,Whole Year ,135.0,1960,14.5185185185185
+Kodagu,Tapioca, 1999-00,Whole Year ,15.0,302,20.1333333333333
+Kodagu,Tapioca, 2000-01,Whole Year ,2.0,40,20
+Kodagu,Tapioca, 2002-03,Whole Year ,5.0,101,20.2
+Kodagu,Tapioca, 2003-04,Whole Year ,7.0,141,20.1428571428571
+Kodagu,Tapioca, 2004-05,Whole Year ,9.0,181,20.1111111111111
+Kodagu,Tapioca, 2005-06,Whole Year ,30.0,604,20.1333333333333
+Kodagu,Tapioca, 2006-07,Whole Year ,35.0,705,20.1428571428571
+Kodagu,Tapioca, 2007-08,Whole Year ,22.0,443,20.1363636363636
+Kodagu,Tapioca, 2008-09,Whole Year ,25.0,292,11.68
+Kodagu,Tapioca, 2009-10,Whole Year ,24.0,322,13.4166666666667
+Kodagu,Tapioca, 2010-11,Whole Year ,134.0,1590,11.865671641791
+Kodagu,Tapioca, 2011-12,Whole Year ,139.0,1136,8.1726618705036
+Kodagu,Tapioca, 2012-13,Whole Year ,130.0,1063,8.17692307692308
+Kodagu,Tapioca, 2013-14,Whole Year ,123.0,1379,11.2113821138211
+Kodagu,Tapioca, 2014-15,Whole Year ,114.0,1263,11.0789473684211
+Kodagu,Tapioca, 2015-16,Whole Year ,127.0,1415,11.1417322834646
+Kodagu,Tapioca, 2016-17,Whole Year ,127.0,1466,11.5433070866142
+Kodagu,Tapioca, 2017-18,Whole Year ,127.0,1508,11.8740157480315
+Kodagu,Tapioca, 2018-19,Whole Year ,60.0,800,13.3333333333333
+Kodagu,Tobacco, 1999-00,Whole Year ,486.0,287,0.590534979423868
+Kodagu,Tobacco, 2000-01,Whole Year ,320.0,237,0.740625
+Kodagu,Tobacco, 2002-03,Whole Year ,375.0,270,0.72
+Kodagu,Tobacco, 2003-04,Whole Year ,305.0,172,0.563934426229508
+Kodagu,Tobacco, 2004-05,Whole Year ,300.0,221,0.736666666666667
+Kodagu,Tobacco, 2005-06,Whole Year ,260.0,165,0.634615384615385
+Kodagu,Tobacco, 2006-07,Whole Year ,260.0,116,0.446153846153846
+Kodagu,Tobacco, 2007-08,Whole Year ,237.0,100,0.421940928270042
+Kodagu,Tobacco, 2008-09,Whole Year ,277.0,141,0.509025270758123
+Kodagu,Tobacco, 2009-10,Whole Year ,259.0,199,0.768339768339768
+Kodagu,Tobacco, 2010-11,Whole Year ,244.0,267,1.09426229508197
+Kodagu,Tobacco, 2011-12,Whole Year ,225.0,206,0.915555555555556
+Kodagu,Tobacco, 2012-13,Whole Year ,127.0,80,0.62992125984252
+Kodagu,Tobacco, 2013-14,Whole Year ,130.0,107,0.823076923076923
+Kodagu,Tobacco, 2014-15,Whole Year ,223.0,160,0.717488789237668
+Kodagu,Tobacco, 2016-17,Whole Year ,28.0,20,0.714285714285714
+Kodagu,Tobacco, 2017-18,Whole Year ,28.0,26,0.928571428571429
+Kodagu,Turmeric, 1997-98,Whole Year ,8.0,44,5.5
+Kodagu,Turmeric, 1998-99,Whole Year ,5.0,25,5
+Kodagu,Turmeric, 2004-05,Whole Year ,8.0,38,4.75
+Kodagu,Turmeric, 2005-06,Whole Year ,16.0,85,5.3125
+Kodagu,Turmeric, 2006-07,Whole Year ,23.0,116,5.04347826086957
+Kodagu,Turmeric, 2011-12,Whole Year ,2.0,10,5
+Kodagu,Turmeric, 2013-14,Whole Year ,1.0,5,5
+Kodagu,Turmeric, 2018-19,Whole Year ,1.0,6,6
+Kodagu,Urad, 2018-19,Kharif     ,5.0,2,0.4
+Kodagu,Wheat, 2018-19,Rabi       ,2.0,2,1

@@ -1,0 +1,985 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Gulbarga,Arecanut, 2018-19,Whole Year ,1.0,9,9
+Gulbarga,Arhar/Tur, 1997-98,Kharif     ,238994.0,60394,0.252700904625221
+Gulbarga,Arhar/Tur, 1998-99,Kharif     ,273391.0,124147,0.454100537325662
+Gulbarga,Arhar/Tur, 1999-00,Kharif     ,311666.0,181795,0.583300712942701
+Gulbarga,Arhar/Tur, 2000-01,Kharif     ,366678.0,164418,0.448398867671363
+Gulbarga,Arhar/Tur, 2001-02,Kharif     ,318250.0,81329,0.255550667714061
+Gulbarga,Arhar/Tur, 2002-03,Kharif     ,335663.0,161667,0.481634854005357
+Gulbarga,Arhar/Tur, 2003-04,Kharif     ,349894.0,136616,0.390449679045654
+Gulbarga,Arhar/Tur, 2004-05,Kharif     ,345723.0,177356,0.513000292141396
+Gulbarga,Arhar/Tur, 2005-06,Kharif     ,382765.0,273447,0.714399174428174
+Gulbarga,Arhar/Tur, 2006-07,Kharif     ,382521.0,163528,0.42750071237919
+Gulbarga,Arhar/Tur, 2007-08,Kharif     ,429589.0,302817,0.704899334014605
+Gulbarga,Arhar/Tur, 2008-09,Kharif     ,379769.0,187606,0.494000300182479
+Gulbarga,Arhar/Tur, 2009-10,Kharif     ,336853.0,153285,0.455050125722496
+Gulbarga,Arhar/Tur, 2010-11,Kharif     ,377775.0,206718,0.547198729402422
+Gulbarga,Arhar/Tur, 2011-12,Kharif     ,370523.0,175998,0.47499885297269
+Gulbarga,Arhar/Tur, 2012-13,Kharif     ,340119.0,250736,0.737200803248275
+Gulbarga,Arhar/Tur, 2013-14,Kharif     ,369537.0,394592,1.06780105916322
+Gulbarga,Arhar/Tur, 2014-15,Kharif     ,315343.0,210003,0.66595104378407
+Gulbarga,Arhar/Tur, 2015-16,Kharif     ,261076.0,94993,0.363851905192358
+Gulbarga,Arhar/Tur, 2016-17,Kharif     ,388914.0,541641,1.39270121415017
+Gulbarga,Arhar/Tur, 2017-18,Kharif     ,328808.0,377652,1.14854869711199
+Gulbarga,Arhar/Tur, 2018-19,Kharif     ,613760.0,569078,0.927199556830031
+Gulbarga,Bajra, 1997-98,Kharif     ,66832.0,39483,0.590779865932487
+Gulbarga,Bajra, 1998-99,Kharif     ,74628.0,47736,0.639652677279305
+Gulbarga,Bajra, 1999-00,Kharif     ,82670.0,59531,0.720104028063385
+Gulbarga,Bajra, 2000-01,Kharif     ,86296.0,77248,0.895151571335867
+Gulbarga,Bajra, 2001-02,Kharif     ,59717.0,41750,0.699130900748531
+Gulbarga,Bajra, 2002-03,Kharif     ,60130.0,45774,0.761250623648761
+Gulbarga,Bajra, 2003-04,Kharif     ,72378.0,52136,0.720329381856365
+Gulbarga,Bajra, 2004-05,Kharif     ,68824.0,54244,0.788155294664652
+Gulbarga,Bajra, 2005-06,Kharif     ,72667.0,70441,0.969367112994894
+Gulbarga,Bajra, 2006-07,Kharif     ,65634.0,43042,0.655788158576348
+Gulbarga,Bajra, 2006-07,Rabi       ,4.0,4,1
+Gulbarga,Bajra, 2007-08,Kharif     ,61866.0,48530,0.784437332298839
+Gulbarga,Bajra, 2007-08,Rabi       ,4.0,2,0.5
+Gulbarga,Bajra, 2008-09,Kharif     ,52617.0,41894,0.796206549214132
+Gulbarga,Bajra, 2008-09,Summer     ,81.0,61,0.753086419753086
+Gulbarga,Bajra, 2009-10,Kharif     ,35856.0,20403,0.569026104417671
+Gulbarga,Bajra, 2009-10,Summer     ,373.0,279,0.74798927613941
+Gulbarga,Bajra, 2010-11,Kharif     ,18875.0,13796,0.730913907284768
+Gulbarga,Bajra, 2011-12,Kharif     ,20942.0,16845,0.804364435106485
+Gulbarga,Bajra, 2012-13,Kharif     ,15566.0,16961,1.08961839907491
+Gulbarga,Bajra, 2013-14,Kharif     ,14897.0,19870,1.3338256024703
+Gulbarga,Bajra, 2014-15,Kharif     ,15642.0,18218,1.16468482291267
+Gulbarga,Bajra, 2015-16,Kharif     ,4886.0,3184,0.651657797789603
+Gulbarga,Bajra, 2016-17,Kharif     ,12128.0,17755,1.46396767810026
+Gulbarga,Bajra, 2017-18,Kharif     ,7481.0,19850,2.65338858441385
+Gulbarga,Bajra, 2018-19,Kharif     ,1682.0,2961,1.76040428061831
+Gulbarga,Banana, 1999-00,Whole Year ,3099.0,59755,19.2820264601484
+Gulbarga,Banana, 2000-01,Whole Year ,2725.0,54176,19.8811009174312
+Gulbarga,Banana, 2002-03,Whole Year ,2126.0,50652,23.8250235183443
+Gulbarga,Banana, 2003-04,Whole Year ,948.0,10061,10.6128691983122
+Gulbarga,Banana, 2004-05,Whole Year ,908.0,17701,19.4944933920705
+Gulbarga,Banana, 2005-06,Whole Year ,862.0,20523,23.8085846867749
+Gulbarga,Banana, 2006-07,Whole Year ,1131.0,25622,22.6542882404951
+Gulbarga,Banana, 2007-08,Whole Year ,1114.0,22293,20.0116696588869
+Gulbarga,Banana, 2008-09,Whole Year ,1146.0,19734,17.2198952879581
+Gulbarga,Banana, 2009-10,Whole Year ,1886.0,44740,23.7221633085896
+Gulbarga,Banana, 2010-11,Whole Year ,2326.0,60127,25.8499570077386
+Gulbarga,Banana, 2011-12,Whole Year ,2539.0,68891,27.1331232768807
+Gulbarga,Black pepper, 2001-02,Whole Year ,1.0,2,2
+Gulbarga,Black pepper, 2002-03,Whole Year ,1.0,2,2
+Gulbarga,Cashewnut, 2018-19,Whole Year ,1.0,1,1
+Gulbarga,Castor seed, 1998-99,Kharif     ,34.0,29,0.852941176470588
+Gulbarga,Castor seed, 1999-00,Kharif     ,82.0,63,0.768292682926829
+Gulbarga,Castor seed, 2000-01,Kharif     ,116.0,149,1.28448275862069
+Gulbarga,Castor seed, 2001-02,Kharif     ,65.0,48,0.738461538461539
+Gulbarga,Castor seed, 2002-03,Kharif     ,32.0,30,0.9375
+Gulbarga,Castor seed, 2003-04,Kharif     ,54.0,48,0.888888888888889
+Gulbarga,Castor seed, 2004-05,Kharif     ,70.0,61,0.871428571428571
+Gulbarga,Castor seed, 2005-06,Kharif     ,332.0,345,1.03915662650602
+Gulbarga,Castor seed, 2006-07,Kharif     ,180.0,144,0.8
+Gulbarga,Castor seed, 2007-08,Kharif     ,88.0,59,0.670454545454545
+Gulbarga,Castor seed, 2008-09,Kharif     ,83.0,79,0.951807228915663
+Gulbarga,Castor seed, 2009-10,Kharif     ,128.0,83,0.6484375
+Gulbarga,Castor seed, 2010-11,Kharif     ,68.0,57,0.838235294117647
+Gulbarga,Castor seed, 2011-12,Kharif     ,108.0,91,0.842592592592593
+Gulbarga,Castor seed, 2012-13,Kharif     ,11.0,7,0.636363636363636
+Gulbarga,Castor seed, 2014-15,Kharif     ,79.0,48,0.607594936708861
+Gulbarga,Castor seed, 2016-17,Kharif     ,10.0,5,0.5
+Gulbarga,Castor seed, 2018-19,Kharif     ,3.0,2,0.666666666666667
+Gulbarga,Coconut , 1998-99,Whole Year ,748.0,3763000,5030.74866310161
+Gulbarga,Coconut , 1999-00,Whole Year ,780.0,3924000,5030.76923076923
+Gulbarga,Coconut , 2000-01,Whole Year ,794.0,3995000,5031.48614609572
+Gulbarga,Coconut , 2001-02,Whole Year ,866.0,4357000,5031.17782909931
+Gulbarga,Coconut , 2002-03,Whole Year ,872.0,4387000,5030.96330275229
+Gulbarga,Coconut , 2003-04,Whole Year ,757.0,3809000,5031.70409511229
+Gulbarga,Coconut , 2004-05,Whole Year ,734.0,3693000,5031.33514986376
+Gulbarga,Coconut , 2005-06,Whole Year ,645.0,3245000,5031.00775193798
+Gulbarga,Coconut , 2006-07,Whole Year ,598.0,3009000,5031.77257525084
+Gulbarga,Coconut , 2007-08,Whole Year ,567.0,2887000,5091.71075837743
+Gulbarga,Coconut , 2008-09,Whole Year ,513.0,3514000,6849.90253411306
+Gulbarga,Coconut , 2009-10,Whole Year ,479.0,3406000,7110.64718162839
+Gulbarga,Coconut , 2010-11,Whole Year ,238.0,2275000,9558.82352941176
+Gulbarga,Coconut , 2011-12,Whole Year ,242.0,2406000,9942.14876033058
+Gulbarga,Coconut , 2012-13,Whole Year ,181.0,1782000,9845.30386740332
+Gulbarga,Coconut , 2013-14,Whole Year ,119.0,944000,7932.7731092437
+Gulbarga,Coconut , 2014-15,Whole Year ,192.0,1713000,8921.875
+Gulbarga,Coconut , 2016-17,Whole Year ,262.0,2048000,7816.79389312977
+Gulbarga,Coconut , 2017-18,Whole Year ,262.0,2072000,7908.39694656489
+Gulbarga,Coconut , 2018-19,Whole Year ,23.0,163000,7086.95652173913
+Gulbarga,Coriander, 1997-98,Whole Year ,21.0,3,0.142857142857143
+Gulbarga,Coriander, 1998-99,Whole Year ,46.0,7,0.152173913043478
+Gulbarga,Coriander, 1999-00,Whole Year ,41.0,6,0.146341463414634
+Gulbarga,Coriander, 2000-01,Whole Year ,63.0,10,0.158730158730159
+Gulbarga,Coriander, 2001-02,Whole Year ,63.0,10,0.158730158730159
+Gulbarga,Coriander, 2002-03,Whole Year ,63.0,10,0.158730158730159
+Gulbarga,Coriander, 2003-04,Whole Year ,73.0,11,0.150684931506849
+Gulbarga,Coriander, 2004-05,Whole Year ,88.0,13,0.147727272727273
+Gulbarga,Coriander, 2005-06,Whole Year ,125.0,19,0.152
+Gulbarga,Coriander, 2006-07,Whole Year ,36.0,5,0.138888888888889
+Gulbarga,Coriander, 2007-08,Whole Year ,9.0,3,0.333333333333333
+Gulbarga,Coriander, 2008-09,Whole Year ,18.0,10,0.555555555555556
+Gulbarga,Coriander, 2009-10,Whole Year ,13.0,6,0.461538461538462
+Gulbarga,Coriander, 2010-11,Whole Year ,10.0,4,0.4
+Gulbarga,Coriander, 2011-12,Whole Year ,10.0,4,0.4
+Gulbarga,Coriander, 2012-13,Whole Year ,17.0,7,0.411764705882353
+Gulbarga,Coriander, 2013-14,Whole Year ,21.0,7,0.333333333333333
+Gulbarga,Coriander, 2014-15,Whole Year ,44.0,15,0.340909090909091
+Gulbarga,Coriander, 2018-19,Whole Year ,27.0,24,0.888888888888889
+Gulbarga,Cotton(lint), 1998-99,Kharif     ,20113.0,38605,1.9194053597176
+Gulbarga,Cotton(lint), 1999-00,Kharif     ,12085.0,18754,1.55184112536202
+Gulbarga,Cotton(lint), 2000-01,Kharif     ,10595.0,28167,2.65851816894762
+Gulbarga,Cotton(lint), 2001-02,Kharif     ,28394.0,53835,1.895999154751
+Gulbarga,Cotton(lint), 2002-03,Kharif     ,16443.0,43235,2.62938636501855
+Gulbarga,Cotton(lint), 2003-04,Kharif     ,17295.0,48613,2.81081237351836
+Gulbarga,Cotton(lint), 2004-05,Kharif     ,27881.0,73916,2.65112442164915
+Gulbarga,Cotton(lint), 2005-06,Whole Year ,28773.0,103776,3.60671462829736
+Gulbarga,Cotton(lint), 2006-07,Whole Year ,23582.0,85067,3.6072852175388
+Gulbarga,Cotton(lint), 2007-08,Whole Year ,26010.0,106214,4.08358323721646
+Gulbarga,Cotton(lint), 2008-09,Whole Year ,50976.0,185757,3.64400894538606
+Gulbarga,Cotton(lint), 2009-10,Whole Year ,23502.0,55471,2.36026721130117
+Gulbarga,Cotton(lint), 2010-11,Kharif     ,13759.0,38254,2.78028926520823
+Gulbarga,Cotton(lint), 2011-12,Kharif     ,26496.0,107190,4.04551630434783
+Gulbarga,Cotton(lint), 2012-13,Kharif     ,39523.0,90771,2.29666270273006
+Gulbarga,Cotton(lint), 2013-14,Kharif     ,47273.0,269445,5.69976519366234
+Gulbarga,Cotton(lint), 2014-15,Kharif     ,82637.0,338020,4.09041954572407
+Gulbarga,Cotton(lint), 2015-16,Kharif     ,49322.0,103630,2.10109079112769
+Gulbarga,Cotton(lint), 2016-17,Kharif     ,32830.0,107321,3.2689917758148
+Gulbarga,Cotton(lint), 2017-18,Kharif     ,62289.0,324402,5.20801425612869
+Gulbarga,Cotton(lint), 2018-19,Kharif     ,68183.0,203077,2.97841104087529
+Gulbarga,Cowpea(Lobia), 2010-11,Kharif     ,1872.0,285,0.15224358974359
+Gulbarga,Cowpea(Lobia), 2011-12,Kharif     ,1143.0,404,0.353455818022747
+Gulbarga,Cowpea(Lobia), 2012-13,Kharif     ,266.0,118,0.443609022556391
+Gulbarga,Cowpea(Lobia), 2013-14,Kharif     ,327.0,107,0.327217125382263
+Gulbarga,Cowpea(Lobia), 2014-15,Kharif     ,534.0,221,0.413857677902622
+Gulbarga,Cowpea(Lobia), 2015-16,Kharif     ,54.0,22,0.407407407407407
+Gulbarga,Cowpea(Lobia), 2016-17,Kharif     ,85.0,65,0.764705882352941
+Gulbarga,Cowpea(Lobia), 2017-18,Kharif     ,75.0,17,0.226666666666667
+Gulbarga,Cowpea(Lobia), 2018-19,Kharif     ,13.0,5,0.384615384615385
+Gulbarga,Dry chillies, 1997-98,Kharif     ,4199.0,3657,0.870921648011431
+Gulbarga,Dry chillies, 1997-98,Rabi       ,177.0,303,1.71186440677966
+Gulbarga,Dry chillies, 1998-99,Whole Year ,3070.0,4185,1.36319218241042
+Gulbarga,Dry chillies, 1999-00,Whole Year ,3166.0,4408,1.39229311433986
+Gulbarga,Dry chillies, 2000-01,Whole Year ,2887.0,4041,1.39972289573952
+Gulbarga,Dry chillies, 2001-02,Whole Year ,6274.0,8007,1.27621931781957
+Gulbarga,Dry chillies, 2002-03,Whole Year ,5784.0,14934,2.58195020746888
+Gulbarga,Dry chillies, 2003-04,Whole Year ,5725.0,12863,2.24681222707424
+Gulbarga,Dry chillies, 2004-05,Whole Year ,6714.0,9392,1.39886803693774
+Gulbarga,Dry chillies, 2005-06,Kharif     ,3613.0,6915,1.91392194851924
+Gulbarga,Dry chillies, 2005-06,Rabi       ,152.0,228,1.5
+Gulbarga,Dry chillies, 2005-06,Summer     ,72.0,190,2.63888888888889
+Gulbarga,Dry chillies, 2006-07,Whole Year ,3819.0,7443,1.94893951296151
+Gulbarga,Dry chillies, 2007-08,Kharif     ,3184.0,8131,2.55370603015075
+Gulbarga,Dry chillies, 2007-08,Rabi       ,40.0,70,1.75
+Gulbarga,Dry chillies, 2007-08,Summer     ,43.0,146,3.3953488372093
+Gulbarga,Dry chillies, 2008-09,Kharif     ,2674.0,4994,1.86761406133134
+Gulbarga,Dry chillies, 2008-09,Rabi       ,61.0,103,1.68852459016393
+Gulbarga,Dry chillies, 2008-09,Summer     ,59.0,194,3.28813559322034
+Gulbarga,Dry chillies, 2009-10,Rabi       ,48.0,143,2.97916666666667
+Gulbarga,Dry chillies, 2009-10,Summer     ,88.0,405,4.60227272727273
+Gulbarga,Dry chillies, 2010-11,Kharif     ,1493.0,2861,1.91627595445412
+Gulbarga,Dry chillies, 2010-11,Rabi       ,82.0,223,2.71951219512195
+Gulbarga,Dry chillies, 2010-11,Summer     ,99.0,301,3.04040404040404
+Gulbarga,Dry chillies, 2011-12,Kharif     ,1871.0,2853,1.52485301977552
+Gulbarga,Dry chillies, 2011-12,Rabi       ,143.0,337,2.35664335664336
+Gulbarga,Dry chillies, 2011-12,Summer     ,40.0,140,3.5
+Gulbarga,Dry chillies, 2012-13,Kharif     ,177.0,153,0.864406779661017
+Gulbarga,Dry chillies, 2012-13,Rabi       ,26.0,71,2.73076923076923
+Gulbarga,Dry chillies, 2012-13,Summer     ,23.0,65,2.82608695652174
+Gulbarga,Dry chillies, 2013-14,Kharif     ,1252.0,2581,2.06150159744409
+Gulbarga,Dry chillies, 2013-14,Rabi       ,9.0,17,1.88888888888889
+Gulbarga,Dry chillies, 2013-14,Summer     ,49.0,130,2.6530612244898
+Gulbarga,Dry chillies, 2014-15,Rabi       ,86.0,161,1.87209302325581
+Gulbarga,Dry chillies, 2014-15,Summer     ,64.0,123,1.921875
+Gulbarga,Dry chillies, 2015-16,Kharif     ,618.0,536,0.867313915857605
+Gulbarga,Dry chillies, 2015-16,Rabi       ,147.0,297,2.02040816326531
+Gulbarga,Dry chillies, 2015-16,Summer     ,47.0,86,1.82978723404255
+Gulbarga,Dry chillies, 2016-17,Kharif     ,1264.0,2546,2.01424050632911
+Gulbarga,Dry chillies, 2016-17,Rabi       ,1252.0,2679,2.13977635782748
+Gulbarga,Dry chillies, 2016-17,Summer     ,103.0,233,2.2621359223301
+Gulbarga,Dry chillies, 2017-18,Kharif     ,1121.0,5647,5.03746654772525
+Gulbarga,Dry chillies, 2017-18,Rabi       ,1509.0,3036,2.01192842942346
+Gulbarga,Dry chillies, 2017-18,Summer     ,828.0,1661,2.00603864734299
+Gulbarga,Dry chillies, 2018-19,Kharif     ,1743.0,1520,0.87205966724039
+Gulbarga,Garlic, 1997-98,Whole Year ,17.0,51,3
+Gulbarga,Garlic, 1998-99,Whole Year ,22.0,66,3
+Gulbarga,Garlic, 1999-00,Whole Year ,16.0,48,3
+Gulbarga,Garlic, 2000-01,Whole Year ,14.0,42,3
+Gulbarga,Garlic, 2002-03,Whole Year ,6.0,18,3
+Gulbarga,Garlic, 2003-04,Whole Year ,2.0,6,3
+Gulbarga,Garlic, 2004-05,Whole Year ,3.0,9,3
+Gulbarga,Garlic, 2005-06,Whole Year ,26.0,78,3
+Gulbarga,Garlic, 2006-07,Whole Year ,25.0,75,3
+Gulbarga,Garlic, 2007-08,Whole Year ,6.0,6,1
+Gulbarga,Garlic, 2008-09,Whole Year ,10.0,22,2.2
+Gulbarga,Garlic, 2009-10,Whole Year ,19.0,27,1.42105263157895
+Gulbarga,Garlic, 2010-11,Whole Year ,15.0,19,1.26666666666667
+Gulbarga,Garlic, 2011-12,Whole Year ,14.0,17,1.21428571428571
+Gulbarga,Garlic, 2012-13,Whole Year ,12.0,16,1.33333333333333
+Gulbarga,Garlic, 2013-14,Whole Year ,24.0,25,1.04166666666667
+Gulbarga,Garlic, 2015-16,Whole Year ,47.0,63,1.34042553191489
+Gulbarga,Garlic, 2016-17,Whole Year ,64.0,53,0.828125
+Gulbarga,Garlic, 2018-19,Whole Year ,19.0,126,6.63157894736842
+Gulbarga,Ginger, 1997-98,Kharif     ,5.0,6,1.2
+Gulbarga,Ginger, 1998-99,Kharif     ,19.0,248,13.0526315789474
+Gulbarga,Ginger, 1999-00,Kharif     ,15.0,196,13.0666666666667
+Gulbarga,Ginger, 2000-01,Kharif     ,4.0,52,13
+Gulbarga,Ginger, 2001-02,Kharif     ,14.0,183,13.0714285714286
+Gulbarga,Ginger, 2002-03,Kharif     ,12.0,157,13.0833333333333
+Gulbarga,Ginger, 2003-04,Kharif     ,15.0,196,13.0666666666667
+Gulbarga,Ginger, 2004-05,Kharif     ,2.0,26,13
+Gulbarga,Ginger, 2005-06,Whole Year ,6.0,78,13
+Gulbarga,Ginger, 2006-07,Whole Year ,8.0,104,13
+Gulbarga,Ginger, 2007-08,Whole Year ,5.0,103,20.6
+Gulbarga,Ginger, 2008-09,Whole Year ,9.0,287,31.8888888888889
+Gulbarga,Ginger, 2009-10,Whole Year ,8.0,252,31.5
+Gulbarga,Ginger, 2010-11,Whole Year ,72.0,260.5,3.61805555555556
+Gulbarga,Ginger, 2011-12,Whole Year ,202.0,642.7,3.18168316831683
+Gulbarga,Ginger, 2012-13,Whole Year ,2.0,64,32
+Gulbarga,Ginger, 2017-18,Whole Year ,246.0,6354,25.8292682926829
+Gulbarga,Ginger, 2018-19,Whole Year ,31.0,477.1,15.3903225806452
+Gulbarga,Gram, 1998-99,Rabi       ,119488.0,62134,0.520002008569898
+Gulbarga,Gram, 1999-00,Rabi       ,101945.0,50003,0.490489970081907
+Gulbarga,Gram, 2000-01,Rabi       ,118439.0,93626,0.790499750926637
+Gulbarga,Gram, 2001-02,Rabi       ,155658.0,121548,0.780865744131365
+Gulbarga,Gram, 2002-03,Rabi       ,134522.0,103350,0.768275821055292
+Gulbarga,Gram, 2003-04,Rabi       ,136025.0,82448,0.606123874287815
+Gulbarga,Gram, 2004-05,Rabi       ,124029.0,86312,0.695901764909819
+Gulbarga,Gram, 2005-06,Rabi       ,112801.0,83283,0.738317922713451
+Gulbarga,Gram, 2006-07,Kharif     ,55251.0,9920,0.179544261642323
+Gulbarga,Gram, 2006-07,Rabi       ,147503.0,81566,0.552978583486438
+Gulbarga,Gram, 2007-08,Rabi       ,138387.0,94324,0.681595814635768
+Gulbarga,Gram, 2008-09,Rabi       ,181767.0,113619,0.625080460149532
+Gulbarga,Gram, 2009-10,Kharif     ,486.0,256,0.526748971193416
+Gulbarga,Gram, 2009-10,Rabi       ,317.0,138,0.435331230283912
+Gulbarga,Gram, 2010-11,Rabi       ,208465.0,147961,0.709764229007267
+Gulbarga,Gram, 2011-12,Rabi       ,166956.0,116889,0.700118594120607
+Gulbarga,Gram, 2012-13,Rabi       ,158987.0,129137,0.81224880021637
+Gulbarga,Gram, 2013-14,Rabi       ,172556.0,155732,0.902501216996222
+Gulbarga,Gram, 2014-15,Rabi       ,184515.0,155482,0.842652358886811
+Gulbarga,Gram, 2015-16,Rabi       ,196138.0,83849,0.427500025492255
+Gulbarga,Gram, 2016-17,Rabi       ,185056.0,217293,1.17420132284282
+Gulbarga,Gram, 2017-18,Rabi       ,206309.0,230880,1.1190980519512
+Gulbarga,Gram, 2018-19,Rabi       ,122055.0,99255,0.813198967678506
+Gulbarga,Groundnut, 1997-98,Kharif     ,66070.0,29837,0.451596791281974
+Gulbarga,Groundnut, 1997-98,Rabi       ,49964.0,40662,0.813825954687375
+Gulbarga,Groundnut, 1998-99,Kharif     ,59104.0,19989,0.338200460205739
+Gulbarga,Groundnut, 1998-99,Rabi       ,58901.0,59987,1.01843771752602
+Gulbarga,Groundnut, 1999-00,Kharif     ,54268.0,25474,0.469411070981057
+Gulbarga,Groundnut, 1999-00,Rabi       ,51697.0,53827,1.04120161711511
+Gulbarga,Groundnut, 2000-01,Kharif     ,46936.0,35519,0.75675387762059
+Gulbarga,Groundnut, 2000-01,Rabi       ,44896.0,37107,0.826510156806842
+Gulbarga,Groundnut, 2001-02,Kharif     ,63796.0,50187,0.786679415637344
+Gulbarga,Groundnut, 2002-03,Kharif     ,26278.0,15291,0.581893599208463
+Gulbarga,Groundnut, 2002-03,Rabi       ,37911.0,47648,1.2568383846377
+Gulbarga,Groundnut, 2003-04,Kharif     ,26296.0,17995,0.684324612108305
+Gulbarga,Groundnut, 2003-04,Rabi       ,34651.0,31997,0.923407693861649
+Gulbarga,Groundnut, 2004-05,Kharif     ,22683.0,10724,0.472776969536657
+Gulbarga,Groundnut, 2004-05,Rabi       ,36364.0,30297,0.833159168408316
+Gulbarga,Groundnut, 2005-06,Kharif     ,24657.0,12419,0.503670357302186
+Gulbarga,Groundnut, 2005-06,Rabi       ,35892.0,36587,1.01936364649504
+Gulbarga,Groundnut, 2006-07,Kharif     ,20939.0,6495,0.310186732890778
+Gulbarga,Groundnut, 2006-07,Rabi       ,31340.0,18072,0.576643267389917
+Gulbarga,Groundnut, 2007-08,Kharif     ,18811.0,12907,0.686141087661475
+Gulbarga,Groundnut, 2007-08,Rabi       ,33452.0,26538,0.793315795767069
+Gulbarga,Groundnut, 2008-09,Kharif     ,13393.0,9100,0.67945941909953
+Gulbarga,Groundnut, 2008-09,Rabi       ,27934.0,17647,0.631739099305506
+Gulbarga,Groundnut, 2009-10,Kharif     ,9545.0,3610,0.378208486118387
+Gulbarga,Groundnut, 2009-10,Rabi       ,50491.0,35207,0.697292586797647
+Gulbarga,Groundnut, 2010-11,Kharif     ,1638.0,583,0.355921855921856
+Gulbarga,Groundnut, 2010-11,Rabi       ,4129.0,2930,0.709614918866554
+Gulbarga,Groundnut, 2011-12,Kharif     ,1555.0,932,0.59935691318328
+Gulbarga,Groundnut, 2011-12,Rabi       ,5991.0,4195,0.700216992154899
+Gulbarga,Groundnut, 2012-13,Kharif     ,1085.0,610,0.56221198156682
+Gulbarga,Groundnut, 2012-13,Rabi       ,673.0,1137,1.68945022288262
+Gulbarga,Groundnut, 2012-13,Summer     ,2811.0,2310,0.821771611526147
+Gulbarga,Groundnut, 2013-14,Kharif     ,1249.0,592,0.473979183346677
+Gulbarga,Groundnut, 2013-14,Summer     ,2996.0,2416,0.806408544726302
+Gulbarga,Groundnut, 2014-15,Kharif     ,649.0,235,0.362095531587057
+Gulbarga,Groundnut, 2014-15,Summer     ,3447.0,2914,0.845372787931535
+Gulbarga,Groundnut, 2015-16,Kharif     ,2384.0,1558,0.653523489932886
+Gulbarga,Groundnut, 2015-16,Summer     ,1433.0,622,0.434054431263084
+Gulbarga,Groundnut, 2016-17,Kharif     ,864.0,1372,1.58796296296296
+Gulbarga,Groundnut, 2016-17,Summer     ,4642.0,5521,1.1893580353296
+Gulbarga,Groundnut, 2017-18,Kharif     ,584.0,800,1.36986301369863
+Gulbarga,Groundnut, 2017-18,Summer     ,7414.0,9530,1.28540598867008
+Gulbarga,Groundnut, 2018-19,Kharif     ,1403.0,1317,0.938702779757662
+Gulbarga,Groundnut, 2018-19,Summer     ,5614.0,4411,0.785714285714286
+Gulbarga,Horse-gram, 1997-98,Kharif     ,2196.0,455,0.207194899817851
+Gulbarga,Horse-gram, 1997-98,Rabi       ,4168.0,2110,0.506238003838772
+Gulbarga,Horse-gram, 1998-99,Kharif     ,2432.0,633,0.260279605263158
+Gulbarga,Horse-gram, 1998-99,Rabi       ,2127.0,980,0.460742830277386
+Gulbarga,Horse-gram, 1999-00,Kharif     ,2447.0,672,0.274621986105435
+Gulbarga,Horse-gram, 1999-00,Rabi       ,2173.0,526,0.242061665899678
+Gulbarga,Horse-gram, 2000-01,Kharif     ,2382.0,548,0.230058774139379
+Gulbarga,Horse-gram, 2000-01,Rabi       ,1925.0,607,0.315324675324675
+Gulbarga,Horse-gram, 2001-02,Kharif     ,1548.0,818,0.528423772609819
+Gulbarga,Horse-gram, 2001-02,Rabi       ,1617.0,548,0.338899196042053
+Gulbarga,Horse-gram, 2002-03,Kharif     ,1292.0,323,0.25
+Gulbarga,Horse-gram, 2002-03,Rabi       ,1021.0,212,0.207639569049951
+Gulbarga,Horse-gram, 2003-04,Kharif     ,1077.0,281,0.260909935004643
+Gulbarga,Horse-gram, 2003-04,Rabi       ,1287.0,295,0.229215229215229
+Gulbarga,Horse-gram, 2004-05,Kharif     ,1724.0,406,0.235498839907193
+Gulbarga,Horse-gram, 2004-05,Rabi       ,1294.0,344,0.265842349304482
+Gulbarga,Horse-gram, 2005-06,Kharif     ,1177.0,672,0.570943075615973
+Gulbarga,Horse-gram, 2005-06,Rabi       ,1117.0,323,0.289167412712623
+Gulbarga,Horse-gram, 2006-07,Kharif     ,1196.0,431,0.360367892976589
+Gulbarga,Horse-gram, 2006-07,Rabi       ,991.0,239,0.24117053481332
+Gulbarga,Horse-gram, 2007-08,Kharif     ,1053.0,539,0.511870845204179
+Gulbarga,Horse-gram, 2007-08,Rabi       ,586.0,288,0.491467576791809
+Gulbarga,Horse-gram, 2008-09,Kharif     ,803.0,363,0.452054794520548
+Gulbarga,Horse-gram, 2008-09,Rabi       ,667.0,242,0.362818590704648
+Gulbarga,Horse-gram, 2009-10,Kharif     ,486.0,256,0.526748971193416
+Gulbarga,Horse-gram, 2009-10,Rabi       ,317.0,138,0.435331230283912
+Gulbarga,Horse-gram, 2010-11,Kharif     ,1127.0,648,0.574977817213842
+Gulbarga,Horse-gram, 2010-11,Rabi       ,77.0,47,0.61038961038961
+Gulbarga,Horse-gram, 2011-12,Kharif     ,1152.0,629,0.546006944444444
+Gulbarga,Horse-gram, 2011-12,Rabi       ,81.0,41,0.506172839506173
+Gulbarga,Horse-gram, 2012-13,Kharif     ,435.0,177,0.406896551724138
+Gulbarga,Horse-gram, 2013-14,Kharif     ,387.0,195,0.503875968992248
+Gulbarga,Horse-gram, 2014-15,Kharif     ,530.0,248,0.467924528301887
+Gulbarga,Horse-gram, 2015-16,Kharif     ,188.0,87,0.462765957446808
+Gulbarga,Horse-gram, 2016-17,Kharif     ,176.0,53,0.301136363636364
+Gulbarga,Horse-gram, 2017-18,Kharif     ,42.0,29,0.69047619047619
+Gulbarga,Horse-gram, 2018-19,Kharif     ,34.0,14,0.411764705882353
+Gulbarga,Jowar, 1997-98,Kharif     ,8780.0,6574,0.74874715261959
+Gulbarga,Jowar, 1997-98,Rabi       ,357100.0,146121,0.409187902548306
+Gulbarga,Jowar, 1997-98,Summer     ,8.0,20,2.5
+Gulbarga,Jowar, 1998-99,Kharif     ,12192.0,7256,0.595144356955381
+Gulbarga,Jowar, 1998-99,Rabi       ,362341.0,226824,0.625995954087448
+Gulbarga,Jowar, 1998-99,Summer     ,1443.0,3827,2.65211365211365
+Gulbarga,Jowar, 1999-00,Kharif     ,12472.0,17321,1.38879089159718
+Gulbarga,Jowar, 1999-00,Rabi       ,420914.0,316937,0.752973291456212
+Gulbarga,Jowar, 1999-00,Summer     ,875.0,2011,2.29828571428571
+Gulbarga,Jowar, 2000-01,Kharif     ,17686.0,17264,0.976139319235553
+Gulbarga,Jowar, 2000-01,Rabi       ,308438.0,218924,0.709782841284148
+Gulbarga,Jowar, 2000-01,Summer     ,416.0,845,2.03125
+Gulbarga,Jowar, 2001-02,Kharif     ,13099.0,11994,0.915642415451561
+Gulbarga,Jowar, 2001-02,Rabi       ,350155.0,264658,0.755830989133384
+Gulbarga,Jowar, 2001-02,Summer     ,105.0,206,1.96190476190476
+Gulbarga,Jowar, 2002-03,Kharif     ,8490.0,8070,0.950530035335689
+Gulbarga,Jowar, 2002-03,Rabi       ,308920.0,239661,0.775802796840606
+Gulbarga,Jowar, 2002-03,Summer     ,30.0,33,1.1
+Gulbarga,Jowar, 2003-04,Kharif     ,7143.0,7273,1.01819963600728
+Gulbarga,Jowar, 2003-04,Rabi       ,285790.0,165105,0.577714405682494
+Gulbarga,Jowar, 2003-04,Summer     ,21.0,56,2.66666666666667
+Gulbarga,Jowar, 2004-05,Kharif     ,7025.0,6560,0.933807829181495
+Gulbarga,Jowar, 2004-05,Rabi       ,284978.0,206449,0.724438377699331
+Gulbarga,Jowar, 2004-05,Summer     ,123.0,98,0.796747967479675
+Gulbarga,Jowar, 2005-06,Kharif     ,6245.0,6663,1.06693354683747
+Gulbarga,Jowar, 2005-06,Rabi       ,277912.0,252008,0.906790638763349
+Gulbarga,Jowar, 2005-06,Summer     ,95.0,158,1.66315789473684
+Gulbarga,Jowar, 2006-07,Kharif     ,6242.0,5693,0.912047420698494
+Gulbarga,Jowar, 2006-07,Rabi       ,282259.0,222336,0.787702075044551
+Gulbarga,Jowar, 2006-07,Summer     ,60.0,86,1.43333333333333
+Gulbarga,Jowar, 2007-08,Kharif     ,7791.0,9060,1.1628802464382
+Gulbarga,Jowar, 2007-08,Rabi       ,246031.0,245291,0.996992248944239
+Gulbarga,Jowar, 2007-08,Summer     ,15.0,29,1.93333333333333
+Gulbarga,Jowar, 2008-09,Kharif     ,7044.0,10776,1.52981260647359
+Gulbarga,Jowar, 2008-09,Rabi       ,298885.0,301618,1.00914398514479
+Gulbarga,Jowar, 2008-09,Summer     ,44.0,100,2.27272727272727
+Gulbarga,Jowar, 2009-10,Kharif     ,6761.0,5182,0.766454666469457
+Gulbarga,Jowar, 2009-10,Rabi       ,311886.0,308217,0.988236086262288
+Gulbarga,Jowar, 2009-10,Summer     ,345.0,510,1.47826086956522
+Gulbarga,Jowar, 2010-11,Kharif     ,2760.0,2313,0.83804347826087
+Gulbarga,Jowar, 2010-11,Rabi       ,210038.0,173408,0.82560298612632
+Gulbarga,Jowar, 2011-12,Kharif     ,2635.0,3376,1.28121442125237
+Gulbarga,Jowar, 2011-12,Rabi       ,205263.0,190996,0.930494049097987
+Gulbarga,Jowar, 2012-13,Kharif     ,3010.0,4092,1.35946843853821
+Gulbarga,Jowar, 2012-13,Rabi       ,197537.0,217123,1.09915104512066
+Gulbarga,Jowar, 2013-14,Kharif     ,3811.0,4703,1.23405930202047
+Gulbarga,Jowar, 2013-14,Rabi       ,229797.0,292750,1.27395048673394
+Gulbarga,Jowar, 2014-15,Kharif     ,1579.0,1730,1.09563014566181
+Gulbarga,Jowar, 2014-15,Rabi       ,237624.0,271569,1.14285173214827
+Gulbarga,Jowar, 2015-16,Kharif     ,1680.0,1518,0.903571428571429
+Gulbarga,Jowar, 2015-16,Rabi       ,202699.0,121893,0.601349784656066
+Gulbarga,Jowar, 2016-17,Kharif     ,1074.0,1341,1.24860335195531
+Gulbarga,Jowar, 2016-17,Rabi       ,203348.0,309475,1.5218984204418
+Gulbarga,Jowar, 2017-18,Kharif     ,611.0,1732,2.83469721767594
+Gulbarga,Jowar, 2017-18,Rabi       ,206071.0,268984,1.3052976886607
+Gulbarga,Jowar, 2018-19,Rabi       ,124811.0,116436,0.932898542596406
+Gulbarga,Linseed, 1998-99,Rabi       ,1616.0,292,0.180693069306931
+Gulbarga,Linseed, 1999-00,Rabi       ,1176.0,347,0.295068027210884
+Gulbarga,Linseed, 2000-01,Rabi       ,1006.0,371,0.368787276341948
+Gulbarga,Linseed, 2001-02,Rabi       ,1081.0,363,0.335800185013876
+Gulbarga,Linseed, 2002-03,Rabi       ,788.0,277,0.351522842639594
+Gulbarga,Linseed, 2003-04,Rabi       ,485.0,37,0.0762886597938144
+Gulbarga,Linseed, 2004-05,Rabi       ,567.0,120,0.211640211640212
+Gulbarga,Linseed, 2005-06,Rabi       ,649.0,216,0.332819722650231
+Gulbarga,Linseed, 2006-07,Rabi       ,689.0,211,0.306240928882438
+Gulbarga,Linseed, 2007-08,Rabi       ,401.0,158,0.394014962593516
+Gulbarga,Linseed, 2008-09,Rabi       ,606.0,229,0.377887788778878
+Gulbarga,Linseed, 2009-10,Rabi       ,752.0,221,0.293882978723404
+Gulbarga,Linseed, 2010-11,Rabi       ,549.0,184,0.335154826958106
+Gulbarga,Linseed, 2011-12,Rabi       ,395.0,97,0.245569620253165
+Gulbarga,Linseed, 2012-13,Rabi       ,261.0,46,0.176245210727969
+Gulbarga,Linseed, 2013-14,Rabi       ,209.0,62,0.296650717703349
+Gulbarga,Linseed, 2014-15,Rabi       ,335.0,104,0.31044776119403
+Gulbarga,Linseed, 2015-16,Rabi       ,261.0,31,0.118773946360153
+Gulbarga,Linseed, 2016-17,Rabi       ,231.0,13,0.0562770562770563
+Gulbarga,Linseed, 2017-18,Rabi       ,23.0,8,0.347826086956522
+Gulbarga,Linseed, 2018-19,Rabi       ,29.0,6,0.206896551724138
+Gulbarga,Maize, 1997-98,Kharif     ,1267.0,3407,2.68902920284136
+Gulbarga,Maize, 1997-98,Rabi       ,228.0,462,2.02631578947368
+Gulbarga,Maize, 1997-98,Summer     ,126.0,271,2.15079365079365
+Gulbarga,Maize, 1998-99,Kharif     ,1312.0,4287,3.26753048780488
+Gulbarga,Maize, 1998-99,Rabi       ,163.0,331,2.03067484662577
+Gulbarga,Maize, 1998-99,Summer     ,546.0,1241,2.27289377289377
+Gulbarga,Maize, 1999-00,Kharif     ,1733.0,4271,2.46451240623197
+Gulbarga,Maize, 1999-00,Rabi       ,183.0,448,2.44808743169399
+Gulbarga,Maize, 1999-00,Summer     ,290.0,530,1.82758620689655
+Gulbarga,Maize, 2000-01,Kharif     ,1903.0,5005,2.63005780346821
+Gulbarga,Maize, 2000-01,Rabi       ,132.0,332,2.51515151515152
+Gulbarga,Maize, 2000-01,Summer     ,411.0,1156,2.81265206812652
+Gulbarga,Maize, 2001-02,Kharif     ,1685.0,4135,2.4540059347181
+Gulbarga,Maize, 2001-02,Rabi       ,119.0,277,2.32773109243697
+Gulbarga,Maize, 2001-02,Summer     ,235.0,618,2.62978723404255
+Gulbarga,Maize, 2002-03,Kharif     ,1832.0,3741,2.04203056768559
+Gulbarga,Maize, 2002-03,Rabi       ,108.0,276,2.55555555555556
+Gulbarga,Maize, 2002-03,Summer     ,260.0,657,2.52692307692308
+Gulbarga,Maize, 2003-04,Kharif     ,2132.0,4459,2.09146341463415
+Gulbarga,Maize, 2003-04,Rabi       ,128.0,295,2.3046875
+Gulbarga,Maize, 2003-04,Summer     ,308.0,775,2.51623376623377
+Gulbarga,Maize, 2004-05,Kharif     ,1716.0,6679,3.89219114219114
+Gulbarga,Maize, 2004-05,Rabi       ,175.0,533,3.04571428571429
+Gulbarga,Maize, 2004-05,Summer     ,394.0,1205,3.05837563451777
+Gulbarga,Maize, 2005-06,Kharif     ,4155.0,11596,2.79085439229844
+Gulbarga,Maize, 2005-06,Rabi       ,159.0,566,3.55974842767296
+Gulbarga,Maize, 2005-06,Summer     ,287.0,887,3.09059233449477
+Gulbarga,Maize, 2006-07,Kharif     ,1985.0,3015,1.51889168765743
+Gulbarga,Maize, 2006-07,Rabi       ,94.0,293,3.11702127659574
+Gulbarga,Maize, 2006-07,Summer     ,319.0,1022,3.20376175548589
+Gulbarga,Maize, 2007-08,Kharif     ,2087.0,4887,2.34163871586009
+Gulbarga,Maize, 2007-08,Rabi       ,276.0,955,3.46014492753623
+Gulbarga,Maize, 2007-08,Summer     ,318.0,1027,3.22955974842767
+Gulbarga,Maize, 2008-09,Kharif     ,4202.0,8820,2.09900047596383
+Gulbarga,Maize, 2008-09,Rabi       ,864.0,2597,3.00578703703704
+Gulbarga,Maize, 2008-09,Summer     ,871.0,2741,3.14695752009185
+Gulbarga,Maize, 2009-10,Kharif     ,4971.0,4138,0.832428082880708
+Gulbarga,Maize, 2009-10,Rabi       ,352.0,621,1.76420454545455
+Gulbarga,Maize, 2009-10,Summer     ,1029.0,2382,2.31486880466472
+Gulbarga,Maize, 2010-11,Kharif     ,5641.0,11018,1.95319978727176
+Gulbarga,Maize, 2010-11,Rabi       ,1176.0,404,0.343537414965986
+Gulbarga,Maize, 2010-11,Summer     ,1124.0,2713,2.41370106761566
+Gulbarga,Maize, 2011-12,Kharif     ,5918.0,13977,2.36177762757688
+Gulbarga,Maize, 2011-12,Rabi       ,262.0,190,0.725190839694657
+Gulbarga,Maize, 2011-12,Summer     ,779.0,1104,1.41720154043646
+Gulbarga,Maize, 2012-13,Kharif     ,4818.0,13278,2.75591531755915
+Gulbarga,Maize, 2012-13,Rabi       ,292.0,591,2.02397260273973
+Gulbarga,Maize, 2012-13,Summer     ,701.0,2383,3.39942938659058
+Gulbarga,Maize, 2013-14,Kharif     ,5302.0,13705,2.58487363259147
+Gulbarga,Maize, 2013-14,Rabi       ,437.0,1295,2.96338672768879
+Gulbarga,Maize, 2013-14,Summer     ,288.0,801,2.78125
+Gulbarga,Maize, 2014-15,Kharif     ,4747.0,12713,2.67811249210027
+Gulbarga,Maize, 2014-15,Rabi       ,136.0,87,0.639705882352941
+Gulbarga,Maize, 2014-15,Summer     ,601.0,593,0.986688851913478
+Gulbarga,Maize, 2015-16,Kharif     ,1803.0,2110,1.17027176927343
+Gulbarga,Maize, 2015-16,Rabi       ,538.0,505,0.938661710037175
+Gulbarga,Maize, 2015-16,Summer     ,295.0,276,0.935593220338983
+Gulbarga,Maize, 2016-17,Kharif     ,3770.0,5806,1.54005305039788
+Gulbarga,Maize, 2016-17,Rabi       ,384.0,1006,2.61979166666667
+Gulbarga,Maize, 2016-17,Summer     ,590.0,1961,3.32372881355932
+Gulbarga,Maize, 2017-18,Kharif     ,1843.0,6732,3.65274009766685
+Gulbarga,Maize, 2017-18,Rabi       ,222.0,902,4.06306306306306
+Gulbarga,Maize, 2017-18,Summer     ,155.0,582,3.75483870967742
+Gulbarga,Maize, 2018-19,Kharif     ,1945.0,6094,3.13316195372751
+Gulbarga,Maize, 2018-19,Rabi       ,39.0,132,3.38461538461538
+Gulbarga,Maize, 2018-19,Summer     ,277.0,954,3.44404332129964
+Gulbarga,Mesta, 1999-00,Kharif     ,1706.0,3156,1.84994138335287
+Gulbarga,Mesta, 2000-01,Kharif     ,3081.0,5700,1.85004868549172
+Gulbarga,Mesta, 2001-02,Kharif     ,2207.0,4083,1.85002265518804
+Gulbarga,Mesta, 2002-03,Kharif     ,1712.0,3136,1.83177570093458
+Gulbarga,Mesta, 2003-04,Kharif     ,2647.0,4848,1.83150736683037
+Gulbarga,Mesta, 2004-05,Kharif     ,1622.0,2971,1.83168927250308
+Gulbarga,Mesta, 2005-06,Whole Year ,918.0,1681,1.83115468409586
+Gulbarga,Mesta, 2006-07,Whole Year ,1015.0,1859,1.83152709359606
+Gulbarga,Mesta, 2007-08,Whole Year ,902.0,1652,1.83148558758315
+Gulbarga,Mesta, 2008-09,Whole Year ,542.0,993,1.83210332103321
+Gulbarga,Mesta, 2009-10,Whole Year ,286.0,322,1.12587412587413
+Gulbarga,Mesta, 2010-11,Whole Year ,370.0,397,1.07297297297297
+Gulbarga,Mesta, 2011-12,Whole Year ,312.0,434,1.39102564102564
+Gulbarga,Mesta, 2012-13,Whole Year ,168.0,234,1.39285714285714
+Gulbarga,Mesta, 2013-14,Whole Year ,140.0,156,1.11428571428571
+Gulbarga,Mesta, 2015-16,Whole Year ,721.0,964,1.3370319001387
+Gulbarga,Mesta, 2016-17,Whole Year ,71.0,68,0.957746478873239
+Gulbarga,Mesta, 2017-18,Whole Year ,9.0,nan,0
+Gulbarga,Mesta, 2018-19,Whole Year ,21.0,30,1.42857142857143
+Gulbarga,Moong(Green Gram), 1998-99,Kharif     ,106199.0,25525,0.240350662435616
+Gulbarga,Moong(Green Gram), 1999-00,Kharif     ,150151.0,60766,0.404699269402135
+Gulbarga,Moong(Green Gram), 2000-01,Kharif     ,159057.0,71170,0.447449656412481
+Gulbarga,Moong(Green Gram), 2001-02,Kharif     ,98886.0,23673,0.239396881257205
+Gulbarga,Moong(Green Gram), 2002-03,Kharif     ,103607.0,7480,0.0721958940998195
+Gulbarga,Moong(Green Gram), 2002-03,Rabi       ,7.0,1,0.142857142857143
+Gulbarga,Moong(Green Gram), 2003-04,Kharif     ,116063.0,23485,0.202347001197625
+Gulbarga,Moong(Green Gram), 2004-05,Kharif     ,106047.0,20955,0.197601063679312
+Gulbarga,Moong(Green Gram), 2005-06,Kharif     ,82258.0,23365,0.284045320819859
+Gulbarga,Moong(Green Gram), 2006-07,Kharif     ,111120.0,11190,0.100701943844492
+Gulbarga,Moong(Green Gram), 2007-08,Kharif     ,116024.0,30421,0.26219575260291
+Gulbarga,Moong(Green Gram), 2008-09,Kharif     ,61871.0,16752,0.27075689741559
+Gulbarga,Moong(Green Gram), 2009-10,Kharif     ,90846.0,2848,0.0313497567311714
+Gulbarga,Moong(Green Gram), 2010-11,Kharif     ,44830.0,16013,0.357193843408432
+Gulbarga,Moong(Green Gram), 2011-12,Kharif     ,21905.0,7991,0.364802556493951
+Gulbarga,Moong(Green Gram), 2012-13,Kharif     ,22825.0,10148,0.44460021905805
+Gulbarga,Moong(Green Gram), 2013-14,Kharif     ,35951.0,17077,0.475007649300437
+Gulbarga,Moong(Green Gram), 2014-15,Kharif     ,20292.0,6362,0.313522570471122
+Gulbarga,Moong(Green Gram), 2015-16,Kharif     ,25063.0,6072,0.242269480908112
+Gulbarga,Moong(Green Gram), 2016-17,Kharif     ,50091.0,24459,0.488291309816135
+Gulbarga,Moong(Green Gram), 2017-18,Kharif     ,79320.0,48905,0.61655320221886
+Gulbarga,Moong(Green Gram), 2018-19,Kharif     ,43466.0,24941,0.573804812957254
+Gulbarga,Niger seed, 1998-99,Kharif     ,2658.0,316,0.118886380737397
+Gulbarga,Niger seed, 1999-00,Kharif     ,2022.0,240,0.118694362017804
+Gulbarga,Niger seed, 2000-01,Kharif     ,2484.0,295,0.118760064412238
+Gulbarga,Niger seed, 2001-02,Kharif     ,1708.0,203,0.118852459016393
+Gulbarga,Niger seed, 2002-03,Kharif     ,1028.0,122,0.118677042801556
+Gulbarga,Niger seed, 2003-04,Kharif     ,2040.0,242,0.118627450980392
+Gulbarga,Niger seed, 2004-05,Kharif     ,1947.0,231,0.11864406779661
+Gulbarga,Niger seed, 2005-06,Kharif     ,1647.0,196,0.119004250151791
+Gulbarga,Niger seed, 2006-07,Kharif     ,1478.0,176,0.119079837618403
+Gulbarga,Niger seed, 2007-08,Kharif     ,1612.0,407,0.252481389578164
+Gulbarga,Niger seed, 2008-09,Kharif     ,1230.0,421,0.342276422764228
+Gulbarga,Niger seed, 2009-10,Kharif     ,994.0,180,0.181086519114688
+Gulbarga,Niger seed, 2010-11,Kharif     ,1034.0,174,0.168278529980658
+Gulbarga,Niger seed, 2011-12,Kharif     ,1264.0,344,0.272151898734177
+Gulbarga,Niger seed, 2012-13,Kharif     ,304.0,73,0.240131578947368
+Gulbarga,Niger seed, 2013-14,Kharif     ,532.0,116,0.218045112781955
+Gulbarga,Niger seed, 2014-15,Kharif     ,422.0,112,0.265402843601896
+Gulbarga,Niger seed, 2015-16,Kharif     ,571.0,130,0.227670753064799
+Gulbarga,Niger seed, 2016-17,Kharif     ,148.0,19,0.128378378378378
+Gulbarga,Niger seed, 2017-18,Kharif     ,181.0,39,0.215469613259669
+Gulbarga,Niger seed, 2018-19,Kharif     ,37.0,7,0.189189189189189
+Gulbarga,Onion, 1998-99,Kharif     ,1674.0,9415,5.62425328554361
+Gulbarga,Onion, 1998-99,Rabi       ,1301.0,11174,8.58877786318217
+Gulbarga,Onion, 1998-99,Summer     ,79.0,430,5.44303797468354
+Gulbarga,Onion, 1999-00,Whole Year ,3327.0,26425,7.94259092275323
+Gulbarga,Onion, 2000-01,Whole Year ,3002.0,16974,5.65423051299134
+Gulbarga,Onion, 2001-02,Whole Year ,3486.0,25953,7.44492254733219
+Gulbarga,Onion, 2002-03,Whole Year ,2399.0,19462,8.11254689453939
+Gulbarga,Onion, 2003-04,Whole Year ,1798.0,23597,13.1240266963293
+Gulbarga,Onion, 2004-05,Whole Year ,1919.0,16844,8.7774882751433
+Gulbarga,Onion, 2005-06,Kharif     ,868.0,4836,5.57142857142857
+Gulbarga,Onion, 2005-06,Rabi       ,1898.0,28433,14.9805057955743
+Gulbarga,Onion, 2005-06,Summer     ,85.0,1469,17.2823529411765
+Gulbarga,Onion, 2006-07,Whole Year ,2345.0,19607,8.36119402985075
+Gulbarga,Onion, 2007-08,Kharif     ,1519.0,9055,5.96115865701119
+Gulbarga,Onion, 2007-08,Rabi       ,1255.0,18001,14.3434262948207
+Gulbarga,Onion, 2007-08,Summer     ,92.0,777,8.44565217391304
+Gulbarga,Onion, 2008-09,Kharif     ,1121.0,3441,3.06958073148974
+Gulbarga,Onion, 2008-09,Rabi       ,1204.0,14014,11.6395348837209
+Gulbarga,Onion, 2008-09,Summer     ,124.0,676,5.45161290322581
+Gulbarga,Onion, 2009-10,Kharif     ,934.0,2929,3.13597430406852
+Gulbarga,Onion, 2009-10,Rabi       ,1274.0,9335,7.32731554160126
+Gulbarga,Onion, 2009-10,Summer     ,123.0,939,7.63414634146341
+Gulbarga,Onion, 2010-11,Kharif     ,523.0,4242,8.11089866156788
+Gulbarga,Onion, 2010-11,Rabi       ,664.0,6733,10.1400602409639
+Gulbarga,Onion, 2010-11,Summer     ,191.0,2032,10.6387434554974
+Gulbarga,Onion, 2011-12,Kharif     ,734.0,3623,4.93596730245232
+Gulbarga,Onion, 2011-12,Rabi       ,799.0,18982,23.7571964956195
+Gulbarga,Onion, 2011-12,Summer     ,93.0,573,6.16129032258065
+Gulbarga,Onion, 2012-13,Kharif     ,741.0,3934,5.30904183535762
+Gulbarga,Onion, 2012-13,Rabi       ,337.0,4227,12.5430267062315
+Gulbarga,Onion, 2012-13,Summer     ,51.0,289,5.66666666666667
+Gulbarga,Onion, 2013-14,Kharif     ,711.0,4703,6.61462728551336
+Gulbarga,Onion, 2013-14,Rabi       ,373.0,4867,13.0482573726542
+Gulbarga,Onion, 2013-14,Summer     ,41.0,322,7.85365853658537
+Gulbarga,Onion, 2014-15,Kharif     ,710.0,3646,5.13521126760563
+Gulbarga,Onion, 2014-15,Rabi       ,453.0,11671,25.7637969094923
+Gulbarga,Onion, 2014-15,Summer     ,117.0,574,4.90598290598291
+Gulbarga,Onion, 2015-16,Kharif     ,636.0,2778,4.36792452830189
+Gulbarga,Onion, 2015-16,Rabi       ,312.0,1766,5.66025641025641
+Gulbarga,Onion, 2015-16,Summer     ,113.0,489,4.32743362831858
+Gulbarga,Onion, 2016-17,Kharif     ,1336.0,11666,8.73203592814371
+Gulbarga,Onion, 2016-17,Rabi       ,1241.0,17773,14.3215149073328
+Gulbarga,Onion, 2016-17,Summer     ,60.0,883,14.7166666666667
+Gulbarga,Onion, 2017-18,Kharif     ,1439.0,16815,11.6851980542043
+Gulbarga,Onion, 2017-18,Rabi       ,1752.0,24841,14.1786529680365
+Gulbarga,Onion, 2017-18,Summer     ,575.0,6936,12.0626086956522
+Gulbarga,Onion, 2018-19,Kharif     ,2538.0,23067,9.0886524822695
+Gulbarga,Onion, 2018-19,Rabi       ,1043.0,13828,13.2579098753595
+Gulbarga,Onion, 2018-19,Summer     ,373.0,3937,10.5549597855228
+Gulbarga,Other  Rabi pulses, 1999-00,Rabi       ,114.0,13,0.114035087719298
+Gulbarga,Other  Rabi pulses, 2000-01,Rabi       ,103.0,13,0.12621359223301
+Gulbarga,Other  Rabi pulses, 2001-02,Rabi       ,28.0,4,0.142857142857143
+Gulbarga,Other  Rabi pulses, 2002-03,Rabi       ,63.0,8,0.126984126984127
+Gulbarga,Other  Rabi pulses, 2003-04,Rabi       ,20.0,2,0.1
+Gulbarga,Other  Rabi pulses, 2004-05,Rabi       ,35.0,4,0.114285714285714
+Gulbarga,Other  Rabi pulses, 2005-06,Rabi       ,46.0,5,0.108695652173913
+Gulbarga,Other  Rabi pulses, 2006-07,Rabi       ,78.0,19,0.243589743589744
+Gulbarga,Other  Rabi pulses, 2007-08,Rabi       ,54.0,13,0.240740740740741
+Gulbarga,Other  Rabi pulses, 2008-09,Rabi       ,48.0,5,0.104166666666667
+Gulbarga,Other  Rabi pulses, 2009-10,Rabi       ,52.0,11,0.211538461538462
+Gulbarga,Other Kharif pulses, 1999-00,Kharif     ,2408.0,367,0.152408637873754
+Gulbarga,Other Kharif pulses, 2000-01,Kharif     ,2400.0,364,0.151666666666667
+Gulbarga,Other Kharif pulses, 2001-02,Kharif     ,1483.0,229,0.154416722859069
+Gulbarga,Other Kharif pulses, 2002-03,Kharif     ,1470.0,215,0.146258503401361
+Gulbarga,Other Kharif pulses, 2003-04,Kharif     ,2227.0,299,0.134261338123035
+Gulbarga,Other Kharif pulses, 2004-05,Kharif     ,1876.0,281.4,0.15
+Gulbarga,Other Kharif pulses, 2005-06,Kharif     ,1845.0,281,0.15230352303523
+Gulbarga,Other Kharif pulses, 2006-07,Kharif     ,1727.0,951,0.550665894614939
+Gulbarga,Other Kharif pulses, 2007-08,Kharif     ,1635.0,719,0.439755351681957
+Gulbarga,Other Kharif pulses, 2008-09,Kharif     ,1649.0,620,0.375985445724682
+Gulbarga,Other Kharif pulses, 2009-10,Kharif     ,1908.0,496,0.259958071278826
+Gulbarga,Other Kharif pulses, 2010-11,Kharif     ,858.0,167,0.194638694638695
+Gulbarga,Other Kharif pulses, 2011-12,Kharif     ,914.0,478,0.522975929978118
+Gulbarga,Other Kharif pulses, 2012-13,Kharif     ,276.0,202,0.731884057971014
+Gulbarga,Other Kharif pulses, 2013-14,Kharif     ,414.0,232,0.560386473429952
+Gulbarga,Other Kharif pulses, 2014-15,Kharif     ,440.0,220,0.5
+Gulbarga,Other Kharif pulses, 2015-16,Kharif     ,62.0,82,1.32258064516129
+Gulbarga,Other Kharif pulses, 2016-17,Kharif     ,116.0,37,0.318965517241379
+Gulbarga,Other Kharif pulses, 2017-18,Kharif     ,255.0,235,0.92156862745098
+Gulbarga,Other Kharif pulses, 2018-19,Kharif     ,24.0,14,0.583333333333333
+Gulbarga,Peas & beans (Pulses), 2011-12,Kharif     ,8.0,71,8.875
+Gulbarga,Potato, 1998-99,Rabi       ,2.0,39,19.5
+Gulbarga,Potato, 1999-00,Whole Year ,23.0,447,19.4347826086957
+Gulbarga,Potato, 2000-01,Whole Year ,2.0,31,15.5
+Gulbarga,Potato, 2001-02,Whole Year ,2.0,44,22
+Gulbarga,Potato, 2002-03,Whole Year ,2.0,26,13
+Gulbarga,Potato, 2003-04,Whole Year ,4.0,69,17.25
+Gulbarga,Potato, 2004-05,Whole Year ,4.0,66,16.5
+Gulbarga,Potato, 2005-06,Kharif     ,2.0,7,3.5
+Gulbarga,Potato, 2005-06,Rabi       ,7.0,127,18.1428571428571
+Gulbarga,Potato, 2006-07,Whole Year ,16.0,247,15.4375
+Gulbarga,Potato, 2007-08,Kharif     ,44.0,145,3.29545454545455
+Gulbarga,Potato, 2007-08,Rabi       ,5.0,62,12.4
+Gulbarga,Potato, 2008-09,Kharif     ,4.0,8,2
+Gulbarga,Potato, 2008-09,Rabi       ,4.0,57,14.25
+Gulbarga,Potato, 2009-10,Kharif     ,4.0,25,6.25
+Gulbarga,Potato, 2009-10,Rabi       ,4.0,59,14.75
+Gulbarga,Potato, 2010-11,Kharif     ,8.0,61,7.625
+Gulbarga,Potato, 2011-12,Kharif     ,100.0,826,8.26
+Gulbarga,Potato, 2012-13,Kharif     ,29.0,185,6.37931034482759
+Gulbarga,Potato, 2013-14,Kharif     ,4.0,26,6.5
+Gulbarga,Potato, 2014-15,Kharif     ,53.0,326,6.15094339622642
+Gulbarga,Potato, 2015-16,Rabi       ,104.0,1566,15.0576923076923
+Gulbarga,Potato, 2016-17,Kharif     ,91.0,894,9.82417582417583
+Gulbarga,Potato, 2017-18,Kharif     ,86.0,829,9.63953488372093
+Gulbarga,Potato, 2017-18,Rabi       ,49.0,917,18.7142857142857
+Gulbarga,Potato, 2018-19,Kharif     ,14.0,111,7.92857142857143
+Gulbarga,Ragi, 1997-98,Kharif     ,76.0,99,1.30263157894737
+Gulbarga,Ragi, 1998-99,Kharif     ,5.0,4,0.8
+Gulbarga,Ragi, 1999-00,Kharif     ,7.0,5,0.714285714285714
+Gulbarga,Ragi, 2000-01,Kharif     ,6.0,7,1.16666666666667
+Gulbarga,Ragi, 2005-06,Kharif     ,6.0,7,1.16666666666667
+Gulbarga,Ragi, 2018-19,Kharif     ,69.0,83,1.20289855072464
+Gulbarga,Rapeseed &Mustard, 2002-03,Rabi       ,103.0,27,0.262135922330097
+Gulbarga,Rapeseed &Mustard, 2003-04,Rabi       ,137.0,36,0.262773722627737
+Gulbarga,Rapeseed &Mustard, 2004-05,Rabi       ,94.0,25,0.265957446808511
+Gulbarga,Rapeseed &Mustard, 2005-06,Rabi       ,260.0,69,0.265384615384615
+Gulbarga,Rapeseed &Mustard, 2006-07,Kharif     ,5.0,1,0.2
+Gulbarga,Rapeseed &Mustard, 2007-08,Kharif     ,8.0,3,0.375
+Gulbarga,Rapeseed &Mustard, 2008-09,Rabi       ,15.0,6,0.4
+Gulbarga,Rapeseed &Mustard, 2009-10,Rabi       ,32.0,9,0.28125
+Gulbarga,Rapeseed &Mustard, 2010-11,Rabi       ,15.0,5,0.333333333333333
+Gulbarga,Rapeseed &Mustard, 2011-12,Rabi       ,6.0,2,0.333333333333333
+Gulbarga,Rapeseed &Mustard, 2013-14,Kharif     ,4.0,1,0.25
+Gulbarga,Rapeseed &Mustard, 2014-15,Kharif     ,106.0,23,0.216981132075472
+Gulbarga,Rapeseed &Mustard, 2018-19,Kharif     ,1.0,nan,0
+Gulbarga,Rice, 1997-98,Kharif     ,6591.0,12179,1.84782278865119
+Gulbarga,Rice, 1997-98,Rabi       ,1846.0,3963,2.14680390032503
+Gulbarga,Rice, 1997-98,Summer     ,636.0,1792,2.81761006289308
+Gulbarga,Rice, 1998-99,Kharif     ,13228.0,17439,1.31833988509223
+Gulbarga,Rice, 1998-99,Rabi       ,4595.0,9858,2.14537540805223
+Gulbarga,Rice, 1998-99,Summer     ,4379.0,14038,3.20575473852478
+Gulbarga,Rice, 1999-00,Kharif     ,10705.0,16115,1.50537132181224
+Gulbarga,Rice, 1999-00,Rabi       ,1847.0,3867,2.09366540335679
+Gulbarga,Rice, 1999-00,Summer     ,7462.0,23145,3.10171535781292
+Gulbarga,Rice, 2000-01,Kharif     ,16485.0,25012,1.51725811343646
+Gulbarga,Rice, 2000-01,Rabi       ,3976.0,8518,2.14235412474849
+Gulbarga,Rice, 2000-01,Summer     ,11749.0,27759,2.36266916333305
+Gulbarga,Rice, 2001-02,Kharif     ,18722.0,32644,1.74361713492148
+Gulbarga,Rice, 2001-02,Rabi       ,7271.0,4620,0.635400907715582
+Gulbarga,Rice, 2001-02,Summer     ,15635.0,28281,1.80882635113527
+Gulbarga,Rice, 2002-03,Kharif     ,25098.0,48090,1.91608893138896
+Gulbarga,Rice, 2002-03,Rabi       ,4913.0,12198,2.48280073274985
+Gulbarga,Rice, 2002-03,Summer     ,17599.0,41226,2.34251946133303
+Gulbarga,Rice, 2003-04,Kharif     ,32457.0,75482,2.325600024648
+Gulbarga,Rice, 2003-04,Rabi       ,4701.0,9863,2.09806424165071
+Gulbarga,Rice, 2003-04,Summer     ,28529.0,104074,3.64800729082688
+Gulbarga,Rice, 2004-05,Kharif     ,39664.0,92317.96,2.3275
+Gulbarga,Rice, 2004-05,Rabi       ,3599.0,11522,3.2014448457905
+Gulbarga,Rice, 2004-05,Summer     ,34143.0,148297,4.34340860498492
+Gulbarga,Rice, 2005-06,Kharif     ,49114.0,129091,2.62839516227552
+Gulbarga,Rice, 2005-06,Rabi       ,5485.0,10745,1.95897903372835
+Gulbarga,Rice, 2005-06,Summer     ,35536.0,109650,3.08560333183251
+Gulbarga,Rice, 2006-07,Kharif     ,47975.0,107324,2.2370818134445
+Gulbarga,Rice, 2006-07,Rabi       ,4237.0,5543,1.30823696011329
+Gulbarga,Rice, 2006-07,Summer     ,35031.0,75944,2.16790842396734
+Gulbarga,Rice, 2007-08,Kharif     ,52131.0,141389,2.71218660681744
+Gulbarga,Rice, 2007-08,Rabi       ,3448.0,5477,1.58845707656613
+Gulbarga,Rice, 2007-08,Summer     ,35232.0,76379,2.16788714804723
+Gulbarga,Rice, 2008-09,Kharif     ,47292.0,122202.528,2.584
+Gulbarga,Rice, 2008-09,Rabi       ,5122.0,7980,1.55798516204608
+Gulbarga,Rice, 2008-09,Summer     ,40326.0,86388,2.14224073798542
+Gulbarga,Rice, 2009-10,Kharif     ,39593.0,91024.307,2.299
+Gulbarga,Rice, 2009-10,Rabi       ,2164.0,4529,2.09288354898336
+Gulbarga,Rice, 2009-10,Summer     ,37715.0,84951,2.25244597640196
+Gulbarga,Rice, 2010-11,Kharif     ,3033.0,4822,1.58984503791625
+Gulbarga,Rice, 2010-11,Rabi       ,608.0,1850,3.04276315789474
+Gulbarga,Rice, 2010-11,Summer     ,901.0,2913,3.2330743618202
+Gulbarga,Rice, 2011-12,Kharif     ,3282.0,5331,1.62431444241316
+Gulbarga,Rice, 2011-12,Rabi       ,575.0,718,1.24869565217391
+Gulbarga,Rice, 2011-12,Summer     ,106.0,182,1.71698113207547
+Gulbarga,Rice, 2012-13,Kharif     ,2799.0,4834,1.72704537334762
+Gulbarga,Rice, 2012-13,Rabi       ,1623.0,2277,1.40295748613678
+Gulbarga,Rice, 2012-13,Summer     ,140.0,210,1.5
+Gulbarga,Rice, 2013-14,Kharif     ,4281.0,11335,2.64774585377248
+Gulbarga,Rice, 2013-14,Rabi       ,875.0,1949,2.22742857142857
+Gulbarga,Rice, 2013-14,Summer     ,122.0,249,2.04098360655738
+Gulbarga,Rice, 2014-15,Kharif     ,1556.0,2887,1.85539845758355
+Gulbarga,Rice, 2014-15,Rabi       ,356.0,452,1.26966292134831
+Gulbarga,Rice, 2014-15,Summer     ,3744.0,4542,1.21314102564103
+Gulbarga,Rice, 2015-16,Kharif     ,3720.0,8065,2.16801075268817
+Gulbarga,Rice, 2015-16,Rabi       ,389.0,440,1.13110539845758
+Gulbarga,Rice, 2015-16,Summer     ,90.0,267,2.96666666666667
+Gulbarga,Rice, 2016-17,Kharif     ,3537.0,13760,3.89030251625671
+Gulbarga,Rice, 2016-17,Rabi       ,2087.0,6658,3.19022520364159
+Gulbarga,Rice, 2016-17,Summer     ,1245.0,4860,3.90361445783133
+Gulbarga,Rice, 2017-18,Kharif     ,2800.0,10637,3.79892857142857
+Gulbarga,Rice, 2017-18,Rabi       ,1628.0,4112,2.52579852579853
+Gulbarga,Rice, 2017-18,Summer     ,3405.0,8375,2.45961820851689
+Gulbarga,Rice, 2018-19,Kharif     ,7945.0,25179,3.16916299559471
+Gulbarga,Rice, 2018-19,Rabi       ,710.0,1039,1.46338028169014
+Gulbarga,Rice, 2018-19,Summer     ,1428.0,4580,3.20728291316527
+Gulbarga,Safflower, 1998-99,Rabi       ,24459.0,12365,0.505539883069627
+Gulbarga,Safflower, 1999-00,Rabi       ,27271.0,19118,0.701037732389718
+Gulbarga,Safflower, 2000-01,Rabi       ,24078.0,18416,0.76484757870255
+Gulbarga,Safflower, 2001-02,Rabi       ,21107.0,16388,0.776424882740323
+Gulbarga,Safflower, 2002-03,Rabi       ,19101.0,13829,0.723993508193288
+Gulbarga,Safflower, 2003-04,Rabi       ,17807.0,8363,0.469646768124895
+Gulbarga,Safflower, 2004-05,Rabi       ,15365.0,6566,0.427334851936219
+Gulbarga,Safflower, 2005-06,Rabi       ,15585.0,10882,0.69823548283606
+Gulbarga,Safflower, 2006-07,Rabi       ,12788.0,8420,0.658429777916797
+Gulbarga,Safflower, 2007-08,Rabi       ,11342.0,7734,0.681890319167695
+Gulbarga,Safflower, 2008-09,Rabi       ,14355.0,9101,0.633995123650296
+Gulbarga,Safflower, 2009-10,Rabi       ,14679.0,10949,0.745895496968458
+Gulbarga,Safflower, 2010-11,Rabi       ,9877.0,5520,0.558874152070467
+Gulbarga,Safflower, 2011-12,Rabi       ,5880.0,3962,0.673809523809524
+Gulbarga,Safflower, 2012-13,Rabi       ,5147.0,4807,0.933942102195454
+Gulbarga,Safflower, 2013-14,Rabi       ,4979.0,5719,1.14862422173127
+Gulbarga,Safflower, 2014-15,Rabi       ,3203.0,2398,0.748673118950983
+Gulbarga,Safflower, 2015-16,Rabi       ,4452.0,1874,0.420934411500449
+Gulbarga,Safflower, 2016-17,Rabi       ,3034.0,2917,0.9614370468029
+Gulbarga,Safflower, 2017-18,Rabi       ,1946.0,1753,0.900822199383351
+Gulbarga,Safflower, 2018-19,Rabi       ,465.0,436,0.93763440860215
+Gulbarga,Sannhamp, 1999-00,Whole Year ,46.0,10,0.217391304347826
+Gulbarga,Sannhamp, 2000-01,Whole Year ,19.0,4,0.210526315789474
+Gulbarga,Sannhamp, 2001-02,Whole Year ,11.0,2,0.181818181818182
+Gulbarga,Sannhamp, 2002-03,Whole Year ,10.0,2,0.2
+Gulbarga,Sannhamp, 2003-04,Whole Year ,12.0,3,0.25
+Gulbarga,Sannhamp, 2004-05,Whole Year ,16.0,4,0.25
+Gulbarga,Sannhamp, 2008-09,Whole Year ,4.0,1,0.25
+Gulbarga,Sannhamp, 2018-19,Whole Year ,1.0,nan,0
+Gulbarga,Sesamum, 1998-99,Kharif     ,37037.0,16220,0.437940437940438
+Gulbarga,Sesamum, 1999-00,Kharif     ,28540.0,10384,0.363840224246671
+Gulbarga,Sesamum, 2000-01,Kharif     ,22634.0,6988,0.308739065123266
+Gulbarga,Sesamum, 2001-02,Kharif     ,16607.0,4938,0.297344493285964
+Gulbarga,Sesamum, 2002-03,Kharif     ,13485.0,4894,0.36292176492399
+Gulbarga,Sesamum, 2003-04,Kharif     ,14529.0,8254,0.5681051689724
+Gulbarga,Sesamum, 2004-05,Kharif     ,17026.0,5693,0.334370962058029
+Gulbarga,Sesamum, 2005-06,Kharif     ,16829.0,12982,0.771406500683344
+Gulbarga,Sesamum, 2006-07,Kharif     ,17684.0,6770,0.382831938475458
+Gulbarga,Sesamum, 2007-08,Kharif     ,17785.0,9310,0.523474838346922
+Gulbarga,Sesamum, 2008-09,Kharif     ,7677.0,2305,0.300247492510095
+Gulbarga,Sesamum, 2009-10,Kharif     ,12108.0,1288,0.106375949785266
+Gulbarga,Sesamum, 2010-11,Kharif     ,15782.0,4228,0.267900139399316
+Gulbarga,Sesamum, 2011-12,Kharif     ,5720.0,2744,0.47972027972028
+Gulbarga,Sesamum, 2012-13,Kharif     ,5694.0,2651,0.46557780119424
+Gulbarga,Sesamum, 2013-14,Kharif     ,5419.0,3202,0.590883926923787
+Gulbarga,Sesamum, 2014-15,Kharif     ,4430.0,2277,0.513995485327314
+Gulbarga,Sesamum, 2015-16,Kharif     ,3526.0,1048,0.297220646625071
+Gulbarga,Sesamum, 2016-17,Kharif     ,9008.0,8018,0.890097690941385
+Gulbarga,Sesamum, 2017-18,Kharif     ,6088.0,9797,1.60923127463863
+Gulbarga,Sesamum, 2018-19,Kharif     ,2355.0,2763,1.17324840764331
+Gulbarga,Small millets, 1999-00,Kharif     ,1769.0,914,0.516676088185415
+Gulbarga,Small millets, 2000-01,Kharif     ,1455.0,989,0.679725085910653
+Gulbarga,Small millets, 2001-02,Kharif     ,887.0,565,0.636978579481398
+Gulbarga,Small millets, 2002-03,Kharif     ,648.0,383,0.591049382716049
+Gulbarga,Small millets, 2003-04,Kharif     ,785.0,450,0.573248407643312
+Gulbarga,Small millets, 2004-05,Kharif     ,641.0,408,0.636505460218409
+Gulbarga,Small millets, 2005-06,Kharif     ,453.0,381,0.841059602649007
+Gulbarga,Small millets, 2006-07,Kharif     ,325.0,104,0.32
+Gulbarga,Small millets, 2007-08,Kharif     ,479.0,105,0.219206680584551
+Gulbarga,Small millets, 2009-10,Kharif     ,163.0,36,0.220858895705521
+Gulbarga,Small millets, 2010-11,Kharif     ,20.0,7,0.35
+Gulbarga,Small millets, 2011-12,Kharif     ,25.0,8,0.32
+Gulbarga,Small millets, 2012-13,Kharif     ,19.0,5,0.263157894736842
+Gulbarga,Small millets, 2013-14,Kharif     ,22.0,8,0.363636363636364
+Gulbarga,Small millets, 2014-15,Kharif     ,197.0,67,0.34010152284264
+Gulbarga,Small millets, 2015-16,Kharif     ,16.0,4,0.25
+Gulbarga,Small millets, 2017-18,Kharif     ,2.0,1,0.5
+Gulbarga,Small millets, 2018-19,Kharif     ,403.0,423,1.04962779156328
+Gulbarga,Soyabean, 1998-99,Kharif     ,4.0,4,1
+Gulbarga,Soyabean, 1999-00,Kharif     ,164.0,150,0.914634146341463
+Gulbarga,Soyabean, 2000-01,Kharif     ,33.0,34,1.03030303030303
+Gulbarga,Soyabean, 2001-02,Kharif     ,16.0,13,0.8125
+Gulbarga,Soyabean, 2002-03,Kharif     ,21.0,17,0.80952380952381
+Gulbarga,Soyabean, 2003-04,Kharif     ,177.0,85,0.480225988700565
+Gulbarga,Soyabean, 2004-05,Kharif     ,205.0,128,0.624390243902439
+Gulbarga,Soyabean, 2005-06,Kharif     ,826.0,463,0.560532687651332
+Gulbarga,Soyabean, 2006-07,Kharif     ,723.0,536,0.741355463347165
+Gulbarga,Soyabean, 2007-08,Kharif     ,418.0,341,0.81578947368421
+Gulbarga,Soyabean, 2008-09,Kharif     ,1058.0,730,0.689981096408318
+Gulbarga,Soyabean, 2009-10,Kharif     ,1850.0,192,0.103783783783784
+Gulbarga,Soyabean, 2010-11,Kharif     ,375.0,140,0.373333333333333
+Gulbarga,Soyabean, 2011-12,Kharif     ,875.0,320,0.365714285714286
+Gulbarga,Soyabean, 2012-13,Kharif     ,4512.0,3416,0.75709219858156
+Gulbarga,Soyabean, 2013-14,Kharif     ,6054.0,8334,1.37661050545094
+Gulbarga,Soyabean, 2014-15,Kharif     ,21695.0,13170,0.60705231620189
+Gulbarga,Soyabean, 2015-16,Kharif     ,7222.0,5043,0.698283024093049
+Gulbarga,Soyabean, 2016-17,Kharif     ,19828.0,16557,0.835031268912649
+Gulbarga,Soyabean, 2017-18,Kharif     ,13354.0,26134,1.95701662423244
+Gulbarga,Soyabean, 2018-19,Kharif     ,22325.0,30222,1.35372900335946
+Gulbarga,Sugarcane, 1997-98,Whole Year ,5032.0,411114,81.699920508744
+Gulbarga,Sugarcane, 1999-00,Whole Year ,8535.0,810825,95
+Gulbarga,Sugarcane, 2000-01,Whole Year ,9673.0,680012,70.3000103380544
+Gulbarga,Sugarcane, 2001-02,Whole Year ,7861.0,575032,73.1499809184582
+Gulbarga,Sugarcane, 2002-03,Whole Year ,8228.0,414280,50.3500243072436
+Gulbarga,Sugarcane, 2003-04,Whole Year ,5724.0,184885,32.299965059399
+Gulbarga,Sugarcane, 2005-06,Whole Year ,4494.0,273235,60.7999554962172
+Gulbarga,Sugarcane, 2006-07,Whole Year ,5330.0,324064,60.8
+Gulbarga,Sugarcane, 2007-08,Whole Year ,12797.0,802372,62.7000078143315
+Gulbarga,Sugarcane, 2008-09,Whole Year ,7944.0,407527,51.2999748237664
+Gulbarga,Sugarcane, 2009-10,Whole Year ,11995.0,763482,63.6500208420175
+Gulbarga,Sugarcane, 2010-11,Whole Year ,10891.0,724252,66.5000459094665
+Gulbarga,Sugarcane, 2011-12,Whole Year ,15074.0,615773,40.8500066339392
+Gulbarga,Sugarcane, 2012-13,Whole Year ,14801.0,731169,49.399972974799
+Gulbarga,Sugarcane, 2013-14,Whole Year ,27602.0,1678202,60.8000144917035
+Gulbarga,Sugarcane, 2014-15,Whole Year ,45503.0,3025950,66.5000109882865
+Gulbarga,Sugarcane, 2015-16,Whole Year ,28601.0,1195522,41.8000069927625
+Gulbarga,Sugarcane, 2016-17,Whole Year ,28429.0,1080302,38
+Gulbarga,Sugarcane, 2017-18,Whole Year ,1003.0,68605,68.3998005982054
+Gulbarga,Sugarcane, 2018-19,Whole Year ,25629.0,1972152,76.9500175582348
+Gulbarga,Sunflower, 1998-99,Kharif     ,103027.0,18031,0.175012375396741
+Gulbarga,Sunflower, 1998-99,Rabi       ,42388.0,10560,0.249127111446636
+Gulbarga,Sunflower, 1998-99,Summer     ,3743.0,2144,0.572802564787603
+Gulbarga,Sunflower, 1999-00,Kharif     ,20852.0,7055,0.338336850182237
+Gulbarga,Sunflower, 1999-00,Rabi       ,16911.0,6073,0.359115368694932
+Gulbarga,Sunflower, 1999-00,Summer     ,563.0,248,0.440497335701599
+Gulbarga,Sunflower, 2000-01,Kharif     ,5869.0,2691,0.458510819560402
+Gulbarga,Sunflower, 2000-01,Rabi       ,8137.0,3520,0.432591864323461
+Gulbarga,Sunflower, 2000-01,Summer     ,1590.0,914,0.574842767295597
+Gulbarga,Sunflower, 2001-02,Kharif     ,15812.0,6698,0.423602327346319
+Gulbarga,Sunflower, 2001-02,Rabi       ,32484.0,14331,0.441171038049501
+Gulbarga,Sunflower, 2001-02,Summer     ,1736.0,1418,0.816820276497696
+Gulbarga,Sunflower, 2002-03,Kharif     ,63695.0,42044,0.660083209043096
+Gulbarga,Sunflower, 2002-03,Rabi       ,66321.0,37704,0.568507712489257
+Gulbarga,Sunflower, 2002-03,Summer     ,2904.0,1379,0.474862258953168
+Gulbarga,Sunflower, 2003-04,Kharif     ,94496.0,50359,0.532922028445648
+Gulbarga,Sunflower, 2003-04,Rabi       ,61597.0,26527,0.430654090296605
+Gulbarga,Sunflower, 2003-04,Summer     ,3101.0,1417,0.45694937117059
+Gulbarga,Sunflower, 2004-05,Kharif     ,110701.0,41285,0.37294152717681
+Gulbarga,Sunflower, 2004-05,Rabi       ,61829.0,26509,0.428747028093613
+Gulbarga,Sunflower, 2004-05,Summer     ,1340.0,591,0.441044776119403
+Gulbarga,Sunflower, 2005-06,Kharif     ,119927.0,48043,0.40060203290335
+Gulbarga,Sunflower, 2005-06,Rabi       ,55982.0,27093,0.483959129720267
+Gulbarga,Sunflower, 2005-06,Summer     ,1019.0,873,0.856722276741904
+Gulbarga,Sunflower, 2006-07,Kharif     ,74068.0,15620,0.210887292758006
+Gulbarga,Sunflower, 2006-07,Rabi       ,43405.0,17603,0.405552355719387
+Gulbarga,Sunflower, 2006-07,Summer     ,1880.0,854,0.454255319148936
+Gulbarga,Sunflower, 2007-08,Kharif     ,73487.0,33263,0.452637881530067
+Gulbarga,Sunflower, 2007-08,Rabi       ,31052.0,13711,0.441549658637125
+Gulbarga,Sunflower, 2007-08,Summer     ,1978.0,1366,0.690596562184024
+Gulbarga,Sunflower, 2008-09,Kharif     ,84572.0,31709,0.374934966655631
+Gulbarga,Sunflower, 2008-09,Rabi       ,48746.0,19767,0.405510195708366
+Gulbarga,Sunflower, 2008-09,Summer     ,1047.0,540,0.515759312320917
+Gulbarga,Sunflower, 2009-10,Kharif     ,70366.0,15846,0.225193985731745
+Gulbarga,Sunflower, 2009-10,Rabi       ,43105.0,14621,0.339194988980397
+Gulbarga,Sunflower, 2009-10,Summer     ,1488.0,831,0.558467741935484
+Gulbarga,Sunflower, 2010-11,Kharif     ,23457.0,8592,0.366287249008825
+Gulbarga,Sunflower, 2010-11,Rabi       ,8980.0,4284,0.47706013363029
+Gulbarga,Sunflower, 2010-11,Summer     ,287.0,165,0.574912891986063
+Gulbarga,Sunflower, 2011-12,Kharif     ,23356.0,11108,0.475595136153451
+Gulbarga,Sunflower, 2011-12,Rabi       ,12201.0,6742,0.552577657569052
+Gulbarga,Sunflower, 2011-12,Summer     ,174.0,95,0.545977011494253
+Gulbarga,Sunflower, 2012-13,Kharif     ,23810.0,12079,0.507307853842923
+Gulbarga,Sunflower, 2012-13,Rabi       ,19047.0,9934,0.521551950438389
+Gulbarga,Sunflower, 2012-13,Summer     ,271.0,148,0.546125461254613
+Gulbarga,Sunflower, 2013-14,Kharif     ,27776.0,16281,0.586153513824885
+Gulbarga,Sunflower, 2013-14,Rabi       ,17346.0,10777,0.621295976017526
+Gulbarga,Sunflower, 2013-14,Summer     ,73.0,62,0.849315068493151
+Gulbarga,Sunflower, 2014-15,Kharif     ,21910.0,12822,0.585212231857599
+Gulbarga,Sunflower, 2014-15,Rabi       ,20278.0,10692,0.527270934017161
+Gulbarga,Sunflower, 2014-15,Summer     ,257.0,192,0.747081712062257
+Gulbarga,Sunflower, 2015-16,Kharif     ,6827.0,1946,0.285044675552952
+Gulbarga,Sunflower, 2015-16,Rabi       ,34041.0,6047,0.177638729767046
+Gulbarga,Sunflower, 2015-16,Summer     ,100.0,63,0.63
+Gulbarga,Sunflower, 2016-17,Kharif     ,13379.0,5885,0.439868450556843
+Gulbarga,Sunflower, 2016-17,Rabi       ,279.0,192,0.688172043010753
+Gulbarga,Sunflower, 2016-17,Summer     ,40.0,34,0.85
+Gulbarga,Sunflower, 2017-18,Kharif     ,9954.0,11612,1.16656620454089
+Gulbarga,Sunflower, 2017-18,Rabi       ,469.0,313,0.667377398720682
+Gulbarga,Sunflower, 2017-18,Summer     ,150.0,181,1.20666666666667
+Gulbarga,Sunflower, 2018-19,Kharif     ,6891.0,6874,0.997533014076331
+Gulbarga,Sunflower, 2018-19,Rabi       ,572.0,256,0.447552447552448
+Gulbarga,Sunflower, 2018-19,Summer     ,9.0,8,0.888888888888889
+Gulbarga,Sweet potato, 1999-00,Whole Year ,52.0,347,6.67307692307692
+Gulbarga,Sweet potato, 2000-01,Whole Year ,31.0,205,6.61290322580645
+Gulbarga,Sweet potato, 2002-03,Whole Year ,22.0,146,6.63636363636364
+Gulbarga,Sweet potato, 2003-04,Whole Year ,22.0,146,6.63636363636364
+Gulbarga,Sweet potato, 2004-05,Whole Year ,31.0,206,6.64516129032258
+Gulbarga,Sweet potato, 2005-06,Whole Year ,19.0,126,6.63157894736842
+Gulbarga,Sweet potato, 2006-07,Whole Year ,6.0,40,6.66666666666667
+Gulbarga,Sweet potato, 2007-08,Whole Year ,2.0,13,6.5
+Gulbarga,Sweet potato, 2008-09,Whole Year ,14.0,142,10.1428571428571
+Gulbarga,Sweet potato, 2009-10,Whole Year ,10.0,66,6.6
+Gulbarga,Sweet potato, 2012-13,Whole Year ,5.0,78,15.6
+Gulbarga,Sweet potato, 2018-19,Whole Year ,10.0,145,14.5
+Gulbarga,Tapioca, 2018-19,Whole Year ,9.0,120,13.3333333333333
+Gulbarga,Tobacco, 2002-03,Whole Year ,4.0,3,0.75
+Gulbarga,Tobacco, 2018-19,Whole Year ,8.0,7,0.875
+Gulbarga,Turmeric, 1997-98,Whole Year ,405.0,714,1.76296296296296
+Gulbarga,Turmeric, 1998-99,Whole Year ,404.0,1815,4.49257425742574
+Gulbarga,Turmeric, 1999-00,Whole Year ,421.0,1495,3.55106888361045
+Gulbarga,Turmeric, 2000-01,Whole Year ,1097.0,5168,4.71103008204193
+Gulbarga,Turmeric, 2001-02,Whole Year ,454.0,1727,3.80396475770925
+Gulbarga,Turmeric, 2002-03,Whole Year ,252.0,657,2.60714285714286
+Gulbarga,Turmeric, 2003-04,Whole Year ,215.0,412,1.91627906976744
+Gulbarga,Turmeric, 2004-05,Whole Year ,396.0,798,2.01515151515152
+Gulbarga,Turmeric, 2005-06,Whole Year ,435.0,1144,2.62988505747126
+Gulbarga,Turmeric, 2006-07,Whole Year ,292.0,614,2.1027397260274
+Gulbarga,Turmeric, 2007-08,Whole Year ,387.0,2489,6.43152454780362
+Gulbarga,Turmeric, 2008-09,Whole Year ,312.0,954,3.05769230769231
+Gulbarga,Turmeric, 2009-10,Whole Year ,238.0,538,2.26050420168067
+Gulbarga,Turmeric, 2010-11,Whole Year ,259.0,573,2.21235521235521
+Gulbarga,Turmeric, 2011-12,Whole Year ,1036.0,5204,5.02316602316602
+Gulbarga,Turmeric, 2012-13,Whole Year ,462.0,920,1.99134199134199
+Gulbarga,Turmeric, 2013-14,Whole Year ,653.0,2016,3.08728943338438
+Gulbarga,Turmeric, 2015-16,Whole Year ,80.0,214,2.675
+Gulbarga,Turmeric, 2016-17,Whole Year ,501.0,1583,3.15968063872255
+Gulbarga,Turmeric, 2017-18,Whole Year ,2049.0,11331,5.53001464128843
+Gulbarga,Turmeric, 2018-19,Whole Year ,468.0,279,0.596153846153846
+Gulbarga,Urad, 1999-00,Kharif     ,28059.0,16367,0.583306603941694
+Gulbarga,Urad, 2000-01,Kharif     ,37524.0,19321,0.514897132501865
+Gulbarga,Urad, 2001-02,Kharif     ,49255.0,14646,0.297350522789565
+Gulbarga,Urad, 2002-03,Kharif     ,53648.0,9378,0.174806143751864
+Gulbarga,Urad, 2003-04,Kharif     ,48416.0,14213,0.293559980171844
+Gulbarga,Urad, 2004-05,Kharif     ,45837.0,6662,0.145341099984728
+Gulbarga,Urad, 2005-06,Kharif     ,36125.0,11051,0.305910034602076
+Gulbarga,Urad, 2006-07,Kharif     ,55251.0,9920,0.179544261642323
+Gulbarga,Urad, 2007-08,Kharif     ,76920.0,34345,0.446502860114405
+Gulbarga,Urad, 2008-09,Kharif     ,41265.0,17994,0.436059614685569
+Gulbarga,Urad, 2009-10,Kharif     ,42716.0,1096,0.0256578331304429
+Gulbarga,Urad, 2010-11,Kharif     ,49090.0,18281,0.372397636993278
+Gulbarga,Urad, 2011-12,Kharif     ,30220.0,11139,0.368596955658504
+Gulbarga,Urad, 2012-13,Kharif     ,31178.0,16646,0.533902110462506
+Gulbarga,Urad, 2013-14,Kharif     ,40904.0,22033,0.538651476628203
+Gulbarga,Urad, 2014-15,Kharif     ,18672.0,6616,0.354327335047129
+Gulbarga,Urad, 2015-16,Kharif     ,23159.0,7480,0.322984584826633
+Gulbarga,Urad, 2016-17,Kharif     ,24436.0,14579,0.596619741365199
+Gulbarga,Urad, 2017-18,Kharif     ,52065.0,32892,0.631748775569
+Gulbarga,Urad, 2018-19,Kharif     ,23034.0,11182,0.485456282017887
+Gulbarga,Wheat, 1997-98,Rabi       ,19143.0,6226,0.325236378832994
+Gulbarga,Wheat, 1998-99,Rabi       ,21882.0,10947,0.500274197970935
+Gulbarga,Wheat, 1999-00,Rabi       ,24012.0,12540,0.52223888055972
+Gulbarga,Wheat, 2000-01,Rabi       ,31913.0,23660,0.74139065584558
+Gulbarga,Wheat, 2001-02,Rabi       ,29456.0,17455,0.59257876154264
+Gulbarga,Wheat, 2002-03,Rabi       ,20389.0,9759,0.47864044337633
+Gulbarga,Wheat, 2003-04,Rabi       ,17523.0,7700,0.439422473320778
+Gulbarga,Wheat, 2004-05,Rabi       ,16517.0,11494,0.695889083974087
+Gulbarga,Wheat, 2005-06,Rabi       ,19876.0,15003,0.754829945663111
+Gulbarga,Wheat, 2006-07,Rabi       ,17993.0,12674,0.704385038626132
+Gulbarga,Wheat, 2007-08,Rabi       ,17936.0,17282,0.963537020517395
+Gulbarga,Wheat, 2008-09,Rabi       ,20333.0,22229,1.09324743028574
+Gulbarga,Wheat, 2009-10,Rabi       ,24573.0,26294,1.07003621861393
+Gulbarga,Wheat, 2010-11,Rabi       ,17702.0,26539,1.49920912891199
+Gulbarga,Wheat, 2011-12,Rabi       ,16516.0,24893,1.50720513441511
+Gulbarga,Wheat, 2012-13,Rabi       ,11271.0,14787,1.31195102475379
+Gulbarga,Wheat, 2013-14,Rabi       ,13467.0,23502,1.74515482290042
+Gulbarga,Wheat, 2014-15,Rabi       ,14149.0,23751,1.67863453247579
+Gulbarga,Wheat, 2015-16,Rabi       ,9061.0,9245,1.02030680940294
+Gulbarga,Wheat, 2016-17,Rabi       ,9228.0,18541,2.00921109666233
+Gulbarga,Wheat, 2017-18,Rabi       ,10979.0,22946,2.08998998087257
+Gulbarga,Wheat, 2018-19,Rabi       ,6349.0,9560,1.50574893684045

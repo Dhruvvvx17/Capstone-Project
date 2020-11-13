@@ -1,0 +1,948 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Mandya,Arecanut, 1997-98,Whole Year ,630.0,881,1.3984126984127
+Mandya,Arecanut, 1998-99,Whole Year ,674.0,4539,6.73442136498516
+Mandya,Arecanut, 2000-01,Whole Year ,700.0,979,1.39857142857143
+Mandya,Arecanut, 2001-02,Whole Year ,732.0,1023,1.39754098360656
+Mandya,Arecanut, 2003-04,Whole Year ,816.0,1141,1.39828431372549
+Mandya,Arecanut, 2004-05,Whole Year ,879.0,1229,1.39817974971559
+Mandya,Arecanut, 2005-06,Whole Year ,833.0,5610,6.73469387755102
+Mandya,Arecanut, 2006-07,Whole Year ,868.0,1213,1.39746543778802
+Mandya,Arecanut, 2007-08,Whole Year ,620.0,4176,6.73548387096774
+Mandya,Arecanut, 2008-09,Whole Year ,653.0,4398,6.73506891271057
+Mandya,Arecanut, 2009-10,Whole Year ,851.0,5731,6.73443008225617
+Mandya,Arecanut, 2010-11,Whole Year ,873.0,9440,10.8132875143184
+Mandya,Arecanut, 2011-12,Whole Year ,883.0,7151,8.09852774631937
+Mandya,Arecanut, 2012-13,Whole Year ,1081.0,8676,8.0259019426457
+Mandya,Arecanut, 2013-14,Whole Year ,986.0,10983,11.1389452332657
+Mandya,Arecanut, 2014-15,Whole Year ,674.0,6236,9.25222551928783
+Mandya,Arecanut, 2015-16,Whole Year ,873.0,8557,9.80183276059565
+Mandya,Arecanut, 2016-17,Whole Year ,565.0,5739,10.1575221238938
+Mandya,Arecanut, 2017-18,Whole Year ,370.0,4013,10.8459459459459
+Mandya,Arecanut, 2018-19,Whole Year ,1842.0,16447,8.92888165038002
+Mandya,Arhar/Tur, 1997-98,Kharif     ,1806.0,422,0.233665559246955
+Mandya,Arhar/Tur, 1998-99,Kharif     ,2060.0,959,0.465533980582524
+Mandya,Arhar/Tur, 1999-00,Kharif     ,1220.0,695,0.569672131147541
+Mandya,Arhar/Tur, 2000-01,Kharif     ,1209.0,547,0.452440033085194
+Mandya,Arhar/Tur, 2001-02,Kharif     ,647.0,198,0.306027820710974
+Mandya,Arhar/Tur, 2002-03,Kharif     ,704.0,330,0.46875
+Mandya,Arhar/Tur, 2003-04,Kharif     ,649.0,244,0.375963020030817
+Mandya,Arhar/Tur, 2004-05,Kharif     ,1245.0,645,0.518072289156626
+Mandya,Arhar/Tur, 2005-06,Kharif     ,1139.0,775,0.680421422300263
+Mandya,Arhar/Tur, 2006-07,Kharif     ,744.0,328,0.440860215053763
+Mandya,Arhar/Tur, 2007-08,Kharif     ,903.0,598,0.662236987818383
+Mandya,Arhar/Tur, 2008-09,Kharif     ,1163.0,612,0.526225279449699
+Mandya,Arhar/Tur, 2009-10,Kharif     ,1316.0,609,0.462765957446808
+Mandya,Arhar/Tur, 2010-11,Kharif     ,1548.0,907,0.585917312661499
+Mandya,Arhar/Tur, 2011-12,Kharif     ,1365.0,499,0.365567765567766
+Mandya,Arhar/Tur, 2012-13,Kharif     ,1748.0,531,0.303775743707094
+Mandya,Arhar/Tur, 2013-14,Kharif     ,1234.0,359,0.290923824959481
+Mandya,Arhar/Tur, 2014-15,Kharif     ,1073.0,315,0.293569431500466
+Mandya,Arhar/Tur, 2015-16,Kharif     ,1245.0,457,0.367068273092369
+Mandya,Arhar/Tur, 2016-17,Kharif     ,888.0,302,0.34009009009009
+Mandya,Arhar/Tur, 2017-18,Kharif     ,1048.0,676,0.645038167938931
+Mandya,Arhar/Tur, 2018-19,Kharif     ,341.0,221,0.648093841642229
+Mandya,Bajra, 1998-99,Kharif     ,5.0,2,0.4
+Mandya,Bajra, 2014-15,Kharif     ,35.0,37,1.05714285714286
+Mandya,Bajra, 2018-19,Kharif     ,13.0,12,0.923076923076923
+Mandya,Banana, 1999-00,Whole Year ,1211.0,23788,19.6432700247729
+Mandya,Banana, 2000-01,Whole Year ,1556.0,30034,19.3020565552699
+Mandya,Banana, 2002-03,Whole Year ,1463.0,23642,16.1599453178401
+Mandya,Banana, 2003-04,Whole Year ,752.0,9569,12.7247340425532
+Mandya,Banana, 2004-05,Whole Year ,1272.0,15496,12.1823899371069
+Mandya,Banana, 2005-06,Whole Year ,2617.0,52714,20.1429117309897
+Mandya,Banana, 2006-07,Whole Year ,2650.0,53254,20.0958490566038
+Mandya,Banana, 2007-08,Whole Year ,1833.0,58409,31.8652482269504
+Mandya,Banana, 2008-09,Whole Year ,1606.0,24016,14.9539227895392
+Mandya,Banana, 2009-10,Whole Year ,1889.0,47095,24.931180518793
+Mandya,Banana, 2010-11,Whole Year ,1779.0,51345,28.8617200674536
+Mandya,Banana, 2011-12,Whole Year ,2107.0,62005,29.4280968201234
+Mandya,Black pepper, 1998-99,Whole Year ,3.0,7,2.33333333333333
+Mandya,Black pepper, 1999-00,Whole Year ,3.0,7,2.33333333333333
+Mandya,Black pepper, 2000-01,Whole Year ,4.0,10,2.5
+Mandya,Black pepper, 2001-02,Whole Year ,4.0,10,2.5
+Mandya,Black pepper, 2002-03,Whole Year ,2.0,5,2.5
+Mandya,Black pepper, 2003-04,Whole Year ,2.0,5,2.5
+Mandya,Black pepper, 2004-05,Whole Year ,2.0,5,2.5
+Mandya,Black pepper, 2005-06,Whole Year ,2.0,5,2.5
+Mandya,Black pepper, 2015-16,Whole Year ,27.0,20.7,0.766666666666667
+Mandya,Cardamom, 2018-19,Whole Year ,57.0,7,0.12280701754386
+Mandya,Cashewnut, 2008-09,Whole Year ,4.0,2.45916,0.61479
+Mandya,Cashewnut, 2009-10,Whole Year ,3.0,2,0.666666666666667
+Mandya,Cashewnut, 2010-11,Whole Year ,3.0,2,0.666666666666667
+Mandya,Cashewnut, 2011-12,Whole Year ,2.0,2,1
+Mandya,Cashewnut, 2012-13,Whole Year ,5.0,4,0.8
+Mandya,Cashewnut, 2014-15,Whole Year ,1.0,1,1
+Mandya,Cashewnut, 2015-16,Whole Year ,8.0,5,0.625
+Mandya,Cashewnut, 2018-19,Whole Year ,7.0,8,1.14285714285714
+Mandya,Castor seed, 1998-99,Kharif     ,2069.0,1765,0.853069115514741
+Mandya,Castor seed, 1999-00,Kharif     ,1678.0,1294,0.771156138259833
+Mandya,Castor seed, 2000-01,Kharif     ,1484.0,1900,1.28032345013477
+Mandya,Castor seed, 2001-02,Kharif     ,807.0,383,0.474597273853779
+Mandya,Castor seed, 2002-03,Kharif     ,574.0,245,0.426829268292683
+Mandya,Castor seed, 2003-04,Kharif     ,891.0,799,0.896745230078563
+Mandya,Castor seed, 2004-05,Kharif     ,1538.0,1334,0.867360208062419
+Mandya,Castor seed, 2005-06,Kharif     ,1096.0,1140,1.04014598540146
+Mandya,Castor seed, 2006-07,Kharif     ,673.0,538,0.799405646359584
+Mandya,Castor seed, 2007-08,Kharif     ,960.0,644,0.670833333333333
+Mandya,Castor seed, 2008-09,Kharif     ,1081.0,1025,0.948196114708603
+Mandya,Castor seed, 2009-10,Kharif     ,902.0,583,0.646341463414634
+Mandya,Castor seed, 2010-11,Kharif     ,1355.0,1134,0.83690036900369
+Mandya,Castor seed, 2011-12,Kharif     ,851.0,714,0.839012925969448
+Mandya,Castor seed, 2012-13,Kharif     ,694.0,433,0.623919308357349
+Mandya,Castor seed, 2013-14,Kharif     ,452.0,404,0.893805309734513
+Mandya,Castor seed, 2014-15,Kharif     ,667.0,406,0.608695652173913
+Mandya,Castor seed, 2015-16,Kharif     ,397.0,209,0.526448362720403
+Mandya,Castor seed, 2016-17,Kharif     ,367.0,182,0.49591280653951
+Mandya,Castor seed, 2017-18,Kharif     ,274.0,176,0.642335766423358
+Mandya,Castor seed, 2018-19,Kharif     ,36.0,21,0.583333333333333
+Mandya,Coconut , 1998-99,Whole Year ,16761.0,80063000,4776.74363104827
+Mandya,Coconut , 1999-00,Whole Year ,16956.0,80995000,4776.77518282614
+Mandya,Coconut , 2000-01,Whole Year ,17047.0,81429000,4776.73490936822
+Mandya,Coconut , 2001-02,Whole Year ,17047.0,61076000,3582.80049275532
+Mandya,Coconut , 2002-03,Whole Year ,17882.0,64068000,3582.82071356672
+Mandya,Coconut , 2003-04,Whole Year ,17985.0,64437000,3582.81901584654
+Mandya,Coconut , 2004-05,Whole Year ,18165.0,65082000,3582.82411230388
+Mandya,Coconut , 2005-06,Whole Year ,19112.0,68475000,3582.82754290498
+Mandya,Coconut , 2006-07,Whole Year ,18297.0,65555000,3582.82778597584
+Mandya,Coconut , 2007-08,Whole Year ,17905.0,113446000,6335.99553197431
+Mandya,Coconut , 2008-09,Whole Year ,22940.0,145348000,6336.00697471665
+Mandya,Coconut , 2009-10,Whole Year ,25410.0,255056000,10037.6229830775
+Mandya,Coconut , 2010-11,Whole Year ,26335.0,328112000,12459.1608126068
+Mandya,Coconut , 2011-12,Whole Year ,26727.0,345458000,12925.4312118831
+Mandya,Coconut , 2012-13,Whole Year ,21418.0,276837000,12925.4365486974
+Mandya,Coconut , 2013-14,Whole Year ,20872.0,149354000,7155.71100038329
+Mandya,Coconut , 2014-15,Whole Year ,27573.0,273682000,9925.72444057593
+Mandya,Coconut , 2015-16,Whole Year ,24629.0,244729000,9936.61943237647
+Mandya,Coconut , 2016-17,Whole Year ,22645.0,253262000,11184.0141311548
+Mandya,Coconut , 2017-18,Whole Year ,25072.0,216020000,8615.98596043395
+Mandya,Coconut , 2018-19,Whole Year ,61192.0,429270000,7015.13269708459
+Mandya,Coriander, 2001-02,Whole Year ,1.0,nan,0
+Mandya,Coriander, 2007-08,Whole Year ,1.0,nan,0
+Mandya,Coriander, 2008-09,Whole Year ,6.0,3,0.5
+Mandya,Coriander, 2009-10,Whole Year ,7.0,3,0.428571428571429
+Mandya,Coriander, 2012-13,Whole Year ,42.0,17,0.404761904761905
+Mandya,Coriander, 2013-14,Whole Year ,2.0,1,0.5
+Mandya,Coriander, 2014-15,Whole Year ,12.0,4,0.333333333333333
+Mandya,Coriander, 2015-16,Whole Year ,1.0,nan,0
+Mandya,Coriander, 2016-17,Whole Year ,15.0,7,0.466666666666667
+Mandya,Coriander, 2017-18,Whole Year ,2.0,1,0.5
+Mandya,Coriander, 2018-19,Whole Year ,52.0,46,0.884615384615385
+Mandya,Cotton(lint), 1998-99,Kharif     ,44.0,65,1.47727272727273
+Mandya,Cotton(lint), 1999-00,Kharif     ,109.0,121,1.11009174311927
+Mandya,Cotton(lint), 2000-01,Kharif     ,21.0,32,1.52380952380952
+Mandya,Cotton(lint), 2001-02,Kharif     ,1.0,2,2
+Mandya,Cotton(lint), 2002-03,Kharif     ,1.0,2,2
+Mandya,Cotton(lint), 2003-04,Kharif     ,2.0,5,2.5
+Mandya,Cotton(lint), 2004-05,Kharif     ,5.0,5,1
+Mandya,Cotton(lint), 2005-06,Whole Year ,5.0,15,3
+Mandya,Cotton(lint), 2013-14,Kharif     ,4.0,12,3
+Mandya,Cotton(lint), 2014-15,Kharif     ,5.0,14,2.8
+Mandya,Cotton(lint), 2018-19,Kharif     ,4.0,8,2
+Mandya,Cowpea(Lobia), 2010-11,Kharif     ,8702.0,6423,0.738106182486785
+Mandya,Cowpea(Lobia), 2010-11,Rabi       ,1006.0,266,0.26441351888668
+Mandya,Cowpea(Lobia), 2011-12,Kharif     ,7729.0,4494,0.581446500194074
+Mandya,Cowpea(Lobia), 2011-12,Rabi       ,1536.0,333,0.216796875
+Mandya,Cowpea(Lobia), 2012-13,Kharif     ,7223.0,3760,0.520559324380451
+Mandya,Cowpea(Lobia), 2012-13,Rabi       ,821.0,161,0.196102314250914
+Mandya,Cowpea(Lobia), 2012-13,Summer     ,214.0,64,0.299065420560748
+Mandya,Cowpea(Lobia), 2013-14,Kharif     ,5081.0,2824,0.555796103129305
+Mandya,Cowpea(Lobia), 2013-14,Rabi       ,363.0,209,0.575757575757576
+Mandya,Cowpea(Lobia), 2013-14,Summer     ,341.0,134,0.392961876832845
+Mandya,Cowpea(Lobia), 2014-15,Kharif     ,3796.0,1616,0.425711275026344
+Mandya,Cowpea(Lobia), 2014-15,Rabi       ,271.0,99,0.365313653136531
+Mandya,Cowpea(Lobia), 2014-15,Summer     ,177.0,65,0.367231638418079
+Mandya,Cowpea(Lobia), 2015-16,Kharif     ,4629.0,2375,0.513069777489739
+Mandya,Cowpea(Lobia), 2015-16,Rabi       ,87.0,39,0.448275862068966
+Mandya,Cowpea(Lobia), 2015-16,Summer     ,74.0,22,0.297297297297297
+Mandya,Cowpea(Lobia), 2016-17,Kharif     ,2943.0,2253,0.765545361875637
+Mandya,Cowpea(Lobia), 2016-17,Rabi       ,2.0,nan,0
+Mandya,Cowpea(Lobia), 2017-18,Kharif     ,18875.0,3371,0.178596026490066
+Mandya,Cowpea(Lobia), 2017-18,Rabi       ,580.0,235,0.405172413793103
+Mandya,Cowpea(Lobia), 2017-18,Summer     ,28.0,8,0.285714285714286
+Mandya,Cowpea(Lobia), 2018-19,Kharif     ,8240.0,3084,0.374271844660194
+Mandya,Cowpea(Lobia), 2018-19,Rabi       ,48.0,13,0.270833333333333
+Mandya,Cowpea(Lobia), 2018-19,Summer     ,142.0,18,0.126760563380282
+Mandya,Dry chillies, 1997-98,Kharif     ,288.0,150,0.520833333333333
+Mandya,Dry chillies, 1997-98,Rabi       ,140.0,242,1.72857142857143
+Mandya,Dry chillies, 1998-99,Whole Year ,1251.0,1298,1.03756994404476
+Mandya,Dry chillies, 1999-00,Whole Year ,826.0,808,0.978208232445521
+Mandya,Dry chillies, 2000-01,Whole Year ,796.0,767,0.96356783919598
+Mandya,Dry chillies, 2001-02,Whole Year ,833.0,1899,2.2797118847539
+Mandya,Dry chillies, 2002-03,Whole Year ,608.0,711,1.16940789473684
+Mandya,Dry chillies, 2003-04,Whole Year ,1063.0,1512,1.42238946378175
+Mandya,Dry chillies, 2004-05,Whole Year ,612.0,430,0.702614379084967
+Mandya,Dry chillies, 2005-06,Kharif     ,579.0,421,0.727115716753022
+Mandya,Dry chillies, 2005-06,Rabi       ,19.0,31,1.63157894736842
+Mandya,Dry chillies, 2005-06,Summer     ,19.0,50,2.63157894736842
+Mandya,Dry chillies, 2006-07,Whole Year ,524.0,554,1.05725190839695
+Mandya,Dry chillies, 2007-08,Kharif     ,448.0,403,0.899553571428571
+Mandya,Dry chillies, 2007-08,Rabi       ,20.0,35,1.75
+Mandya,Dry chillies, 2007-08,Summer     ,29.0,98,3.37931034482759
+Mandya,Dry chillies, 2008-09,Kharif     ,461.0,428,0.928416485900217
+Mandya,Dry chillies, 2008-09,Rabi       ,32.0,54,1.6875
+Mandya,Dry chillies, 2008-09,Summer     ,57.0,187,3.28070175438596
+Mandya,Dry chillies, 2009-10,Rabi       ,28.0,83,2.96428571428571
+Mandya,Dry chillies, 2009-10,Summer     ,94.0,433,4.6063829787234
+Mandya,Dry chillies, 2010-11,Kharif     ,430.0,354,0.823255813953488
+Mandya,Dry chillies, 2010-11,Rabi       ,51.0,139,2.72549019607843
+Mandya,Dry chillies, 2010-11,Summer     ,113.0,344,3.04424778761062
+Mandya,Dry chillies, 2011-12,Kharif     ,268.0,216,0.805970149253731
+Mandya,Dry chillies, 2011-12,Rabi       ,61.0,144,2.36065573770492
+Mandya,Dry chillies, 2011-12,Summer     ,106.0,371,3.5
+Mandya,Dry chillies, 2012-13,Kharif     ,88.0,81,0.920454545454545
+Mandya,Dry chillies, 2012-13,Rabi       ,29.0,79,2.72413793103448
+Mandya,Dry chillies, 2012-13,Summer     ,45.0,127,2.82222222222222
+Mandya,Dry chillies, 2013-14,Kharif     ,479.0,531,1.10855949895616
+Mandya,Dry chillies, 2013-14,Rabi       ,86.0,163,1.8953488372093
+Mandya,Dry chillies, 2013-14,Summer     ,84.0,223,2.6547619047619
+Mandya,Dry chillies, 2014-15,Kharif     ,875.0,990,1.13142857142857
+Mandya,Dry chillies, 2014-15,Rabi       ,169.0,317,1.87573964497041
+Mandya,Dry chillies, 2014-15,Summer     ,45.0,87,1.93333333333333
+Mandya,Dry chillies, 2015-16,Kharif     ,630.0,546,0.866666666666667
+Mandya,Dry chillies, 2015-16,Rabi       ,138.0,279,2.02173913043478
+Mandya,Dry chillies, 2015-16,Summer     ,84.0,154,1.83333333333333
+Mandya,Dry chillies, 2016-17,Kharif     ,475.0,957,2.01473684210526
+Mandya,Dry chillies, 2016-17,Rabi       ,72.0,154,2.13888888888889
+Mandya,Dry chillies, 2016-17,Summer     ,79.0,179,2.26582278481013
+Mandya,Dry chillies, 2017-18,Kharif     ,382.0,719,1.88219895287958
+Mandya,Dry chillies, 2017-18,Rabi       ,139.0,280,2.01438848920863
+Mandya,Dry chillies, 2017-18,Summer     ,50.0,100,2
+Mandya,Garlic, 2002-03,Whole Year ,1.0,1,1
+Mandya,Garlic, 2003-04,Whole Year ,1.0,1,1
+Mandya,Garlic, 2004-05,Whole Year ,3.0,2,0.666666666666667
+Mandya,Garlic, 2005-06,Whole Year ,2.0,2,1
+Mandya,Garlic, 2006-07,Whole Year ,3.0,2,0.666666666666667
+Mandya,Garlic, 2007-08,Whole Year ,7.0,7,1
+Mandya,Garlic, 2008-09,Whole Year ,4.0,9,2.25
+Mandya,Garlic, 2012-13,Whole Year ,7.0,9,1.28571428571429
+Mandya,Garlic, 2018-19,Whole Year ,2.0,13,6.5
+Mandya,Ginger, 1998-99,Kharif     ,5.0,66,13.2
+Mandya,Ginger, 1999-00,Kharif     ,4.0,53,13.25
+Mandya,Ginger, 2000-01,Kharif     ,5.0,66,13.2
+Mandya,Ginger, 2001-02,Kharif     ,5.0,66,13.2
+Mandya,Ginger, 2002-03,Kharif     ,2.0,26,13
+Mandya,Ginger, 2003-04,Kharif     ,1.0,13,13
+Mandya,Ginger, 2004-05,Kharif     ,5.0,66,13.2
+Mandya,Ginger, 2005-06,Whole Year ,16.0,210,13.125
+Mandya,Ginger, 2006-07,Whole Year ,19.0,250,13.1578947368421
+Mandya,Ginger, 2007-08,Whole Year ,23.0,472,20.5217391304348
+Mandya,Ginger, 2008-09,Whole Year ,22.0,701,31.8636363636364
+Mandya,Ginger, 2009-10,Whole Year ,21.0,661,31.4761904761905
+Mandya,Ginger, 2010-11,Whole Year ,30.0,108.6,3.62
+Mandya,Ginger, 2011-12,Whole Year ,47.0,149.5,3.18085106382979
+Mandya,Ginger, 2012-13,Whole Year ,39.0,1242,31.8461538461538
+Mandya,Ginger, 2013-14,Whole Year ,19.0,525,27.6315789473684
+Mandya,Ginger, 2014-15,Whole Year ,27.0,784,29.037037037037
+Mandya,Ginger, 2015-16,Whole Year ,32.0,1195,37.34375
+Mandya,Ginger, 2016-17,Whole Year ,83.0,2099,25.289156626506
+Mandya,Ginger, 2017-18,Whole Year ,18.0,465,25.8333333333333
+Mandya,Ginger, 2018-19,Whole Year ,89.0,1369.8,15.3910112359551
+Mandya,Gram, 1998-99,Rabi       ,57.0,38,0.666666666666667
+Mandya,Gram, 1999-00,Rabi       ,213.0,117,0.549295774647887
+Mandya,Gram, 2002-03,Rabi       ,176.0,90,0.511363636363636
+Mandya,Gram, 2003-04,Rabi       ,238.0,77,0.323529411764706
+Mandya,Gram, 2004-05,Rabi       ,49.0,37,0.755102040816326
+Mandya,Gram, 2005-06,Rabi       ,3.0,2,0.666666666666667
+Mandya,Gram, 2006-07,Kharif     ,445.0,61,0.137078651685393
+Mandya,Gram, 2006-07,Rabi       ,45.0,32,0.711111111111111
+Mandya,Gram, 2007-08,Rabi       ,182.0,139,0.763736263736264
+Mandya,Gram, 2008-09,Rabi       ,2.0,1,0.5
+Mandya,Gram, 2009-10,Kharif     ,13752.0,6898,0.501599767306574
+Mandya,Gram, 2009-10,Rabi       ,12622.0,5408,0.428458247504357
+Mandya,Gram, 2010-11,Rabi       ,12.0,9,0.75
+Mandya,Gram, 2012-13,Rabi       ,42.0,27,0.642857142857143
+Mandya,Gram, 2013-14,Rabi       ,210.0,159,0.757142857142857
+Mandya,Gram, 2014-15,Rabi       ,211.0,152,0.720379146919431
+Mandya,Gram, 2015-16,Rabi       ,172.0,67,0.38953488372093
+Mandya,Gram, 2016-17,Rabi       ,77.0,45,0.584415584415584
+Mandya,Gram, 2017-18,Rabi       ,26.0,20,0.769230769230769
+Mandya,Gram, 2018-19,Rabi       ,117.0,57,0.487179487179487
+Mandya,Groundnut, 1997-98,Kharif     ,7230.0,4372,0.604702627939142
+Mandya,Groundnut, 1997-98,Rabi       ,118.0,108,0.915254237288135
+Mandya,Groundnut, 1998-99,Kharif     ,8857.0,7657,0.864513943773287
+Mandya,Groundnut, 1998-99,Rabi       ,125.0,148,1.184
+Mandya,Groundnut, 1999-00,Kharif     ,6443.0,5086,0.789383827409592
+Mandya,Groundnut, 1999-00,Rabi       ,131.0,144,1.09923664122137
+Mandya,Groundnut, 2000-01,Kharif     ,8177.0,6231,0.762015409074233
+Mandya,Groundnut, 2000-01,Rabi       ,60.0,66,1.1
+Mandya,Groundnut, 2001-02,Kharif     ,5785.0,4537,0.784269662921348
+Mandya,Groundnut, 2002-03,Kharif     ,1977.0,1707,0.863429438543247
+Mandya,Groundnut, 2002-03,Rabi       ,27.0,30,1.11111111111111
+Mandya,Groundnut, 2003-04,Kharif     ,2726.0,3194,1.17168011738811
+Mandya,Groundnut, 2003-04,Rabi       ,50.0,49,0.98
+Mandya,Groundnut, 2004-05,Kharif     ,4041.0,4651,1.15095273447167
+Mandya,Groundnut, 2004-05,Rabi       ,130.0,118,0.907692307692308
+Mandya,Groundnut, 2005-06,Kharif     ,4157.0,2519,0.605965840750541
+Mandya,Groundnut, 2005-06,Rabi       ,57.0,48,0.842105263157895
+Mandya,Groundnut, 2006-07,Kharif     ,2441.0,1021,0.418271200327735
+Mandya,Groundnut, 2006-07,Rabi       ,23.0,17,0.739130434782609
+Mandya,Groundnut, 2007-08,Kharif     ,2541.0,1910,0.751672569854388
+Mandya,Groundnut, 2007-08,Rabi       ,12.0,10,0.833333333333333
+Mandya,Groundnut, 2008-09,Kharif     ,1683.0,1113,0.661319073083779
+Mandya,Groundnut, 2008-09,Rabi       ,46.0,35,0.760869565217391
+Mandya,Groundnut, 2009-10,Kharif     ,1245.0,1403,1.12690763052209
+Mandya,Groundnut, 2009-10,Rabi       ,18.0,24,1.33333333333333
+Mandya,Groundnut, 2010-11,Kharif     ,1524.0,1220,0.800524934383202
+Mandya,Groundnut, 2010-11,Rabi       ,51.0,45,0.882352941176471
+Mandya,Groundnut, 2011-12,Kharif     ,1773.0,956,0.539199097574732
+Mandya,Groundnut, 2011-12,Rabi       ,22.0,18,0.818181818181818
+Mandya,Groundnut, 2012-13,Kharif     ,1447.0,767,0.530062197650311
+Mandya,Groundnut, 2013-14,Kharif     ,1297.0,1030,0.79414032382421
+Mandya,Groundnut, 2014-15,Kharif     ,1176.0,824,0.700680272108844
+Mandya,Groundnut, 2015-16,Kharif     ,1361.0,1118,0.821454812637766
+Mandya,Groundnut, 2016-17,Kharif     ,711.0,32,0.0450070323488045
+Mandya,Groundnut, 2017-18,Kharif     ,545.0,461,0.845871559633027
+Mandya,Groundnut, 2018-19,Kharif     ,344.0,234,0.680232558139535
+Mandya,Groundnut, 2018-19,Summer     ,145.0,123,0.848275862068966
+Mandya,Horse-gram, 1997-98,Kharif     ,19371.0,11851,0.611790821330855
+Mandya,Horse-gram, 1997-98,Rabi       ,13029.0,6214,0.476936065699593
+Mandya,Horse-gram, 1998-99,Kharif     ,17281.0,10819,0.626063306521613
+Mandya,Horse-gram, 1998-99,Rabi       ,9771.0,4966,0.508238665438543
+Mandya,Horse-gram, 1999-00,Kharif     ,9085.0,4445,0.48926802421574
+Mandya,Horse-gram, 1999-00,Rabi       ,28624.0,15010,0.524385131358301
+Mandya,Horse-gram, 2000-01,Kharif     ,13550.0,8135,0.600369003690037
+Mandya,Horse-gram, 2000-01,Rabi       ,12404.0,8779,0.707755562721703
+Mandya,Horse-gram, 2001-02,Kharif     ,14523.0,8402,0.578530606623976
+Mandya,Horse-gram, 2001-02,Rabi       ,23017.0,11349,0.49307033931442
+Mandya,Horse-gram, 2002-03,Kharif     ,7502.0,2445,0.325913089842709
+Mandya,Horse-gram, 2002-03,Rabi       ,24686.0,6496,0.26314510248724
+Mandya,Horse-gram, 2003-04,Kharif     ,4554.0,1220,0.267896354852877
+Mandya,Horse-gram, 2003-04,Rabi       ,30680.0,7170,0.233702737940026
+Mandya,Horse-gram, 2004-05,Kharif     ,6648.0,3802,0.571901323706378
+Mandya,Horse-gram, 2004-05,Rabi       ,18793.0,8570,0.456020858830416
+Mandya,Horse-gram, 2005-06,Kharif     ,4967.0,2407,0.484598349104087
+Mandya,Horse-gram, 2005-06,Rabi       ,18024.0,7500,0.416111850865513
+Mandya,Horse-gram, 2006-07,Kharif     ,4809.0,1444,0.3002703264712
+Mandya,Horse-gram, 2006-07,Rabi       ,66900.0,9597,0.143452914798206
+Mandya,Horse-gram, 2007-08,Kharif     ,8645.0,4772,0.551995373048005
+Mandya,Horse-gram, 2007-08,Rabi       ,16707.0,8571,0.513018495241516
+Mandya,Horse-gram, 2008-09,Kharif     ,11008.0,4267,0.387627180232558
+Mandya,Horse-gram, 2008-09,Rabi       ,14006.0,4830,0.344852206197344
+Mandya,Horse-gram, 2009-10,Kharif     ,13752.0,6898,0.501599767306574
+Mandya,Horse-gram, 2009-10,Rabi       ,12622.0,5408,0.428458247504357
+Mandya,Horse-gram, 2010-11,Kharif     ,7801.0,4676,0.599410332008717
+Mandya,Horse-gram, 2010-11,Rabi       ,14291.0,8295,0.580435238961584
+Mandya,Horse-gram, 2011-12,Kharif     ,3004.0,1844,0.613848202396804
+Mandya,Horse-gram, 2011-12,Rabi       ,19436.0,9454,0.486416958221856
+Mandya,Horse-gram, 2012-13,Kharif     ,10588.0,4084,0.385719682659615
+Mandya,Horse-gram, 2012-13,Rabi       ,12286.0,3385,0.275516848445385
+Mandya,Horse-gram, 2013-14,Kharif     ,9825.0,4340,0.441730279898219
+Mandya,Horse-gram, 2013-14,Rabi       ,11554.0,4797,0.415180889735157
+Mandya,Horse-gram, 2014-15,Kharif     ,8562.0,3717,0.434127540294324
+Mandya,Horse-gram, 2014-15,Rabi       ,20555.0,9783,0.475942593043055
+Mandya,Horse-gram, 2015-16,Kharif     ,8902.0,3899,0.437991462592676
+Mandya,Horse-gram, 2015-16,Rabi       ,19390.0,9339,0.48164002062919
+Mandya,Horse-gram, 2016-17,Kharif     ,6809.0,582,0.085475106476722
+Mandya,Horse-gram, 2016-17,Rabi       ,28037.0,1838,0.0655562292684667
+Mandya,Horse-gram, 2017-18,Kharif     ,7124.0,5570,0.78186412128018
+Mandya,Horse-gram, 2017-18,Rabi       ,20336.0,13118,0.64506294256491
+Mandya,Horse-gram, 2018-19,Kharif     ,898.0,451,0.502227171492205
+Mandya,Horse-gram, 2018-19,Rabi       ,34212.0,14366,0.419911142289255
+Mandya,Jowar, 1997-98,Kharif     ,3968.0,6001,1.51234879032258
+Mandya,Jowar, 1998-99,Kharif     ,3536.0,3618,1.02319004524887
+Mandya,Jowar, 1999-00,Kharif     ,2397.0,2365,0.986649979140592
+Mandya,Jowar, 2000-01,Kharif     ,3924.0,3725,0.949286442405708
+Mandya,Jowar, 2001-02,Kharif     ,1796.0,1211,0.674276169265033
+Mandya,Jowar, 2002-03,Kharif     ,871.0,503,0.577497129735936
+Mandya,Jowar, 2002-03,Rabi       ,240.0,100,0.416666666666667
+Mandya,Jowar, 2002-03,Summer     ,15.0,25,1.66666666666667
+Mandya,Jowar, 2003-04,Kharif     ,535.0,286,0.534579439252336
+Mandya,Jowar, 2003-04,Rabi       ,145.0,18,0.124137931034483
+Mandya,Jowar, 2004-05,Kharif     ,1253.0,952,0.759776536312849
+Mandya,Jowar, 2004-05,Rabi       ,25.0,14,0.56
+Mandya,Jowar, 2005-06,Kharif     ,1614.0,813,0.503717472118959
+Mandya,Jowar, 2005-06,Rabi       ,10.0,6,0.6
+Mandya,Jowar, 2006-07,Kharif     ,115.0,202,1.75652173913043
+Mandya,Jowar, 2007-08,Kharif     ,238.0,201,0.84453781512605
+Mandya,Jowar, 2010-11,Kharif     ,10.0,16,1.6
+Mandya,Jowar, 2011-12,Kharif     ,32.0,47,1.46875
+Mandya,Jowar, 2012-13,Kharif     ,840.0,1029,1.225
+Mandya,Jowar, 2012-13,Summer     ,2.0,3,1.5
+Mandya,Jowar, 2013-14,Kharif     ,870.0,1238,1.42298850574713
+Mandya,Jowar, 2013-14,Summer     ,7.0,11,1.57142857142857
+Mandya,Jowar, 2014-15,Kharif     ,1293.0,1788,1.38283062645012
+Mandya,Jowar, 2014-15,Rabi       ,1.0,1,1
+Mandya,Jowar, 2015-16,Kharif     ,1005.0,1146,1.14029850746269
+Mandya,Jowar, 2015-16,Rabi       ,17.0,11,0.647058823529412
+Mandya,Jowar, 2018-19,Kharif     ,3257.0,4468,1.37181455326988
+Mandya,Maize, 1997-98,Kharif     ,102.0,251,2.46078431372549
+Mandya,Maize, 1998-99,Kharif     ,22.0,77,3.5
+Mandya,Maize, 1999-00,Kharif     ,45.0,127,2.82222222222222
+Mandya,Maize, 2000-01,Kharif     ,309.0,1029,3.33009708737864
+Mandya,Maize, 2002-03,Kharif     ,2726.0,4704,1.72560528246515
+Mandya,Maize, 2002-03,Rabi       ,245.0,627,2.55918367346939
+Mandya,Maize, 2002-03,Summer     ,241.0,616,2.55601659751037
+Mandya,Maize, 2003-04,Kharif     ,2514.0,5806,2.30946698488465
+Mandya,Maize, 2003-04,Rabi       ,913.0,1681,1.84118291347207
+Mandya,Maize, 2003-04,Summer     ,71.0,179,2.52112676056338
+Mandya,Maize, 2004-05,Kharif     ,3872.0,13676,3.53202479338843
+Mandya,Maize, 2004-05,Rabi       ,92.0,280,3.04347826086957
+Mandya,Maize, 2004-05,Summer     ,152.0,465,3.05921052631579
+Mandya,Maize, 2005-06,Kharif     ,2480.0,5952,2.4
+Mandya,Maize, 2005-06,Rabi       ,18.0,64,3.55555555555556
+Mandya,Maize, 2005-06,Summer     ,101.0,254,2.51485148514851
+Mandya,Maize, 2006-07,Kharif     ,2347.0,4584,1.95313165743502
+Mandya,Maize, 2006-07,Rabi       ,760.0,1615,2.125
+Mandya,Maize, 2006-07,Summer     ,145.0,465,3.20689655172414
+Mandya,Maize, 2007-08,Kharif     ,2101.0,6948,3.30699666825321
+Mandya,Maize, 2007-08,Rabi       ,12.0,43,3.58333333333333
+Mandya,Maize, 2007-08,Summer     ,55.0,178,3.23636363636364
+Mandya,Maize, 2008-09,Kharif     ,5790.0,9452,1.63246977547496
+Mandya,Maize, 2008-09,Summer     ,148.0,466,3.14864864864865
+Mandya,Maize, 2009-10,Kharif     ,4013.0,5106,1.27236481435335
+Mandya,Maize, 2009-10,Rabi       ,22.0,51,2.31818181818182
+Mandya,Maize, 2009-10,Summer     ,38.0,104,2.73684210526316
+Mandya,Maize, 2010-11,Kharif     ,4671.0,7619,1.63112823806465
+Mandya,Maize, 2010-11,Rabi       ,39.0,115,2.94871794871795
+Mandya,Maize, 2010-11,Summer     ,40.0,136,3.4
+Mandya,Maize, 2011-12,Kharif     ,4498.0,9662,2.14806580702534
+Mandya,Maize, 2011-12,Rabi       ,180.0,581,3.22777777777778
+Mandya,Maize, 2011-12,Summer     ,581.0,1980,3.407917383821
+Mandya,Maize, 2012-13,Kharif     ,3868.0,6350,1.6416752843847
+Mandya,Maize, 2012-13,Rabi       ,365.0,1105,3.02739726027397
+Mandya,Maize, 2012-13,Summer     ,77.0,265,3.44155844155844
+Mandya,Maize, 2013-14,Kharif     ,2868.0,9937,3.46478382147838
+Mandya,Maize, 2013-14,Rabi       ,144.0,441,3.0625
+Mandya,Maize, 2013-14,Summer     ,161.0,522,3.24223602484472
+Mandya,Maize, 2014-15,Kharif     ,3904.0,15978,4.09272540983607
+Mandya,Maize, 2014-15,Rabi       ,411.0,1388,3.37712895377129
+Mandya,Maize, 2014-15,Summer     ,173.0,564,3.26011560693642
+Mandya,Maize, 2015-16,Kharif     ,4376.0,15826,3.61654478976234
+Mandya,Maize, 2015-16,Rabi       ,351.0,872,2.48433048433048
+Mandya,Maize, 2015-16,Summer     ,166.0,466,2.80722891566265
+Mandya,Maize, 2016-17,Kharif     ,3417.0,2964,0.867427568042142
+Mandya,Maize, 2016-17,Rabi       ,239.0,719,3.00836820083682
+Mandya,Maize, 2016-17,Summer     ,156.0,484,3.1025641025641
+Mandya,Maize, 2017-18,Kharif     ,7403.0,20923,2.82628664055113
+Mandya,Maize, 2017-18,Rabi       ,2326.0,8638,3.71367153912296
+Mandya,Maize, 2017-18,Summer     ,558.0,2094,3.75268817204301
+Mandya,Maize, 2018-19,Kharif     ,2799.0,8520,3.04394426580922
+Mandya,Maize, 2018-19,Rabi       ,297.0,1007,3.39057239057239
+Mandya,Maize, 2018-19,Summer     ,394.0,1358,3.44670050761421
+Mandya,Mesta, 2018-19,Whole Year ,2.0,3,1.5
+Mandya,Moong(Green Gram), 1998-99,Kharif     ,680.0,134,0.197058823529412
+Mandya,Moong(Green Gram), 1998-99,Rabi       ,113.0,51,0.451327433628319
+Mandya,Moong(Green Gram), 1999-00,Kharif     ,436.0,151,0.346330275229358
+Mandya,Moong(Green Gram), 1999-00,Rabi       ,264.0,66,0.25
+Mandya,Moong(Green Gram), 2000-01,Kharif     ,467.0,194,0.41541755888651
+Mandya,Moong(Green Gram), 2000-01,Rabi       ,81.0,22,0.271604938271605
+Mandya,Moong(Green Gram), 2001-02,Kharif     ,330.0,86,0.260606060606061
+Mandya,Moong(Green Gram), 2001-02,Rabi       ,83.0,24,0.289156626506024
+Mandya,Moong(Green Gram), 2002-03,Kharif     ,306.0,20,0.065359477124183
+Mandya,Moong(Green Gram), 2002-03,Rabi       ,230.0,40,0.173913043478261
+Mandya,Moong(Green Gram), 2003-04,Kharif     ,529.0,79,0.149338374291115
+Mandya,Moong(Green Gram), 2003-04,Rabi       ,103.0,30,0.29126213592233
+Mandya,Moong(Green Gram), 2004-05,Kharif     ,556.0,87,0.156474820143885
+Mandya,Moong(Green Gram), 2004-05,Rabi       ,58.0,14,0.241379310344828
+Mandya,Moong(Green Gram), 2005-06,Kharif     ,749.0,184,0.2456608811749
+Mandya,Moong(Green Gram), 2005-06,Rabi       ,72.0,21,0.291666666666667
+Mandya,Moong(Green Gram), 2006-07,Kharif     ,620.0,72,0.116129032258065
+Mandya,Moong(Green Gram), 2006-07,Rabi       ,66.0,20,0.303030303030303
+Mandya,Moong(Green Gram), 2007-08,Kharif     ,491.0,111,0.226069246435845
+Mandya,Moong(Green Gram), 2007-08,Rabi       ,114.0,37,0.324561403508772
+Mandya,Moong(Green Gram), 2008-09,Kharif     ,281.0,39,0.138790035587189
+Mandya,Moong(Green Gram), 2008-09,Rabi       ,95.0,24,0.252631578947368
+Mandya,Moong(Green Gram), 2009-10,Kharif     ,308.0,38,0.123376623376623
+Mandya,Moong(Green Gram), 2009-10,Rabi       ,148.0,39,0.263513513513513
+Mandya,Moong(Green Gram), 2010-11,Kharif     ,584.0,161,0.275684931506849
+Mandya,Moong(Green Gram), 2010-11,Rabi       ,109.0,29,0.26605504587156
+Mandya,Moong(Green Gram), 2011-12,Kharif     ,321.0,82,0.255451713395639
+Mandya,Moong(Green Gram), 2011-12,Rabi       ,129.0,43,0.333333333333333
+Mandya,Moong(Green Gram), 2012-13,Kharif     ,245.0,74,0.302040816326531
+Mandya,Moong(Green Gram), 2012-13,Rabi       ,23.0,5,0.217391304347826
+Mandya,Moong(Green Gram), 2013-14,Kharif     ,445.0,112,0.251685393258427
+Mandya,Moong(Green Gram), 2013-14,Rabi       ,10.0,3,0.3
+Mandya,Moong(Green Gram), 2014-15,Kharif     ,188.0,37,0.196808510638298
+Mandya,Moong(Green Gram), 2014-15,Rabi       ,23.0,8,0.347826086956522
+Mandya,Moong(Green Gram), 2015-16,Kharif     ,188.0,23,0.122340425531915
+Mandya,Moong(Green Gram), 2015-16,Rabi       ,23.0,7,0.304347826086957
+Mandya,Moong(Green Gram), 2015-16,Summer     ,2.0,1,0.5
+Mandya,Moong(Green Gram), 2016-17,Kharif     ,135.0,38,0.281481481481481
+Mandya,Moong(Green Gram), 2016-17,Summer     ,4.0,1,0.25
+Mandya,Moong(Green Gram), 2017-18,Kharif     ,328.0,107,0.326219512195122
+Mandya,Moong(Green Gram), 2017-18,Summer     ,4.0,1,0.25
+Mandya,Moong(Green Gram), 2018-19,Kharif     ,266.0,86,0.323308270676692
+Mandya,Moong(Green Gram), 2018-19,Rabi       ,10.0,2,0.2
+Mandya,Moong(Green Gram), 2018-19,Summer     ,26.0,7,0.269230769230769
+Mandya,Niger seed, 1998-99,Kharif     ,3079.0,579,0.188048067554401
+Mandya,Niger seed, 1999-00,Kharif     ,2168.0,408,0.188191881918819
+Mandya,Niger seed, 2000-01,Kharif     ,2696.0,507,0.188056379821958
+Mandya,Niger seed, 2001-02,Kharif     ,2843.0,535,0.188181498417165
+Mandya,Niger seed, 2002-03,Kharif     ,1128.0,212,0.187943262411348
+Mandya,Niger seed, 2003-04,Kharif     ,1356.0,255,0.188053097345133
+Mandya,Niger seed, 2004-05,Kharif     ,2145.0,403,0.187878787878788
+Mandya,Niger seed, 2005-06,Kharif     ,2117.0,398,0.188001889466226
+Mandya,Niger seed, 2006-07,Kharif     ,547.0,103,0.188299817184644
+Mandya,Niger seed, 2007-08,Kharif     ,1366.0,514,0.376281112737921
+Mandya,Niger seed, 2008-09,Kharif     ,1806.0,619,0.342746400885936
+Mandya,Niger seed, 2009-10,Kharif     ,1806.0,796,0.440753045404208
+Mandya,Niger seed, 2010-11,Kharif     ,1960.0,959,0.489285714285714
+Mandya,Niger seed, 2011-12,Kharif     ,1678.0,447,0.266388557806913
+Mandya,Niger seed, 2012-13,Kharif     ,928.0,247,0.266163793103448
+Mandya,Niger seed, 2013-14,Kharif     ,869.0,286,0.329113924050633
+Mandya,Niger seed, 2014-15,Kharif     ,957.0,189,0.197492163009404
+Mandya,Niger seed, 2015-16,Kharif     ,739.0,219,0.296346414073072
+Mandya,Niger seed, 2016-17,Kharif     ,470.0,106,0.225531914893617
+Mandya,Niger seed, 2017-18,Kharif     ,497.0,83,0.167002012072435
+Mandya,Niger seed, 2018-19,Kharif     ,213.0,27,0.126760563380282
+Mandya,Onion, 1998-99,Kharif     ,81.0,367,4.53086419753086
+Mandya,Onion, 1998-99,Rabi       ,70.0,718,10.2571428571429
+Mandya,Onion, 1998-99,Summer     ,35.0,404,11.5428571428571
+Mandya,Onion, 1999-00,Whole Year ,271.0,2420,8.92988929889299
+Mandya,Onion, 2000-01,Whole Year ,390.0,2402,6.15897435897436
+Mandya,Onion, 2001-02,Whole Year ,337.0,2646,7.85163204747775
+Mandya,Onion, 2002-03,Whole Year ,325.0,2537,7.80615384615385
+Mandya,Onion, 2003-04,Whole Year ,243.0,2103,8.65432098765432
+Mandya,Onion, 2004-05,Whole Year ,414.0,3237,7.81884057971014
+Mandya,Onion, 2005-06,Kharif     ,237.0,1321,5.57383966244726
+Mandya,Onion, 2005-06,Rabi       ,147.0,1524,10.3673469387755
+Mandya,Onion, 2005-06,Summer     ,35.0,599,17.1142857142857
+Mandya,Onion, 2006-07,Whole Year ,324.0,2013,6.21296296296296
+Mandya,Onion, 2007-08,Kharif     ,185.0,1103,5.96216216216216
+Mandya,Onion, 2007-08,Rabi       ,143.0,1204,8.41958041958042
+Mandya,Onion, 2007-08,Summer     ,85.0,718,8.44705882352941
+Mandya,Onion, 2008-09,Kharif     ,157.0,814,5.18471337579618
+Mandya,Onion, 2008-09,Rabi       ,183.0,1222,6.6775956284153
+Mandya,Onion, 2008-09,Summer     ,90.0,491,5.45555555555556
+Mandya,Onion, 2009-10,Kharif     ,117.0,413,3.52991452991453
+Mandya,Onion, 2009-10,Rabi       ,178.0,1055,5.92696629213483
+Mandya,Onion, 2009-10,Summer     ,76.0,580,7.63157894736842
+Mandya,Onion, 2010-11,Kharif     ,125.0,780,6.24
+Mandya,Onion, 2010-11,Rabi       ,160.0,1096,6.85
+Mandya,Onion, 2010-11,Summer     ,86.0,915,10.6395348837209
+Mandya,Onion, 2011-12,Kharif     ,152.0,750,4.93421052631579
+Mandya,Onion, 2011-12,Rabi       ,153.0,1218,7.96078431372549
+Mandya,Onion, 2011-12,Summer     ,75.0,462,6.16
+Mandya,Onion, 2012-13,Kharif     ,224.0,1189,5.30803571428571
+Mandya,Onion, 2012-13,Rabi       ,70.0,458,6.54285714285714
+Mandya,Onion, 2012-13,Summer     ,75.0,425,5.66666666666667
+Mandya,Onion, 2013-14,Kharif     ,55.0,364,6.61818181818182
+Mandya,Onion, 2013-14,Rabi       ,62.0,436,7.03225806451613
+Mandya,Onion, 2013-14,Summer     ,38.0,298,7.8421052631579
+Mandya,Onion, 2014-15,Kharif     ,212.0,1089,5.13679245283019
+Mandya,Onion, 2014-15,Rabi       ,65.0,431,6.63076923076923
+Mandya,Onion, 2014-15,Summer     ,1.0,5,5
+Mandya,Onion, 2015-16,Kharif     ,151.0,659,4.36423841059603
+Mandya,Onion, 2015-16,Rabi       ,12.0,68,5.66666666666667
+Mandya,Onion, 2015-16,Summer     ,2.0,9,4.5
+Mandya,Onion, 2016-17,Kharif     ,172.0,1235,7.18023255813954
+Mandya,Onion, 2016-17,Rabi       ,6.0,86,14.3333333333333
+Mandya,Onion, 2016-17,Summer     ,2.0,29,14.5
+Mandya,Onion, 2017-18,Kharif     ,135.0,1490,11.037037037037
+Mandya,Onion, 2017-18,Rabi       ,63.0,893,14.1746031746032
+Mandya,Onion, 2018-19,Kharif     ,13.0,98,7.53846153846154
+Mandya,Onion, 2018-19,Rabi       ,139.0,1843,13.2589928057554
+Mandya,Other  Rabi pulses, 1999-00,Rabi       ,2679.0,239,0.0892123926838373
+Mandya,Other  Rabi pulses, 2000-01,Rabi       ,412.0,37,0.0898058252427184
+Mandya,Other  Rabi pulses, 2001-02,Rabi       ,508.0,45,0.0885826771653543
+Mandya,Other  Rabi pulses, 2002-03,Rabi       ,1336.0,119,0.0890718562874251
+Mandya,Other  Rabi pulses, 2003-04,Rabi       ,975.0,89,0.0912820512820513
+Mandya,Other  Rabi pulses, 2004-05,Rabi       ,749.0,67,0.0894526034712951
+Mandya,Other  Rabi pulses, 2005-06,Rabi       ,582.0,52,0.0893470790378007
+Mandya,Other  Rabi pulses, 2006-07,Rabi       ,1021.0,242,0.237022526934378
+Mandya,Other  Rabi pulses, 2007-08,Rabi       ,516.0,127,0.246124031007752
+Mandya,Other  Rabi pulses, 2008-09,Rabi       ,592.0,143,0.241554054054054
+Mandya,Other  Rabi pulses, 2009-10,Rabi       ,1084.0,262,0.24169741697417
+Mandya,Other  Rabi pulses, 2010-11,Rabi       ,20.0,4,0.2
+Mandya,Other  Rabi pulses, 2011-12,Rabi       ,20.0,19,0.95
+Mandya,Other  Rabi pulses, 2013-14,Rabi       ,151.0,120,0.794701986754967
+Mandya,Other  Rabi pulses, 2014-15,Rabi       ,132.0,101,0.765151515151515
+Mandya,Other  Rabi pulses, 2015-16,Rabi       ,81.0,54,0.666666666666667
+Mandya,Other  Rabi pulses, 2016-17,Rabi       ,61.0,2,0.0327868852459016
+Mandya,Other  Rabi pulses, 2017-18,Rabi       ,344.0,272,0.790697674418605
+Mandya,Other  Rabi pulses, 2018-19,Rabi       ,110.0,82,0.745454545454545
+Mandya,Other Kharif pulses, 1999-00,Kharif     ,8099.0,3215,0.396962587973824
+Mandya,Other Kharif pulses, 2000-01,Kharif     ,9699.0,3623,0.373543664295288
+Mandya,Other Kharif pulses, 2001-02,Kharif     ,7693.0,2637,0.342779149876511
+Mandya,Other Kharif pulses, 2002-03,Kharif     ,4582.0,1733,0.378219118288957
+Mandya,Other Kharif pulses, 2003-04,Kharif     ,6991.0,2676,0.382777857245029
+Mandya,Other Kharif pulses, 2004-05,Kharif     ,10151.0,4182,0.411979115358093
+Mandya,Other Kharif pulses, 2005-06,Kharif     ,8194.0,3063,0.373810104954845
+Mandya,Other Kharif pulses, 2006-07,Kharif     ,3650.0,1745,0.478082191780822
+Mandya,Other Kharif pulses, 2007-08,Kharif     ,7138.0,6495,0.909918744746427
+Mandya,Other Kharif pulses, 2008-09,Kharif     ,8809.0,6000,0.681121580202066
+Mandya,Other Kharif pulses, 2009-10,Kharif     ,8141.0,2985,0.366662572165582
+Mandya,Other Kharif pulses, 2010-11,Kharif     ,4627.0,2295,0.496001728982062
+Mandya,Other Kharif pulses, 2011-12,Kharif     ,2473.0,1915,0.774363121714517
+Mandya,Other Kharif pulses, 2012-13,Kharif     ,2422.0,1415,0.584227910817506
+Mandya,Other Kharif pulses, 2013-14,Kharif     ,2614.0,1560,0.596786534047437
+Mandya,Other Kharif pulses, 2014-15,Kharif     ,2605.0,1745,0.669865642994242
+Mandya,Other Kharif pulses, 2015-16,Kharif     ,1876.0,1117,0.595415778251599
+Mandya,Other Kharif pulses, 2016-17,Kharif     ,1412.0,543,0.384560906515581
+Mandya,Other Kharif pulses, 2017-18,Kharif     ,3053.0,1169,0.382902063544055
+Mandya,Other Kharif pulses, 2018-19,Kharif     ,2080.0,1294,0.622115384615385
+Mandya,Peas & beans (Pulses), 1998-99,Kharif     ,85.0,780,9.17647058823529
+Mandya,Peas & beans (Pulses), 1998-99,Rabi       ,66.0,652,9.87878787878788
+Mandya,Peas & beans (Pulses), 1998-99,Summer     ,49.0,182,3.71428571428571
+Mandya,Peas & beans (Pulses), 2001-02,Whole Year ,411.0,2526,6.14598540145985
+Mandya,Peas & beans (Pulses), 2005-06,Kharif     ,222.0,529,2.38288288288288
+Mandya,Peas & beans (Pulses), 2005-06,Rabi       ,32.0,225,7.03125
+Mandya,Peas & beans (Pulses), 2005-06,Summer     ,36.0,182,5.05555555555556
+Mandya,Peas & beans (Pulses), 2010-11,Kharif     ,318.0,2128,6.69182389937107
+Mandya,Peas & beans (Pulses), 2010-11,Rabi       ,176.0,596,3.38636363636364
+Mandya,Peas & beans (Pulses), 2010-11,Summer     ,184.0,1104,6
+Mandya,Peas & beans (Pulses), 2011-12,Kharif     ,323.0,2878,8.91021671826625
+Mandya,Peas & beans (Pulses), 2011-12,Rabi       ,151.0,482,3.19205298013245
+Mandya,Peas & beans (Pulses), 2011-12,Summer     ,149.0,901,6.04697986577181
+Mandya,Potato, 1998-99,Kharif     ,79.0,871,11.0253164556962
+Mandya,Potato, 1998-99,Rabi       ,17.0,335,19.7058823529412
+Mandya,Potato, 1999-00,Whole Year ,58.0,1080,18.6206896551724
+Mandya,Potato, 2000-01,Whole Year ,95.0,1309,13.7789473684211
+Mandya,Potato, 2001-02,Whole Year ,110.0,2137,19.4272727272727
+Mandya,Potato, 2002-03,Whole Year ,150.0,2010,13.4
+Mandya,Potato, 2003-04,Whole Year ,100.0,1474,14.74
+Mandya,Potato, 2004-05,Whole Year ,115.0,1196,10.4
+Mandya,Potato, 2005-06,Kharif     ,80.0,268,3.35
+Mandya,Potato, 2005-06,Rabi       ,40.0,723,18.075
+Mandya,Potato, 2005-06,Summer     ,10.0,158,15.8
+Mandya,Potato, 2006-07,Whole Year ,156.0,2612,16.7435897435897
+Mandya,Potato, 2007-08,Kharif     ,150.0,495,3.3
+Mandya,Potato, 2007-08,Rabi       ,85.0,1046,12.3058823529412
+Mandya,Potato, 2007-08,Summer     ,180.0,2845,15.8055555555556
+Mandya,Potato, 2008-09,Kharif     ,40.0,76,1.9
+Mandya,Potato, 2008-09,Rabi       ,115.0,1653,14.3739130434783
+Mandya,Potato, 2008-09,Summer     ,208.0,3288,15.8076923076923
+Mandya,Potato, 2009-10,Kharif     ,80.0,495,6.1875
+Mandya,Potato, 2009-10,Rabi       ,125.0,1846,14.768
+Mandya,Potato, 2009-10,Summer     ,180.0,2845,15.8055555555556
+Mandya,Potato, 2010-11,Kharif     ,86.0,653,7.59302325581395
+Mandya,Potato, 2010-11,Rabi       ,80.0,931,11.6375
+Mandya,Potato, 2011-12,Kharif     ,30.0,248,8.26666666666667
+Mandya,Potato, 2011-12,Rabi       ,65.0,790,12.1538461538462
+Mandya,Potato, 2011-12,Summer     ,85.0,1226,14.4235294117647
+Mandya,Potato, 2012-13,Kharif     ,101.0,645,6.38613861386139
+Mandya,Potato, 2012-13,Rabi       ,20.0,340,17
+Mandya,Potato, 2012-13,Summer     ,104.0,2268,21.8076923076923
+Mandya,Potato, 2013-14,Kharif     ,17.0,112,6.58823529411765
+Mandya,Potato, 2013-14,Rabi       ,22.0,335,15.2272727272727
+Mandya,Potato, 2013-14,Summer     ,23.0,323,14.0434782608696
+Mandya,Potato, 2014-15,Kharif     ,19.0,117,6.15789473684211
+Mandya,Potato, 2014-15,Rabi       ,63.0,970,15.3968253968254
+Mandya,Potato, 2014-15,Summer     ,8.0,110,13.75
+Mandya,Potato, 2015-16,Kharif     ,80.0,321,4.0125
+Mandya,Potato, 2015-16,Rabi       ,16.0,241,15.0625
+Mandya,Potato, 2015-16,Summer     ,4.0,66,16.5
+Mandya,Potato, 2016-17,Kharif     ,13.0,128,9.84615384615385
+Mandya,Potato, 2016-17,Rabi       ,3.0,41,13.6666666666667
+Mandya,Potato, 2017-18,Kharif     ,10.0,96,9.6
+Mandya,Potato, 2017-18,Rabi       ,17.0,318,18.7058823529412
+Mandya,Potato, 2018-19,Kharif     ,9.0,71,7.88888888888889
+Mandya,Potato, 2018-19,Rabi       ,9.0,136,15.1111111111111
+Mandya,Ragi, 1997-98,Kharif     ,78428.0,137349,1.75127505482736
+Mandya,Ragi, 1997-98,Rabi       ,2953.0,4006,1.35658652218083
+Mandya,Ragi, 1997-98,Summer     ,3386.0,7000,2.06733608978145
+Mandya,Ragi, 1998-99,Kharif     ,80593.0,156027,1.93598699638926
+Mandya,Ragi, 1998-99,Rabi       ,2401.0,3488,1.45272802998751
+Mandya,Ragi, 1998-99,Summer     ,2473.0,5244,2.12050141528508
+Mandya,Ragi, 1999-00,Kharif     ,60099.0,98795,1.64387094627198
+Mandya,Ragi, 1999-00,Rabi       ,4831.0,5933,1.22811012212792
+Mandya,Ragi, 1999-00,Summer     ,2823.0,6748,2.39036486007793
+Mandya,Ragi, 2000-01,Kharif     ,73905.0,150532,2.03683106691022
+Mandya,Ragi, 2000-01,Rabi       ,2515.0,3904,1.55228628230616
+Mandya,Ragi, 2000-01,Summer     ,1922.0,3898,2.02809573361082
+Mandya,Ragi, 2001-02,Kharif     ,67843.0,127803,1.88380525625341
+Mandya,Ragi, 2001-02,Rabi       ,7384.0,8858,1.19962080173348
+Mandya,Ragi, 2001-02,Summer     ,1769.0,1934,1.09327303561334
+Mandya,Ragi, 2002-03,Kharif     ,44718.0,47439,1.06084798067892
+Mandya,Ragi, 2002-03,Rabi       ,7062.0,9617,1.36179552534693
+Mandya,Ragi, 2002-03,Summer     ,1006.0,1154,1.14711729622266
+Mandya,Ragi, 2003-04,Kharif     ,59036.0,67520,1.14370892336879
+Mandya,Ragi, 2003-04,Rabi       ,5251.0,4726,0.900019043991621
+Mandya,Ragi, 2003-04,Summer     ,1297.0,1543,1.18966846569005
+Mandya,Ragi, 2004-05,Kharif     ,61633.0,125121,2.03009751269612
+Mandya,Ragi, 2004-05,Rabi       ,2568.0,3212,1.25077881619938
+Mandya,Ragi, 2004-05,Summer     ,2453.0,4272,1.74154097024052
+Mandya,Ragi, 2005-06,Kharif     ,71422.0,140026,1.96054437008205
+Mandya,Ragi, 2005-06,Rabi       ,2091.0,5300,2.53467240554758
+Mandya,Ragi, 2005-06,Summer     ,1818.0,4660,2.56325632563256
+Mandya,Ragi, 2006-07,Kharif     ,14700.0,16051,1.09190476190476
+Mandya,Ragi, 2006-07,Rabi       ,3969.0,9761,2.45930964978584
+Mandya,Ragi, 2006-07,Summer     ,1992.0,4648,2.33333333333333
+Mandya,Ragi, 2007-08,Kharif     ,61094.0,113067,1.85070547025895
+Mandya,Ragi, 2007-08,Rabi       ,3390.0,7372,2.17463126843658
+Mandya,Ragi, 2007-08,Summer     ,3240.0,7267,2.2429012345679
+Mandya,Ragi, 2008-09,Kharif     ,73470.0,94933,1.29213284333742
+Mandya,Ragi, 2008-09,Rabi       ,2845.0,6078,2.13637961335677
+Mandya,Ragi, 2008-09,Summer     ,3355.0,7474,2.22771982116244
+Mandya,Ragi, 2009-10,Kharif     ,59498.0,86392,1.45201519378803
+Mandya,Ragi, 2009-10,Rabi       ,3532.0,7730,2.1885617214043
+Mandya,Ragi, 2009-10,Summer     ,2558.0,5832,2.27990617670055
+Mandya,Ragi, 2010-11,Kharif     ,66786.0,151162,2.26337855239122
+Mandya,Ragi, 2010-11,Rabi       ,3704.0,7567,2.04292656587473
+Mandya,Ragi, 2010-11,Summer     ,2877.0,6784,2.35801181786583
+Mandya,Ragi, 2011-12,Kharif     ,49329.0,82707,1.67664051572098
+Mandya,Ragi, 2011-12,Rabi       ,3268.0,6421,1.96481028151775
+Mandya,Ragi, 2011-12,Summer     ,2933.0,6598,2.24957381520627
+Mandya,Ragi, 2012-13,Kharif     ,38581.0,61575,1.59599284621964
+Mandya,Ragi, 2012-13,Rabi       ,8035.0,13343,1.66060983198507
+Mandya,Ragi, 2012-13,Summer     ,660.0,1053,1.59545454545455
+Mandya,Ragi, 2013-14,Kharif     ,41362.0,80042,1.93515787437745
+Mandya,Ragi, 2013-14,Rabi       ,5419.0,10682,1.97121240081196
+Mandya,Ragi, 2013-14,Summer     ,3198.0,6553,2.04909318323952
+Mandya,Ragi, 2014-15,Kharif     ,50810.0,89492,1.7613068293643
+Mandya,Ragi, 2014-15,Rabi       ,5922.0,12231,2.06534954407295
+Mandya,Ragi, 2014-15,Summer     ,2627.0,5381,2.04834411876665
+Mandya,Ragi, 2015-16,Kharif     ,52022.0,95827,1.84204759524816
+Mandya,Ragi, 2015-16,Rabi       ,6834.0,12050,1.76324261047703
+Mandya,Ragi, 2015-16,Summer     ,2238.0,4254,1.90080428954424
+Mandya,Ragi, 2016-17,Kharif     ,34994.0,41655,1.19034691661428
+Mandya,Ragi, 2016-17,Rabi       ,2342.0,3257,1.39069171648164
+Mandya,Ragi, 2016-17,Summer     ,699.0,1032,1.47639484978541
+Mandya,Ragi, 2017-18,Kharif     ,66671.0,109954,1.64920280181788
+Mandya,Ragi, 2017-18,Rabi       ,15118.0,27173,1.79739383516338
+Mandya,Ragi, 2017-18,Summer     ,2003.0,3545,1.76984523215177
+Mandya,Ragi, 2018-19,Kharif     ,35845.0,50092,1.39746129167248
+Mandya,Ragi, 2018-19,Rabi       ,7884.0,14373,1.82305936073059
+Mandya,Ragi, 2018-19,Summer     ,1585.0,3174,2.00252365930599
+Mandya,Rapeseed &Mustard, 2005-06,Rabi       ,2.0,1,0.5
+Mandya,Rapeseed &Mustard, 2013-14,Kharif     ,1.0,nan,0
+Mandya,Rapeseed &Mustard, 2015-16,Kharif     ,2.0,nan,0
+Mandya,Rapeseed &Mustard, 2018-19,Kharif     ,4.0,1,0.25
+Mandya,Rice, 1997-98,Kharif     ,57997.0,150905,2.60194492818594
+Mandya,Rice, 1997-98,Rabi       ,1619.0,3502,2.16306361951822
+Mandya,Rice, 1997-98,Summer     ,25359.0,84560,3.33451634528175
+Mandya,Rice, 1998-99,Kharif     ,60785.0,178974,2.94437772476762
+Mandya,Rice, 1998-99,Summer     ,19107.0,66689,3.49029151619825
+Mandya,Rice, 1999-00,Kharif     ,59144.0,186017,3.14515419991884
+Mandya,Rice, 1999-00,Rabi       ,289.0,616,2.13148788927336
+Mandya,Rice, 1999-00,Summer     ,19487.0,59722,3.06470980653769
+Mandya,Rice, 2000-01,Kharif     ,60834.0,175903,2.89152447644409
+Mandya,Rice, 2000-01,Rabi       ,30.0,64,2.13333333333333
+Mandya,Rice, 2000-01,Summer     ,17920.0,57541,3.21099330357143
+Mandya,Rice, 2001-02,Kharif     ,57793.0,176998,3.06262004048933
+Mandya,Rice, 2001-02,Rabi       ,19.0,36,1.89473684210526
+Mandya,Rice, 2001-02,Summer     ,14182.0,36458,2.57072345226343
+Mandya,Rice, 2002-03,Kharif     ,38327.0,110983,2.8956871135231
+Mandya,Rice, 2002-03,Rabi       ,2000.0,4176,2.088
+Mandya,Rice, 2002-03,Summer     ,2797.0,7201,2.5745441544512
+Mandya,Rice, 2003-04,Kharif     ,52050.0,167381,3.21577329490874
+Mandya,Rice, 2003-04,Rabi       ,894.0,2650,2.96420581655481
+Mandya,Rice, 2003-04,Summer     ,1619.0,6829,4.21803582458308
+Mandya,Rice, 2004-05,Kharif     ,72125.0,243926.75,3.382
+Mandya,Rice, 2004-05,Rabi       ,170.0,703,4.13529411764706
+Mandya,Rice, 2004-05,Summer     ,19698.0,95156,4.83074423799371
+Mandya,Rice, 2005-06,Kharif     ,60924.0,180615,2.96459523340555
+Mandya,Rice, 2005-06,Rabi       ,12.0,30,2.5
+Mandya,Rice, 2005-06,Summer     ,22874.0,76100,3.32692139547084
+Mandya,Rice, 2006-07,Kharif     ,56683.0,170969,3.0162306158813
+Mandya,Rice, 2006-07,Rabi       ,13.0,37,2.84615384615385
+Mandya,Rice, 2006-07,Summer     ,12848.0,38667,3.00957347447073
+Mandya,Rice, 2007-08,Kharif     ,64691.0,209714,3.24178015489017
+Mandya,Rice, 2007-08,Rabi       ,53.0,134,2.52830188679245
+Mandya,Rice, 2007-08,Summer     ,21977.0,68188,3.10269827546981
+Mandya,Rice, 2008-09,Kharif     ,68187.0,217652.904,3.192
+Mandya,Rice, 2008-09,Rabi       ,14.0,44,3.14285714285714
+Mandya,Rice, 2008-09,Summer     ,21156.0,68153,3.22145017961808
+Mandya,Rice, 2009-10,Kharif     ,61250.0,199001.25,3.249
+Mandya,Rice, 2009-10,Summer     ,18711.0,64276,3.43519854630966
+Mandya,Rice, 2010-11,Kharif     ,60845.0,225761,3.7104281370696
+Mandya,Rice, 2010-11,Summer     ,19795.0,71103,3.59196766860318
+Mandya,Rice, 2011-12,Kharif     ,57137.0,225491,3.94649701594413
+Mandya,Rice, 2011-12,Summer     ,17024.0,53322,3.13216635338346
+Mandya,Rice, 2012-13,Kharif     ,47709.0,148389,3.11029365528517
+Mandya,Rice, 2012-13,Rabi       ,318.0,1083,3.40566037735849
+Mandya,Rice, 2012-13,Summer     ,1923.0,6189,3.21840873634945
+Mandya,Rice, 2013-14,Kharif     ,52305.0,183107,3.50075518592869
+Mandya,Rice, 2013-14,Rabi       ,1407.0,5089,3.61691542288557
+Mandya,Rice, 2013-14,Summer     ,11903.0,40957,3.44089725279341
+Mandya,Rice, 2014-15,Kharif     ,51037.0,189916,3.72114348413896
+Mandya,Rice, 2014-15,Rabi       ,828.0,2628,3.17391304347826
+Mandya,Rice, 2014-15,Summer     ,14657.0,52912,3.61001569216074
+Mandya,Rice, 2015-16,Kharif     ,52495.0,194294,3.70119058957996
+Mandya,Rice, 2015-16,Rabi       ,132.0,490,3.71212121212121
+Mandya,Rice, 2015-16,Summer     ,5860.0,19596,3.34402730375427
+Mandya,Rice, 2016-17,Kharif     ,43488.0,113075,2.60014256806475
+Mandya,Rice, 2016-17,Summer     ,175.0,600,3.42857142857143
+Mandya,Rice, 2017-18,Kharif     ,12366.0,34526,2.79201035096232
+Mandya,Rice, 2017-18,Rabi       ,6150.0,19128,3.11024390243902
+Mandya,Rice, 2017-18,Summer     ,15337.0,46858,3.05522592423551
+Mandya,Rice, 2018-19,Kharif     ,58464.0,188561,3.22524972632731
+Mandya,Rice, 2018-19,Rabi       ,70.0,213,3.04285714285714
+Mandya,Rice, 2018-19,Summer     ,9496.0,31024,3.2670598146588
+Mandya,Safflower, 2018-19,Rabi       ,3.0,2,0.666666666666667
+Mandya,Sannhamp, 2018-19,Whole Year ,2.0,nan,0
+Mandya,Sesamum, 1998-99,Kharif     ,4127.0,2348,0.568936273322026
+Mandya,Sesamum, 1999-00,Kharif     ,3399.0,1259,0.370403059723448
+Mandya,Sesamum, 2000-01,Kharif     ,3249.0,1182,0.363804247460757
+Mandya,Sesamum, 2001-02,Kharif     ,1927.0,1023,0.530877010897768
+Mandya,Sesamum, 2002-03,Kharif     ,1214.0,531,0.437397034596376
+Mandya,Sesamum, 2003-04,Kharif     ,3473.0,759,0.218543046357616
+Mandya,Sesamum, 2004-05,Kharif     ,13554.0,8447,0.623210860262653
+Mandya,Sesamum, 2005-06,Kharif     ,6922.0,8923,1.28907830106906
+Mandya,Sesamum, 2006-07,Kharif     ,4693.0,3879,0.826550181120818
+Mandya,Sesamum, 2007-08,Kharif     ,5447.0,4357,0.799889847622545
+Mandya,Sesamum, 2008-09,Kharif     ,4604.0,4072,0.884448305821025
+Mandya,Sesamum, 2009-10,Kharif     ,4091.0,3175,0.776093864580787
+Mandya,Sesamum, 2010-11,Kharif     ,5553.0,4326,0.779038357644516
+Mandya,Sesamum, 2011-12,Kharif     ,5504.0,3906,0.709665697674419
+Mandya,Sesamum, 2012-13,Kharif     ,5414.0,895,0.165312153675656
+Mandya,Sesamum, 2013-14,Kharif     ,5005.0,2610,0.521478521478521
+Mandya,Sesamum, 2014-15,Kharif     ,3292.0,954,0.289793438639125
+Mandya,Sesamum, 2015-16,Kharif     ,2626.0,1397,0.531987814166032
+Mandya,Sesamum, 2016-17,Kharif     ,1722.0,1049,0.60917537746806
+Mandya,Sesamum, 2017-18,Kharif     ,6785.0,3816,0.562417096536478
+Mandya,Sesamum, 2018-19,Kharif     ,3024.0,2218,0.733465608465608
+Mandya,Small millets, 1999-00,Kharif     ,6.0,4,0.666666666666667
+Mandya,Small millets, 2000-01,Kharif     ,6.0,5,0.833333333333333
+Mandya,Small millets, 2001-02,Kharif     ,8.0,7,0.875
+Mandya,Small millets, 2002-03,Kharif     ,3.0,0.1,0.0333333333333333
+Mandya,Small millets, 2003-04,Kharif     ,1.0,0,0
+Mandya,Small millets, 2017-18,Kharif     ,9.0,5,0.555555555555556
+Mandya,Small millets, 2018-19,Kharif     ,86.0,96,1.11627906976744
+Mandya,Soyabean, 1998-99,Kharif     ,44.0,47,1.06818181818182
+Mandya,Soyabean, 1999-00,Kharif     ,48.0,44,0.916666666666667
+Mandya,Soyabean, 2000-01,Kharif     ,55.0,57,1.03636363636364
+Mandya,Soyabean, 2001-02,Kharif     ,11.0,9,0.818181818181818
+Mandya,Soyabean, 2002-03,Kharif     ,29.0,24,0.827586206896552
+Mandya,Soyabean, 2003-04,Kharif     ,20.0,10,0.5
+Mandya,Soyabean, 2004-05,Kharif     ,63.0,39,0.619047619047619
+Mandya,Soyabean, 2005-06,Kharif     ,84.0,47,0.55952380952381
+Mandya,Soyabean, 2006-07,Kharif     ,11.0,8,0.727272727272727
+Mandya,Soyabean, 2007-08,Kharif     ,6.0,5,0.833333333333333
+Mandya,Soyabean, 2010-11,Kharif     ,14.0,12,0.857142857142857
+Mandya,Soyabean, 2011-12,Kharif     ,1.0,1,1
+Mandya,Soyabean, 2016-17,Kharif     ,1.0,1,1
+Mandya,Soyabean, 2018-19,Kharif     ,66.0,65,0.984848484848485
+Mandya,Sugarcane, 1997-98,Whole Year ,26846.0,2958429,110.199992550101
+Mandya,Sugarcane, 1999-00,Whole Year ,31377.0,4113525,131.100009561144
+Mandya,Sugarcane, 2000-01,Whole Year ,27708.0,3632519,131.100007218132
+Mandya,Sugarcane, 2001-02,Whole Year ,35063.0,4263661,121.600005704018
+Mandya,Sugarcane, 2002-03,Whole Year ,29686.0,3356002,113.049989894226
+Mandya,Sugarcane, 2003-04,Whole Year ,13042.0,1474398,113.049992332464
+Mandya,Sugarcane, 2005-06,Whole Year ,13131.0,1384664,105.450003807783
+Mandya,Sugarcane, 2006-07,Whole Year ,18847.0,2076939,110.199978776463
+Mandya,Sugarcane, 2007-08,Whole Year ,23864.0,2335092,97.8499832383507
+Mandya,Sugarcane, 2008-09,Whole Year ,22257.0,2643019,118.750011232421
+Mandya,Sugarcane, 2009-10,Whole Year ,24342.0,2682488,110.199983567497
+Mandya,Sugarcane, 2010-11,Whole Year ,38031.0,5021994,132.050011832452
+Mandya,Sugarcane, 2011-12,Whole Year ,30966.0,4089060,132.049990311955
+Mandya,Sugarcane, 2012-13,Whole Year ,28751.0,3468808,120.64999478279
+Mandya,Sugarcane, 2013-14,Whole Year ,19462.0,2496002,128.25002569109
+Mandya,Sugarcane, 2014-15,Whole Year ,21592.0,2543538,117.80001852538
+Mandya,Sugarcane, 2015-16,Whole Year ,27784.0,3061797,110.200007198388
+Mandya,Sugarcane, 2016-17,Whole Year ,17628.0,2193805,124.450022691173
+Mandya,Sugarcane, 2017-18,Whole Year ,20941.0,2347486,112.099995224679
+Mandya,Sugarcane, 2018-19,Whole Year ,34637.0,3718282,107.350001443543
+Mandya,Sunflower, 1998-99,Kharif     ,76.0,22,0.289473684210526
+Mandya,Sunflower, 1998-99,Rabi       ,20.0,5,0.25
+Mandya,Sunflower, 1998-99,Summer     ,1.0,1,1
+Mandya,Sunflower, 1999-00,Kharif     ,17.0,6,0.352941176470588
+Mandya,Sunflower, 1999-00,Rabi       ,32.0,23,0.71875
+Mandya,Sunflower, 2000-01,Kharif     ,11.0,5,0.454545454545455
+Mandya,Sunflower, 2000-01,Rabi       ,7.0,5,0.714285714285714
+Mandya,Sunflower, 2000-01,Summer     ,5.0,4,0.8
+Mandya,Sunflower, 2001-02,Kharif     ,7.0,3,0.428571428571429
+Mandya,Sunflower, 2001-02,Rabi       ,3.0,3,1
+Mandya,Sunflower, 2001-02,Summer     ,1.0,1,1
+Mandya,Sunflower, 2002-03,Rabi       ,4.0,2,0.5
+Mandya,Sunflower, 2002-03,Summer     ,1.0,1,1
+Mandya,Sunflower, 2003-04,Kharif     ,10.0,5,0.5
+Mandya,Sunflower, 2003-04,Rabi       ,2.0,2,1
+Mandya,Sunflower, 2004-05,Kharif     ,40.0,15,0.375
+Mandya,Sunflower, 2004-05,Rabi       ,6.0,3,0.5
+Mandya,Sunflower, 2004-05,Summer     ,2.0,1,0.5
+Mandya,Sunflower, 2005-06,Kharif     ,73.0,26,0.356164383561644
+Mandya,Sunflower, 2005-06,Rabi       ,2.0,2,1
+Mandya,Sunflower, 2006-07,Kharif     ,16.0,10,0.625
+Mandya,Sunflower, 2007-08,Kharif     ,15.0,11,0.733333333333333
+Mandya,Sunflower, 2010-11,Summer     ,3.0,3,1
+Mandya,Sunflower, 2012-13,Kharif     ,8.0,4,0.5
+Mandya,Sunflower, 2013-14,Kharif     ,8.0,5,0.625
+Mandya,Sunflower, 2013-14,Rabi       ,1.0,1,1
+Mandya,Sunflower, 2014-15,Kharif     ,12.0,7,0.583333333333333
+Mandya,Sunflower, 2015-16,Kharif     ,6.0,2,0.333333333333333
+Mandya,Sunflower, 2016-17,Kharif     ,2.0,1,0.5
+Mandya,Sunflower, 2017-18,Kharif     ,10.0,10,1
+Mandya,Sunflower, 2018-19,Kharif     ,4.0,3,0.75
+Mandya,Sweet potato, 1999-00,Whole Year ,10.0,63,6.3
+Mandya,Sweet potato, 2002-03,Whole Year ,4.0,25,6.25
+Mandya,Sweet potato, 2003-04,Whole Year ,5.0,31,6.2
+Mandya,Sweet potato, 2004-05,Whole Year ,14.0,88,6.28571428571429
+Mandya,Sweet potato, 2005-06,Whole Year ,4.0,25,6.25
+Mandya,Sweet potato, 2006-07,Whole Year ,27.0,169,6.25925925925926
+Mandya,Sweet potato, 2007-08,Whole Year ,34.0,213,6.26470588235294
+Mandya,Sweet potato, 2008-09,Whole Year ,46.0,466,10.1304347826087
+Mandya,Sweet potato, 2009-10,Whole Year ,52.0,342,6.57692307692308
+Mandya,Sweet potato, 2010-11,Whole Year ,67.0,552,8.23880597014925
+Mandya,Sweet potato, 2011-12,Whole Year ,141.0,2055,14.5744680851064
+Mandya,Sweet potato, 2012-13,Whole Year ,489.0,7585,15.5112474437628
+Mandya,Sweet potato, 2013-14,Whole Year ,484.0,7103,14.6756198347107
+Mandya,Sweet potato, 2014-15,Whole Year ,444.0,5959,13.4211711711712
+Mandya,Sweet potato, 2015-16,Whole Year ,450.0,7079,15.7311111111111
+Mandya,Sweet potato, 2017-18,Whole Year ,17.0,221,13
+Mandya,Sweet potato, 2018-19,Whole Year ,13.0,189,14.5384615384615
+Mandya,Tapioca, 2004-05,Whole Year ,4.0,32,8
+Mandya,Tapioca, 2012-13,Whole Year ,26.0,275,10.5769230769231
+Mandya,Tapioca, 2013-14,Whole Year ,2.0,17,8.5
+Mandya,Tapioca, 2014-15,Whole Year ,2.0,18,9
+Mandya,Tapioca, 2015-16,Whole Year ,1.0,7,7
+Mandya,Tapioca, 2018-19,Whole Year ,1.0,13,13
+Mandya,Tobacco, 2012-13,Whole Year ,2.0,1,0.5
+Mandya,Tobacco, 2013-14,Whole Year ,6.0,5,0.833333333333333
+Mandya,Tobacco, 2016-17,Whole Year ,2.0,1,0.5
+Mandya,Tobacco, 2018-19,Whole Year ,9.0,7,0.777777777777778
+Mandya,Turmeric, 1997-98,Whole Year ,72.0,453,6.29166666666667
+Mandya,Turmeric, 1998-99,Whole Year ,79.0,401,5.07594936708861
+Mandya,Turmeric, 1999-00,Whole Year ,94.0,407,4.32978723404255
+Mandya,Turmeric, 2000-01,Whole Year ,141.0,625,4.43262411347518
+Mandya,Turmeric, 2001-02,Whole Year ,109.0,319,2.92660550458716
+Mandya,Turmeric, 2002-03,Whole Year ,32.0,81,2.53125
+Mandya,Turmeric, 2003-04,Whole Year ,19.0,28,1.47368421052632
+Mandya,Turmeric, 2004-05,Whole Year ,19.0,90,4.73684210526316
+Mandya,Turmeric, 2005-06,Whole Year ,39.0,208,5.33333333333333
+Mandya,Turmeric, 2006-07,Whole Year ,43.0,217,5.04651162790698
+Mandya,Turmeric, 2007-08,Whole Year ,51.0,397,7.7843137254902
+Mandya,Turmeric, 2008-09,Whole Year ,42.0,270,6.42857142857143
+Mandya,Turmeric, 2009-10,Whole Year ,36.0,194,5.38888888888889
+Mandya,Turmeric, 2010-11,Whole Year ,1.0,5,5
+Mandya,Turmeric, 2011-12,Whole Year ,152.0,763,5.01973684210526
+Mandya,Turmeric, 2012-13,Whole Year ,40.0,188,4.7
+Mandya,Turmeric, 2013-14,Whole Year ,27.0,129,4.77777777777778
+Mandya,Turmeric, 2014-15,Whole Year ,31.0,70,2.25806451612903
+Mandya,Turmeric, 2015-16,Whole Year ,21.0,78,3.71428571428571
+Mandya,Turmeric, 2016-17,Whole Year ,25.0,148,5.92
+Mandya,Turmeric, 2017-18,Whole Year ,39.0,248,6.35897435897436
+Mandya,Turmeric, 2018-19,Whole Year ,75.0,434,5.78666666666667
+Mandya,Urad, 1999-00,Kharif     ,408.0,133,0.325980392156863
+Mandya,Urad, 1999-00,Rabi       ,232.0,86,0.370689655172414
+Mandya,Urad, 2000-01,Kharif     ,469.0,181,0.38592750533049
+Mandya,Urad, 2000-01,Rabi       ,131.0,46,0.351145038167939
+Mandya,Urad, 2001-02,Kharif     ,350.0,129,0.368571428571429
+Mandya,Urad, 2001-02,Rabi       ,79.0,30,0.379746835443038
+Mandya,Urad, 2002-03,Kharif     ,291.0,41,0.140893470790378
+Mandya,Urad, 2002-03,Rabi       ,249.0,29,0.116465863453815
+Mandya,Urad, 2003-04,Kharif     ,469.0,118,0.251599147121535
+Mandya,Urad, 2003-04,Rabi       ,117.0,62,0.52991452991453
+Mandya,Urad, 2004-05,Kharif     ,572.0,66,0.115384615384615
+Mandya,Urad, 2004-05,Rabi       ,78.0,27,0.346153846153846
+Mandya,Urad, 2005-06,Kharif     ,490.0,96,0.195918367346939
+Mandya,Urad, 2005-06,Rabi       ,78.0,37,0.474358974358974
+Mandya,Urad, 2006-07,Kharif     ,445.0,61,0.137078651685393
+Mandya,Urad, 2006-07,Rabi       ,50.0,26,0.52
+Mandya,Urad, 2007-08,Kharif     ,396.0,171,0.431818181818182
+Mandya,Urad, 2007-08,Rabi       ,119.0,46,0.386554621848739
+Mandya,Urad, 2008-09,Kharif     ,279.0,74,0.265232974910394
+Mandya,Urad, 2008-09,Rabi       ,84.0,37,0.44047619047619
+Mandya,Urad, 2009-10,Kharif     ,266.0,22,0.0827067669172932
+Mandya,Urad, 2009-10,Rabi       ,138.0,54,0.391304347826087
+Mandya,Urad, 2010-11,Kharif     ,354.0,128,0.361581920903955
+Mandya,Urad, 2010-11,Rabi       ,99.0,46,0.464646464646465
+Mandya,Urad, 2011-12,Kharif     ,315.0,116,0.368253968253968
+Mandya,Urad, 2011-12,Rabi       ,82.0,42,0.51219512195122
+Mandya,Urad, 2012-13,Kharif     ,177.0,85,0.480225988700565
+Mandya,Urad, 2012-13,Rabi       ,27.0,14,0.518518518518518
+Mandya,Urad, 2013-14,Kharif     ,345.0,166,0.481159420289855
+Mandya,Urad, 2013-14,Rabi       ,21.0,12,0.571428571428571
+Mandya,Urad, 2014-15,Kharif     ,180.0,50,0.277777777777778
+Mandya,Urad, 2014-15,Rabi       ,28.0,13,0.464285714285714
+Mandya,Urad, 2015-16,Kharif     ,217.0,54,0.248847926267281
+Mandya,Urad, 2015-16,Rabi       ,3.0,1,0.333333333333333
+Mandya,Urad, 2015-16,Summer     ,30.0,15,0.5
+Mandya,Urad, 2016-17,Kharif     ,186.0,91,0.489247311827957
+Mandya,Urad, 2016-17,Summer     ,4.0,2,0.5
+Mandya,Urad, 2017-18,Kharif     ,657.0,318,0.484018264840183
+Mandya,Urad, 2018-19,Kharif     ,470.0,227,0.482978723404255
+Mandya,Urad, 2018-19,Rabi       ,6.0,3,0.5
+Mandya,Urad, 2018-19,Summer     ,44.0,23,0.522727272727273
+Mandya,Wheat, 2004-05,Rabi       ,3.0,1,0.333333333333333
+Mandya,Wheat, 2018-19,Rabi       ,1.0,1,1

@@ -1,0 +1,1086 @@
+District,Crop,Year,Season,Area(Hectare),Production(Tonnes),Yield
+Bellary,Arecanut, 1997-98,Whole Year ,64.0,92,1.4375
+Bellary,Arecanut, 1998-99,Whole Year ,6.0,40,6.66666666666667
+Bellary,Arecanut, 2000-01,Whole Year ,19.0,27,1.42105263157895
+Bellary,Arecanut, 2001-02,Whole Year ,26.0,37,1.42307692307692
+Bellary,Arecanut, 2003-04,Whole Year ,30.0,43,1.43333333333333
+Bellary,Arecanut, 2004-05,Whole Year ,32.0,46,1.4375
+Bellary,Arecanut, 2005-06,Whole Year ,58.0,389,6.70689655172414
+Bellary,Arecanut, 2006-07,Whole Year ,62.0,89,1.43548387096774
+Bellary,Arecanut, 2007-08,Whole Year ,62.0,416,6.70967741935484
+Bellary,Arecanut, 2008-09,Whole Year ,62.0,416,6.70967741935484
+Bellary,Arecanut, 2009-10,Whole Year ,74.0,496,6.7027027027027
+Bellary,Arecanut, 2010-11,Whole Year ,103.0,1114,10.8155339805825
+Bellary,Arecanut, 2011-12,Whole Year ,108.0,875,8.10185185185185
+Bellary,Arecanut, 2012-13,Whole Year ,132.0,1059,8.02272727272727
+Bellary,Arecanut, 2013-14,Whole Year ,10.0,111,11.1
+Bellary,Arecanut, 2014-15,Whole Year ,1.0,9,9
+Bellary,Arecanut, 2016-17,Whole Year ,11.0,112,10.1818181818182
+Bellary,Arecanut, 2017-18,Whole Year ,14.0,152,10.8571428571429
+Bellary,Arecanut, 2018-19,Whole Year ,1558.0,13911,8.92875481386393
+Bellary,Arhar/Tur, 1997-98,Kharif     ,10477.0,3324,0.317266393051446
+Bellary,Arhar/Tur, 1998-99,Kharif     ,7563.0,2234,0.295385429062541
+Bellary,Arhar/Tur, 1999-00,Kharif     ,8551.0,3396,0.39714653256929
+Bellary,Arhar/Tur, 2000-01,Kharif     ,9645.0,3958,0.410368066355625
+Bellary,Arhar/Tur, 2001-02,Kharif     ,5944.0,2451,0.412348586810229
+Bellary,Arhar/Tur, 2002-03,Kharif     ,7906.0,2704,0.342018719959524
+Bellary,Arhar/Tur, 2003-04,Kharif     ,5526.0,1774,0.321027868259139
+Bellary,Arhar/Tur, 2004-05,Kharif     ,8889.0,4982,0.560467994150073
+Bellary,Arhar/Tur, 2005-06,Kharif     ,10655.0,5628,0.528202721726889
+Bellary,Arhar/Tur, 2006-07,Kharif     ,9353.0,4363,0.466481342884636
+Bellary,Arhar/Tur, 2007-08,Kharif     ,9917.0,5398,0.544317838055864
+Bellary,Arhar/Tur, 2008-09,Kharif     ,9640.0,4854,0.503526970954357
+Bellary,Arhar/Tur, 2009-10,Kharif     ,8938.0,3303,0.36954575967778
+Bellary,Arhar/Tur, 2010-11,Kharif     ,10544.0,4367,0.414169195751138
+Bellary,Arhar/Tur, 2011-12,Kharif     ,9066.0,2989,0.329693359805868
+Bellary,Arhar/Tur, 2012-13,Kharif     ,5127.0,1802,0.351472596060074
+Bellary,Arhar/Tur, 2013-14,Kharif     ,3325.0,1614,0.485413533834586
+Bellary,Arhar/Tur, 2014-15,Kharif     ,3427.0,1319,0.384884738838634
+Bellary,Arhar/Tur, 2015-16,Kharif     ,2931.0,1041,0.355168884339816
+Bellary,Arhar/Tur, 2016-17,Kharif     ,11946.0,7036,0.588983760254479
+Bellary,Arhar/Tur, 2017-18,Kharif     ,9363.0,7694,0.821745167147282
+Bellary,Arhar/Tur, 2018-19,Kharif     ,13708.0,9168,0.668806536329151
+Bellary,Bajra, 1997-98,Kharif     ,14047.0,7221,0.514059941624546
+Bellary,Bajra, 1997-98,Summer     ,820.0,662,0.807317073170732
+Bellary,Bajra, 1998-99,Kharif     ,25918.0,24114,0.930395863878386
+Bellary,Bajra, 1998-99,Rabi       ,451.0,536,1.18847006651885
+Bellary,Bajra, 1998-99,Summer     ,846.0,498,0.588652482269503
+Bellary,Bajra, 1999-00,Kharif     ,21565.0,13334,0.618316716902388
+Bellary,Bajra, 2000-01,Kharif     ,25729.0,21054,0.818298418127405
+Bellary,Bajra, 2000-01,Rabi       ,160.0,129,0.80625
+Bellary,Bajra, 2000-01,Summer     ,905.0,989,1.09281767955801
+Bellary,Bajra, 2001-02,Kharif     ,16332.0,12464,0.763164339946118
+Bellary,Bajra, 2001-02,Rabi       ,207.0,105,0.507246376811594
+Bellary,Bajra, 2001-02,Summer     ,850.0,929,1.09294117647059
+Bellary,Bajra, 2002-03,Kharif     ,13560.0,6488,0.478466076696165
+Bellary,Bajra, 2002-03,Rabi       ,271.0,215,0.793357933579336
+Bellary,Bajra, 2002-03,Summer     ,377.0,322,0.854111405835544
+Bellary,Bajra, 2003-04,Kharif     ,25949.0,17480,0.673629041581564
+Bellary,Bajra, 2003-04,Rabi       ,117.0,105,0.897435897435897
+Bellary,Bajra, 2003-04,Summer     ,277.0,250,0.902527075812274
+Bellary,Bajra, 2004-05,Kharif     ,17021.0,12115,0.711767816227014
+Bellary,Bajra, 2004-05,Rabi       ,222.0,200,0.900900900900901
+Bellary,Bajra, 2004-05,Summer     ,1327.0,1072,0.80783722682743
+Bellary,Bajra, 2005-06,Kharif     ,20594.0,16424,0.797513838982228
+Bellary,Bajra, 2005-06,Rabi       ,78.0,104,1.33333333333333
+Bellary,Bajra, 2005-06,Summer     ,913.0,1084,1.18729463307777
+Bellary,Bajra, 2006-07,Kharif     ,15831.0,7505,0.474069862927168
+Bellary,Bajra, 2006-07,Rabi       ,25.0,28,1.12
+Bellary,Bajra, 2006-07,Summer     ,1166.0,1385,1.18782161234991
+Bellary,Bajra, 2007-08,Kharif     ,15855.0,13500,0.851466414380322
+Bellary,Bajra, 2007-08,Rabi       ,435.0,504,1.15862068965517
+Bellary,Bajra, 2007-08,Summer     ,1574.0,1570,0.997458703939009
+Bellary,Bajra, 2008-09,Kharif     ,12052.0,7336,0.608695652173913
+Bellary,Bajra, 2008-09,Rabi       ,354.0,331,0.935028248587571
+Bellary,Bajra, 2008-09,Summer     ,994.0,1180,1.18712273641851
+Bellary,Bajra, 2009-10,Kharif     ,13586.0,8249,0.607169144707787
+Bellary,Bajra, 2009-10,Rabi       ,116.0,132,1.13793103448276
+Bellary,Bajra, 2009-10,Summer     ,381.0,428,1.12335958005249
+Bellary,Bajra, 2010-11,Kharif     ,13457.0,11295,0.839340120383443
+Bellary,Bajra, 2010-11,Rabi       ,84.0,86,1.02380952380952
+Bellary,Bajra, 2010-11,Summer     ,358.0,395,1.10335195530726
+Bellary,Bajra, 2011-12,Kharif     ,14124.0,9253,0.655126026621354
+Bellary,Bajra, 2011-12,Rabi       ,522.0,680,1.30268199233716
+Bellary,Bajra, 2011-12,Summer     ,1702.0,1937,1.13807285546416
+Bellary,Bajra, 2012-13,Kharif     ,20897.0,16954,0.811312628606977
+Bellary,Bajra, 2013-14,Kharif     ,17017.0,17201,1.01081271669507
+Bellary,Bajra, 2014-15,Kharif     ,15570.0,16700,1.07257546563905
+Bellary,Bajra, 2015-16,Kharif     ,13136.0,12067,0.918620584652862
+Bellary,Bajra, 2015-16,Summer     ,1022.0,1290,1.26223091976517
+Bellary,Bajra, 2016-17,Kharif     ,15771.0,19837,1.25781497685626
+Bellary,Bajra, 2016-17,Summer     ,274.0,339,1.23722627737226
+Bellary,Bajra, 2017-18,Kharif     ,24180.0,44587,1.84396195202647
+Bellary,Bajra, 2017-18,Summer     ,290.0,362,1.24827586206897
+Bellary,Bajra, 2018-19,Kharif     ,15137.0,17256,1.13998810860805
+Bellary,Bajra, 2018-19,Summer     ,395.0,493,1.24810126582278
+Bellary,Banana, 1999-00,Whole Year ,1756.0,48344,27.5307517084282
+Bellary,Banana, 2000-01,Whole Year ,1780.0,33816,18.9977528089888
+Bellary,Banana, 2002-03,Whole Year ,2087.0,51609,24.7287973167226
+Bellary,Banana, 2003-04,Whole Year ,2483.0,47400,19.0898107128474
+Bellary,Banana, 2004-05,Whole Year ,3255.0,89106,27.3751152073733
+Bellary,Banana, 2005-06,Whole Year ,14.0,607,43.3571428571429
+Bellary,Banana, 2006-07,Whole Year ,2295.0,25435,11.082788671024
+Bellary,Banana, 2007-08,Whole Year ,1189.0,21821,18.3523969722456
+Bellary,Banana, 2008-09,Whole Year ,1539.0,49871,32.404808317089
+Bellary,Banana, 2009-10,Whole Year ,1532.0,56569,36.9249347258486
+Bellary,Banana, 2010-11,Whole Year ,1624.0,62633,38.567118226601
+Bellary,Banana, 2011-12,Whole Year ,1649.0,67189,40.7453001819284
+Bellary,Cashewnut, 2014-15,Whole Year ,115.0,85,0.739130434782609
+Bellary,Cashewnut, 2015-16,Whole Year ,11.0,7,0.636363636363636
+Bellary,Cashewnut, 2017-18,Whole Year ,12.0,9,0.75
+Bellary,Cashewnut, 2018-19,Whole Year ,7.0,8,1.14285714285714
+Bellary,Castor seed, 1998-99,Kharif     ,508.0,433,0.852362204724409
+Bellary,Castor seed, 1999-00,Kharif     ,610.0,471,0.772131147540984
+Bellary,Castor seed, 2000-01,Kharif     ,795.0,1018,1.28050314465409
+Bellary,Castor seed, 2001-02,Kharif     ,620.0,459,0.740322580645161
+Bellary,Castor seed, 2002-03,Kharif     ,326.0,301,0.923312883435583
+Bellary,Castor seed, 2003-04,Kharif     ,166.0,149,0.897590361445783
+Bellary,Castor seed, 2004-05,Kharif     ,209.0,181,0.866028708133971
+Bellary,Castor seed, 2005-06,Kharif     ,225.0,234,1.04
+Bellary,Castor seed, 2006-07,Kharif     ,185.0,148,0.8
+Bellary,Castor seed, 2007-08,Kharif     ,184.0,123,0.668478260869565
+Bellary,Castor seed, 2008-09,Kharif     ,118.0,112,0.949152542372881
+Bellary,Castor seed, 2009-10,Kharif     ,122.0,79,0.647540983606557
+Bellary,Castor seed, 2010-11,Kharif     ,145.0,121,0.83448275862069
+Bellary,Castor seed, 2011-12,Kharif     ,265.0,222,0.837735849056604
+Bellary,Castor seed, 2012-13,Kharif     ,508.0,317,0.624015748031496
+Bellary,Castor seed, 2013-14,Kharif     ,486.0,435,0.895061728395062
+Bellary,Castor seed, 2014-15,Kharif     ,64.0,39,0.609375
+Bellary,Castor seed, 2015-16,Kharif     ,27.0,14,0.518518518518518
+Bellary,Castor seed, 2016-17,Kharif     ,162.0,80,0.493827160493827
+Bellary,Castor seed, 2017-18,Kharif     ,60.0,39,0.65
+Bellary,Castor seed, 2018-19,Kharif     ,75.0,43,0.573333333333333
+Bellary,Coconut , 1998-99,Whole Year ,1174.0,5606000,4775.12776831346
+Bellary,Coconut , 1999-00,Whole Year ,1173.0,5601000,4774.93606138107
+Bellary,Coconut , 2000-01,Whole Year ,1267.0,6050000,4775.0591949487
+Bellary,Coconut , 2001-02,Whole Year ,1264.0,6035000,4774.5253164557
+Bellary,Coconut , 2002-03,Whole Year ,1565.0,7473000,4775.07987220447
+Bellary,Coconut , 2003-04,Whole Year ,1312.0,6264000,4774.39024390244
+Bellary,Coconut , 2004-05,Whole Year ,1259.0,6011000,4774.42414614774
+Bellary,Coconut , 2005-06,Whole Year ,1140.0,5443000,4774.56140350877
+Bellary,Coconut , 2006-07,Whole Year ,1251.0,5973000,4774.58033573142
+Bellary,Coconut , 2007-08,Whole Year ,1310.0,6670000,5091.60305343512
+Bellary,Coconut , 2008-09,Whole Year ,1080.0,7399000,6850.92592592593
+Bellary,Coconut , 2009-10,Whole Year ,1039.0,7387000,7109.7208854668
+Bellary,Coconut , 2010-11,Whole Year ,1014.0,9693000,9559.17159763314
+Bellary,Coconut , 2011-12,Whole Year ,910.0,9047000,9941.75824175824
+Bellary,Coconut , 2012-13,Whole Year ,702.0,6912000,9846.15384615385
+Bellary,Coconut , 2013-14,Whole Year ,2901.0,23016000,7933.81592554292
+Bellary,Coconut , 2014-15,Whole Year ,555.0,4953000,8924.32432432432
+Bellary,Coconut , 2015-16,Whole Year ,523.0,4374000,8363.28871892925
+Bellary,Coconut , 2016-17,Whole Year ,674.0,5269000,7817.50741839763
+Bellary,Coconut , 2017-18,Whole Year ,579.0,4578000,7906.73575129534
+Bellary,Coconut , 2018-19,Whole Year ,1220.0,8641000,7082.7868852459
+Bellary,Coriander, 1997-98,Whole Year ,10736.0,2168,0.20193740685544
+Bellary,Coriander, 1998-99,Whole Year ,11095.0,2241,0.201982875168995
+Bellary,Coriander, 1999-00,Whole Year ,5948.0,1201,0.20191661062542
+Bellary,Coriander, 2000-01,Whole Year ,4148.0,838,0.202025072324012
+Bellary,Coriander, 2001-02,Whole Year ,6420.0,1297,0.20202492211838
+Bellary,Coriander, 2002-03,Whole Year ,2908.0,587,0.201856946354883
+Bellary,Coriander, 2003-04,Whole Year ,3503.0,707,0.201827005423922
+Bellary,Coriander, 2004-05,Whole Year ,4327.0,874,0.201987520221863
+Bellary,Coriander, 2005-06,Whole Year ,3809.0,769,0.201890259910738
+Bellary,Coriander, 2006-07,Whole Year ,2602.0,525,0.201767870868563
+Bellary,Coriander, 2007-08,Whole Year ,3281.0,1241,0.378238341968912
+Bellary,Coriander, 2008-09,Whole Year ,3755.0,2015,0.536617842876165
+Bellary,Coriander, 2009-10,Whole Year ,3354.0,1551,0.462432915921288
+Bellary,Coriander, 2010-11,Whole Year ,2084.0,677,0.324856046065259
+Bellary,Coriander, 2011-12,Whole Year ,597.0,242,0.40536013400335
+Bellary,Coriander, 2012-13,Whole Year ,2831.0,1118,0.394913458141999
+Bellary,Coriander, 2013-14,Whole Year ,838.0,260,0.310262529832936
+Bellary,Coriander, 2014-15,Whole Year ,1241.0,420,0.338436744560838
+Bellary,Coriander, 2015-16,Whole Year ,2093.0,897,0.428571428571429
+Bellary,Coriander, 2016-17,Whole Year ,232.0,101,0.435344827586207
+Bellary,Coriander, 2017-18,Whole Year ,23.0,8,0.347826086956522
+Bellary,Coriander, 2018-19,Whole Year ,315.0,282,0.895238095238095
+Bellary,Cotton(lint), 1998-99,Kharif     ,66412.0,85696,1.29036921038367
+Bellary,Cotton(lint), 1999-00,Kharif     ,55563.0,55883,1.00575922826341
+Bellary,Cotton(lint), 2000-01,Kharif     ,52037.0,68670,1.31963794992025
+Bellary,Cotton(lint), 2001-02,Kharif     ,51505.0,69414,1.3477138141928
+Bellary,Cotton(lint), 2002-03,Kharif     ,35188.0,38941,1.10665567807207
+Bellary,Cotton(lint), 2003-04,Kharif     ,26088.0,21825,0.836591536338546
+Bellary,Cotton(lint), 2004-05,Kharif     ,42373.0,48777,1.15113397682487
+Bellary,Cotton(lint), 2005-06,Whole Year ,26690.0,35262,1.321168977145
+Bellary,Cotton(lint), 2006-07,Whole Year ,19167.0,28963,1.51108676370846
+Bellary,Cotton(lint), 2007-08,Whole Year ,26604.0,48546,1.82476319350474
+Bellary,Cotton(lint), 2008-09,Whole Year ,19627.0,36344,1.85173485504662
+Bellary,Cotton(lint), 2009-10,Whole Year ,25269.0,47008,1.86030313823262
+Bellary,Cotton(lint), 2010-11,Kharif     ,37118.0,100359,2.70378253138639
+Bellary,Cotton(lint), 2010-11,Rabi       ,7774.0,20933,2.69269359403139
+Bellary,Cotton(lint), 2011-12,Kharif     ,37717.0,80774,2.14158071956942
+Bellary,Cotton(lint), 2011-12,Rabi       ,4654.0,7285,1.56532015470563
+Bellary,Cotton(lint), 2012-13,Kharif     ,62710.0,171708,2.73812789028863
+Bellary,Cotton(lint), 2012-13,Rabi       ,1869.0,2026,1.08400214018192
+Bellary,Cotton(lint), 2012-13,Summer     ,922.0,2555,2.77114967462039
+Bellary,Cotton(lint), 2013-14,Kharif     ,72108.0,184949,2.56488877794419
+Bellary,Cotton(lint), 2013-14,Rabi       ,1096.0,2021,1.84397810218978
+Bellary,Cotton(lint), 2013-14,Summer     ,1095.0,3947,3.60456621004566
+Bellary,Cotton(lint), 2014-15,Kharif     ,78646.0,242150,3.07898685247819
+Bellary,Cotton(lint), 2014-15,Rabi       ,2687.0,4369,1.62597692593971
+Bellary,Cotton(lint), 2014-15,Summer     ,1010.0,1913,1.89405940594059
+Bellary,Cotton(lint), 2015-16,Kharif     ,65890.0,142491,2.16255881013811
+Bellary,Cotton(lint), 2015-16,Rabi       ,1171.0,2716,2.31938514090521
+Bellary,Cotton(lint), 2015-16,Summer     ,989.0,2095,2.11830131445905
+Bellary,Cotton(lint), 2016-17,Kharif     ,48032.0,133665,2.78283227848101
+Bellary,Cotton(lint), 2016-17,Rabi       ,28.0,9,0.321428571428571
+Bellary,Cotton(lint), 2017-18,Kharif     ,58997.0,198794,3.36956116412699
+Bellary,Cotton(lint), 2017-18,Rabi       ,164.0,124,0.75609756097561
+Bellary,Cotton(lint), 2018-19,Kharif     ,45465.0,119916,2.63754536456615
+Bellary,Cotton(lint), 2018-19,Rabi       ,155.0,74,0.47741935483871
+Bellary,Cowpea(Lobia), 2010-11,Kharif     ,362.0,187,0.516574585635359
+Bellary,Cowpea(Lobia), 2010-11,Rabi       ,1821.0,481,0.264140582097748
+Bellary,Cowpea(Lobia), 2011-12,Kharif     ,518.0,274,0.528957528957529
+Bellary,Cowpea(Lobia), 2011-12,Rabi       ,1243.0,333,0.267900241351569
+Bellary,Cowpea(Lobia), 2012-13,Kharif     ,572.0,156,0.272727272727273
+Bellary,Cowpea(Lobia), 2012-13,Rabi       ,615.0,205,0.333333333333333
+Bellary,Cowpea(Lobia), 2012-13,Summer     ,772.0,181,0.234455958549223
+Bellary,Cowpea(Lobia), 2013-14,Kharif     ,226.0,84,0.371681415929204
+Bellary,Cowpea(Lobia), 2013-14,Rabi       ,245.0,104,0.424489795918367
+Bellary,Cowpea(Lobia), 2013-14,Summer     ,768.0,482,0.627604166666667
+Bellary,Cowpea(Lobia), 2014-15,Kharif     ,284.0,125,0.440140845070423
+Bellary,Cowpea(Lobia), 2014-15,Rabi       ,929.0,341,0.367061356297094
+Bellary,Cowpea(Lobia), 2014-15,Summer     ,834.0,352,0.422062350119904
+Bellary,Cowpea(Lobia), 2015-16,Kharif     ,484.0,200,0.413223140495868
+Bellary,Cowpea(Lobia), 2015-16,Rabi       ,913.0,405,0.443592552026287
+Bellary,Cowpea(Lobia), 2015-16,Summer     ,2220.0,742,0.334234234234234
+Bellary,Cowpea(Lobia), 2016-17,Kharif     ,169.0,129,0.763313609467456
+Bellary,Cowpea(Lobia), 2016-17,Rabi       ,496.0,12,0.0241935483870968
+Bellary,Cowpea(Lobia), 2016-17,Summer     ,538.0,148,0.275092936802974
+Bellary,Cowpea(Lobia), 2017-18,Kharif     ,391.0,89,0.227621483375959
+Bellary,Cowpea(Lobia), 2017-18,Rabi       ,491.0,199,0.405295315682281
+Bellary,Cowpea(Lobia), 2017-18,Summer     ,790.0,314,0.39746835443038
+Bellary,Cowpea(Lobia), 2018-19,Kharif     ,764.0,289,0.378272251308901
+Bellary,Cowpea(Lobia), 2018-19,Rabi       ,545.0,153,0.280733944954128
+Bellary,Cowpea(Lobia), 2018-19,Summer     ,896.0,117,0.130580357142857
+Bellary,Dry chillies, 1997-98,Kharif     ,12763.0,11640,0.912011282613805
+Bellary,Dry chillies, 1997-98,Rabi       ,198.0,635,3.20707070707071
+Bellary,Dry chillies, 1998-99,Whole Year ,11574.0,25136,2.17176429929152
+Bellary,Dry chillies, 1999-00,Whole Year ,14920.0,26749,1.79282841823056
+Bellary,Dry chillies, 2000-01,Whole Year ,8678.0,14402,1.65959898594146
+Bellary,Dry chillies, 2001-02,Whole Year ,16144.0,15620,0.967542120911794
+Bellary,Dry chillies, 2002-03,Whole Year ,12144.0,28953,2.38414031620553
+Bellary,Dry chillies, 2003-04,Whole Year ,648.0,2101,3.24228395061728
+Bellary,Dry chillies, 2004-05,Whole Year ,10673.0,10299,0.964958306005809
+Bellary,Dry chillies, 2005-06,Kharif     ,9961.0,15021,1.50798112639293
+Bellary,Dry chillies, 2005-06,Rabi       ,172.0,207,1.20348837209302
+Bellary,Dry chillies, 2005-06,Summer     ,63.0,166,2.63492063492063
+Bellary,Dry chillies, 2006-07,Whole Year ,12714.0,19139,1.50534843479629
+Bellary,Dry chillies, 2007-08,Kharif     ,14153.0,23489,1.65964813113827
+Bellary,Dry chillies, 2007-08,Rabi       ,28.0,49,1.75
+Bellary,Dry chillies, 2007-08,Summer     ,45.0,152,3.37777777777778
+Bellary,Dry chillies, 2008-09,Kharif     ,13202.0,15013,1.13717618542645
+Bellary,Dry chillies, 2008-09,Rabi       ,38.0,64,1.68421052631579
+Bellary,Dry chillies, 2008-09,Summer     ,34.0,112,3.29411764705882
+Bellary,Dry chillies, 2009-10,Rabi       ,19.0,57,3
+Bellary,Dry chillies, 2009-10,Summer     ,27.0,124,4.59259259259259
+Bellary,Dry chillies, 2010-11,Kharif     ,10387.0,11259,1.08395109271204
+Bellary,Dry chillies, 2010-11,Rabi       ,12.0,33,2.75
+Bellary,Dry chillies, 2010-11,Summer     ,52.0,158,3.03846153846154
+Bellary,Dry chillies, 2011-12,Kharif     ,11851.0,14174,1.19601721373724
+Bellary,Dry chillies, 2011-12,Rabi       ,946.0,2231,2.35835095137421
+Bellary,Dry chillies, 2011-12,Summer     ,523.0,1831,3.50095602294455
+Bellary,Dry chillies, 2012-13,Kharif     ,11545.0,12130,1.05067128627111
+Bellary,Dry chillies, 2012-13,Rabi       ,406.0,1109,2.73152709359606
+Bellary,Dry chillies, 2012-13,Summer     ,91.0,108,1.18681318681319
+Bellary,Dry chillies, 2013-14,Kharif     ,12197.0,15457,1.26727883905879
+Bellary,Dry chillies, 2013-14,Rabi       ,79.0,150,1.89873417721519
+Bellary,Dry chillies, 2013-14,Summer     ,351.0,933,2.65811965811966
+Bellary,Dry chillies, 2014-15,Kharif     ,11522.0,14678,1.27391077937858
+Bellary,Dry chillies, 2014-15,Rabi       ,664.0,1246,1.87650602409639
+Bellary,Dry chillies, 2014-15,Summer     ,228.0,439,1.92543859649123
+Bellary,Dry chillies, 2015-16,Kharif     ,18763.0,28591,1.52379683419496
+Bellary,Dry chillies, 2015-16,Rabi       ,947.0,1323,1.39704329461457
+Bellary,Dry chillies, 2015-16,Summer     ,464.0,850,1.83189655172414
+Bellary,Dry chillies, 2016-17,Kharif     ,35213.0,153045,4.34626416380314
+Bellary,Dry chillies, 2016-17,Rabi       ,57.0,110,1.92982456140351
+Bellary,Dry chillies, 2016-17,Summer     ,41.0,80,1.95121951219512
+Bellary,Dry chillies, 2017-18,Kharif     ,24212.0,86002,3.55204031058979
+Bellary,Dry chillies, 2017-18,Rabi       ,705.0,1223,1.73475177304965
+Bellary,Dry chillies, 2017-18,Summer     ,122.0,232,1.9016393442623
+Bellary,Dry chillies, 2018-19,Kharif     ,55627.0,142260,2.55739119492333
+Bellary,Garlic, 1998-99,Whole Year ,2.0,5,2.5
+Bellary,Garlic, 1999-00,Whole Year ,2.0,5,2.5
+Bellary,Garlic, 2000-01,Whole Year ,2.0,5,2.5
+Bellary,Garlic, 2002-03,Whole Year ,4.0,11,2.75
+Bellary,Garlic, 2003-04,Whole Year ,3.0,8,2.66666666666667
+Bellary,Garlic, 2004-05,Whole Year ,1.0,3,3
+Bellary,Garlic, 2016-17,Whole Year ,2.0,2,1
+Bellary,Garlic, 2018-19,Whole Year ,3.0,20,6.66666666666667
+Bellary,Ginger, 2001-02,Kharif     ,1.0,13,13
+Bellary,Ginger, 2003-04,Kharif     ,1.0,13,13
+Bellary,Ginger, 2004-05,Kharif     ,1.0,13,13
+Bellary,Ginger, 2005-06,Whole Year ,1.0,13,13
+Bellary,Ginger, 2006-07,Whole Year ,1.0,13,13
+Bellary,Ginger, 2007-08,Whole Year ,1.0,21,21
+Bellary,Ginger, 2008-09,Whole Year ,1.0,32,32
+Bellary,Ginger, 2009-10,Whole Year ,1.0,31,31
+Bellary,Ginger, 2010-11,Whole Year ,1.0,3.6,3.6
+Bellary,Ginger, 2015-16,Whole Year ,1.0,37,37
+Bellary,Ginger, 2017-18,Whole Year ,1.0,26,26
+Bellary,Ginger, 2018-19,Whole Year ,4.0,61.6,15.4
+Bellary,Gram, 1998-99,Rabi       ,9325.0,6070,0.650938337801609
+Bellary,Gram, 1999-00,Rabi       ,5788.0,3405,0.588286109191431
+Bellary,Gram, 2000-01,Rabi       ,9035.0,9257,1.0245711123409
+Bellary,Gram, 2001-02,Rabi       ,22324.0,17477,0.782879412291704
+Bellary,Gram, 2002-03,Rabi       ,20814.0,12777,0.613865667339291
+Bellary,Gram, 2003-04,Rabi       ,19014.0,9108,0.479015462290943
+Bellary,Gram, 2004-05,Rabi       ,10510.0,4448,0.423215984776403
+Bellary,Gram, 2005-06,Rabi       ,15561.0,11198,0.719619561724825
+Bellary,Gram, 2006-07,Kharif     ,32.0,4,0.125
+Bellary,Gram, 2006-07,Rabi       ,37539.0,17799,0.474146887237273
+Bellary,Gram, 2007-08,Rabi       ,33878.0,18833,0.555906487986304
+Bellary,Gram, 2008-09,Rabi       ,38579.0,25555,0.662407008994531
+Bellary,Gram, 2009-10,Kharif     ,3692.0,1926,0.521668472372698
+Bellary,Gram, 2009-10,Rabi       ,3606.0,894,0.247920133111481
+Bellary,Gram, 2010-11,Rabi       ,69458.0,42262,0.608454029773388
+Bellary,Gram, 2011-12,Rabi       ,60244.0,35113,0.582846424540203
+Bellary,Gram, 2012-13,Rabi       ,60890.0,50846,0.835046805715224
+Bellary,Gram, 2013-14,Rabi       ,53823.0,46223,0.85879642532003
+Bellary,Gram, 2014-15,Rabi       ,67266.0,50611,0.752400915767252
+Bellary,Gram, 2015-16,Rabi       ,75356.0,48680,0.646000318488242
+Bellary,Gram, 2016-17,Rabi       ,9473.0,2637,0.278370104507548
+Bellary,Gram, 2017-18,Rabi       ,26864.0,26593,0.989912150089339
+Bellary,Gram, 2018-19,Rabi       ,26030.0,14169,0.544333461390703
+Bellary,Groundnut, 1997-98,Kharif     ,76932.0,38353,0.498531170384235
+Bellary,Groundnut, 1997-98,Rabi       ,20435.0,21666,1.06023978468314
+Bellary,Groundnut, 1998-99,Kharif     ,68396.0,61555,0.899979530966723
+Bellary,Groundnut, 1998-99,Rabi       ,25407.0,25244,0.993584445231629
+Bellary,Groundnut, 1999-00,Kharif     ,64145.0,60202,0.938529893210694
+Bellary,Groundnut, 1999-00,Rabi       ,16119.0,15711,0.974688256095291
+Bellary,Groundnut, 2000-01,Kharif     ,59678.0,54533,0.91378732531251
+Bellary,Groundnut, 2000-01,Rabi       ,12594.0,13472,1.06971573765285
+Bellary,Groundnut, 2001-02,Kharif     ,66922.0,57961,0.866097845252682
+Bellary,Groundnut, 2002-03,Kharif     ,52625.0,30729,0.583923990498812
+Bellary,Groundnut, 2002-03,Rabi       ,6306.0,6453,1.023311132255
+Bellary,Groundnut, 2003-04,Kharif     ,50766.0,32963,0.649312532009613
+Bellary,Groundnut, 2003-04,Rabi       ,6625.0,5895,0.889811320754717
+Bellary,Groundnut, 2004-05,Kharif     ,65371.0,25628,0.392039283474323
+Bellary,Groundnut, 2004-05,Rabi       ,7593.0,5667,0.746345318056104
+Bellary,Groundnut, 2005-06,Kharif     ,65711.0,27396,0.416916497998813
+Bellary,Groundnut, 2005-06,Rabi       ,8989.0,5245,0.583490933362999
+Bellary,Groundnut, 2006-07,Kharif     ,58136.0,13118,0.225643319113802
+Bellary,Groundnut, 2006-07,Rabi       ,10293.0,8822,0.857087340911299
+Bellary,Groundnut, 2007-08,Kharif     ,57502.0,43233,0.751852109491844
+Bellary,Groundnut, 2007-08,Rabi       ,10907.0,9460,0.867332905473549
+Bellary,Groundnut, 2008-09,Kharif     ,62958.0,16648,0.264430255090695
+Bellary,Groundnut, 2008-09,Rabi       ,8967.0,7437,0.8293743726999
+Bellary,Groundnut, 2009-10,Kharif     ,62079.0,16191,0.2608128352583
+Bellary,Groundnut, 2009-10,Rabi       ,8853.0,7233,0.817011182649949
+Bellary,Groundnut, 2010-11,Kharif     ,63596.0,20851,0.32786653248632
+Bellary,Groundnut, 2010-11,Rabi       ,8667.0,6669,0.769470404984424
+Bellary,Groundnut, 2011-12,Kharif     ,56185.0,26561,0.472741835009344
+Bellary,Groundnut, 2011-12,Rabi       ,10618.0,8433,0.794217366735732
+Bellary,Groundnut, 2012-13,Kharif     ,49598.0,33595,0.67734586072019
+Bellary,Groundnut, 2012-13,Rabi       ,1322.0,2234,1.68986384266263
+Bellary,Groundnut, 2012-13,Summer     ,9204.0,6820,0.740982181660148
+Bellary,Groundnut, 2013-14,Kharif     ,45709.0,56364,1.23310507777462
+Bellary,Groundnut, 2013-14,Summer     ,8042.0,8465,1.05259885600597
+Bellary,Groundnut, 2014-15,Kharif     ,47214.0,46513,0.985152708942263
+Bellary,Groundnut, 2014-15,Summer     ,7591.0,6844,0.901593992886313
+Bellary,Groundnut, 2015-16,Kharif     ,42025.0,38726,0.921499107674003
+Bellary,Groundnut, 2015-16,Summer     ,7737.0,7857,1.01550988755332
+Bellary,Groundnut, 2016-17,Kharif     ,33385.0,40438,1.21126254305826
+Bellary,Groundnut, 2016-17,Summer     ,2997.0,2300,0.767434100767434
+Bellary,Groundnut, 2017-18,Kharif     ,53312.0,80528,1.51050420168067
+Bellary,Groundnut, 2017-18,Summer     ,7104.0,9610,1.35275900900901
+Bellary,Groundnut, 2018-19,Kharif     ,55751.0,61914,1.11054510233
+Bellary,Groundnut, 2018-19,Summer     ,5051.0,5369,1.06295783013265
+Bellary,Horse-gram, 1997-98,Kharif     ,7394.0,2276,0.307817149039762
+Bellary,Horse-gram, 1997-98,Rabi       ,863.0,437,0.506373117033604
+Bellary,Horse-gram, 1998-99,Kharif     ,10976.0,4984,0.454081632653061
+Bellary,Horse-gram, 1998-99,Rabi       ,2428.0,1119,0.460873146622735
+Bellary,Horse-gram, 1999-00,Kharif     ,5650.0,1846,0.326725663716814
+Bellary,Horse-gram, 1999-00,Rabi       ,1899.0,817,0.430226434965771
+Bellary,Horse-gram, 2000-01,Kharif     ,8229.0,3307,0.401871430307449
+Bellary,Horse-gram, 2000-01,Rabi       ,1151.0,467,0.405734144222415
+Bellary,Horse-gram, 2001-02,Kharif     ,6645.0,3731,0.561474793077502
+Bellary,Horse-gram, 2001-02,Rabi       ,2122.0,478,0.225259189443921
+Bellary,Horse-gram, 2002-03,Kharif     ,6367.0,1440,0.226166169310507
+Bellary,Horse-gram, 2002-03,Rabi       ,443.0,362,0.817155756207675
+Bellary,Horse-gram, 2003-04,Kharif     ,8108.0,1833,0.226073014306857
+Bellary,Horse-gram, 2003-04,Rabi       ,697.0,41,0.0588235294117647
+Bellary,Horse-gram, 2004-05,Kharif     ,5320.0,2911,0.54718045112782
+Bellary,Horse-gram, 2004-05,Rabi       ,566.0,192,0.339222614840989
+Bellary,Horse-gram, 2005-06,Kharif     ,7122.0,3687,0.517691659646167
+Bellary,Horse-gram, 2005-06,Rabi       ,875.0,448,0.512
+Bellary,Horse-gram, 2006-07,Kharif     ,4818.0,2632,0.546284765462848
+Bellary,Horse-gram, 2006-07,Rabi       ,1273.0,483,0.379418695993716
+Bellary,Horse-gram, 2007-08,Kharif     ,3825.0,3071,0.802875816993464
+Bellary,Horse-gram, 2007-08,Rabi       ,1145.0,520,0.454148471615721
+Bellary,Horse-gram, 2008-09,Kharif     ,4688.0,2855,0.609001706484642
+Bellary,Horse-gram, 2008-09,Rabi       ,1180.0,373,0.316101694915254
+Bellary,Horse-gram, 2009-10,Kharif     ,3692.0,1926,0.521668472372698
+Bellary,Horse-gram, 2009-10,Rabi       ,3606.0,894,0.247920133111481
+Bellary,Horse-gram, 2010-11,Kharif     ,3900.0,2749,0.704871794871795
+Bellary,Horse-gram, 2010-11,Rabi       ,1482.0,1067,0.719973009446694
+Bellary,Horse-gram, 2011-12,Kharif     ,2434.0,1029,0.422760887428102
+Bellary,Horse-gram, 2011-12,Rabi       ,798.0,402,0.503759398496241
+Bellary,Horse-gram, 2012-13,Kharif     ,2377.0,980,0.412284392090871
+Bellary,Horse-gram, 2012-13,Rabi       ,1176.0,258,0.219387755102041
+Bellary,Horse-gram, 2013-14,Kharif     ,1924.0,1029,0.534823284823285
+Bellary,Horse-gram, 2013-14,Rabi       ,819.0,343,0.418803418803419
+Bellary,Horse-gram, 2014-15,Kharif     ,1312.0,609,0.464176829268293
+Bellary,Horse-gram, 2014-15,Rabi       ,443.0,213,0.480812641083521
+Bellary,Horse-gram, 2015-16,Kharif     ,2162.0,881,0.407493061979648
+Bellary,Horse-gram, 2015-16,Rabi       ,421.0,264,0.6270783847981
+Bellary,Horse-gram, 2016-17,Kharif     ,752.0,326,0.433510638297872
+Bellary,Horse-gram, 2016-17,Rabi       ,620.0,74,0.119354838709677
+Bellary,Horse-gram, 2017-18,Kharif     ,944.0,1443,1.52860169491525
+Bellary,Horse-gram, 2017-18,Rabi       ,986.0,760,0.77079107505071
+Bellary,Horse-gram, 2018-19,Kharif     ,448.0,450,1.00446428571429
+Bellary,Horse-gram, 2018-19,Rabi       ,853.0,451,0.528722157092614
+Bellary,Jowar, 1997-98,Kharif     ,51462.0,86921,1.68903268431075
+Bellary,Jowar, 1997-98,Rabi       ,41994.0,40394,0.961899318950326
+Bellary,Jowar, 1997-98,Summer     ,738.0,1820,2.46612466124661
+Bellary,Jowar, 1998-99,Kharif     ,44671.0,69654,1.55926663831121
+Bellary,Jowar, 1998-99,Rabi       ,49031.0,47827,0.975444106789582
+Bellary,Jowar, 1998-99,Summer     ,761.0,2018,2.65177398160315
+Bellary,Jowar, 1999-00,Kharif     ,46369.0,71222,1.53598309215208
+Bellary,Jowar, 1999-00,Rabi       ,66040.0,61544,0.931920048455481
+Bellary,Jowar, 1999-00,Summer     ,1263.0,2902,2.29770387965162
+Bellary,Jowar, 2000-01,Kharif     ,50214.0,93692,1.86585414426256
+Bellary,Jowar, 2000-01,Rabi       ,58780.0,49827,0.847686287853011
+Bellary,Jowar, 2000-01,Summer     ,714.0,1450,2.03081232492997
+Bellary,Jowar, 2001-02,Kharif     ,41225.0,60618,1.4704184354154
+Bellary,Jowar, 2001-02,Rabi       ,48554.0,58233,1.19934505910945
+Bellary,Jowar, 2001-02,Summer     ,844.0,1656,1.96208530805687
+Bellary,Jowar, 2002-03,Kharif     ,41534.0,41430,0.997496027351086
+Bellary,Jowar, 2002-03,Rabi       ,24226.0,12096,0.499298274581029
+Bellary,Jowar, 2002-03,Summer     ,1426.0,2723,1.90953716690042
+Bellary,Jowar, 2003-04,Kharif     ,20430.0,28900,1.41458639255996
+Bellary,Jowar, 2003-04,Rabi       ,39277.0,41863,1.06584005906765
+Bellary,Jowar, 2003-04,Summer     ,876.0,2497,2.85045662100457
+Bellary,Jowar, 2004-05,Kharif     ,55896.0,98268,1.75805066552168
+Bellary,Jowar, 2004-05,Rabi       ,29941.0,19541,0.652650212083765
+Bellary,Jowar, 2004-05,Summer     ,3133.0,2488,0.794127034790935
+Bellary,Jowar, 2005-06,Kharif     ,40775.0,86998,2.13361128142244
+Bellary,Jowar, 2005-06,Rabi       ,38297.0,40278,1.05172728934381
+Bellary,Jowar, 2005-06,Summer     ,886.0,2104,2.37471783295711
+Bellary,Jowar, 2006-07,Kharif     ,37111.0,42306,1.13998544905823
+Bellary,Jowar, 2006-07,Rabi       ,17651.0,17696,1.00254943062716
+Bellary,Jowar, 2006-07,Summer     ,947.0,2114,2.23231256599789
+Bellary,Jowar, 2007-08,Kharif     ,38906.0,63379,1.62902894155143
+Bellary,Jowar, 2007-08,Rabi       ,24631.0,41002,1.66465023750558
+Bellary,Jowar, 2007-08,Summer     ,967.0,2303,2.38159255429162
+Bellary,Jowar, 2008-09,Kharif     ,29507.0,32475,1.10058630155556
+Bellary,Jowar, 2008-09,Rabi       ,25723.0,32753,1.27329627181899
+Bellary,Jowar, 2008-09,Summer     ,1085.0,2472,2.27834101382488
+Bellary,Jowar, 2009-10,Kharif     ,30529.0,28300,0.92698745455141
+Bellary,Jowar, 2009-10,Rabi       ,24292.0,26979,1.11061254734069
+Bellary,Jowar, 2009-10,Summer     ,727.0,2210,3.03988995873453
+Bellary,Jowar, 2010-11,Kharif     ,28537.0,40568,1.4215930195886
+Bellary,Jowar, 2010-11,Rabi       ,20656.0,29007,1.40428931061193
+Bellary,Jowar, 2010-11,Summer     ,386.0,1618,4.19170984455959
+Bellary,Jowar, 2011-12,Kharif     ,26778.0,31726,1.18477854955561
+Bellary,Jowar, 2011-12,Rabi       ,11332.0,22252,1.96364278150371
+Bellary,Jowar, 2011-12,Summer     ,4075.0,7456,1.82969325153374
+Bellary,Jowar, 2012-13,Kharif     ,13928.0,17849,1.28151924181505
+Bellary,Jowar, 2012-13,Rabi       ,22034.0,26584,1.20649904692748
+Bellary,Jowar, 2012-13,Summer     ,2034.0,3244,1.59488692232055
+Bellary,Jowar, 2013-14,Kharif     ,31439.0,55672,1.7707942364579
+Bellary,Jowar, 2013-14,Rabi       ,17618.0,21323,1.21029628788739
+Bellary,Jowar, 2013-14,Summer     ,2537.0,4107,1.61884115096571
+Bellary,Jowar, 2014-15,Kharif     ,21316.0,40197,1.88576656033027
+Bellary,Jowar, 2014-15,Rabi       ,17366.0,25588,1.47345387538869
+Bellary,Jowar, 2014-15,Summer     ,897.0,1604,1.78818283166109
+Bellary,Jowar, 2015-16,Kharif     ,17106.0,28000,1.63685256635099
+Bellary,Jowar, 2015-16,Rabi       ,31225.0,53246,1.70523618895116
+Bellary,Jowar, 2015-16,Summer     ,1901.0,4972,2.61546554445029
+Bellary,Jowar, 2016-17,Kharif     ,17057.0,34758,2.03775576009849
+Bellary,Jowar, 2016-17,Rabi       ,14561.0,8632,0.59281642744317
+Bellary,Jowar, 2016-17,Summer     ,430.0,623,1.44883720930233
+Bellary,Jowar, 2017-18,Kharif     ,11272.0,28409,2.52031582682754
+Bellary,Jowar, 2017-18,Rabi       ,27861.0,58071,2.0843114030365
+Bellary,Jowar, 2017-18,Summer     ,182.0,378,2.07692307692308
+Bellary,Jowar, 2018-19,Kharif     ,13657.0,29607,2.16789924580801
+Bellary,Jowar, 2018-19,Rabi       ,15698.0,31675,2.01777296470888
+Bellary,Jowar, 2018-19,Summer     ,447.0,915,2.04697986577181
+Bellary,Linseed, 1998-99,Rabi       ,113.0,37,0.327433628318584
+Bellary,Linseed, 1999-00,Rabi       ,195.0,66,0.338461538461538
+Bellary,Linseed, 2000-01,Rabi       ,11.0,4,0.363636363636364
+Bellary,Linseed, 2001-02,Rabi       ,19.0,6,0.31578947368421
+Bellary,Linseed, 2002-03,Rabi       ,11.0,4,0.363636363636364
+Bellary,Linseed, 2003-04,Rabi       ,6.0,0,0
+Bellary,Linseed, 2004-05,Rabi       ,10.0,2,0.2
+Bellary,Linseed, 2005-06,Rabi       ,28.0,9,0.321428571428571
+Bellary,Linseed, 2006-07,Rabi       ,133.0,41,0.308270676691729
+Bellary,Linseed, 2007-08,Rabi       ,35.0,14,0.4
+Bellary,Linseed, 2008-09,Rabi       ,15.0,6,0.4
+Bellary,Linseed, 2009-10,Rabi       ,13.0,4,0.307692307692308
+Bellary,Linseed, 2010-11,Rabi       ,7.0,2,0.285714285714286
+Bellary,Linseed, 2015-16,Rabi       ,3.0,nan,0
+Bellary,Maize, 1997-98,Kharif     ,73445.0,217603,2.96280209680713
+Bellary,Maize, 1997-98,Rabi       ,600.0,1225,2.04166666666667
+Bellary,Maize, 1997-98,Summer     ,267.0,578,2.16479400749064
+Bellary,Maize, 1998-99,Kharif     ,30252.0,95976,3.17255057516858
+Bellary,Maize, 1998-99,Rabi       ,1217.0,2472,2.03122432210353
+Bellary,Maize, 1998-99,Summer     ,621.0,1412,2.27375201288245
+Bellary,Maize, 1999-00,Kharif     ,43028.0,139783,3.24865204053175
+Bellary,Maize, 1999-00,Rabi       ,1513.0,3647,2.41044282881692
+Bellary,Maize, 1999-00,Summer     ,591.0,1080,1.82741116751269
+Bellary,Maize, 2000-01,Kharif     ,52284.0,161785,3.09435008798103
+Bellary,Maize, 2000-01,Rabi       ,605.0,1435,2.37190082644628
+Bellary,Maize, 2000-01,Summer     ,390.0,1097,2.81282051282051
+Bellary,Maize, 2001-02,Kharif     ,43231.0,140539,3.25088478175383
+Bellary,Maize, 2001-02,Rabi       ,1325.0,3077,2.3222641509434
+Bellary,Maize, 2001-02,Summer     ,295.0,776,2.63050847457627
+Bellary,Maize, 2002-03,Kharif     ,56536.0,128078,2.26542380076411
+Bellary,Maize, 2002-03,Rabi       ,2592.0,6539,2.52276234567901
+Bellary,Maize, 2002-03,Summer     ,748.0,1912,2.55614973262032
+Bellary,Maize, 2003-04,Kharif     ,58068.0,159871,2.75316869876696
+Bellary,Maize, 2003-04,Rabi       ,2410.0,5109,2.11991701244813
+Bellary,Maize, 2003-04,Summer     ,576.0,1450,2.51736111111111
+Bellary,Maize, 2004-05,Kharif     ,51467.0,155182,3.01517477218412
+Bellary,Maize, 2004-05,Rabi       ,1657.0,3956,2.3874471937236
+Bellary,Maize, 2004-05,Summer     ,658.0,2013,3.05927051671732
+Bellary,Maize, 2005-06,Kharif     ,68802.0,223457,3.24782709804948
+Bellary,Maize, 2005-06,Rabi       ,2382.0,8307,3.48740554156171
+Bellary,Maize, 2005-06,Summer     ,417.0,1585,3.80095923261391
+Bellary,Maize, 2006-07,Kharif     ,79209.0,179807,2.27003244580793
+Bellary,Maize, 2006-07,Rabi       ,871.0,2274,2.61079219288175
+Bellary,Maize, 2006-07,Summer     ,1155.0,3701,3.204329004329
+Bellary,Maize, 2007-08,Kharif     ,91886.0,260481,2.83482793896785
+Bellary,Maize, 2007-08,Rabi       ,2886.0,9162,3.17463617463617
+Bellary,Maize, 2007-08,Summer     ,1416.0,4001,2.82556497175141
+Bellary,Maize, 2008-09,Kharif     ,81737.0,221134,2.70543327990995
+Bellary,Maize, 2008-09,Rabi       ,3418.0,7487,2.19046225863078
+Bellary,Maize, 2008-09,Summer     ,2305.0,6160,2.67245119305857
+Bellary,Maize, 2009-10,Kharif     ,97077.0,189500,1.95205867507237
+Bellary,Maize, 2009-10,Rabi       ,2216.0,4954,2.235559566787
+Bellary,Maize, 2009-10,Summer     ,1224.0,3688,3.01307189542484
+Bellary,Maize, 2010-11,Kharif     ,89370.0,254848,2.85160568423408
+Bellary,Maize, 2010-11,Rabi       ,2383.0,5957,2.49979018044482
+Bellary,Maize, 2010-11,Summer     ,1740.0,6486,3.72758620689655
+Bellary,Maize, 2011-12,Kharif     ,98727.0,207485,2.10160341142747
+Bellary,Maize, 2011-12,Rabi       ,2976.0,9830,3.30309139784946
+Bellary,Maize, 2011-12,Summer     ,1947.0,4591,2.35798664612224
+Bellary,Maize, 2012-13,Kharif     ,104728.0,241566,2.30660377358491
+Bellary,Maize, 2012-13,Rabi       ,2129.0,6385,2.99906059182715
+Bellary,Maize, 2012-13,Summer     ,2260.0,6523,2.88628318584071
+Bellary,Maize, 2013-14,Kharif     ,80459.0,220977,2.74645471606657
+Bellary,Maize, 2013-14,Rabi       ,2470.0,7070,2.86234817813765
+Bellary,Maize, 2013-14,Summer     ,1698.0,6085,3.58362779740872
+Bellary,Maize, 2014-15,Kharif     ,95624.0,249999,2.61439596753953
+Bellary,Maize, 2014-15,Rabi       ,2369.0,6468,2.73026593499367
+Bellary,Maize, 2014-15,Summer     ,1859.0,4812,2.58848843464228
+Bellary,Maize, 2015-16,Kharif     ,91764.0,241564,2.6324484547317
+Bellary,Maize, 2015-16,Rabi       ,5829.0,16186,2.77680562703723
+Bellary,Maize, 2015-16,Summer     ,2146.0,5578,2.59925442684063
+Bellary,Maize, 2016-17,Kharif     ,92825.0,247532,2.66665230272017
+Bellary,Maize, 2016-17,Rabi       ,1894.0,2039,1.07655755015839
+Bellary,Maize, 2016-17,Summer     ,382.0,1019,2.66753926701571
+Bellary,Maize, 2017-18,Kharif     ,94305.0,363107,3.85034727745082
+Bellary,Maize, 2017-18,Rabi       ,3105.0,11905,3.8341384863124
+Bellary,Maize, 2017-18,Summer     ,408.0,1531,3.75245098039216
+Bellary,Maize, 2018-19,Kharif     ,188994.0,509726,2.69704858355292
+Bellary,Maize, 2018-19,Rabi       ,14595.0,44341,3.03809523809524
+Bellary,Maize, 2018-19,Summer     ,325.0,1120,3.44615384615385
+Bellary,Mesta, 2008-09,Whole Year ,3.0,4,1.33333333333333
+Bellary,Mesta, 2010-11,Whole Year ,58.0,73,1.25862068965517
+Bellary,Mesta, 2011-12,Whole Year ,102.0,127,1.24509803921569
+Bellary,Mesta, 2012-13,Whole Year ,55.0,67,1.21818181818182
+Bellary,Mesta, 2013-14,Whole Year ,42.0,56,1.33333333333333
+Bellary,Mesta, 2018-19,Whole Year ,1.0,1,1
+Bellary,Moong(Green Gram), 1998-99,Kharif     ,3031.0,242,0.0798416364236226
+Bellary,Moong(Green Gram), 1998-99,Rabi       ,217.0,97,0.447004608294931
+Bellary,Moong(Green Gram), 1999-00,Kharif     ,3266.0,1229,0.37630128597673
+Bellary,Moong(Green Gram), 1999-00,Rabi       ,180.0,45,0.25
+Bellary,Moong(Green Gram), 2000-01,Kharif     ,3500.0,1510,0.431428571428571
+Bellary,Moong(Green Gram), 2000-01,Rabi       ,137.0,37,0.27007299270073
+Bellary,Moong(Green Gram), 2001-02,Kharif     ,2206.0,409,0.185403445149592
+Bellary,Moong(Green Gram), 2001-02,Rabi       ,24.0,7,0.291666666666667
+Bellary,Moong(Green Gram), 2002-03,Kharif     ,3870.0,386,0.0997416020671835
+Bellary,Moong(Green Gram), 2003-04,Kharif     ,1300.0,59,0.0453846153846154
+Bellary,Moong(Green Gram), 2004-05,Kharif     ,5575.0,1822,0.326816143497758
+Bellary,Moong(Green Gram), 2004-05,Rabi       ,102.0,25,0.245098039215686
+Bellary,Moong(Green Gram), 2005-06,Kharif     ,3098.0,412,0.132989025177534
+Bellary,Moong(Green Gram), 2005-06,Rabi       ,108.0,32,0.296296296296296
+Bellary,Moong(Green Gram), 2006-07,Kharif     ,2698.0,420,0.155670867309118
+Bellary,Moong(Green Gram), 2006-07,Rabi       ,60.0,18,0.3
+Bellary,Moong(Green Gram), 2007-08,Kharif     ,2835.0,439,0.154850088183422
+Bellary,Moong(Green Gram), 2007-08,Rabi       ,116.0,38,0.327586206896552
+Bellary,Moong(Green Gram), 2008-09,Kharif     ,1075.0,88,0.0818604651162791
+Bellary,Moong(Green Gram), 2008-09,Rabi       ,50.0,13,0.26
+Bellary,Moong(Green Gram), 2009-10,Kharif     ,1319.0,278,0.21076573161486
+Bellary,Moong(Green Gram), 2009-10,Rabi       ,15.0,4,0.266666666666667
+Bellary,Moong(Green Gram), 2010-11,Kharif     ,469.0,105,0.223880597014925
+Bellary,Moong(Green Gram), 2010-11,Rabi       ,26.0,7,0.269230769230769
+Bellary,Moong(Green Gram), 2011-12,Kharif     ,273.0,51,0.186813186813187
+Bellary,Moong(Green Gram), 2011-12,Rabi       ,5.0,2,0.4
+Bellary,Moong(Green Gram), 2012-13,Kharif     ,116.0,35,0.301724137931034
+Bellary,Moong(Green Gram), 2012-13,Rabi       ,94.0,22,0.234042553191489
+Bellary,Moong(Green Gram), 2013-14,Kharif     ,118.0,30,0.254237288135593
+Bellary,Moong(Green Gram), 2013-14,Rabi       ,8.0,2,0.25
+Bellary,Moong(Green Gram), 2014-15,Kharif     ,76.0,12,0.157894736842105
+Bellary,Moong(Green Gram), 2014-15,Rabi       ,2.0,1,0.5
+Bellary,Moong(Green Gram), 2015-16,Kharif     ,285.0,41,0.143859649122807
+Bellary,Moong(Green Gram), 2015-16,Summer     ,13.0,4,0.307692307692308
+Bellary,Moong(Green Gram), 2016-17,Kharif     ,264.0,52,0.196969696969697
+Bellary,Moong(Green Gram), 2018-19,Kharif     ,326.0,116,0.355828220858896
+Bellary,Moong(Green Gram), 2018-19,Rabi       ,7.0,2,0.285714285714286
+Bellary,Niger seed, 1998-99,Kharif     ,1654.0,427,0.258162031438936
+Bellary,Niger seed, 1999-00,Kharif     ,1581.0,409,0.258697027197976
+Bellary,Niger seed, 2000-01,Kharif     ,1719.0,444,0.258289703315881
+Bellary,Niger seed, 2001-02,Kharif     ,1312.0,339,0.258384146341463
+Bellary,Niger seed, 2002-03,Kharif     ,754.0,195,0.258620689655172
+Bellary,Niger seed, 2003-04,Kharif     ,791.0,204,0.257901390644753
+Bellary,Niger seed, 2004-05,Kharif     ,831.0,215,0.258724428399519
+Bellary,Niger seed, 2005-06,Kharif     ,714.0,184,0.257703081232493
+Bellary,Niger seed, 2006-07,Kharif     ,663.0,171,0.257918552036199
+Bellary,Niger seed, 2007-08,Kharif     ,554.0,208,0.375451263537906
+Bellary,Niger seed, 2008-09,Kharif     ,604.0,221,0.365894039735099
+Bellary,Niger seed, 2009-10,Kharif     ,442.0,158,0.357466063348416
+Bellary,Niger seed, 2010-11,Kharif     ,838.0,143,0.170644391408115
+Bellary,Niger seed, 2011-12,Kharif     ,256.0,70,0.2734375
+Bellary,Niger seed, 2012-13,Kharif     ,466.0,112,0.240343347639485
+Bellary,Niger seed, 2013-14,Kharif     ,281.0,30,0.106761565836299
+Bellary,Niger seed, 2014-15,Kharif     ,124.0,33,0.266129032258064
+Bellary,Niger seed, 2015-16,Kharif     ,129.0,33,0.255813953488372
+Bellary,Niger seed, 2016-17,Kharif     ,55.0,10,0.181818181818182
+Bellary,Niger seed, 2017-18,Kharif     ,40.0,9,0.225
+Bellary,Niger seed, 2018-19,Kharif     ,16.0,3,0.1875
+Bellary,Onion, 1998-99,Kharif     ,7638.0,53886,7.05498821681068
+Bellary,Onion, 1998-99,Rabi       ,150.0,917,6.11333333333333
+Bellary,Onion, 1998-99,Summer     ,1108.0,12024,10.8519855595668
+Bellary,Onion, 1999-00,Whole Year ,5448.0,39556,7.26064610866373
+Bellary,Onion, 2000-01,Whole Year ,4118.0,29659,7.20228266148616
+Bellary,Onion, 2001-02,Whole Year ,3980.0,47730,11.9924623115578
+Bellary,Onion, 2002-03,Whole Year ,3574.0,57874,16.1930609960828
+Bellary,Onion, 2003-04,Whole Year ,3745.0,42375,11.3150867823765
+Bellary,Onion, 2004-05,Whole Year ,3761.0,38433,10.2188247806434
+Bellary,Onion, 2005-06,Kharif     ,2999.0,25442,8.48349449816605
+Bellary,Onion, 2005-06,Rabi       ,277.0,2871,10.3646209386282
+Bellary,Onion, 2005-06,Summer     ,741.0,13535,18.2658569500675
+Bellary,Onion, 2006-07,Whole Year ,3577.0,23238,6.49650545149567
+Bellary,Onion, 2007-08,Kharif     ,3213.0,20332,6.32804232804233
+Bellary,Onion, 2007-08,Rabi       ,156.0,1313,8.41666666666667
+Bellary,Onion, 2007-08,Summer     ,476.0,2170,4.55882352941176
+Bellary,Onion, 2008-09,Kharif     ,3148.0,16481,5.2353875476493
+Bellary,Onion, 2008-09,Rabi       ,122.0,815,6.68032786885246
+Bellary,Onion, 2008-09,Summer     ,605.0,3151,5.20826446280992
+Bellary,Onion, 2009-10,Kharif     ,2732.0,12217,4.47181551976574
+Bellary,Onion, 2009-10,Rabi       ,458.0,2713,5.9235807860262
+Bellary,Onion, 2009-10,Summer     ,675.0,3705,5.48888888888889
+Bellary,Onion, 2010-11,Kharif     ,2798.0,17961,6.4192280200143
+Bellary,Onion, 2010-11,Rabi       ,84.0,575,6.8452380952381
+Bellary,Onion, 2010-11,Summer     ,488.0,3044,6.23770491803279
+Bellary,Onion, 2011-12,Kharif     ,3822.0,23822,6.23286237571952
+Bellary,Onion, 2011-12,Rabi       ,268.0,2133,7.9589552238806
+Bellary,Onion, 2011-12,Summer     ,430.0,1836,4.26976744186047
+Bellary,Onion, 2012-13,Kharif     ,2594.0,14135,5.4491133384734
+Bellary,Onion, 2012-13,Rabi       ,352.0,2304,6.54545454545455
+Bellary,Onion, 2012-13,Summer     ,216.0,1378,6.37962962962963
+Bellary,Onion, 2013-14,Kharif     ,2716.0,23743,8.7418998527246
+Bellary,Onion, 2013-14,Rabi       ,352.0,2473,7.02556818181818
+Bellary,Onion, 2013-14,Summer     ,1111.0,12048,10.8442844284428
+Bellary,Onion, 2014-15,Kharif     ,5726.0,44431,7.75951798812435
+Bellary,Onion, 2014-15,Rabi       ,567.0,3758,6.62786596119929
+Bellary,Onion, 2014-15,Summer     ,876.0,5157,5.88698630136986
+Bellary,Onion, 2015-16,Kharif     ,10261.0,78607,7.66075431244518
+Bellary,Onion, 2015-16,Rabi       ,1297.0,12516,9.64996144949884
+Bellary,Onion, 2015-16,Summer     ,1757.0,5875,3.34376778599886
+Bellary,Onion, 2016-17,Kharif     ,11037.0,196513,17.8049288756003
+Bellary,Onion, 2016-17,Rabi       ,266.0,2981,11.2067669172932
+Bellary,Onion, 2016-17,Summer     ,149.0,1781,11.9530201342282
+Bellary,Onion, 2017-18,Kharif     ,3754.0,50360,13.4150239744273
+Bellary,Onion, 2017-18,Rabi       ,1366.0,20683,15.1412884333821
+Bellary,Onion, 2017-18,Summer     ,626.0,8511,13.5958466453674
+Bellary,Onion, 2018-19,Kharif     ,9714.0,94101,9.68715256331069
+Bellary,Onion, 2018-19,Rabi       ,1394.0,11602,8.32281205164993
+Bellary,Onion, 2018-19,Summer     ,143.0,1231,8.60839160839161
+Bellary,Other  Rabi pulses, 1999-00,Rabi       ,5484.0,608,0.110867979576951
+Bellary,Other  Rabi pulses, 2000-01,Rabi       ,3986.0,442,0.110888108379328
+Bellary,Other  Rabi pulses, 2001-02,Rabi       ,2277.0,252,0.110671936758893
+Bellary,Other  Rabi pulses, 2002-03,Rabi       ,2095.0,233,0.111217183770883
+Bellary,Other  Rabi pulses, 2003-04,Rabi       ,1435.0,159,0.110801393728223
+Bellary,Other  Rabi pulses, 2004-05,Rabi       ,1435.0,159,0.110801393728223
+Bellary,Other  Rabi pulses, 2005-06,Rabi       ,1634.0,181,0.110771113831089
+Bellary,Other  Rabi pulses, 2006-07,Rabi       ,2164.0,514,0.237523105360444
+Bellary,Other  Rabi pulses, 2007-08,Rabi       ,2091.0,497,0.237685318029651
+Bellary,Other  Rabi pulses, 2008-09,Rabi       ,1762.0,440,0.249716231555051
+Bellary,Other  Rabi pulses, 2009-10,Rabi       ,1898.0,458,0.241306638566913
+Bellary,Other  Rabi pulses, 2011-12,Rabi       ,111.0,38,0.342342342342342
+Bellary,Other  Rabi pulses, 2012-13,Rabi       ,10.0,5,0.5
+Bellary,Other  Rabi pulses, 2013-14,Rabi       ,116.0,40,0.344827586206897
+Bellary,Other  Rabi pulses, 2014-15,Rabi       ,6.0,5,0.833333333333333
+Bellary,Other  Rabi pulses, 2016-17,Rabi       ,2.0,nan,0
+Bellary,Other  Rabi pulses, 2017-18,Rabi       ,48.0,38,0.791666666666667
+Bellary,Other  Rabi pulses, 2018-19,Rabi       ,42.0,31,0.738095238095238
+Bellary,Other Kharif pulses, 1999-00,Kharif     ,2607.0,626,0.24012274645186
+Bellary,Other Kharif pulses, 2000-01,Kharif     ,2240.0,548,0.244642857142857
+Bellary,Other Kharif pulses, 2001-02,Kharif     ,1800.0,442,0.245555555555556
+Bellary,Other Kharif pulses, 2002-03,Kharif     ,983.0,251,0.255340793489318
+Bellary,Other Kharif pulses, 2003-04,Kharif     ,756.0,195,0.257936507936508
+Bellary,Other Kharif pulses, 2004-05,Kharif     ,968.0,251.68,0.26
+Bellary,Other Kharif pulses, 2005-06,Kharif     ,1451.0,377,0.259820813232254
+Bellary,Other Kharif pulses, 2006-07,Kharif     ,1460.0,675,0.462328767123288
+Bellary,Other Kharif pulses, 2007-08,Kharif     ,1381.0,659,0.477190441708907
+Bellary,Other Kharif pulses, 2008-09,Kharif     ,926.0,631,0.681425485961123
+Bellary,Other Kharif pulses, 2009-10,Kharif     ,692.0,305,0.440751445086705
+Bellary,Other Kharif pulses, 2010-11,Kharif     ,234.0,87,0.371794871794872
+Bellary,Other Kharif pulses, 2011-12,Kharif     ,124.0,41,0.330645161290323
+Bellary,Other Kharif pulses, 2012-13,Kharif     ,106.0,27,0.254716981132075
+Bellary,Other Kharif pulses, 2013-14,Kharif     ,80.0,31,0.3875
+Bellary,Other Kharif pulses, 2014-15,Kharif     ,168.0,79,0.470238095238095
+Bellary,Other Kharif pulses, 2015-16,Kharif     ,69.0,32,0.463768115942029
+Bellary,Other Kharif pulses, 2016-17,Kharif     ,53.0,15,0.283018867924528
+Bellary,Other Kharif pulses, 2017-18,Kharif     ,152.0,99,0.651315789473684
+Bellary,Other Kharif pulses, 2018-19,Kharif     ,188.0,119,0.632978723404255
+Bellary,Potato, 2013-14,Summer     ,26.0,365,14.0384615384615
+Bellary,Potato, 2014-15,Kharif     ,10.0,62,6.2
+Bellary,Potato, 2014-15,Rabi       ,23.0,354,15.3913043478261
+Bellary,Potato, 2015-16,Kharif     ,151.0,606,4.01324503311258
+Bellary,Potato, 2015-16,Summer     ,41.0,576,14.0487804878049
+Bellary,Potato, 2018-19,Kharif     ,4.0,32,8
+Bellary,Ragi, 1997-98,Kharif     ,17185.0,12676,0.737620017457085
+Bellary,Ragi, 1997-98,Rabi       ,31.0,37,1.19354838709677
+Bellary,Ragi, 1998-99,Kharif     ,6531.0,5804,0.888684734343898
+Bellary,Ragi, 1998-99,Summer     ,16.0,36,2.25
+Bellary,Ragi, 1999-00,Kharif     ,5501.0,4146,0.753681148882021
+Bellary,Ragi, 1999-00,Rabi       ,29.0,29,1
+Bellary,Ragi, 1999-00,Summer     ,8.0,16,2
+Bellary,Ragi, 2000-01,Kharif     ,5338.0,5730,1.07343574372424
+Bellary,Ragi, 2000-01,Summer     ,10.0,20,2
+Bellary,Ragi, 2001-02,Kharif     ,5844.0,8087,1.38381245722108
+Bellary,Ragi, 2001-02,Rabi       ,10.0,11,1.1
+Bellary,Ragi, 2002-03,Kharif     ,6325.0,2775,0.438735177865613
+Bellary,Ragi, 2002-03,Rabi       ,10.0,16,1.6
+Bellary,Ragi, 2002-03,Summer     ,14.0,16,1.14285714285714
+Bellary,Ragi, 2003-04,Kharif     ,9896.0,8075,0.815986257073565
+Bellary,Ragi, 2003-04,Rabi       ,211.0,29,0.137440758293839
+Bellary,Ragi, 2003-04,Summer     ,15.0,18,1.2
+Bellary,Ragi, 2004-05,Kharif     ,5742.0,4739,0.825322187391153
+Bellary,Ragi, 2004-05,Rabi       ,8.0,13,1.625
+Bellary,Ragi, 2004-05,Summer     ,44.0,70,1.59090909090909
+Bellary,Ragi, 2005-06,Kharif     ,6581.0,5714,0.868257103783619
+Bellary,Ragi, 2005-06,Summer     ,82.0,179,2.18292682926829
+Bellary,Ragi, 2006-07,Kharif     ,3688.0,1657,0.449295010845987
+Bellary,Ragi, 2006-07,Summer     ,84.0,179,2.13095238095238
+Bellary,Ragi, 2007-08,Kharif     ,3766.0,2700,0.716941051513542
+Bellary,Ragi, 2007-08,Summer     ,63.0,131,2.07936507936508
+Bellary,Ragi, 2008-09,Kharif     ,3576.0,1783,0.498601789709172
+Bellary,Ragi, 2008-09,Rabi       ,54.0,79,1.46296296296296
+Bellary,Ragi, 2008-09,Summer     ,69.0,137,1.98550724637681
+Bellary,Ragi, 2009-10,Kharif     ,3356.0,1082,0.322407628128725
+Bellary,Ragi, 2009-10,Rabi       ,25.0,35,1.4
+Bellary,Ragi, 2009-10,Summer     ,68.0,128,1.88235294117647
+Bellary,Ragi, 2010-11,Kharif     ,5966.0,3606,0.604425075427422
+Bellary,Ragi, 2010-11,Summer     ,38.0,74,1.94736842105263
+Bellary,Ragi, 2011-12,Kharif     ,3580.0,2472,0.690502793296089
+Bellary,Ragi, 2011-12,Rabi       ,13.0,24,1.84615384615385
+Bellary,Ragi, 2011-12,Summer     ,149.0,287,1.9261744966443
+Bellary,Ragi, 2012-13,Kharif     ,4102.0,2015,0.491223793271575
+Bellary,Ragi, 2012-13,Rabi       ,6.0,9,1.5
+Bellary,Ragi, 2012-13,Summer     ,66.0,99,1.5
+Bellary,Ragi, 2013-14,Kharif     ,3525.0,2548,0.722836879432624
+Bellary,Ragi, 2013-14,Rabi       ,149.0,217,1.45637583892617
+Bellary,Ragi, 2013-14,Summer     ,187.0,367,1.96256684491979
+Bellary,Ragi, 2014-15,Kharif     ,2897.0,2042,0.704867103900587
+Bellary,Ragi, 2014-15,Rabi       ,67.0,109,1.62686567164179
+Bellary,Ragi, 2014-15,Summer     ,189.0,337,1.78306878306878
+Bellary,Ragi, 2015-16,Kharif     ,2897.0,1671,0.576803589920608
+Bellary,Ragi, 2015-16,Rabi       ,10.0,17,1.7
+Bellary,Ragi, 2015-16,Summer     ,227.0,388,1.70925110132159
+Bellary,Ragi, 2016-17,Kharif     ,1988.0,2081,1.04678068410463
+Bellary,Ragi, 2016-17,Rabi       ,312.0,323,1.03525641025641
+Bellary,Ragi, 2016-17,Summer     ,79.0,143,1.81012658227848
+Bellary,Ragi, 2017-18,Kharif     ,10039.0,13590,1.35372049008865
+Bellary,Ragi, 2017-18,Rabi       ,281.0,450,1.60142348754448
+Bellary,Ragi, 2017-18,Summer     ,682.0,1185,1.7375366568915
+Bellary,Ragi, 2018-19,Kharif     ,8823.0,6529,0.739997733197325
+Bellary,Ragi, 2018-19,Rabi       ,2610.0,4066,1.55785440613027
+Bellary,Ragi, 2018-19,Summer     ,684.0,1230,1.79824561403509
+Bellary,Rapeseed &Mustard, 1998-99,Kharif     ,79.0,6,0.0759493670886076
+Bellary,Rapeseed &Mustard, 1999-00,Rabi       ,101.0,8,0.0792079207920792
+Bellary,Rapeseed &Mustard, 2000-01,Rabi       ,164.0,13,0.0792682926829268
+Bellary,Rapeseed &Mustard, 2001-02,Rabi       ,185.0,14,0.0756756756756757
+Bellary,Rapeseed &Mustard, 2002-03,Rabi       ,29.0,2,0.0689655172413793
+Bellary,Rapeseed &Mustard, 2003-04,Rabi       ,10.0,1,0.1
+Bellary,Rapeseed &Mustard, 2004-05,Rabi       ,17.0,1,0.0588235294117647
+Bellary,Rapeseed &Mustard, 2005-06,Rabi       ,295.0,23,0.0779661016949153
+Bellary,Rapeseed &Mustard, 2006-07,Kharif     ,75.0,6,0.08
+Bellary,Rapeseed &Mustard, 2011-12,Rabi       ,38.0,11,0.289473684210526
+Bellary,Rapeseed &Mustard, 2013-14,Kharif     ,2.0,1,0.5
+Bellary,Rapeseed &Mustard, 2016-17,Kharif     ,17.0,3,0.176470588235294
+Bellary,Rapeseed &Mustard, 2017-18,Kharif     ,41.0,7,0.170731707317073
+Bellary,Rapeseed &Mustard, 2018-19,Kharif     ,240.0,48,0.2
+Bellary,Rice, 1997-98,Kharif     ,34112.0,96733,2.83574695121951
+Bellary,Rice, 1997-98,Summer     ,23573.0,65571,2.7816145590294
+Bellary,Rice, 1998-99,Kharif     ,39395.0,124945,3.17159538012438
+Bellary,Rice, 1998-99,Summer     ,29459.0,99742,3.38579042058454
+Bellary,Rice, 1999-00,Kharif     ,47915.0,162081,3.38267765835333
+Bellary,Rice, 1999-00,Summer     ,31432.0,94717,3.01339399338254
+Bellary,Rice, 2000-01,Kharif     ,52654.0,172729,3.28045352679758
+Bellary,Rice, 2000-01,Summer     ,31393.0,100892,3.21383747969293
+Bellary,Rice, 2001-02,Kharif     ,54582.0,175813,3.22108020959291
+Bellary,Rice, 2001-02,Summer     ,29231.0,78310,2.67900516574869
+Bellary,Rice, 2002-03,Kharif     ,64289.0,215581,3.35331083077976
+Bellary,Rice, 2002-03,Summer     ,7011.0,17597,2.50991299386678
+Bellary,Rice, 2003-04,Kharif     ,49995.0,190076,3.801900190019
+Bellary,Rice, 2003-04,Summer     ,5971.0,27818,4.6588511137163
+Bellary,Rice, 2004-05,Kharif     ,51935.0,178111.0825,3.4295
+Bellary,Rice, 2004-05,Rabi       ,280.0,944,3.37142857142857
+Bellary,Rice, 2004-05,Summer     ,14592.0,68619,4.70250822368421
+Bellary,Rice, 2005-06,Kharif     ,61783.0,188994,3.05899681142062
+Bellary,Rice, 2005-06,Rabi       ,490.0,1871,3.81836734693878
+Bellary,Rice, 2005-06,Summer     ,40538.0,138524,3.41713947407371
+Bellary,Rice, 2006-07,Kharif     ,66354.0,204553,3.08275311209573
+Bellary,Rice, 2006-07,Rabi       ,2993.0,14299,4.77748078850652
+Bellary,Rice, 2006-07,Summer     ,36575.0,129221,3.53304169514696
+Bellary,Rice, 2007-08,Kharif     ,76597.0,283719,3.70404846142799
+Bellary,Rice, 2007-08,Rabi       ,367.0,1414,3.85286103542234
+Bellary,Rice, 2007-08,Summer     ,40890.0,131492,3.2157495720225
+Bellary,Rice, 2008-09,Kharif     ,77958.0,283650.183,3.6385
+Bellary,Rice, 2008-09,Rabi       ,150.0,700,4.66666666666667
+Bellary,Rice, 2008-09,Summer     ,44613.0,157154,3.52260551857082
+Bellary,Rice, 2009-10,Kharif     ,80447.0,248380.1125,3.0875
+Bellary,Rice, 2009-10,Rabi       ,46.0,185,4.02173913043478
+Bellary,Rice, 2009-10,Summer     ,39921.0,132661,3.32308809899552
+Bellary,Rice, 2010-11,Kharif     ,88799.0,339376,3.82184484059505
+Bellary,Rice, 2010-11,Rabi       ,135.0,602,4.45925925925926
+Bellary,Rice, 2010-11,Summer     ,41745.0,145941,3.49601149838304
+Bellary,Rice, 2011-12,Kharif     ,77226.0,288837,3.7401522803201
+Bellary,Rice, 2011-12,Summer     ,38943.0,139548,3.58339111008397
+Bellary,Rice, 2012-13,Kharif     ,78029.0,289394,3.70880057414551
+Bellary,Rice, 2012-13,Summer     ,31119.0,98386,3.1616054500466
+Bellary,Rice, 2013-14,Kharif     ,76010.0,290788,3.82565451914222
+Bellary,Rice, 2013-14,Summer     ,34538.0,127832,3.7011986797151
+Bellary,Rice, 2014-15,Kharif     ,77598.0,286690,3.69455398335009
+Bellary,Rice, 2014-15,Rabi       ,40.0,99,2.475
+Bellary,Rice, 2014-15,Summer     ,41005.0,121344,2.95924887208877
+Bellary,Rice, 2015-16,Kharif     ,75608.0,283647,3.75154745529574
+Bellary,Rice, 2015-16,Summer     ,18058.0,57796,3.20057592202902
+Bellary,Rice, 2016-17,Kharif     ,83580.0,328323,3.92824838478105
+Bellary,Rice, 2016-17,Rabi       ,11.0,29,2.63636363636364
+Bellary,Rice, 2016-17,Summer     ,3417.0,9443,2.76353526485221
+Bellary,Rice, 2017-18,Kharif     ,55561.0,234990,4.22940551825921
+Bellary,Rice, 2017-18,Rabi       ,6619.0,17657,2.66762350808279
+Bellary,Rice, 2017-18,Summer     ,39753.0,135691,3.41335245138732
+Bellary,Rice, 2018-19,Kharif     ,105813.0,427823,4.04319885080283
+Bellary,Rice, 2018-19,Rabi       ,1551.0,3841,2.47646679561573
+Bellary,Rice, 2018-19,Summer     ,30541.0,111530,3.65181231786778
+Bellary,Safflower, 1998-99,Rabi       ,6134.0,3243,0.52869253342028
+Bellary,Safflower, 1999-00,Rabi       ,6116.0,6219,1.01684107259647
+Bellary,Safflower, 2000-01,Rabi       ,6084.0,3237,0.532051282051282
+Bellary,Safflower, 2001-02,Rabi       ,5265.0,2076,0.394301994301994
+Bellary,Safflower, 2002-03,Rabi       ,2259.0,594,0.262948207171315
+Bellary,Safflower, 2003-04,Rabi       ,4850.0,1209,0.249278350515464
+Bellary,Safflower, 2004-05,Rabi       ,5975.0,1977,0.330878661087866
+Bellary,Safflower, 2005-06,Rabi       ,4832.0,1579,0.326779801324503
+Bellary,Safflower, 2006-07,Rabi       ,3765.0,1628,0.432403718459495
+Bellary,Safflower, 2007-08,Rabi       ,3198.0,1972,0.616635397123202
+Bellary,Safflower, 2008-09,Rabi       ,1285.0,472,0.367315175097276
+Bellary,Safflower, 2009-10,Rabi       ,1343.0,411,0.306031273268801
+Bellary,Safflower, 2010-11,Rabi       ,819.0,305,0.372405372405372
+Bellary,Safflower, 2011-12,Rabi       ,69.0,16,0.231884057971014
+Bellary,Safflower, 2012-13,Rabi       ,371.0,167,0.450134770889488
+Bellary,Safflower, 2013-14,Rabi       ,121.0,202,1.66942148760331
+Bellary,Safflower, 2014-15,Rabi       ,118.0,34,0.288135593220339
+Bellary,Safflower, 2015-16,Rabi       ,144.0,56,0.388888888888889
+Bellary,Safflower, 2016-17,Rabi       ,7.0,2,0.285714285714286
+Bellary,Safflower, 2017-18,Rabi       ,5.0,5,1
+Bellary,Safflower, 2018-19,Rabi       ,917.0,329,0.358778625954198
+Bellary,Sannhamp, 1999-00,Whole Year ,34.0,9,0.264705882352941
+Bellary,Sannhamp, 2000-01,Whole Year ,29.0,7,0.241379310344828
+Bellary,Sannhamp, 2001-02,Whole Year ,18.0,5,0.277777777777778
+Bellary,Sannhamp, 2002-03,Whole Year ,22.0,6,0.272727272727273
+Bellary,Sannhamp, 2004-05,Whole Year ,127.0,32,0.251968503937008
+Bellary,Sannhamp, 2007-08,Whole Year ,81.0,20,0.246913580246914
+Bellary,Sannhamp, 2014-15,Whole Year ,130.0,32,0.246153846153846
+Bellary,Sannhamp, 2018-19,Whole Year ,2.0,nan,0
+Bellary,Sesamum, 1998-99,Kharif     ,4680.0,1089,0.232692307692308
+Bellary,Sesamum, 1999-00,Kharif     ,6606.0,2962,0.448380260369361
+Bellary,Sesamum, 2000-01,Kharif     ,6522.0,2714,0.416130021465808
+Bellary,Sesamum, 2001-02,Kharif     ,4069.0,1140,0.28016711722782
+Bellary,Sesamum, 2002-03,Kharif     ,5750.0,2720,0.47304347826087
+Bellary,Sesamum, 2003-04,Kharif     ,2681.0,311,0.116001491980604
+Bellary,Sesamum, 2004-05,Kharif     ,6495.0,2184,0.336258660508083
+Bellary,Sesamum, 2005-06,Kharif     ,6282.0,2936,0.467367080547596
+Bellary,Sesamum, 2006-07,Kharif     ,6199.0,1537,0.247943216647846
+Bellary,Sesamum, 2007-08,Kharif     ,4816.0,2219,0.460755813953488
+Bellary,Sesamum, 2008-09,Kharif     ,2018.0,581,0.28790882061447
+Bellary,Sesamum, 2009-10,Kharif     ,2911.0,536,0.184129165235314
+Bellary,Sesamum, 2010-11,Kharif     ,2075.0,656,0.316144578313253
+Bellary,Sesamum, 2011-12,Kharif     ,541.0,143,0.264325323475046
+Bellary,Sesamum, 2012-13,Kharif     ,82.0,27,0.329268292682927
+Bellary,Sesamum, 2013-14,Kharif     ,544.0,241,0.443014705882353
+Bellary,Sesamum, 2014-15,Kharif     ,1252.0,457,0.365015974440895
+Bellary,Sesamum, 2015-16,Kharif     ,3131.0,788,0.251676780581284
+Bellary,Sesamum, 2016-17,Kharif     ,655.0,306,0.467175572519084
+Bellary,Sesamum, 2017-18,Kharif     ,89.0,169,1.89887640449438
+Bellary,Sesamum, 2018-19,Kharif     ,101.0,134,1.32673267326733
+Bellary,Small millets, 1999-00,Kharif     ,15521.0,5466,0.352168030410412
+Bellary,Small millets, 2000-01,Kharif     ,17240.0,11033,0.639965197215777
+Bellary,Small millets, 2001-02,Kharif     ,12709.0,4729,0.372098512864899
+Bellary,Small millets, 2002-03,Kharif     ,10556.0,2338,0.221485411140584
+Bellary,Small millets, 2003-04,Kharif     ,13583.0,6122,0.450710446882132
+Bellary,Small millets, 2004-05,Kharif     ,9702.0,3725,0.383941455370027
+Bellary,Small millets, 2005-06,Kharif     ,10327.0,2822,0.273264258739227
+Bellary,Small millets, 2006-07,Kharif     ,4021.0,726,0.180552101467297
+Bellary,Small millets, 2007-08,Kharif     ,4640.0,1261,0.27176724137931
+Bellary,Small millets, 2009-10,Kharif     ,3181.0,777,0.24426281043697
+Bellary,Small millets, 2010-11,Kharif     ,4145.0,1197,0.288781664656212
+Bellary,Small millets, 2011-12,Kharif     ,2815.0,685,0.243339253996448
+Bellary,Small millets, 2012-13,Kharif     ,2882.0,597,0.207147814018043
+Bellary,Small millets, 2013-14,Kharif     ,2890.0,955,0.330449826989619
+Bellary,Small millets, 2014-15,Kharif     ,1830.0,612,0.334426229508197
+Bellary,Small millets, 2015-16,Kharif     ,5751.0,2060,0.358198574161015
+Bellary,Small millets, 2016-17,Kharif     ,2943.0,1181,0.401291199456337
+Bellary,Small millets, 2017-18,Kharif     ,8506.0,5228,0.614624970608982
+Bellary,Small millets, 2018-19,Kharif     ,1954.0,713,0.36489252814739
+Bellary,Soyabean, 2012-13,Kharif     ,23.0,24,1.04347826086957
+Bellary,Soyabean, 2018-19,Kharif     ,4.0,4,1
+Bellary,Sugarcane, 1997-98,Whole Year ,6945.0,488234,70.3000719942405
+Bellary,Sugarcane, 1999-00,Whole Year ,7336.0,655105,89.3000272628135
+Bellary,Sugarcane, 2000-01,Whole Year ,7174.0,783760,109.250069696125
+Bellary,Sugarcane, 2001-02,Whole Year ,7666.0,750118,97.8499869553874
+Bellary,Sugarcane, 2002-03,Whole Year ,5327.0,384609,72.1999249108316
+Bellary,Sugarcane, 2003-04,Whole Year ,1831.0,121762,66.5002730748225
+Bellary,Sugarcane, 2005-06,Whole Year ,3531.0,338799,95.9498725573492
+Bellary,Sugarcane, 2006-07,Whole Year ,3293.0,297193,90.2499240813848
+Bellary,Sugarcane, 2007-08,Whole Year ,2402.0,203089,84.5499583680267
+Bellary,Sugarcane, 2008-09,Whole Year ,1932.0,249614,129.199792960663
+Bellary,Sugarcane, 2009-10,Whole Year ,2464.0,238762,96.9001623376623
+Bellary,Sugarcane, 2010-11,Whole Year ,1363.0,130780,95.9501100513573
+Bellary,Sugarcane, 2011-12,Whole Year ,3806.0,318182,83.6001050972149
+Bellary,Sugarcane, 2012-13,Whole Year ,5660.0,483930,85.5
+Bellary,Sugarcane, 2013-14,Whole Year ,6004.0,484823,80.75
+Bellary,Sugarcane, 2014-15,Whole Year ,3406.0,349456,102.600117439812
+Bellary,Sugarcane, 2015-16,Whole Year ,7835.0,803871,102.6
+Bellary,Sugarcane, 2016-17,Whole Year ,6994.0,511611,73.1499857020303
+Bellary,Sugarcane, 2017-18,Whole Year ,4405.0,372443,84.550056753689
+Bellary,Sugarcane, 2018-19,Whole Year ,10096.0,575472,57
+Bellary,Sunflower, 1998-99,Kharif     ,31997.0,6895,0.215488952089258
+Bellary,Sunflower, 1998-99,Rabi       ,29642.0,9593,0.323628635044869
+Bellary,Sunflower, 1998-99,Summer     ,7766.0,3910,0.503476693278393
+Bellary,Sunflower, 1999-00,Kharif     ,24250.0,8535,0.351958762886598
+Bellary,Sunflower, 1999-00,Rabi       ,22273.0,8090,0.363220042203565
+Bellary,Sunflower, 1999-00,Summer     ,5648.0,3348,0.592776203966006
+Bellary,Sunflower, 2000-01,Kharif     ,19274.0,11546,0.599045346062052
+Bellary,Sunflower, 2000-01,Rabi       ,19149.0,5980,0.312287847929396
+Bellary,Sunflower, 2000-01,Summer     ,3824.0,2630,0.687761506276151
+Bellary,Sunflower, 2001-02,Kharif     ,13975.0,6648,0.475706618962433
+Bellary,Sunflower, 2001-02,Rabi       ,31843.0,12359,0.388122978362591
+Bellary,Sunflower, 2001-02,Summer     ,4054.0,2734,0.674395658608781
+Bellary,Sunflower, 2002-03,Kharif     ,22834.0,10031,0.439301042305334
+Bellary,Sunflower, 2002-03,Rabi       ,35564.0,9300,0.261500393656507
+Bellary,Sunflower, 2002-03,Summer     ,3448.0,2057,0.596577726218097
+Bellary,Sunflower, 2003-04,Kharif     ,29880.0,13043,0.436512717536814
+Bellary,Sunflower, 2003-04,Rabi       ,58584.0,14922,0.254711183941008
+Bellary,Sunflower, 2003-04,Summer     ,4252.0,2210,0.519755409219191
+Bellary,Sunflower, 2004-05,Kharif     ,39224.0,18559,0.473154191311442
+Bellary,Sunflower, 2004-05,Rabi       ,42374.0,13615,0.321305517534337
+Bellary,Sunflower, 2004-05,Summer     ,6560.0,4294,0.654573170731707
+Bellary,Sunflower, 2005-06,Kharif     ,45056.0,18516,0.410955255681818
+Bellary,Sunflower, 2005-06,Rabi       ,58156.0,17037,0.292953435587042
+Bellary,Sunflower, 2005-06,Summer     ,5907.0,4551,0.770441848654139
+Bellary,Sunflower, 2006-07,Kharif     ,48648.0,18060,0.371238283177109
+Bellary,Sunflower, 2006-07,Rabi       ,50126.0,16144,0.322068387663089
+Bellary,Sunflower, 2006-07,Summer     ,8395.0,7353,0.875878499106611
+Bellary,Sunflower, 2007-08,Kharif     ,49902.0,18862,0.377980842451204
+Bellary,Sunflower, 2007-08,Rabi       ,42833.0,16935,0.395372726636005
+Bellary,Sunflower, 2007-08,Summer     ,7283.0,7472,1.02595084443224
+Bellary,Sunflower, 2008-09,Kharif     ,36013.0,15316,0.425290867186849
+Bellary,Sunflower, 2008-09,Rabi       ,52536.0,17629,0.335560377645805
+Bellary,Sunflower, 2008-09,Summer     ,4680.0,3881,0.829273504273504
+Bellary,Sunflower, 2009-10,Kharif     ,24040.0,8523,0.354534109816972
+Bellary,Sunflower, 2009-10,Rabi       ,40331.0,14103,0.349681386526493
+Bellary,Sunflower, 2009-10,Summer     ,3224.0,2625,0.814205955334988
+Bellary,Sunflower, 2010-11,Kharif     ,13422.0,7750,0.577410222023543
+Bellary,Sunflower, 2010-11,Rabi       ,25145.0,12560,0.499502883276993
+Bellary,Sunflower, 2010-11,Summer     ,1882.0,1745,0.927205100956429
+Bellary,Sunflower, 2011-12,Kharif     ,10225.0,3482,0.340537897310513
+Bellary,Sunflower, 2011-12,Rabi       ,8363.0,3976,0.475427478177687
+Bellary,Sunflower, 2011-12,Summer     ,3045.0,3277,1.07619047619048
+Bellary,Sunflower, 2012-13,Kharif     ,14820.0,7870,0.531039136302294
+Bellary,Sunflower, 2012-13,Rabi       ,21005.0,10855,0.516781718638419
+Bellary,Sunflower, 2012-13,Summer     ,3045.0,2300,0.755336617405583
+Bellary,Sunflower, 2013-14,Kharif     ,7895.0,4890,0.619379354021533
+Bellary,Sunflower, 2013-14,Rabi       ,11730.0,7444,0.63461210571185
+Bellary,Sunflower, 2013-14,Summer     ,1909.0,2372,1.24253535882661
+Bellary,Sunflower, 2014-15,Kharif     ,10633.0,6495,0.610834195429324
+Bellary,Sunflower, 2014-15,Rabi       ,13580.0,8063,0.593740795287187
+Bellary,Sunflower, 2014-15,Summer     ,1776.0,1255,0.706644144144144
+Bellary,Sunflower, 2015-16,Kharif     ,11780.0,5954,0.505432937181664
+Bellary,Sunflower, 2015-16,Rabi       ,6074.0,2926,0.481725386894962
+Bellary,Sunflower, 2015-16,Summer     ,945.0,656,0.694179894179894
+Bellary,Sunflower, 2016-17,Kharif     ,10649.0,8822,0.828434594797634
+Bellary,Sunflower, 2016-17,Rabi       ,2993.0,429,0.143334447043101
+Bellary,Sunflower, 2016-17,Summer     ,130.0,25,0.192307692307692
+Bellary,Sunflower, 2017-18,Kharif     ,5663.0,8129,1.43545823768321
+Bellary,Sunflower, 2017-18,Rabi       ,2360.0,2161,0.915677966101695
+Bellary,Sunflower, 2017-18,Summer     ,17.0,19,1.11764705882353
+Bellary,Sunflower, 2018-19,Kharif     ,7722.0,7783,1.00789950789951
+Bellary,Sunflower, 2018-19,Rabi       ,5956.0,3797,0.637508394895903
+Bellary,Sunflower, 2018-19,Summer     ,10.0,10,1
+Bellary,Sweet potato, 2018-19,Whole Year ,2.0,29,14.5
+Bellary,Tapioca, 2018-19,Whole Year ,3.0,40,13.3333333333333
+Bellary,Tobacco, 1999-00,Whole Year ,616.0,364,0.590909090909091
+Bellary,Tobacco, 2000-01,Whole Year ,1069.0,790,0.739008419083255
+Bellary,Tobacco, 2002-03,Whole Year ,135.0,48,0.355555555555556
+Bellary,Tobacco, 2003-04,Whole Year ,303.0,170,0.561056105610561
+Bellary,Tobacco, 2004-05,Whole Year ,560.0,413,0.7375
+Bellary,Tobacco, 2005-06,Whole Year ,379.0,240,0.633245382585752
+Bellary,Tobacco, 2006-07,Whole Year ,1069.0,476,0.445275958840037
+Bellary,Tobacco, 2007-08,Whole Year ,245.0,104,0.424489795918367
+Bellary,Tobacco, 2008-09,Whole Year ,215.0,109,0.506976744186047
+Bellary,Tobacco, 2009-10,Whole Year ,466.0,359,0.770386266094421
+Bellary,Tobacco, 2010-11,Whole Year ,884.0,966,1.09276018099548
+Bellary,Tobacco, 2011-12,Whole Year ,218.0,200,0.91743119266055
+Bellary,Tobacco, 2012-13,Whole Year ,15.0,9,0.6
+Bellary,Tobacco, 2013-14,Whole Year ,9.0,7,0.777777777777778
+Bellary,Tobacco, 2014-15,Whole Year ,96.0,69,0.71875
+Bellary,Tobacco, 2016-17,Whole Year ,34.0,25,0.735294117647059
+Bellary,Tobacco, 2017-18,Whole Year ,25.0,23,0.92
+Bellary,Tobacco, 2018-19,Whole Year ,109.0,90,0.825688073394495
+Bellary,Turmeric, 1997-98,Whole Year ,1.0,6,6
+Bellary,Turmeric, 1998-99,Whole Year ,1.0,5,5
+Bellary,Turmeric, 1999-00,Whole Year ,1.0,4,4
+Bellary,Turmeric, 2000-01,Whole Year ,1.0,4,4
+Bellary,Turmeric, 2001-02,Whole Year ,17.0,88,5.17647058823529
+Bellary,Turmeric, 2002-03,Whole Year ,5.0,22,4.4
+Bellary,Turmeric, 2003-04,Whole Year ,1.0,5,5
+Bellary,Turmeric, 2004-05,Whole Year ,1.0,5,5
+Bellary,Turmeric, 2007-08,Whole Year ,4.0,31,7.75
+Bellary,Turmeric, 2011-12,Whole Year ,2.0,10,5
+Bellary,Urad, 1999-00,Kharif     ,269.0,87,0.323420074349442
+Bellary,Urad, 1999-00,Rabi       ,107.0,40,0.373831775700935
+Bellary,Urad, 2000-01,Kharif     ,148.0,57,0.385135135135135
+Bellary,Urad, 2000-01,Rabi       ,85.0,30,0.352941176470588
+Bellary,Urad, 2001-02,Kharif     ,67.0,25,0.373134328358209
+Bellary,Urad, 2001-02,Rabi       ,184.0,69,0.375
+Bellary,Urad, 2002-03,Kharif     ,28.0,4,0.142857142857143
+Bellary,Urad, 2002-03,Rabi       ,105.0,12,0.114285714285714
+Bellary,Urad, 2003-04,Kharif     ,26.0,7,0.269230769230769
+Bellary,Urad, 2003-04,Rabi       ,34.0,18,0.529411764705882
+Bellary,Urad, 2004-05,Kharif     ,8.0,1,0.125
+Bellary,Urad, 2004-05,Rabi       ,53.0,18,0.339622641509434
+Bellary,Urad, 2005-06,Kharif     ,73.0,14,0.191780821917808
+Bellary,Urad, 2005-06,Rabi       ,80.0,38,0.475
+Bellary,Urad, 2006-07,Kharif     ,32.0,4,0.125
+Bellary,Urad, 2006-07,Rabi       ,170.0,89,0.523529411764706
+Bellary,Urad, 2007-08,Kharif     ,68.0,29,0.426470588235294
+Bellary,Urad, 2007-08,Rabi       ,115.0,45,0.391304347826087
+Bellary,Urad, 2008-09,Kharif     ,13.0,3,0.230769230769231
+Bellary,Urad, 2008-09,Rabi       ,126.0,55,0.436507936507936
+Bellary,Urad, 2009-10,Rabi       ,77.0,30,0.38961038961039
+Bellary,Urad, 2010-11,Kharif     ,3.0,1,0.333333333333333
+Bellary,Urad, 2010-11,Rabi       ,64.0,30,0.46875
+Bellary,Urad, 2011-12,Rabi       ,73.0,37,0.506849315068493
+Bellary,Urad, 2012-13,Kharif     ,16.0,8,0.5
+Bellary,Urad, 2012-13,Rabi       ,1.0,1,1
+Bellary,Urad, 2013-14,Rabi       ,23.0,13,0.565217391304348
+Bellary,Urad, 2014-15,Kharif     ,124.0,35,0.282258064516129
+Bellary,Urad, 2015-16,Kharif     ,67.0,17,0.253731343283582
+Bellary,Urad, 2015-16,Rabi       ,81.0,31,0.382716049382716
+Bellary,Urad, 2015-16,Summer     ,1081.0,541,0.500462534690102
+Bellary,Urad, 2016-17,Kharif     ,242.0,118,0.487603305785124
+Bellary,Urad, 2016-17,Rabi       ,106.0,51,0.481132075471698
+Bellary,Urad, 2016-17,Summer     ,32.0,17,0.53125
+Bellary,Urad, 2017-18,Kharif     ,32.0,16,0.5
+Bellary,Urad, 2017-18,Rabi       ,16.0,7,0.4375
+Bellary,Urad, 2018-19,Kharif     ,13.0,6,0.461538461538462
+Bellary,Urad, 2018-19,Rabi       ,15.0,8,0.533333333333333
+Bellary,Urad, 2018-19,Summer     ,12.0,6,0.5
+Bellary,Wheat, 1997-98,Rabi       ,2900.0,1893,0.652758620689655
+Bellary,Wheat, 1998-99,Rabi       ,2382.0,2193,0.920654911838791
+Bellary,Wheat, 1999-00,Rabi       ,1909.0,1784,0.934520691461498
+Bellary,Wheat, 2000-01,Rabi       ,2658.0,2658,1
+Bellary,Wheat, 2001-02,Rabi       ,2201.0,2270,1.03134938664244
+Bellary,Wheat, 2002-03,Rabi       ,1077.0,843,0.782729805013928
+Bellary,Wheat, 2003-04,Rabi       ,990.0,707,0.714141414141414
+Bellary,Wheat, 2004-05,Rabi       ,848.0,768,0.905660377358491
+Bellary,Wheat, 2005-06,Rabi       ,1228.0,1341,1.09201954397394
+Bellary,Wheat, 2006-07,Rabi       ,889.0,798,0.89763779527559
+Bellary,Wheat, 2007-08,Rabi       ,1162.0,1226,1.05507745266781
+Bellary,Wheat, 2008-09,Rabi       ,1272.0,1444,1.13522012578616
+Bellary,Wheat, 2009-10,Rabi       ,1174.0,1051,0.895229982964225
+Bellary,Wheat, 2010-11,Rabi       ,1018.0,1658,1.6286836935167
+Bellary,Wheat, 2011-12,Rabi       ,653.0,938,1.4364471669219
+Bellary,Wheat, 2012-13,Rabi       ,576.0,401,0.696180555555556
+Bellary,Wheat, 2013-14,Rabi       ,328.0,346,1.05487804878049
+Bellary,Wheat, 2014-15,Rabi       ,263.0,344,1.30798479087452
+Bellary,Wheat, 2015-16,Rabi       ,114.0,214,1.87719298245614
+Bellary,Wheat, 2016-17,Rabi       ,77.0,10,0.12987012987013
+Bellary,Wheat, 2017-18,Rabi       ,582.0,767,1.31786941580756
+Bellary,Wheat, 2018-19,Rabi       ,23.0,19,0.826086956521739
