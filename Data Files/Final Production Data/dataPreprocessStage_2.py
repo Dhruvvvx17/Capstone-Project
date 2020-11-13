@@ -44,7 +44,7 @@ if __name__ == "__main__":
         district_name = file[:-4].upper()
 
         # Get output file name
-        output_file = file
+        output_file = file.lower()
         # Create output file
         output_path = f"{output_dir}/{output_file}"
         headers = ["District","Crop","Year","Season","Area(Hectare)","Production(Tonnes)","Yield","JANUARY_NDVI","FEBRUARY_NDVI","JUNE_NDVI","JULY_NDVI","AUGUST_NDVI","SEPTEMBER_NDVI","OCTOBER_NDVI","NOVEMBER_NDVI","DECEMBER_NDVI"]
