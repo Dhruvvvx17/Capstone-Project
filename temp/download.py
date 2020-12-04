@@ -1,3 +1,7 @@
+from libraries import *
+from hdf_links import *
+
+
 class SessionWithHeaderRedirection(requests.Session):
     AUTH_HOST = 'urs.earthdata.nasa.gov'
 
@@ -18,9 +22,39 @@ class SessionWithHeaderRedirection(requests.Session):
                 del headers['Authorization']
         return
 
+
 def download_hdf(hdf_list):
     username = "devb"
     password = "Devearthdata@183"
 
     # Session variable using credentions with custom request class
     session = SessionWithHeaderRedirection(username, password)
+
+    for url in urls:
+
+        # extract the filename from the url to be used when saving the HDF file
+        filename = url[url.rfind('/')+1:]
+        image_date = '_'.join(url[url.rfind('/')-10:url.rfind('/')].split('.'))
+
+        try:
+            # submit the request using the session
+            response = session.get(url, stream=True)
+            print(f"{filename} status code: {response.status_code}")
+
+            # raise an exception in case of http errors
+            response.raise_for_status()
+
+            # Download and save the HDF file
+            with open(filename, 'wb') as fd:
+                for chunk in response.iter_content(chunk_size=1024*1024):
+                    fd.write(chunk)
+
+                print(filename + " Download complete!")
+
+            return filename
+
+        except requests.exceptions.HTTPError as e:
+            # handle any errors here
+            print(filename + " Error Occured: ", e)
+
+            exit()
