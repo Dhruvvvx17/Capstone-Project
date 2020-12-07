@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>NDVI Prediction</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  </head>
+  <script>
+    function myFunction() {
+      var lat = $("#lat").val();
+      var lon = $("#lon").val();
+      var area = $("#area").val();
+      var district = $("#district").val();
+      $.ajax({
+        url: "/join",
+        type: "POST",
+        data: { lat: lat, lon: lon, district: district, area: area },
+      }).done(function (response) {
+        var html =
+          "<br><br><br><p> <b> Suggested Crops at Latitude:" +
+          lat +
+          " and Longitude :" +
+          lon +
+          "and Market" +
+          district +
+          "  : <b><p>";
+
+        response = response.result;
+        $.each(response, function (key, val) {
+          console.log(val);
+          html += "<table border='1' id='myTable' cellpadding='15'>";
+          html +=
+            "<tr><th onclick=sortTable(0)> Crop</th><th onclick=sortTable(1)>Yield(Tonnes/Hectare)</th> <th onclick=sortTable(2)>Prices(Rupees)</th><th onclick=sortTable(3)> Expected Production</th><th onclick=sortTable(4)> Expected Revenue</th></tr>";
+          for (i = 0; i < val.length; i++) {
+            html +=
+              "<tr class='item'> <td>" +
+              val[i][0] +
+              "</td>" +
+              "<td>" +
+              val[i][1] +
+              "</td>" +
+              "<td>" +
+              val[i][2] +
+              "</td>" +
+              "<td>" +
+              val[i][3] +
+              "</td>" +
+              "<td>" +
+              val[i][4] +
+              "</td></tr>";
+          }
+          //html += "<tr><td>" + val + "</td></tr>";
+          html += "</table>";
+        });
+        html += "</p>";
+        $(".show-data").append(html);
+      });
+    }
+    function sortTable(n) {
+      if (n == 0) {
+        var table,
+          rows,
+          switching,
+          i,
+          x,
+          y,
+          shouldSwitch,
+          dir,
+          switchcount = 0;
+        table = document.getElementById("myTable");
+        switching = true;
+        // Set the sorting direction to ascending:
+        dir = "asc";
+        /* Make a loop that will continue until
+      no switching has been done: */
+        while (switching) {
+          // Start by saying: no switching is done:
+          switching = false;
+          rows = table.rows;
+          /* Loop through all table rows (except the
+        first, which contains table headers): */
+          for (i = 1; i < rows.length - 1; i++) {
+            // Start by saying there should be no switching:
+            shouldSwitch = false;
+            /* Get the two elements you want to compare,
+          one from current row and one from the next: */
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            /* Check if the two rows should switch place,
+          based on the direction, asc or desc: */
+            if (dir == "asc") {
+              if (x.innerHTML.toLowerCase() > y.innerHTML.toLowerCase()) {
+                // If so, mark as a switch and break the loop:
+                shouldSwitch = true;
+                break;
+              }
+            } else if (dir == "desc") {
+              if (x.innerHTML.toLowerCase() < y.innerHTML.toLowerCase()) {
+                // If so, mark as a switch and break the loop:
+                shouldSwitch = true;
+                break;
+              }
+            }
+          }
+          if (shouldSwitch) {
+            /* If a switch has been marked, make the switch
+          and mark that a switch has been done: */
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            // Each time a switch is done, increase this count by 1:
+            switchcount++;
+          } else {
+            /* If no switching has been done AND the direction is "asc",
+          set the direction to "desc" and run the while loop again. */
+            if (switchcount == 0 && dir == "asc") {
+              dir = "desc";
+              switching = true;
+            }
+          }
+        }
+      } else {
+        var table,
+          rows,
+          switching,
+          i,
+          x,
+          y,
+          shouldSwitch,
+          dir,
+          switchcount = 0;
+        table = document.getElementById("myTable");
+        switching = true;
+        // Set the sorting direction to ascending:
+        dir = "asc";
+        /* Make a loop that will continue until
+      no switching has been done: */
+        while (switching) {
+          // Start by saying: no switching is done:
+          switching = false;
+          rows = table.rows;
+          /* Loop through all table rows (except the
+        first, which contains table headers): */
+          for (i = 1; i < rows.length - 1; i++) {
+            // Start by saying there should be no switching:
+            shouldSwitch = false;
+            /* Get the two elements you want to compare,
+          one from current row and one from the next: */
+            x = rows[i].getElementsByTagName("TD")[n];
+            y = rows[i + 1].getElementsByTagName("TD")[n];
+            /* Check if the two rows should switch place,
+          based on the direction, asc or desc: */
+            if (dir == "asc") {
+              if (Number(x.innerHTML) > Number(y.innerHTML)) {
+                // If so, mark as a switch and break the loop:
+                shouldSwitch = true;
+                break;
+              }
+            } else if (dir == "desc") {
+              if (Number(x.innerHTML) < Number(y.innerHTML)) {
+                // If so, mark as a switch and break the loop:
+                shouldSwitch = true;
+                break;
+              }
+            }
+          }
+          if (shouldSwitch) {
+            /* If a switch has been marked, make the switch
+          and mark that a switch has been done: */
+            rows[i].parentNode.insertBefore(rows[i + 1], rows[i]);
+            switching = true;
+            // Each time a switch is done, increase this count by 1:
+            switchcount++;
+          } else {
+            /* If no switching has been done AND the direction is "asc",
+          set the direction to "desc" and run the while loop again. */
+            if (switchcount == 0 && dir == "asc") {
+              dir = "desc";
+              switching = true;
+            }
+          }
+        }
+      }
+    }
+  </script>
+  <body>
+    <p>
+      Crops Suggestion <img src={{url_for('static',filename="map.png")}}
+      align="right" height="700" width="700" ><br /><br />
+      <label for="district">Choose your market:</label>
+      <select name="district" id="district">
+        <option value="Bangalore">Bangalore</option>
+        <option value="Chitradurga">Chitradurga</option>
+        <option value="Davangere">Davangere</option>
+        <option value="Dharwar">Dharwar</option>
+        <option value="Gulbarga">Gulbarga</option>
+        <option value="Hassan">Hassan</option>
+        <option value="Hubli (Amaragol)">Hubli (Amaragol)</option>
+        <option value="Kolar">Kolar</option>
+        <option value="Madhugiri">Madhugiri</option>
+        <option value="Madekeri">Madekeri</option>
+        <option value="Mangalore">Mangalore</option>
+        <option value="Raichur">Raichur</option>
+        <option value="Shimoga">Shimoga</option>
+        <option value="Tumkur">Tumkur</option>
+        <option value="Udupi">Udupi</option></select
+      ><br /><br /><br />
+      Latitude: <input type="text" id="lat" name="lat" /><br /><br />
+      Longitude: <input type="text" id="lon" name="lon" /><br /><br />
+      Area of Land: <input type="text" id="area" name="area" /><br /><br />
+      <button id="clicked" onclick="myFunction()">Submit</button>
+    </p>
+    <div class="show-data"></div>
+  </body>
+</html>
